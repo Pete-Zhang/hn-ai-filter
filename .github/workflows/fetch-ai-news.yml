@@ -1,0 +1,35 @@
+name: 每日获取AI相关新闻
+
+on:
+  schedule:
+    # 每天早上8点（UTC）运行，即北京时间下午4点
+    - cron: '0 8 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+      
+      - name: 设置Python环境
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: 安装依赖
+        run: |
+          pip install requests
+      
+      - name: 获取AI相关新闻
+        run: python fetch_ai_news.py
+      
+      - name: 提交更新
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add AI_NEWS.md ai_news.json
+          git commit -m "更新：$(date '+%Y-%m-%d %H:%M:%S') AI相关新闻" || echo "无新变化"
+          git push
