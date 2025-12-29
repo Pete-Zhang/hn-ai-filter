@@ -1,65 +1,86 @@
 [
   {
-    "title": "How we lost communication to entertainment",
-    "score": 437,
-    "by": "8organicbits",
-    "url": "https://ploum.net/2025-12-15-communication-entertainment.html",
-    "comments": 217
+    "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
+    "score": 78,
+    "by": "quesomaster9000",
+    "url": "https://github.com/HarryR/z80ai",
+    "comments": 20
   },
   {
-    "title": "Manus AI 100M USD ARR",
-    "score": 37,
-    "by": "ms7892",
-    "url": "https://manus.im/blog/manus-100m-arr",
-    "comments": 37
+    "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
+    "score": 44,
+    "by": "UnmappedStack",
+    "url": "https://nilch.org",
+    "comments": 17
   },
   {
-    "title": "Gpg.fail",
-    "score": 356,
+    "title": "As AI gobbles up chips, prices for devices may rise",
+    "score": 135,
+    "by": "geox",
+    "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
+    "comments": 152
+  },
+  {
+    "title": "MongoBleed Explained Simply",
+    "score": 173,
     "by": "todsacerdoti",
-    "url": "https://gpg.fail",
-    "comments": 196
+    "url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
+    "comments": 65
   },
   {
-    "title": "Rainbow Six Siege hacked as players get billions of credits and random bans",
-    "score": 184,
-    "by": "erhuve",
-    "url": "https://www.shanethegamer.com/esports-news/rainbow-six-siege-hacked-global-server-outage/",
-    "comments": 55
+    "title": "Researchers discover molecular difference in autistic brains",
+    "score": 118,
+    "by": "amichail",
+    "url": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
+    "comments": 66
   },
   {
-    "title": "Show HN: Ez FFmpeg – Video editing in plain English",
-    "score": 367,
-    "by": "josharsh",
-    "url": "http://npmjs.com/package/ezff",
-    "comments": 182
+    "title": "Mouse: Computer Programming Language",
+    "score": 7,
+    "by": "gappy",
+    "url": "http://mouse.davidgsimpson.com/",
+    "comments": 2
   },
   {
-    "title": "A new research shows that 21-33% of YouTube's feed may consist of AI slop",
-    "score": 110,
-    "by": "aquir",
-    "url": "https://www.kapwing.com/blog/ai-slop-report-the-global-rise-of-low-quality-ai-videos/",
-    "comments": 105
+    "title": "A bitwise reproducible deep learning framework",
+    "score": 20,
+    "by": "noosphr",
+    "url": "https://github.com/microsoft/RepDL",
+    "comments": 0
   },
   {
-    "title": "Ask HN: Resources to get better at outbound sales?",
-    "score": 193,
-    "by": "sieep",
-    "url": "",
-    "comments": 53
+    "title": "Formulaic Delimiters in the Iliad and the Odyssey",
+    "score": 12,
+    "by": "glth",
+    "url": "https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey",
+    "comments": 4
   },
   {
-    "title": "Public Domain Day 2026",
-    "score": 40,
-    "by": "rolph",
-    "url": "https://web.law.duke.edu/cspd/publicdomainday/2026/",
-    "comments": 1
+    "title": "Why I Disappeared – My week with minimal internet in a remote island chain",
+    "score": 80,
+    "by": "eh_why_not",
+    "url": "https://www.kenklippenstein.com/p/why-i-disappeared",
+    "comments": 79
   },
   {
-    "title": "Show HN: Mysti – Claude, Codex, and Gemini debate your code, then synthesize",
-    "score": 195,
-    "by": "bahaAbunojaim",
-    "url": "https://github.com/DeepMyst/Mysti",
-    "comments": 160
+    "title": "How to complain (2024)",
+    "score": 56,
+    "by": "ysangkok",
+    "url": "https://outerproduct.net/trivial/2024-03-25_complain.html",
+    "comments": 10
+  },
+  {
+    "title": "Stepping down as Mockito maintainer after ten years",
+    "score": 250,
+    "by": "saikatsg",
+    "url": "https://github.com/mockito/mockito/issues/3777",
+    "comments": 155
+  },
+  {
+    "title": "Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)",
+    "score": 24,
+    "by": "AphantaZach",
+    "url": "https://phantas.io",
+    "comments": 8
   }
 ]
