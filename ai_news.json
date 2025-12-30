@@ -1,86 +1,72 @@
 [
   {
-    "title": "Show HN: Z80-μLM, a 'Conversational AI' That Fits in 40KB",
-    "score": 78,
-    "by": "quesomaster9000",
-    "url": "https://github.com/HarryR/z80ai",
-    "comments": 20
+    "title": "ManusAI Joins Meta",
+    "score": 208,
+    "by": "gniting",
+    "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
+    "comments": 128
   },
   {
-    "title": "Show HN: My not-for-profit search engine with no ads, no AI, & all DDG bangs",
-    "score": 44,
-    "by": "UnmappedStack",
-    "url": "https://nilch.org",
-    "comments": 17
+    "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
+    "score": 402,
+    "by": "coloneltcb",
+    "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
+    "comments": 431
   },
   {
-    "title": "As AI gobbles up chips, prices for devices may rise",
-    "score": 135,
-    "by": "geox",
-    "url": "https://www.npr.org/2025/12/28/nx-s1-5656190/ai-chips-memory-prices-ram",
-    "comments": 152
+    "title": "Show HN: Stop Claude Code from forgetting everything",
+    "score": 136,
+    "by": "austinbaggio",
+    "url": "https://github.com/mutable-state-inc/ensue-skill",
+    "comments": 163
   },
   {
-    "title": "MongoBleed Explained Simply",
-    "score": 173,
-    "by": "todsacerdoti",
-    "url": "https://bigdata.2minutestreaming.com/p/mongobleed-explained-simply",
-    "comments": 65
+    "title": "AI is forcing us to write good code",
+    "score": 163,
+    "by": "sgk284",
+    "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
+    "comments": 117
   },
   {
-    "title": "Researchers discover molecular difference in autistic brains",
-    "score": 118,
-    "by": "amichail",
-    "url": "https://medicine.yale.edu/news-article/molecular-difference-in-autistic-brains/",
-    "comments": 66
+    "title": "Incremental Backups of Gmail Takeouts",
+    "score": 73,
+    "by": "pbhn",
+    "url": "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/",
+    "comments": 36
   },
   {
-    "title": "Mouse: Computer Programming Language",
-    "score": 7,
-    "by": "gappy",
-    "url": "http://mouse.davidgsimpson.com/",
-    "comments": 2
-  },
-  {
-    "title": "A bitwise reproducible deep learning framework",
-    "score": 20,
-    "by": "noosphr",
-    "url": "https://github.com/microsoft/RepDL",
+    "title": "100x (YC S22) Is Hiring a Front End Engineer",
+    "score": 1,
+    "by": "shardullavekar",
+    "url": "",
     "comments": 0
   },
   {
-    "title": "Formulaic Delimiters in the Iliad and the Odyssey",
-    "score": 12,
-    "by": "glth",
-    "url": "https://glthr.com/formulaic-delimiters-in-the-iliad-and-the-odyssey",
-    "comments": 4
+    "title": "Show HN: Euclidle – Guess the Coordinates in N‑Dimensional Space",
+    "score": 9,
+    "by": "bills-appworks",
+    "url": "https://euclidle.com/",
+    "comments": 3
   },
   {
-    "title": "Why I Disappeared – My week with minimal internet in a remote island chain",
-    "score": 80,
-    "by": "eh_why_not",
-    "url": "https://www.kenklippenstein.com/p/why-i-disappeared",
-    "comments": 79
+    "title": "List of domains censored by German ISPs",
+    "score": 361,
+    "by": "elcapitan",
+    "url": "https://cuiiliste.de/domains",
+    "comments": 141
   },
   {
-    "title": "How to complain (2024)",
-    "score": 56,
-    "by": "ysangkok",
-    "url": "https://outerproduct.net/trivial/2024-03-25_complain.html",
-    "comments": 10
+    "title": "Show HN: Superset – Terminal to run 10 parallel coding agents",
+    "score": 81,
+    "by": "avipeltz",
+    "url": "https://superset.sh/",
+    "comments": 73
   },
   {
-    "title": "Stepping down as Mockito maintainer after ten years",
-    "score": 250,
-    "by": "saikatsg",
-    "url": "https://github.com/mockito/mockito/issues/3777",
-    "comments": 155
-  },
-  {
-    "title": "Show HN: Phantas – A browser-based binaural strobe engine (Web Audio API)",
-    "score": 24,
-    "by": "AphantaZach",
-    "url": "https://phantas.io",
-    "comments": 8
+    "title": "Meta Superintelligence Labs acquires Manus AI for –$4B, 9 months after launch",
+    "score": 4,
+    "by": "swyx",
+    "url": "https://news.smol.ai/issues/25-12-29-meta-manus/",
+    "comments": 2
   }
 ]
