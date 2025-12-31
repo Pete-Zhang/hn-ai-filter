@@ -1,72 +1,51 @@
 [
   {
-    "title": "ManusAI Joins Meta",
-    "score": 208,
-    "by": "gniting",
-    "url": "https://manus.im/blog/manus-joins-meta-for-next-era-of-innovation",
-    "comments": 128
+    "title": "Animated AI",
+    "score": 141,
+    "by": "frozenseven",
+    "url": "https://animatedai.github.io/",
+    "comments": 14
   },
   {
-    "title": "Tesla's 4680 battery supply chain collapses as partner writes down deal by 99%",
-    "score": 402,
-    "by": "coloneltcb",
-    "url": "https://electrek.co/2025/12/29/tesla-4680-battery-supply-chain-collapses-partner-writes-down-dea/",
-    "comments": 431
+    "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
+    "score": 317,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
+    "comments": 433
   },
   {
-    "title": "Show HN: Stop Claude Code from forgetting everything",
-    "score": 136,
-    "by": "austinbaggio",
-    "url": "https://github.com/mutable-state-inc/ensue-skill",
-    "comments": 163
+    "title": "LLVM AI tool policy: human in the loop",
+    "score": 181,
+    "by": "pertymcpert",
+    "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
+    "comments": 81
   },
   {
-    "title": "AI is forcing us to write good code",
-    "score": 163,
-    "by": "sgk284",
-    "url": "https://bits.logic.inc/p/ai-is-forcing-us-to-write-good-code",
-    "comments": 117
-  },
-  {
-    "title": "Incremental Backups of Gmail Takeouts",
-    "score": 73,
-    "by": "pbhn",
-    "url": "https://baecher.dev/stdout/incremental-backups-of-gmail-takeouts/",
-    "comments": 36
-  },
-  {
-    "title": "100x (YC S22) Is Hiring a Front End Engineer",
-    "score": 1,
-    "by": "shardullavekar",
-    "url": "",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Euclidle – Guess the Coordinates in N‑Dimensional Space",
-    "score": 9,
-    "by": "bills-appworks",
-    "url": "https://euclidle.com/",
-    "comments": 3
-  },
-  {
-    "title": "List of domains censored by German ISPs",
-    "score": 361,
-    "by": "elcapitan",
-    "url": "https://cuiiliste.de/domains",
-    "comments": 141
-  },
-  {
-    "title": "Show HN: Superset – Terminal to run 10 parallel coding agents",
-    "score": 81,
-    "by": "avipeltz",
-    "url": "https://superset.sh/",
-    "comments": 73
-  },
-  {
-    "title": "Meta Superintelligence Labs acquires Manus AI for –$4B, 9 months after launch",
-    "score": 4,
-    "by": "swyx",
-    "url": "https://news.smol.ai/issues/25-12-29-meta-manus/",
+    "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
+    "score": 87,
+    "by": "todsacerdoti",
+    "url": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
     "comments": 2
+  },
+  {
+    "title": "Git analytics that works across GitHub, GitLab, and Bitbucket",
+    "score": 15,
+    "by": "akhnid",
+    "url": "",
+    "comments": 7
+  },
+  {
+    "title": "Show HN: Tidy Baby is a SET game but with words",
+    "score": 30,
+    "by": "brgross",
+    "url": "https://tidy.baby",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: Brainrot Translator – Convert corporate speak to Gen Alpha and back",
+    "score": 23,
+    "by": "todaycompanies",
+    "url": "https://brainrottranslator.com",
+    "comments": 6
   }
 ]
