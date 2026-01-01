@@ -1,51 +1,30 @@
 [
   {
-    "title": "Animated AI",
-    "score": 141,
-    "by": "frozenseven",
-    "url": "https://animatedai.github.io/",
-    "comments": 14
+    "title": "Resistance training load does not determine hypertrophy",
+    "score": 123,
+    "by": "Luc",
+    "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
+    "comments": 121
   },
   {
-    "title": "OpenAI's cash burn will be one of the big bubble questions of 2026",
-    "score": 317,
-    "by": "1vuio0pswjnm7",
-    "url": "https://www.economist.com/leaders/2025/12/30/openais-cash-burn-will-be-one-of-the-big-bubble-questions-of-2026",
-    "comments": 433
+    "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
+    "score": 151,
+    "by": "PaulHoule",
+    "url": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
+    "comments": 32
   },
   {
-    "title": "LLVM AI tool policy: human in the loop",
-    "score": 181,
-    "by": "pertymcpert",
-    "url": "https://discourse.llvm.org/t/rfc-llvm-ai-tool-policy-human-in-the-loop/89159",
-    "comments": 81
+    "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
+    "score": 335,
+    "by": "Xyra",
+    "url": "https://exopriors.com/scry",
+    "comments": 117
   },
   {
-    "title": "Escaping containment: A security analysis of FreeBSD jails [video]",
-    "score": 87,
-    "by": "todsacerdoti",
-    "url": "https://media.ccc.de/v/39c3-escaping-containment-a-security-analysis-of-freebsd-jails",
-    "comments": 2
-  },
-  {
-    "title": "Git analytics that works across GitHub, GitLab, and Bitbucket",
-    "score": 15,
-    "by": "akhnid",
-    "url": "",
-    "comments": 7
-  },
-  {
-    "title": "Show HN: Tidy Baby is a SET game but with words",
-    "score": 30,
-    "by": "brgross",
-    "url": "https://tidy.baby",
-    "comments": 6
-  },
-  {
-    "title": "Show HN: Brainrot Translator – Convert corporate speak to Gen Alpha and back",
-    "score": 23,
-    "by": "todaycompanies",
-    "url": "https://brainrottranslator.com",
-    "comments": 6
+    "title": "How AI labs are solving the power problem",
+    "score": 142,
+    "by": "Symmetry",
+    "url": "https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power",
+    "comments": 216
   }
 ]
