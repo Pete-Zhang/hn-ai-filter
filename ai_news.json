@@ -1,30 +1,72 @@
 [
   {
-    "title": "Resistance training load does not determine hypertrophy",
-    "score": 123,
-    "by": "Luc",
-    "url": "https://physoc.onlinelibrary.wiley.com/doi/10.1113/JP289684",
-    "comments": 121
+    "title": "Happy Public Domain Day 2026",
+    "score": 227,
+    "by": "apetresc",
+    "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
+    "comments": 45
   },
   {
-    "title": "Scientists unlock brain's natural clean-up system for new treatments for stroke",
-    "score": 151,
-    "by": "PaulHoule",
-    "url": "https://www.monash.edu/pharm/about/news/news-listing/latest/scientists-unlock-brains-natural-clean-up-system-to-develop-new-treatments-for-stroke-and-other-neurological-diseases",
-    "comments": 32
+    "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
+    "score": 7,
+    "by": "todsacerdoti",
+    "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
+    "comments": 0
   },
   {
-    "title": "Show HN: Use Claude Code to Query 600 GB Indexes over Hacker News, ArXiv, etc.",
-    "score": 335,
-    "by": "Xyra",
-    "url": "https://exopriors.com/scry",
-    "comments": 117
+    "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
+    "score": 423,
+    "by": "max_lt",
+    "url": "https://openworkers.com/introducing-openworkers",
+    "comments": 128
   },
   {
-    "title": "How AI labs are solving the power problem",
-    "score": 142,
-    "by": "Symmetry",
-    "url": "https://newsletter.semianalysis.com/p/how-ai-labs-are-solving-the-power",
-    "comments": 216
+    "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
+    "score": 145,
+    "by": "_mig5",
+    "url": "https://enroll.sh",
+    "comments": 29
+  },
+  {
+    "title": "Dell's version of the DGX Spark fixes pain points",
+    "score": 130,
+    "by": "thomasjb",
+    "url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
+    "comments": 66
+  },
+  {
+    "title": "Finland detains ship and its crew after critical undersea cable damaged",
+    "score": 391,
+    "by": "wslh",
+    "url": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
+    "comments": 380
+  },
+  {
+    "title": "Build a Deep Learning Library",
+    "score": 116,
+    "by": "butanyways",
+    "url": "https://zekcrates.quarto.pub/deep-learning-library/",
+    "comments": 14
+  },
+  {
+    "title": "Ukraine fakes commander's death to trick Russia into paying $500k bounty",
+    "score": 10,
+    "by": "cwwc",
+    "url": "https://www.telegraph.co.uk/world-news/2026/01/01/ukrainian-spies-fake-commander-death-trick-russia/",
+    "comments": 2
+  },
+  {
+    "title": "Show HN: Feather – a fresh Tcl reimplementation (WASM, Go)",
+    "score": 23,
+    "by": "dhamidi",
+    "url": "https://www.feather-lang.dev",
+    "comments": 3
+  },
+  {
+    "title": "AB316: No AI Scapegoating Allowed",
+    "score": 9,
+    "by": "forthwall",
+    "url": "https://shub.club/writings/2026/january/ab316/",
+    "comments": 4
   }
 ]
