@@ -1,72 +1,65 @@
 [
   {
-    "title": "Happy Public Domain Day 2026",
-    "score": 227,
-    "by": "apetresc",
-    "url": "https://publicdomainreview.org/blog/2026/01/public-domain-day-2026/",
-    "comments": 45
+    "title": "IQuest-Coder: A new open-source code model beats Claude Sonnet 4.5 and GPT 5.1 [pdf]",
+    "score": 50,
+    "by": "shenli3514",
+    "url": "https://github.com/IQuestLab/IQuest-Coder-V1/blob/main/papers/IQuest_Coder_Technical_Report.pdf",
+    "comments": 20
   },
   {
-    "title": "FreeBSD: Home NAS, part 1 – configuring ZFS mirror (RAID1)",
-    "score": 7,
-    "by": "todsacerdoti",
-    "url": "https://rtfm.co.ua/en/freebsd-home-nas-part-1-configuring-zfs-mirror-raid1/",
-    "comments": 0
+    "title": "Ask HN: Who is hiring? (January 2026)",
+    "score": 282,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 177
   },
   {
-    "title": "Show HN: OpenWorkers – Self-hosted Cloudflare workers in Rust",
-    "score": 423,
-    "by": "max_lt",
-    "url": "https://openworkers.com/introducing-openworkers",
-    "comments": 128
+    "title": "Ask HN: Who wants to be hired? (January 2026)",
+    "score": 108,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 196
   },
   {
-    "title": "Show HN: Enroll, a tool to reverse-engineer servers into Ansible config mgmt",
-    "score": 145,
-    "by": "_mig5",
-    "url": "https://enroll.sh",
-    "comments": 29
+    "title": "Chain Flinger",
+    "score": 45,
+    "by": "roomey",
+    "url": "https://nealstephenson.substack.com/p/kdk-kinetik-der-kontinua-part-1-introduction",
+    "comments": 7
   },
   {
-    "title": "Dell's version of the DGX Spark fixes pain points",
-    "score": 130,
-    "by": "thomasjb",
-    "url": "https://www.jeffgeerling.com/blog/2025/dells-version-dgx-spark-fixes-pain-points",
-    "comments": 66
+    "title": "List, inspect and explore OCI container images, their layers and contents",
+    "score": 43,
+    "by": "bschaatsbergen",
+    "url": "https://github.com/bschaatsbergen/lix",
+    "comments": 5
   },
   {
-    "title": "Finland detains ship and its crew after critical undersea cable damaged",
-    "score": 391,
-    "by": "wslh",
-    "url": "https://www.cnn.com/2025/12/31/europe/finland-estonia-undersea-cable-ship-detained-intl",
-    "comments": 380
-  },
-  {
-    "title": "Build a Deep Learning Library",
-    "score": 116,
-    "by": "butanyways",
-    "url": "https://zekcrates.quarto.pub/deep-learning-library/",
-    "comments": 14
-  },
-  {
-    "title": "Ukraine fakes commander's death to trick Russia into paying $500k bounty",
-    "score": 10,
-    "by": "cwwc",
-    "url": "https://www.telegraph.co.uk/world-news/2026/01/01/ukrainian-spies-fake-commander-death-trick-russia/",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: Feather – a fresh Tcl reimplementation (WASM, Go)",
-    "score": 23,
-    "by": "dhamidi",
-    "url": "https://www.feather-lang.dev",
-    "comments": 3
-  },
-  {
-    "title": "AB316: No AI Scapegoating Allowed",
+    "title": "Benchmarking Windows Against Itself, from Windows XP to Windows 11",
     "score": 9,
-    "by": "forthwall",
-    "url": "https://shub.club/writings/2026/january/ab316/",
-    "comments": 4
+    "by": "anonymousiam",
+    "url": "https://hackaday.com/2026/01/02/benchmarking-windows-against-itself-from-windows-xp-to-windows-11/",
+    "comments": 1
+  },
+  {
+    "title": "10 years of personal finances in plain text files",
+    "score": 462,
+    "by": "wrxd",
+    "url": "https://sgoel.dev/posts/10-years-of-personal-finances-in-plain-text-files/",
+    "comments": 170
+  },
+  {
+    "title": "One Number I Trust: Plain-Text Accounting for a Multi-Currency Household",
+    "score": 124,
+    "by": "ayi",
+    "url": "https://lalitm.com/post/one-number-i-trust/",
+    "comments": 70
+  },
+  {
+    "title": "The New Moore's Law: Why Optical Computing Could Redefine Scaling for AI",
+    "score": 5,
+    "by": "WaitWaitWha",
+    "url": "https://www.allaboutcircuits.com/industry-articles/the-new-moores-law-why-optical-computing-could-redefine-scaling-for-ai/",
+    "comments": 2
   }
 ]
