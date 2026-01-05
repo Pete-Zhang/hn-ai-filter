@@ -1,51 +1,72 @@
 [
   {
-    "title": "Neural Networks: Zero to Hero",
+    "title": "Building a Rust-style static analyzer for C++ with AI",
+    "score": 40,
+    "by": "shuaimu",
+    "url": "http://mpaxos.com/blog/rusty-cpp.html",
+    "comments": 13
+  },
+  {
+    "title": "During Helene, I just wanted a plain text website",
     "score": 167,
+    "by": "CqtGLRGcukpy",
+    "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
+    "comments": 80
+  },
+  {
+    "title": "Claude Code On-the-Go",
+    "score": 301,
+    "by": "todsacerdoti",
+    "url": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
+    "comments": 189
+  },
+  {
+    "title": "Web development is fun again",
+    "score": 369,
+    "by": "Mojah",
+    "url": "https://ma.ttias.be/web-development-is-fun-again/",
+    "comments": 459
+  },
+  {
+    "title": "Eurostar AI vulnerability: When a chatbot goes off the rails",
+    "score": 127,
+    "by": "speckx",
+    "url": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
+    "comments": 33
+  },
+  {
+    "title": "Show HN: Hover – IDE style hover documentation on any webpage",
+    "score": 46,
+    "by": "sampsonj",
+    "url": "https://github.com/Sampsoon/hover",
+    "comments": 20
+  },
+  {
+    "title": "Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access",
+    "score": 1,
+    "by": "macklinkachorn",
+    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time",
+    "comments": 0
+  },
+  {
+    "title": "Neural Networks: Zero to Hero",
+    "score": 736,
     "by": "suioir",
     "url": "https://karpathy.ai/zero-to-hero.html",
-    "comments": 7
+    "comments": 67
   },
   {
-    "title": "How Thomas Mann Wrote the Magic Mountain",
-    "score": 51,
-    "by": "Caiero",
-    "url": "https://www.theguardian.com/books/2025/dec/31/the-master-of-contradictions-by-morten-hi-jensen-review-how-thomas-mann-wrote-the-magic-mountain",
-    "comments": 5
+    "title": "Why Is There a Tiny Hole in the Airplane Window? (2023)",
+    "score": 20,
+    "by": "quan",
+    "url": "https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes",
+    "comments": 4
   },
   {
-    "title": "Show HN: Claude Reflect – Auto-turn Claude corrections into project config",
-    "score": 21,
-    "by": "Bayram",
-    "url": "https://github.com/BayramAnnakov/claude-reflect",
-    "comments": 11
-  },
-  {
-    "title": "Developing a BLAS Library for the AMD AI Engine [pdf]",
-    "score": 31,
-    "by": "teleforce",
-    "url": "https://uni.tlaan.nl/thesis/msc_thesis_tristan_laan_aieblas.pdf",
-    "comments": 9
-  },
-  {
-    "title": "Show HN: Krowdovi – Video-based indoor navigation on a DePIN creator economy",
-    "score": 7,
-    "by": "24hrmvp",
-    "url": "https://github.com/daftpixie/krowdovi",
-    "comments": 6
-  },
-  {
-    "title": "Advanced Rail Energy Storage of North America",
-    "score": 33,
-    "by": "tomjakubowski",
-    "url": "https://aresnorthamerica.com/",
-    "comments": 17
-  },
-  {
-    "title": "Show HN: Offline tiles and routing and geocoding in one Docker Compose stack",
-    "score": 84,
-    "by": "packet_mover",
-    "url": "https://www.corviont.com/",
-    "comments": 24
+    "title": "Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin",
+    "score": 139,
+    "by": "johnwheeler",
+    "url": "",
+    "comments": 97
   }
 ]
