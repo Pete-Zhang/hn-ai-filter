@@ -1,72 +1,65 @@
 [
   {
-    "title": "Building a Rust-style static analyzer for C++ with AI",
-    "score": 40,
-    "by": "shuaimu",
-    "url": "http://mpaxos.com/blog/rusty-cpp.html",
-    "comments": 13
+    "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
+    "score": 92,
+    "by": "felineflock",
+    "url": "https://arxiv.org/abs/1803.03635",
+    "comments": 22
   },
   {
-    "title": "During Helene, I just wanted a plain text website",
-    "score": 167,
-    "by": "CqtGLRGcukpy",
-    "url": "https://sparkbox.com/foundry/helene_and_mobile_web_performance",
-    "comments": 80
+    "title": "Show HN: I replaced Beads with a faster, simpler Markdown-based task tracker",
+    "score": 51,
+    "by": "wild_egg",
+    "url": "https://github.com/wedow/ticket",
+    "comments": 25
   },
   {
-    "title": "Claude Code On-the-Go",
-    "score": 301,
-    "by": "todsacerdoti",
-    "url": "https://granda.org/en/2026/01/02/claude-code-on-the-go/",
-    "comments": 189
+    "title": "Show HN: Tailsnitch – A security auditor for Tailscale",
+    "score": 233,
+    "by": "thesubtlety",
+    "url": "https://github.com/Adversis/tailsnitch",
+    "comments": 22
   },
   {
-    "title": "Web development is fun again",
-    "score": 369,
-    "by": "Mojah",
-    "url": "https://ma.ttias.be/web-development-is-fun-again/",
-    "comments": 459
+    "title": "Why didn't AI “join the workforce” in 2025?",
+    "score": 113,
+    "by": "zdw",
+    "url": "https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/",
+    "comments": 150
   },
   {
-    "title": "Eurostar AI vulnerability: When a chatbot goes off the rails",
-    "score": 127,
-    "by": "speckx",
-    "url": "https://www.pentestpartners.com/security-blog/eurostar-ai-vulnerability-when-a-chatbot-goes-off-the-rails/",
-    "comments": 33
+    "title": "Raindrop-Powered Generator Using Carbon Fiber Composites",
+    "score": 24,
+    "by": "giuliomagnifico",
+    "url": "https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon",
+    "comments": 1
   },
   {
-    "title": "Show HN: Hover – IDE style hover documentation on any webpage",
-    "score": 46,
-    "by": "sampsonj",
-    "url": "https://github.com/Sampsoon/hover",
-    "comments": 20
+    "title": "Guarding Against Physical Attacks: The Xbox One Story (2019)",
+    "score": 8,
+    "by": "michaelt",
+    "url": "https://www.platformsecuritysummit.com/2019/speaker/chen/",
+    "comments": 5
   },
   {
-    "title": "Trellis AI (YC W24) is hiring engineers to build AI agents for healthcare access",
-    "score": 1,
-    "by": "macklinkachorn",
-    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/ngvfeaq-member-of-technical-staff-full-time",
-    "comments": 0
+    "title": "Show HN: OSS sustain guard – Sustainability signals for OSS dependencies",
+    "score": 15,
+    "by": "onukura",
+    "url": "https://onukura.github.io/oss-sustain-guard/",
+    "comments": 2
   },
   {
-    "title": "Neural Networks: Zero to Hero",
-    "score": 736,
-    "by": "suioir",
-    "url": "https://karpathy.ai/zero-to-hero.html",
-    "comments": 67
+    "title": "Show HN: Shadowlight, a voice-driven murder mystery and heist inside Minecraft",
+    "score": 19,
+    "by": "marcsimon42",
+    "url": "https://www.playshadowlight.com/",
+    "comments": 2
   },
   {
-    "title": "Why Is There a Tiny Hole in the Airplane Window? (2023)",
-    "score": 20,
-    "by": "quan",
-    "url": "https://www.afar.com/magazine/why-airplane-windows-have-tiny-holes",
-    "comments": 4
-  },
-  {
-    "title": "Show HN: I used AI to recreate a $4000 piece of audio hardware as a plugin",
-    "score": 139,
-    "by": "johnwheeler",
-    "url": "",
-    "comments": 97
+    "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
+    "score": 463,
+    "by": "randycupertino",
+    "url": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
+    "comments": 266
   }
 ]
