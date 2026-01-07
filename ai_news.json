@@ -1,65 +1,128 @@
 [
   {
-    "title": "The Lottery Ticket Hypothesis: Finding Sparse, Trainable Neural Networks (2018)",
+    "title": "The creator of Claude Code's Claude setup",
+    "score": 284,
+    "by": "KothuRoti",
+    "url": "https://twitter.com/bcherny/status/2007179832300581177",
+    "comments": 142
+  },
+  {
+    "title": "Sergey Brin's Unretirement",
+    "score": 134,
+    "by": "iancmceachern",
+    "url": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
+    "comments": 114
+  },
+  {
+    "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
+    "score": 406,
+    "by": "rbergamini27",
+    "url": "https://github.com/rberg27/doom-coding",
+    "comments": 270
+  },
+  {
+    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
+    "score": 514,
+    "by": "tbassetto",
+    "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
+    "comments": 703
+  },
+  {
+    "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
+    "score": 39,
+    "by": "lobito25",
+    "url": "https://github.com/x011/smtp-tunnel-proxy",
+    "comments": 18
+  },
+  {
+    "title": "On the slow death of scaling",
+    "score": 57,
+    "by": "sethbannon",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
+    "comments": 9
+  },
+  {
+    "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
+    "score": 27,
+    "by": "vaultsandbox",
+    "url": "https://vaultsandbox.com/",
+    "comments": 0
+  },
+  {
+    "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
+    "score": 64,
+    "by": "denizkavi",
+    "url": "",
+    "comments": 17
+  },
+  {
+    "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
     "score": 92,
-    "by": "felineflock",
-    "url": "https://arxiv.org/abs/1803.03635",
-    "comments": 22
+    "by": "littlexsparkee",
+    "url": "https://arxiv.org/abs/2512.09882",
+    "comments": 58
   },
   {
-    "title": "Show HN: I replaced Beads with a faster, simpler Markdown-based task tracker",
-    "score": 51,
-    "by": "wild_egg",
-    "url": "https://github.com/wedow/ticket",
-    "comments": 25
+    "title": "Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US",
+    "score": 1,
+    "by": "amellin794",
+    "url": "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth",
+    "comments": 0
   },
   {
-    "title": "Show HN: Tailsnitch – A security auditor for Tailscale",
-    "score": 233,
-    "by": "thesubtlety",
-    "url": "https://github.com/Adversis/tailsnitch",
-    "comments": 22
-  },
-  {
-    "title": "Why didn't AI “join the workforce” in 2025?",
-    "score": 113,
-    "by": "zdw",
-    "url": "https://calnewport.com/why-didnt-ai-join-the-workforce-in-2025/",
-    "comments": 150
-  },
-  {
-    "title": "Raindrop-Powered Generator Using Carbon Fiber Composites",
-    "score": 24,
-    "by": "giuliomagnifico",
-    "url": "https://en.sedaily.com/technology/2025/12/15/unist-develops-raindrop-powered-generator-using-carbon",
-    "comments": 1
-  },
-  {
-    "title": "Guarding Against Physical Attacks: The Xbox One Story (2019)",
+    "title": "Show HN: Open-source AI workflows with read-only auth scopes",
     "score": 8,
-    "by": "michaelt",
-    "url": "https://www.platformsecuritysummit.com/2019/speaker/chen/",
-    "comments": 5
+    "by": "akshay326",
+    "url": "https://github.com/seer-engg/seer",
+    "comments": 0
   },
   {
-    "title": "Show HN: OSS sustain guard – Sustainability signals for OSS dependencies",
-    "score": 15,
-    "by": "onukura",
-    "url": "https://onukura.github.io/oss-sustain-guard/",
-    "comments": 2
+    "title": "Show HN: Mantic.sh – A structural code search engine for AI agents",
+    "score": 61,
+    "by": "marcoaapfortes",
+    "url": "https://github.com/marcoaapfortes/Mantic.sh",
+    "comments": 20
   },
   {
-    "title": "Show HN: Shadowlight, a voice-driven murder mystery and heist inside Minecraft",
+    "title": "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
+    "score": 84,
+    "by": "bobbiechen",
+    "url": "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/",
+    "comments": 72
+  },
+  {
+    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
+    "score": 695,
+    "by": "Brajeshwar",
+    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
+    "comments": 453
+  },
+  {
+    "title": "The Agentic Self: Parallels Between AI and Self-Improvement",
     "score": 19,
-    "by": "marcsimon42",
-    "url": "https://www.playshadowlight.com/",
-    "comments": 2
+    "by": "zdw",
+    "url": "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html",
+    "comments": 6
   },
   {
-    "title": "Murder-suicide case shows OpenAI selectively hides data after users die",
-    "score": 463,
-    "by": "randycupertino",
-    "url": "https://arstechnica.com/tech-policy/2025/12/openai-refuses-to-say-where-chatgpt-logs-go-when-users-die/",
-    "comments": 266
+    "title": "Why is the Gmail app 700 MB?",
+    "score": 389,
+    "by": "thefilmore",
+    "url": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
+    "comments": 342
+  },
+  {
+    "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
+    "score": 217,
+    "by": "aziaziazi",
+    "url": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
+    "comments": 54
+  },
+  {
+    "title": "High-performance header-only container library for C++23 on x86-64",
+    "score": 70,
+    "by": "mattgodbolt",
+    "url": "https://github.com/kressler/fast-containers",
+    "comments": 23
   }
 ]
