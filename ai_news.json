@@ -1,128 +1,93 @@
 [
   {
-    "title": "The creator of Claude Code's Claude setup",
-    "score": 284,
-    "by": "KothuRoti",
-    "url": "https://twitter.com/bcherny/status/2007179832300581177",
-    "comments": 142
+    "title": "Tailscale state file encryption no longer enabled by default",
+    "score": 282,
+    "by": "traceroute66",
+    "url": "https://tailscale.com/changelog",
+    "comments": 111
   },
   {
-    "title": "Sergey Brin's Unretirement",
-    "score": 134,
-    "by": "iancmceachern",
-    "url": "https://www.inc.com/jessica-stillman/google-co-founder-sergey-brins-unretirement-is-a-lesson-for-the-rest-of-us/91280208",
-    "comments": 114
+    "title": "Why we're taking legal action against SerpApi's unlawful scraping",
+    "score": 33,
+    "by": "doppp",
+    "url": "https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/",
+    "comments": 27
   },
   {
-    "title": "Stop Doom Scrolling, Start Doom Coding: Build via the terminal from your phone",
-    "score": 406,
-    "by": "rbergamini27",
-    "url": "https://github.com/rberg27/doom-coding",
-    "comments": 270
+    "title": "AI misses nearly one-third of breast cancers, study finds",
+    "score": 47,
+    "by": "Liquidity",
+    "url": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
+    "comments": 25
   },
   {
-    "title": "Opus 4.5 is not the normal AI agent experience that I have had thus far",
-    "score": 514,
-    "by": "tbassetto",
-    "url": "https://burkeholland.github.io/posts/opus-4-5-change-everything/",
-    "comments": 703
+    "title": "ChatGPT Health",
+    "score": 233,
+    "by": "saikatsg",
+    "url": "https://openai.com/index/introducing-chatgpt-health/",
+    "comments": 274
   },
   {
-    "title": "Show HN: SMTP Tunnel – A SOCKS5 proxy disguised as email traffic to bypass DPI",
-    "score": 39,
-    "by": "lobito25",
-    "url": "https://github.com/x011/smtp-tunnel-proxy",
-    "comments": 18
+    "title": "LaTeX Coffee Stains (2021) [pdf]",
+    "score": 321,
+    "by": "zahrevsky",
+    "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
+    "comments": 75
   },
   {
-    "title": "On the slow death of scaling",
-    "score": 57,
-    "by": "sethbannon",
-    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5877662",
-    "comments": 9
+    "title": "Notion AI: Unpatched data exfiltration",
+    "score": 157,
+    "by": "takira",
+    "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
+    "comments": 19
   },
   {
-    "title": "Show HN: VaultSandbox – Test your real MailGun/SES/etc. integration",
-    "score": 27,
-    "by": "vaultsandbox",
-    "url": "https://vaultsandbox.com/",
-    "comments": 0
+    "title": "How Google got its groove back and edged ahead of OpenAI",
+    "score": 119,
+    "by": "jbredeche",
+    "url": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
+    "comments": 119
   },
   {
-    "title": "Launch HN: Tamarind Bio (YC W24) – AI Inference Provider for Drug Discovery",
-    "score": 64,
-    "by": "denizkavi",
-    "url": "",
-    "comments": 17
+    "title": "Claude Code CLI was broken",
+    "score": 114,
+    "by": "sneilan1",
+    "url": "https://github.com/anthropics/claude-code/issues/16673",
+    "comments": 103
   },
   {
-    "title": "Comparing AI agents to cybersecurity professionals in real-world pen testing",
-    "score": 92,
-    "by": "littlexsparkee",
-    "url": "https://arxiv.org/abs/2512.09882",
-    "comments": 58
+    "title": "Creators of Tailwind laid off 75% of their engineering team",
+    "score": 1168,
+    "by": "kevlened",
+    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
+    "comments": 659
   },
   {
-    "title": "Laylo (YC S20) – Head of Growth (Organic and Partners and Loops and AI) – Remote US",
-    "score": 1,
-    "by": "amellin794",
-    "url": "https://www.ycombinator.com/companies/laylo/jobs/ZtLHRXe-head-of-growth",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Open-source AI workflows with read-only auth scopes",
-    "score": 8,
-    "by": "akshay326",
-    "url": "https://github.com/seer-engg/seer",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Mantic.sh – A structural code search engine for AI agents",
-    "score": 61,
-    "by": "marcoaapfortes",
-    "url": "https://github.com/marcoaapfortes/Mantic.sh",
-    "comments": 20
-  },
-  {
-    "title": "Why Big Companies Keep Failing: The Stack Fallacy (2016)",
+    "title": "Show HN: I visualized the entire history of Citi Bike in the browser",
     "score": 84,
-    "by": "bobbiechen",
-    "url": "https://techcrunch.com/2016/01/18/why-big-companies-keep-failing-the-stack-fallacy/",
-    "comments": 72
+    "by": "freemanjiang",
+    "url": "https://bikemap.nyc/",
+    "comments": 28
   },
   {
-    "title": "AWS raises GPU prices 15% on a Saturday, hopes you weren't paying attention",
-    "score": 695,
-    "by": "Brajeshwar",
-    "url": "https://www.theregister.com/2026/01/05/aws_price_increase/",
-    "comments": 453
+    "title": "Fighting back against biometric surveillance at Wegmans",
+    "score": 189,
+    "by": "ptorrone",
+    "url": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
+    "comments": 133
   },
   {
-    "title": "The Agentic Self: Parallels Between AI and Self-Improvement",
-    "score": 19,
-    "by": "zdw",
-    "url": "http://muratbuffalo.blogspot.com/2026/01/the-agentic-self-parallels-between-ai.html",
-    "comments": 6
-  },
-  {
-    "title": "Why is the Gmail app 700 MB?",
-    "score": 389,
-    "by": "thefilmore",
-    "url": "https://akr.am/blog/posts/why-is-the-gmail-app-700-mb",
-    "comments": 342
-  },
-  {
-    "title": "Repair a ship’s hull still in the river in -50˚C (2022)",
+    "title": "LMArena is a cancer on AI",
     "score": 217,
-    "by": "aziaziazi",
-    "url": "https://eugene.kaspersky.com/2022/04/26/how-to-repair-the-underside-of-a-ships-hull-still-in-the-river-in-50%CB%9Ac-yakutsk/",
-    "comments": 54
+    "by": "jumploops",
+    "url": "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai",
+    "comments": 89
   },
   {
-    "title": "High-performance header-only container library for C++23 on x86-64",
-    "score": 70,
-    "by": "mattgodbolt",
-    "url": "https://github.com/kressler/fast-containers",
-    "comments": 23
+    "title": "My first paper: A practical implementation of Rubiks cube based passkeys",
+    "score": 32,
+    "by": "acorn221",
+    "url": "https://ieeexplore.ieee.org/document/11280260",
+    "comments": 14
   }
 ]
