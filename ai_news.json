@@ -1,93 +1,93 @@
 [
   {
-    "title": "Tailscale state file encryption no longer enabled by default",
-    "score": 282,
-    "by": "traceroute66",
-    "url": "https://tailscale.com/changelog",
-    "comments": 111
+    "title": "How to Code Claude Code in 200 Lines of Code",
+    "score": 477,
+    "by": "nutellalover",
+    "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
+    "comments": 175
   },
   {
-    "title": "Why we're taking legal action against SerpApi's unlawful scraping",
-    "score": 33,
-    "by": "doppp",
-    "url": "https://blog.google/innovation-and-ai/technology/safety-security/serpapi-lawsuit/",
+    "title": "Anthropic blocks third-party use of Claude Code subscriptions",
+    "score": 293,
+    "by": "sergiotapia",
+    "url": "https://github.com/anomalyco/opencode/issues/7410",
+    "comments": 220
+  },
+  {
+    "title": "AI coding assistants are getting worse?",
+    "score": 297,
+    "by": "voxadam",
+    "url": "https://spectrum.ieee.org/ai-coding-degrades",
+    "comments": 467
+  },
+  {
+    "title": "Show HN: Executable Markdown files with Unix pipes",
+    "score": 46,
+    "by": "jedwhite",
+    "url": "",
+    "comments": 37
+  },
+  {
+    "title": "He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B",
+    "score": 163,
+    "by": "newusertoday",
+    "url": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/",
+    "comments": 188
+  },
+  {
+    "title": "Google AI Studio is now sponsoring Tailwind CSS",
+    "score": 620,
+    "by": "qwertyforce",
+    "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
+    "comments": 203
+  },
+  {
+    "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
+    "score": 41,
+    "by": "ChilledTonic",
+    "url": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
     "comments": 27
   },
   {
-    "title": "AI misses nearly one-third of breast cancers, study finds",
-    "score": 47,
-    "by": "Liquidity",
-    "url": "https://www.emjreviews.com/radiology/news/ai-misses-nearly-one-third-of-breast-cancers-study-finds/",
-    "comments": 25
+    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
+    "score": 115,
+    "by": "RichHickson",
+    "url": "https://github.com/richhickson/claudecodeusage",
+    "comments": 40
   },
   {
-    "title": "ChatGPT Health",
-    "score": 233,
-    "by": "saikatsg",
-    "url": "https://openai.com/index/introducing-chatgpt-health/",
-    "comments": 274
+    "title": "Show HN: A geofence-based social network app 6 years in development",
+    "score": 59,
+    "by": "Adrian-ChatLocl",
+    "url": "https://www.localvideoapp.com",
+    "comments": 38
   },
   {
-    "title": "LaTeX Coffee Stains (2021) [pdf]",
-    "score": 321,
-    "by": "zahrevsky",
-    "url": "https://ctan.math.illinois.edu/graphics/pgf/contrib/coffeestains/coffeestains-en.pdf",
-    "comments": 75
-  },
-  {
-    "title": "Notion AI: Unpatched data exfiltration",
-    "score": 157,
-    "by": "takira",
-    "url": "https://www.promptarmor.com/resources/notion-ai-unpatched-data-exfiltration",
-    "comments": 19
-  },
-  {
-    "title": "How Google got its groove back and edged ahead of OpenAI",
-    "score": 119,
-    "by": "jbredeche",
-    "url": "https://www.wsj.com/tech/ai/google-ai-openai-gemini-chatgpt-b766e160",
-    "comments": 119
-  },
-  {
-    "title": "Claude Code CLI was broken",
-    "score": 114,
-    "by": "sneilan1",
-    "url": "https://github.com/anthropics/claude-code/issues/16673",
-    "comments": 103
-  },
-  {
-    "title": "Creators of Tailwind laid off 75% of their engineering team",
-    "score": 1168,
-    "by": "kevlened",
-    "url": "https://github.com/tailwindlabs/tailwindcss.com/pull/2388",
-    "comments": 659
-  },
-  {
-    "title": "Show HN: I visualized the entire history of Citi Bike in the browser",
-    "score": 84,
-    "by": "freemanjiang",
-    "url": "https://bikemap.nyc/",
-    "comments": 28
-  },
-  {
-    "title": "Fighting back against biometric surveillance at Wegmans",
-    "score": 189,
-    "by": "ptorrone",
-    "url": "https://blog.adafruit.com/2026/01/07/dont-let-the-grocery-store-scan-your-face-a-guide-to-fighting-back-against-biometric-surveillance-at-wegmans/",
-    "comments": 133
-  },
-  {
-    "title": "LMArena is a cancer on AI",
-    "score": 217,
-    "by": "jumploops",
-    "url": "https://surgehq.ai/blog/lmarena-is-a-plague-on-ai",
-    "comments": 89
-  },
-  {
-    "title": "My first paper: A practical implementation of Rubiks cube based passkeys",
-    "score": 32,
-    "by": "acorn221",
-    "url": "https://ieeexplore.ieee.org/document/11280260",
+    "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
+    "score": 62,
+    "by": "rguiscard",
+    "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
     "comments": 14
+  },
+  {
+    "title": "IBM AI ('Bob') Downloads and Executes Malware",
+    "score": 246,
+    "by": "takira",
+    "url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
+    "comments": 113
+  },
+  {
+    "title": "Dell admits consumers don't care about AI PCs",
+    "score": 496,
+    "by": "mossTechnician",
+    "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
+    "comments": 347
+  },
+  {
+    "title": "Show HN: DeepDream for Video with Temporal Consistency",
+    "score": 61,
+    "by": "fruitbarrel",
+    "url": "https://github.com/jeremicna/deepdream-video-pytorch",
+    "comments": 23
   }
 ]
