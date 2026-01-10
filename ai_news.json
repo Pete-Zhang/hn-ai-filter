@@ -1,93 +1,86 @@
 [
   {
-    "title": "How to Code Claude Code in 200 Lines of Code",
-    "score": 477,
+    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
+    "score": 402,
+    "by": "cod1r",
+    "url": "https://mathstodon.xyz/@tao/115855840223258103",
+    "comments": 229
+  },
+  {
+    "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
+    "score": 77,
+    "by": "pseudolus",
+    "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
+    "comments": 19
+  },
+  {
+    "title": "Show HN: Scroll Wikipedia like TikTok",
+    "score": 227,
+    "by": "sdan",
+    "url": "https://quack.sdan.io",
+    "comments": 59
+  },
+  {
+    "title": "My article on why AI is great (or terrible) or how to use it",
+    "score": 109,
+    "by": "akshayka",
+    "url": "https://matthewrocklin.com/ai-zealotry/",
+    "comments": 159
+  },
+  {
+    "title": "How to code Claude Code in 200 lines of code",
+    "score": 749,
     "by": "nutellalover",
     "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-    "comments": 175
+    "comments": 230
   },
   {
-    "title": "Anthropic blocks third-party use of Claude Code subscriptions",
-    "score": 293,
-    "by": "sergiotapia",
-    "url": "https://github.com/anomalyco/opencode/issues/7410",
-    "comments": 220
+    "title": "Show HN: A website that auctions itself daily",
+    "score": 34,
+    "by": "nsomani",
+    "url": "https://www.thedailyauction.com/",
+    "comments": 11
   },
   {
-    "title": "AI coding assistants are getting worse?",
-    "score": 297,
-    "by": "voxadam",
-    "url": "https://spectrum.ieee.org/ai-coding-degrades",
-    "comments": 467
+    "title": "Show HN: Various shape regularization algorithms",
+    "score": 58,
+    "by": "nickponline",
+    "url": "https://github.com/nickponline/shreg",
+    "comments": 4
   },
   {
-    "title": "Show HN: Executable Markdown files with Unix pipes",
-    "score": 46,
-    "by": "jedwhite",
+    "title": "Ask HN: Best way to find chill job where I can learn and grow as a swe",
+    "score": 16,
+    "by": "digitdiglet",
     "url": "",
-    "comments": 37
+    "comments": 12
   },
   {
-    "title": "He was called a 'terrorist sympathizer.' Now his AI company is valued at $3B",
-    "score": 163,
-    "by": "newusertoday",
-    "url": "https://sfstandard.com/2026/01/07/called-terrorist-sympathizer-now-ai-company-valued-3b/",
-    "comments": 188
+    "title": "Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)",
+    "score": 60,
+    "by": "hiepler",
+    "url": "https://github.com/Hiepler/EuConform",
+    "comments": 36
   },
   {
-    "title": "Google AI Studio is now sponsoring Tailwind CSS",
-    "score": 620,
-    "by": "qwertyforce",
-    "url": "https://twitter.com/OfficialLoganK/status/2009339263251566902",
-    "comments": 203
+    "title": "Maine's black market for baby eels",
+    "score": 24,
+    "by": "noleary",
+    "url": "https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/",
+    "comments": 11
   },
   {
-    "title": "Logistics Is Dying; Or – Dude, Where's My Mail?",
-    "score": 41,
-    "by": "ChilledTonic",
-    "url": "https://lagomor.ph/2026/01/logistics-is-dying-or-dude-wheres-my-mail/",
-    "comments": 27
+    "title": "SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack",
+    "score": 185,
+    "by": "mecredis",
+    "url": "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/",
+    "comments": 125
   },
   {
-    "title": "Show HN: macOS menu bar app to track Claude usage in real time",
-    "score": 115,
-    "by": "RichHickson",
-    "url": "https://github.com/richhickson/claudecodeusage",
-    "comments": 40
-  },
-  {
-    "title": "Show HN: A geofence-based social network app 6 years in development",
-    "score": 59,
-    "by": "Adrian-ChatLocl",
-    "url": "https://www.localvideoapp.com",
-    "comments": 38
-  },
-  {
-    "title": "Making Magic Leap past Nvidia's secure bootchain and breaking Tesla Autopilots",
-    "score": 62,
-    "by": "rguiscard",
-    "url": "https://fahrplan.events.ccc.de/congress/2025/fahrplan/event/making-the-magic-leap-past-nvidia-s-secure-bootchain-and-breaking-some-tesla-autopilots-along-the-way",
-    "comments": 14
-  },
-  {
-    "title": "IBM AI ('Bob') Downloads and Executes Malware",
-    "score": 246,
-    "by": "takira",
-    "url": "https://www.promptarmor.com/resources/ibm-ai-(-bob-)-downloads-and-executes-malware",
-    "comments": 113
-  },
-  {
-    "title": "Dell admits consumers don't care about AI PCs",
-    "score": 496,
-    "by": "mossTechnician",
-    "url": "https://www.pcgamer.com/hardware/dells-ces-2026-chat-was-the-most-pleasingly-un-ai-briefing-ive-had-in-maybe-5-years/",
-    "comments": 347
-  },
-  {
-    "title": "Show HN: DeepDream for Video with Temporal Consistency",
-    "score": 61,
-    "by": "fruitbarrel",
-    "url": "https://github.com/jeremicna/deepdream-video-pytorch",
-    "comments": 23
+    "title": "Show HN: Yellopages – New tab Chrome extension",
+    "score": 16,
+    "by": "kiwigod17",
+    "url": "https://yellopages.kawaicheung.io/",
+    "comments": 4
   }
 ]
