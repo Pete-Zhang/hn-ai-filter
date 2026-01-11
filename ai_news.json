@@ -1,86 +1,93 @@
 [
   {
-    "title": "“Erdos problem #728 was solved more or less autonomously by AI”",
-    "score": 402,
-    "by": "cod1r",
-    "url": "https://mathstodon.xyz/@tao/115855840223258103",
-    "comments": 229
+    "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+    "score": 15,
+    "by": "TheWiggles",
+    "url": "https://github.com/vojtapolasek/vojtux",
+    "comments": 1
   },
   {
-    "title": "Greenland sharks maintain vision for centuries through DNA repair mechanism",
-    "score": 77,
-    "by": "pseudolus",
-    "url": "https://phys.org/news/2026-01-eye-greenland-sharks-vision-centuries.html",
-    "comments": 19
+    "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
+    "score": 124,
+    "by": "OlaProis",
+    "url": "https://github.com/OlaProeis/Ferrite",
+    "comments": 47
   },
   {
-    "title": "Show HN: Scroll Wikipedia like TikTok",
-    "score": 227,
-    "by": "sdan",
-    "url": "https://quack.sdan.io",
-    "comments": 59
+    "title": "Show HN: I used Claude Code to discover connections between 100 books",
+    "score": 314,
+    "by": "pmaze",
+    "url": "https://trails.pieterma.es/",
+    "comments": 88
   },
   {
-    "title": "My article on why AI is great (or terrible) or how to use it",
-    "score": 109,
-    "by": "akshayka",
-    "url": "https://matthewrocklin.com/ai-zealotry/",
-    "comments": 159
+    "title": "A battle over Canada’s mystery brain disease",
+    "score": 113,
+    "by": "lewww",
+    "url": "https://www.bbc.com/news/articles/c623r47d67lo",
+    "comments": 69
   },
   {
-    "title": "How to code Claude Code in 200 lines of code",
-    "score": 749,
-    "by": "nutellalover",
-    "url": "https://www.mihaileric.com/The-Emperor-Has-No-Clothes/",
-    "comments": 230
+    "title": "AI is a business model stress test",
+    "score": 233,
+    "by": "amarsahinovic",
+    "url": "https://dri.es/ai-is-a-business-model-stress-test",
+    "comments": 243
   },
   {
-    "title": "Show HN: A website that auctions itself daily",
-    "score": 34,
-    "by": "nsomani",
-    "url": "https://www.thedailyauction.com/",
-    "comments": 11
+    "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
+    "score": 22,
+    "by": "haasiy",
+    "url": "https://github.com/unhaya/vam-seek",
+    "comments": 1
   },
   {
-    "title": "Show HN: Various shape regularization algorithms",
-    "score": 58,
-    "by": "nickponline",
-    "url": "https://github.com/nickponline/shreg",
-    "comments": 4
-  },
-  {
-    "title": "Ask HN: Best way to find chill job where I can learn and grow as a swe",
-    "score": 16,
-    "by": "digitdiglet",
+    "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
+    "score": 97,
+    "by": "jamesponddotco",
     "url": "",
-    "comments": 12
+    "comments": 29
   },
   {
-    "title": "Show HN: EuConform – Offline-first EU AI Act compliance tool (open source)",
-    "score": 60,
-    "by": "hiepler",
-    "url": "https://github.com/Hiepler/EuConform",
-    "comments": 36
+    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
+    "score": 105,
+    "by": "projectyang",
+    "url": "https://llmholdem.com/",
+    "comments": 48
   },
   {
-    "title": "Maine's black market for baby eels",
-    "score": 24,
-    "by": "noleary",
-    "url": "https://www.pressherald.com/2025/09/09/maines-black-market-for-baby-eels-is-spawning-a-crime-thriller-subgenre/",
-    "comments": 11
+    "title": "ChatGPT Health is a marketplace, guess who is the product?",
+    "score": 270,
+    "by": "yoaviram",
+    "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
+    "comments": 259
   },
   {
-    "title": "SendGrid isn’t emailing about ICE or BLM – it’s a phishing attack",
-    "score": 185,
-    "by": "mecredis",
-    "url": "https://fredbenenson.com/blog/2026/01/09/sendgrid-isnt-emailing-you-about-ice-or-blm-its-a-phishing-attack/",
-    "comments": 125
+    "title": "Sisyphus Now Lives in Oh My Claude",
+    "score": 23,
+    "by": "deckardt",
+    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "comments": 13
   },
   {
-    "title": "Show HN: Yellopages – New tab Chrome extension",
-    "score": 16,
-    "by": "kiwigod17",
-    "url": "https://yellopages.kawaicheung.io/",
-    "comments": 4
+    "title": "Side-by-side comparison of how AI models answer moral dilemmas",
+    "score": 87,
+    "by": "jesenator",
+    "url": "https://civai.org/p/ai-values",
+    "comments": 58
+  },
+  {
+    "title": "Show HN: GlyphLang – An AI-first programming language",
+    "score": 25,
+    "by": "goose0004",
+    "url": "",
+    "comments": 16
+  },
+  {
+    "title": "Tux Paint",
+    "score": 31,
+    "by": "1317",
+    "url": "https://tuxpaint.org/",
+    "comments": 2
   }
 ]
