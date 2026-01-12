@@ -1,93 +1,58 @@
 [
   {
-    "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-    "score": 15,
-    "by": "TheWiggles",
-    "url": "https://github.com/vojtapolasek/vojtux",
-    "comments": 1
+    "title": "Don't fall into the anti-AI hype",
+    "score": 917,
+    "by": "todsacerdoti",
+    "url": "https://antirez.com/news/158",
+    "comments": 1088
   },
   {
-    "title": "Show HN: Ferrite – Markdown editor in Rust with native Mermaid diagram rendering",
-    "score": 124,
-    "by": "OlaProis",
-    "url": "https://github.com/OlaProeis/Ferrite",
-    "comments": 47
-  },
-  {
-    "title": "Show HN: I used Claude Code to discover connections between 100 books",
-    "score": 314,
-    "by": "pmaze",
-    "url": "https://trails.pieterma.es/",
-    "comments": 88
-  },
-  {
-    "title": "A battle over Canada’s mystery brain disease",
-    "score": 113,
-    "by": "lewww",
-    "url": "https://www.bbc.com/news/articles/c623r47d67lo",
-    "comments": 69
-  },
-  {
-    "title": "AI is a business model stress test",
-    "score": 233,
-    "by": "amarsahinovic",
-    "url": "https://dri.es/ai-is-a-business-model-stress-test",
-    "comments": 243
-  },
-  {
-    "title": "Show HN: VAM Seek – 2D video navigation grid, 15KB, zero server load",
-    "score": 22,
-    "by": "haasiy",
-    "url": "https://github.com/unhaya/vam-seek",
-    "comments": 1
-  },
-  {
-    "title": "Show HN: Librario, a book metadata API that aggregates G Books, ISBNDB, and more",
-    "score": 97,
-    "by": "jamesponddotco",
-    "url": "",
-    "comments": 29
-  },
-  {
-    "title": "Show HN: Play poker with LLMs, or watch them play against each other",
-    "score": 105,
-    "by": "projectyang",
-    "url": "https://llmholdem.com/",
-    "comments": 48
-  },
-  {
-    "title": "ChatGPT Health is a marketplace, guess who is the product?",
-    "score": 270,
-    "by": "yoaviram",
-    "url": "https://consciousdigital.org/chatgpt-health-is-a-marketplace-guess-who-is-the-product/",
-    "comments": 259
-  },
-  {
-    "title": "Sisyphus Now Lives in Oh My Claude",
-    "score": 23,
-    "by": "deckardt",
-    "url": "https://github.com/Yeachan-Heo/oh-my-claude-sisyphus",
+    "title": "Insights into Claude Opus 4.5 from Pokémon",
+    "score": 65,
+    "by": "surprisetalk",
+    "url": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
     "comments": 13
   },
   {
-    "title": "Side-by-side comparison of how AI models answer moral dilemmas",
-    "score": 87,
-    "by": "jesenator",
-    "url": "https://civai.org/p/ai-values",
-    "comments": 58
+    "title": "Poison Fountain",
+    "score": 194,
+    "by": "atomic128",
+    "url": "https://rnsaffn.com/poison3/",
+    "comments": 118
   },
   {
-    "title": "Show HN: GlyphLang – An AI-first programming language",
-    "score": 25,
-    "by": "goose0004",
+    "title": "Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults",
+    "score": 69,
+    "by": "rescrv",
     "url": "",
-    "comments": 16
+    "comments": 10
   },
   {
-    "title": "Tux Paint",
-    "score": 31,
-    "by": "1317",
-    "url": "https://tuxpaint.org/",
+    "title": "Show HN: What if AI agents had Zodiac personalities?",
+    "score": 27,
+    "by": "arbayi",
+    "url": "https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities",
+    "comments": 12
+  },
+  {
+    "title": "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
+    "score": 280,
+    "by": "behnamoh",
+    "url": "https://twitter.com/SIGKITTEN/status/2009697031422652461",
+    "comments": 148
+  },
+  {
+    "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
+    "score": 119,
+    "by": "TheWiggles",
+    "url": "https://github.com/vojtapolasek/vojtux",
+    "comments": 27
+  },
+  {
+    "title": "Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal",
+    "score": 14,
+    "by": "dioptre",
+    "url": "https://dioptre.github.io/tidal/",
     "comments": 2
   }
 ]
