@@ -1,58 +1,100 @@
 [
   {
+    "title": "Cowork: Claude Code for the rest of your work",
+    "score": 902,
+    "by": "adocomplete",
+    "url": "https://claude.com/blog/cowork-research-preview",
+    "comments": 405
+  },
+  {
+    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
+    "score": 586,
+    "by": "admp",
+    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
+    "comments": 238
+  },
+  {
+    "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
+    "score": 220,
+    "by": "cjaackie",
+    "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
+    "comments": 182
+  },
+  {
+    "title": "Unauthenticated remote code execution in OpenCode",
+    "score": 306,
+    "by": "CyberShadow",
+    "url": "https://cy.md/opencode-rce/",
+    "comments": 97
+  },
+  {
+    "title": "Zirgen: Compiler for a Domain-Specific Language",
+    "score": 7,
+    "by": "0xkato",
+    "url": "https://github.com/risc0/zirgen",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: AI in SolidWorks",
+    "score": 151,
+    "by": "WillNickols",
+    "url": "https://www.trylad.com",
+    "comments": 83
+  },
+  {
+    "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
+    "score": 78,
+    "by": "Finbarr",
+    "url": "https://github.com/finbarr/yolobox",
+    "comments": 63
+  },
+  {
+    "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
+    "score": 91,
+    "by": "river_otter",
+    "url": "https://github.com/njbrake/agent-of-empires",
+    "comments": 25
+  },
+  {
+    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
+    "score": 165,
+    "by": "barishnamazov",
+    "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
+    "comments": 101
+  },
+  {
+    "title": "GitHub: A case study in link maintenance and 404 pages (2013)",
+    "score": 20,
+    "by": "roryokane",
+    "url": "https://chrismorgan.info/blog/github-links-case-study/",
+    "comments": 5
+  },
+  {
+    "title": "Claude Cowork first impression: Cowork Deleted 11GB of files [video]",
+    "score": 11,
+    "by": "virgildotcodes",
+    "url": "https://www.youtube.com/watch?v=_6C9nMvQsGU",
+    "comments": 2
+  },
+  {
+    "title": "Superhuman AI exfiltrates emails",
+    "score": 46,
+    "by": "takira",
+    "url": "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails",
+    "comments": 5
+  },
+  {
+    "title": "Using DistributedDataParallel to train a base model from scratch in the cloud",
+    "score": 10,
+    "by": "ibobev",
+    "url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
+    "comments": 0
+  },
+  {
     "title": "Don't fall into the anti-AI hype",
-    "score": 917,
+    "score": 1221,
     "by": "todsacerdoti",
     "url": "https://antirez.com/news/158",
-    "comments": 1088
-  },
-  {
-    "title": "Insights into Claude Opus 4.5 from Pokémon",
-    "score": 65,
-    "by": "surprisetalk",
-    "url": "https://www.lesswrong.com/posts/u6Lacc7wx4yYkBQ3r/insights-into-claude-opus-4-5-from-pokemon",
-    "comments": 13
-  },
-  {
-    "title": "Poison Fountain",
-    "score": 194,
-    "by": "atomic128",
-    "url": "https://rnsaffn.com/poison3/",
-    "comments": 118
-  },
-  {
-    "title": "Show HN: Engineering Schizophrenia: Trusting yourself through Byzantine faults",
-    "score": 69,
-    "by": "rescrv",
-    "url": "",
-    "comments": 10
-  },
-  {
-    "title": "Show HN: What if AI agents had Zodiac personalities?",
-    "score": 27,
-    "by": "arbayi",
-    "url": "https://github.com/baturyilmaz/what-if-ai-agents-had-zodiac-personalities",
-    "comments": 12
-  },
-  {
-    "title": "Anthropic: Developing a Claude Code competitor using Claude Code is banned",
-    "score": 280,
-    "by": "behnamoh",
-    "url": "https://twitter.com/SIGKITTEN/status/2009697031422652461",
-    "comments": 148
-  },
-  {
-    "title": "Vojtux – Unofficial Linux Distribution Aimed at Visually Impaired Users",
-    "score": 119,
-    "by": "TheWiggles",
-    "url": "https://github.com/vojtapolasek/vojtux",
-    "comments": 27
-  },
-  {
-    "title": "Show HN: Voice Composer – Browser-based pitch detection to MIDI/strudel/tidal",
-    "score": 14,
-    "by": "dioptre",
-    "url": "https://dioptre.github.io/tidal/",
-    "comments": 2
+    "comments": 1547
   }
 ]
