@@ -1,100 +1,93 @@
 [
   {
-    "title": "Cowork: Claude Code for the rest of your work",
-    "score": 902,
-    "by": "adocomplete",
-    "url": "https://claude.com/blog/cowork-research-preview",
-    "comments": 405
+    "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
+    "score": 68,
+    "by": "jellyotsiro",
+    "url": "https://epstein.trynia.ai/",
+    "comments": 20
   },
   {
-    "title": "TimeCapsuleLLM: LLM trained only on data from 1800-1875",
-    "score": 586,
-    "by": "admp",
-    "url": "https://github.com/haykgrigo3/TimeCapsuleLLM",
-    "comments": 238
+    "title": "Show HN: 1D-Pong Game at 39C3",
+    "score": 20,
+    "by": "oger",
+    "url": "https://github.com/ogermer/1d-pong",
+    "comments": 1
   },
   {
-    "title": "The chess bot on Delta Air Lines will destroy you (2024) [video]",
-    "score": 220,
-    "by": "cjaackie",
-    "url": "https://www.youtube.com/watch?v=c0mLhHDcY3I",
-    "comments": 182
-  },
-  {
-    "title": "Unauthenticated remote code execution in OpenCode",
-    "score": 306,
-    "by": "CyberShadow",
-    "url": "https://cy.md/opencode-rce/",
-    "comments": 97
-  },
-  {
-    "title": "Zirgen: Compiler for a Domain-Specific Language",
-    "score": 7,
-    "by": "0xkato",
-    "url": "https://github.com/risc0/zirgen",
+    "title": "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
+    "score": 1,
+    "by": "ramkumarvenkat",
+    "url": "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer",
     "comments": 0
   },
   {
-    "title": "Show HN: AI in SolidWorks",
-    "score": 151,
-    "by": "WillNickols",
-    "url": "https://www.trylad.com",
-    "comments": 83
+    "title": "AI generated music barred from Bandcamp",
+    "score": 743,
+    "by": "cdrnsf",
+    "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
+    "comments": 524
   },
   {
-    "title": "Show HN: Yolobox – Run AI coding agents with full sudo without nuking home dir",
-    "score": 78,
-    "by": "Finbarr",
-    "url": "https://github.com/finbarr/yolobox",
+    "title": "Agonist-Antagonist Myoneural Interface",
+    "score": 55,
+    "by": "kaycebasques",
+    "url": "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/",
+    "comments": 3
+  },
+  {
+    "title": "Show HN: Nogic – VS Code extension that visualizes your codebase as a graph",
+    "score": 106,
+    "by": "davelradindra",
+    "url": "https://marketplace.visualstudio.com/items?itemName=Nogic.nogic",
+    "comments": 42
+  },
+  {
+    "title": "We can't have nice things because of AI scrapers",
+    "score": 383,
+    "by": "LorenDB",
+    "url": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
+    "comments": 202
+  },
+  {
+    "title": "Confer – End to end encrypted AI chat",
+    "score": 87,
+    "by": "vednig",
+    "url": "https://confer.to/",
     "comments": 63
   },
   {
-    "title": "Show HN: Agent-of-empires: OpenCode and Claude Code session manager",
-    "score": 91,
-    "by": "river_otter",
-    "url": "https://github.com/njbrake/agent-of-empires",
-    "comments": 25
+    "title": "Let's be honest, Generative AI isn't going all that well",
+    "score": 166,
+    "by": "7777777phil",
+    "url": "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt",
+    "comments": 198
   },
   {
-    "title": "Google removes AI health summaries after investigation finds dangerous flaws",
-    "score": 165,
-    "by": "barishnamazov",
-    "url": "https://arstechnica.com/ai/2026/01/google-removes-some-ai-health-summaries-after-investigation-finds-dangerous-flaws/",
-    "comments": 101
-  },
-  {
-    "title": "GitHub: A case study in link maintenance and 404 pages (2013)",
-    "score": 20,
-    "by": "roryokane",
-    "url": "https://chrismorgan.info/blog/github-links-case-study/",
-    "comments": 5
-  },
-  {
-    "title": "Claude Cowork first impression: Cowork Deleted 11GB of files [video]",
-    "score": 11,
-    "by": "virgildotcodes",
-    "url": "https://www.youtube.com/watch?v=_6C9nMvQsGU",
-    "comments": 2
-  },
-  {
-    "title": "Superhuman AI exfiltrates emails",
-    "score": 46,
+    "title": "Superhuman AI Exfiltrates Emails",
+    "score": 99,
     "by": "takira",
     "url": "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails",
-    "comments": 5
+    "comments": 26
   },
   {
-    "title": "Using DistributedDataParallel to train a base model from scratch in the cloud",
-    "score": 10,
-    "by": "ibobev",
-    "url": "https://www.gilesthomas.com/2026/01/llm-from-scratch-29-ddp-training-a-base-model-in-the-cloud",
-    "comments": 0
+    "title": "Cowork: Claude Code for the rest of your work",
+    "score": 1261,
+    "by": "adocomplete",
+    "url": "https://claude.com/blog/cowork-research-preview",
+    "comments": 550
   },
   {
-    "title": "Don't fall into the anti-AI hype",
-    "score": 1221,
-    "by": "todsacerdoti",
-    "url": "https://antirez.com/news/158",
-    "comments": 1547
+    "title": "Show HN: An iOS budget app I've been maintaining since 2011",
+    "score": 148,
+    "by": "Priotecs",
+    "url": "https://primoco.me/en/",
+    "comments": 56
+  },
+  {
+    "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
+    "score": 149,
+    "by": "maelito",
+    "url": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
+    "comments": 104
   }
 ]
