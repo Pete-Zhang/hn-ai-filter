@@ -1,93 +1,100 @@
 [
   {
-    "title": "Show HN: OSS AI agent that indexes and searches the Epstein files",
+    "title": "Claude Cowork exfiltrates files",
+    "score": 633,
+    "by": "takira",
+    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
+    "comments": 282
+  },
+  {
+    "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
+    "score": 62,
+    "by": "code_brian",
+    "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
+    "comments": 14
+  },
+  {
+    "title": "Ask HN: Share your personal website",
+    "score": 576,
+    "by": "susam",
+    "url": "",
+    "comments": 1630
+  },
+  {
+    "title": "Ask HN: What did you find out or explore today?",
     "score": 68,
-    "by": "jellyotsiro",
-    "url": "https://epstein.trynia.ai/",
-    "comments": 20
+    "by": "blahaj",
+    "url": "",
+    "comments": 84
   },
   {
-    "title": "Show HN: 1D-Pong Game at 39C3",
-    "score": 20,
-    "by": "oger",
-    "url": "https://github.com/ogermer/1d-pong",
-    "comments": 1
+    "title": "Ask HN: Weird archive.today behavior?",
+    "score": 103,
+    "by": "rabinovich",
+    "url": "",
+    "comments": 34
   },
   {
-    "title": "Sei (YC W22) Is Hiring a DevOps Engineer (India/In-Office/Chennai/Gurgaon)",
-    "score": 1,
-    "by": "ramkumarvenkat",
-    "url": "https://www.ycombinator.com/companies/sei/jobs/Rn0KPXR-devops-platform-ai-infrastructure-engineer",
-    "comments": 0
+    "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
+    "score": 173,
+    "by": "dimden",
+    "url": "https://webtiles.kicya.net/",
+    "comments": 23
   },
   {
-    "title": "AI generated music barred from Bandcamp",
-    "score": 743,
-    "by": "cdrnsf",
-    "url": "https://old.reddit.com/r/BandCamp/comments/1qbw8ba/ai_generated_music_on_bandcamp/",
-    "comments": 524
+    "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
+    "score": 90,
+    "by": "cosinusalpha",
+    "url": "https://github.com/cosinusalpha/webctl",
+    "comments": 29
   },
   {
-    "title": "Agonist-Antagonist Myoneural Interface",
-    "score": 55,
-    "by": "kaycebasques",
-    "url": "https://www.media.mit.edu/projects/agonist-antagonist-myoneural-interface-ami/overview/",
+    "title": "Show HN: Ever wanted to look at yourself in Braille?",
+    "score": 24,
+    "by": "cat-whisperer",
+    "url": "https://github.com/NishantJoshi00/dith",
+    "comments": 12
+  },
+  {
+    "title": "Eigent: An open source Claude Cowork alternative",
+    "score": 16,
+    "by": "WorldPeas",
+    "url": "https://github.com/eigent-ai/eigent",
+    "comments": 2
+  },
+  {
+    "title": "The Influentists: AI hype without proof",
+    "score": 213,
+    "by": "LucidLynx",
+    "url": "https://carette.xyz/posts/influentists/",
+    "comments": 137
+  },
+  {
+    "title": "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
+    "score": 142,
+    "by": "gyomu",
+    "url": "https://adventure.com/ski-map-artist-james-niehues/",
+    "comments": 19
+  },
+  {
+    "title": "The hunt for a stolen Jackson Pollock",
+    "score": 23,
+    "by": "prismatic",
+    "url": "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/",
     "comments": 3
   },
   {
-    "title": "Show HN: Nogic – VS Code extension that visualizes your codebase as a graph",
-    "score": 106,
-    "by": "davelradindra",
-    "url": "https://marketplace.visualstudio.com/items?itemName=Nogic.nogic",
-    "comments": 42
+    "title": "Lago (Open-Source Billing) is hiring across teams and geos",
+    "score": 1,
+    "by": "Rafsark",
+    "url": "",
+    "comments": 0
   },
   {
-    "title": "We can't have nice things because of AI scrapers",
-    "score": 383,
-    "by": "LorenDB",
-    "url": "https://blog.metabrainz.org/2025/12/11/we-cant-have-nice-things-because-of-ai-scrapers/",
-    "comments": 202
-  },
-  {
-    "title": "Confer – End to end encrypted AI chat",
-    "score": 87,
-    "by": "vednig",
-    "url": "https://confer.to/",
-    "comments": 63
-  },
-  {
-    "title": "Let's be honest, Generative AI isn't going all that well",
-    "score": 166,
-    "by": "7777777phil",
-    "url": "https://garymarcus.substack.com/p/lets-be-honest-generative-ai-isnt",
-    "comments": 198
-  },
-  {
-    "title": "Superhuman AI Exfiltrates Emails",
-    "score": 99,
-    "by": "takira",
-    "url": "https://www.promptarmor.com/resources/superhuman-ai-exfiltrates-emails",
-    "comments": 26
-  },
-  {
-    "title": "Cowork: Claude Code for the rest of your work",
-    "score": 1261,
-    "by": "adocomplete",
-    "url": "https://claude.com/blog/cowork-research-preview",
-    "comments": 550
-  },
-  {
-    "title": "Show HN: An iOS budget app I've been maintaining since 2011",
-    "score": 148,
-    "by": "Priotecs",
-    "url": "https://primoco.me/en/",
-    "comments": 56
-  },
-  {
-    "title": "FOSS in times of war, scarcity and (adversarial) AI [video]",
-    "score": 149,
-    "by": "maelito",
-    "url": "https://fosdem.org/2026/schedule/event/FE7ULY-foss-in-times-of-war-scarcity-and-ai/",
-    "comments": 104
+    "title": "Ask HN: How do you safely give LLMs SSH/DB access?",
+    "score": 75,
+    "by": "nico",
+    "url": "",
+    "comments": 96
   }
 ]
