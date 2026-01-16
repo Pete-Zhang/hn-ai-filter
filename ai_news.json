@@ -1,100 +1,114 @@
 [
   {
-    "title": "Claude Cowork exfiltrates files",
-    "score": 633,
-    "by": "takira",
-    "url": "https://www.promptarmor.com/resources/claude-cowork-exfiltrates-files",
-    "comments": 282
-  },
-  {
-    "title": "Show HN: Sparrow-1 – Audio-native model for human-level turn-taking without ASR",
-    "score": 62,
-    "by": "code_brian",
-    "url": "https://www.tavus.io/post/sparrow-1-human-level-conversational-timing-in-real-time-voice",
-    "comments": 14
-  },
-  {
-    "title": "Ask HN: Share your personal website",
-    "score": 576,
-    "by": "susam",
-    "url": "",
-    "comments": 1630
-  },
-  {
-    "title": "Ask HN: What did you find out or explore today?",
-    "score": 68,
-    "by": "blahaj",
-    "url": "",
-    "comments": 84
-  },
-  {
-    "title": "Ask HN: Weird archive.today behavior?",
-    "score": 103,
-    "by": "rabinovich",
-    "url": "",
-    "comments": 34
-  },
-  {
-    "title": "Show HN: WebTiles – create a tiny 250x250 website with neighbors around you",
-    "score": 173,
-    "by": "dimden",
-    "url": "https://webtiles.kicya.net/",
-    "comments": 23
-  },
-  {
-    "title": "Show HN: Webctl – Browser automation for agents based on CLI instead of MCP",
-    "score": 90,
-    "by": "cosinusalpha",
-    "url": "https://github.com/cosinusalpha/webctl",
-    "comments": 29
-  },
-  {
-    "title": "Show HN: Ever wanted to look at yourself in Braille?",
-    "score": 24,
-    "by": "cat-whisperer",
-    "url": "https://github.com/NishantJoshi00/dith",
-    "comments": 12
-  },
-  {
-    "title": "Eigent: An open source Claude Cowork alternative",
-    "score": 16,
-    "by": "WorldPeas",
-    "url": "https://github.com/eigent-ai/eigent",
-    "comments": 2
-  },
-  {
-    "title": "The Influentists: AI hype without proof",
-    "score": 213,
-    "by": "LucidLynx",
-    "url": "https://carette.xyz/posts/influentists/",
-    "comments": 137
-  },
-  {
-    "title": "Ski map artist James Niehues, the 'Monet of the mountains' (2021)",
-    "score": 142,
-    "by": "gyomu",
-    "url": "https://adventure.com/ski-map-artist-james-niehues/",
-    "comments": 19
-  },
-  {
-    "title": "The hunt for a stolen Jackson Pollock",
-    "score": 23,
-    "by": "prismatic",
-    "url": "https://www.washingtonpost.com/entertainment/art/interactive/2026/jackson-pollock-theft-isaacs-family/",
-    "comments": 3
-  },
-  {
-    "title": "Lago (Open-Source Billing) is hiring across teams and geos",
-    "score": 1,
-    "by": "Rafsark",
-    "url": "",
+    "title": "Primecoin and Cunningham Prime Chains",
+    "score": 6,
+    "by": "ibobev",
+    "url": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
     "comments": 0
   },
   {
-    "title": "Ask HN: How do you safely give LLMs SSH/DB access?",
-    "score": 75,
-    "by": "nico",
+    "title": "Claude is good at assembling blocks, but still falls apart at creating them",
+    "score": 227,
+    "by": "bblcla",
+    "url": "https://www.approachwithalacrity.com/claude-ne/",
+    "comments": 165
+  },
+  {
+    "title": "Show HN: OpenWork – An open-source alternative to Claude Cowork",
+    "score": 180,
+    "by": "ben_talent",
+    "url": "https://github.com/different-ai/openwork",
+    "comments": 35
+  },
+  {
+    "title": "Show HN: BGP Scout – BGP Network Browser",
+    "score": 6,
+    "by": "hivedc",
+    "url": "https://bgpscout.io/",
+    "comments": 4
+  },
+  {
+    "title": "First impressions of Claude Cowork",
+    "score": 187,
+    "by": "stosssik",
+    "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
+    "comments": 102
+  },
+  {
+    "title": "Tldraw pauses external contributions due to AI slop",
+    "score": 104,
+    "by": "pranav_rajs",
+    "url": "https://github.com/tldraw/tldraw/issues/7695",
+    "comments": 34
+  },
+  {
+    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
+    "score": 69,
+    "by": "randall",
+    "url": "https://github.com/bolt-foundry/gambit",
+    "comments": 13
+  },
+  {
+    "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
+    "score": 122,
+    "by": "uvuv",
+    "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
+    "comments": 26
+  },
+  {
+    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
+    "score": 1,
+    "by": "ankitdce",
+    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "comments": 0
+  },
+  {
+    "title": "Ask HN: Share your personal website",
+    "score": 858,
+    "by": "susam",
     "url": "",
-    "comments": 96
+    "comments": 2238
+  },
+  {
+    "title": "Why senior engineers let bad projects fail",
+    "score": 199,
+    "by": "SupremumLimit",
+    "url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
+    "comments": 137
+  },
+  {
+    "title": "Claude Cowork runs Linux VM via Apple virtualization framework",
+    "score": 106,
+    "by": "jumploops",
+    "url": "https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8",
+    "comments": 39
+  },
+  {
+    "title": "Ask HN: AI music covers in 2026?",
+    "score": 11,
+    "by": "sexy_seedbox",
+    "url": "",
+    "comments": 9
+  },
+  {
+    "title": "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
+    "score": 112,
+    "by": "MrTravisB",
+    "url": "",
+    "comments": 21
+  },
+  {
+    "title": "Tell HN: Execution is cheap, ideas matter again",
+    "score": 10,
+    "by": "keepamovin",
+    "url": "",
+    "comments": 3
+  },
+  {
+    "title": "Remails: A European Mail Transfer Agent",
+    "score": 36,
+    "by": "Flundstrom2",
+    "url": "https://tweedegolf.nl/en/blog/197/remails",
+    "comments": 4
   }
 ]
