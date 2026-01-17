@@ -1,114 +1,100 @@
 [
   {
-    "title": "Primecoin and Cunningham Prime Chains",
-    "score": 6,
-    "by": "ibobev",
-    "url": "https://www.johndcook.com/blog/2026/01/10/prime-chains/",
-    "comments": 0
+    "title": "6-Day and IP Address Certificates Are Generally Available",
+    "score": 391,
+    "by": "jaas",
+    "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
+    "comments": 226
   },
   {
-    "title": "Claude is good at assembling blocks, but still falls apart at creating them",
-    "score": 227,
-    "by": "bblcla",
-    "url": "https://www.approachwithalacrity.com/claude-ne/",
-    "comments": 165
+    "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
+    "score": 111,
+    "by": "linolevan",
+    "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
+    "comments": 64
   },
   {
-    "title": "Show HN: OpenWork – An open-source alternative to Claude Cowork",
-    "score": 180,
-    "by": "ben_talent",
-    "url": "https://github.com/different-ai/openwork",
-    "comments": 35
+    "title": "Reading across books with Claude Code",
+    "score": 96,
+    "by": "gmays",
+    "url": "https://pieterma.es/syntopic-reading-claude/",
+    "comments": 22
   },
   {
-    "title": "Show HN: BGP Scout – BGP Network Browser",
-    "score": 6,
-    "by": "hivedc",
-    "url": "https://bgpscout.io/",
-    "comments": 4
+    "title": "Show HN: Tusk Drift – Turn production traffic into API tests",
+    "score": 26,
+    "by": "jy-tan",
+    "url": "https://github.com/Use-Tusk/tusk-drift-cli",
+    "comments": 1
   },
   {
-    "title": "First impressions of Claude Cowork",
-    "score": 187,
-    "by": "stosssik",
-    "url": "https://simonw.substack.com/p/first-impressions-of-claude-cowork",
-    "comments": 102
+    "title": "Michelangelo's first painting, created when he was 12 or 13",
+    "score": 344,
+    "by": "bookofjoe",
+    "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
+    "comments": 164
   },
   {
-    "title": "Tldraw pauses external contributions due to AI slop",
-    "score": 104,
-    "by": "pranav_rajs",
-    "url": "https://github.com/tldraw/tldraw/issues/7695",
-    "comments": 34
+    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
+    "score": 134,
+    "by": "rbanffy",
+    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
+    "comments": 157
   },
   {
-    "title": "Show HN: Gambit, an open-source agent harness for building reliable AI agents",
-    "score": 69,
-    "by": "randall",
-    "url": "https://github.com/bolt-foundry/gambit",
-    "comments": 13
+    "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
+    "score": 72,
+    "by": "christalwang",
+    "url": "https://www.shimmer.care/indy-redirect",
+    "comments": 80
   },
   {
-    "title": "Supply Chain Vuln Compromised Core AWS GitHub Repos & Threatened the AWS Console",
-    "score": 122,
-    "by": "uvuv",
-    "url": "https://www.wiz.io/blog/wiz-research-codebreach-vulnerability-aws-codebuild",
-    "comments": 26
-  },
-  {
-    "title": "Aviator (YC S21) is hiring to build multiplayer AI coding platform",
+    "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
     "score": 1,
-    "by": "ankitdce",
-    "url": "https://www.ycombinator.com/companies/aviator/jobs",
+    "by": "roseway4",
+    "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
     "comments": 0
   },
   {
-    "title": "Ask HN: Share your personal website",
-    "score": 858,
-    "by": "susam",
-    "url": "",
-    "comments": 2238
+    "title": "psc: The ps utility, with an eBPF twist and container context",
+    "score": 94,
+    "by": "tanelpoder",
+    "url": "https://github.com/loresuso/psc",
+    "comments": 27
   },
   {
-    "title": "Why senior engineers let bad projects fail",
-    "score": 199,
-    "by": "SupremumLimit",
-    "url": "https://lalitm.com/post/why-senior-engineers-let-bad-projects-fail/",
-    "comments": 137
-  },
-  {
-    "title": "Claude Cowork runs Linux VM via Apple virtualization framework",
-    "score": 106,
-    "by": "jumploops",
-    "url": "https://gist.github.com/simonw/35732f187edbe4fbd0bf976d013f22c8",
-    "comments": 39
-  },
-  {
-    "title": "Ask HN: AI music covers in 2026?",
-    "score": 11,
-    "by": "sexy_seedbox",
-    "url": "",
-    "comments": 9
-  },
-  {
-    "title": "Show HN: Tabstack – Browser infrastructure for AI agents (by Mozilla)",
-    "score": 112,
-    "by": "MrTravisB",
-    "url": "",
+    "title": "Crypto grifters are recruiting open-source AI developers",
+    "score": 67,
+    "by": "lalitmaganti",
+    "url": "https://www.seangoedecke.com/gas-and-ralph/",
     "comments": 21
   },
   {
-    "title": "Tell HN: Execution is cheap, ideas matter again",
-    "score": 10,
-    "by": "keepamovin",
-    "url": "",
-    "comments": 3
+    "title": "Training my smartwatch to track intelligence",
+    "score": 139,
+    "by": "dmvaldman",
+    "url": "https://dmvaldman.github.io/rooklift/",
+    "comments": 64
   },
   {
-    "title": "Remails: A European Mail Transfer Agent",
-    "score": 36,
-    "by": "Flundstrom2",
-    "url": "https://tweedegolf.nl/en/blog/197/remails",
-    "comments": 4
+    "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
+    "score": 59,
+    "by": "Bunas",
+    "url": "https://github.com/21st-dev/1code",
+    "comments": 37
+  },
+  {
+    "title": "Re: Mix: open-source repairable blender",
+    "score": 24,
+    "by": "rishikeshs",
+    "url": "https://github.com/openfunkHQ/reMix",
+    "comments": 10
+  },
+  {
+    "title": "Reality Is Breaking the \"AI Revolution\"",
+    "score": 9,
+    "by": "handfuloflight",
+    "url": "https://www.planetearthandbeyond.co/p/reality-is-breaking-the-ai-revolution",
+    "comments": 0
   }
 ]
