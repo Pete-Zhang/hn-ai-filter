@@ -1,100 +1,79 @@
 [
   {
-    "title": "6-Day and IP Address Certificates Are Generally Available",
-    "score": 391,
-    "by": "jaas",
-    "url": "https://letsencrypt.org/2026/01/15/6day-and-ip-general-availability",
-    "comments": 226
+    "title": "Erdos 281 solved with ChatGPT 5.2 Pro",
+    "score": 173,
+    "by": "nl",
+    "url": "https://twitter.com/neelsomani/status/2012695714187325745",
+    "comments": 135
   },
   {
-    "title": "Releasing rainbow tables to accelerate Net-NTLMv1 protocol deprecation",
-    "score": 111,
-    "by": "linolevan",
-    "url": "https://cloud.google.com/blog/topics/threat-intelligence/net-ntlmv1-deprecation-rainbow-tables",
-    "comments": 64
-  },
-  {
-    "title": "Reading across books with Claude Code",
-    "score": 96,
-    "by": "gmays",
-    "url": "https://pieterma.es/syntopic-reading-claude/",
-    "comments": 22
-  },
-  {
-    "title": "Show HN: Tusk Drift – Turn production traffic into API tests",
-    "score": 26,
-    "by": "jy-tan",
-    "url": "https://github.com/Use-Tusk/tusk-drift-cli",
+    "title": "Show HN: GibRAM an in-memory ephemeral GraphRAG runtime for retrieval",
+    "score": 5,
+    "by": "ktyptorio",
+    "url": "https://github.com/gibram-io/gibram",
     "comments": 1
   },
   {
-    "title": "Michelangelo's first painting, created when he was 12 or 13",
-    "score": 344,
-    "by": "bookofjoe",
-    "url": "https://www.openculture.com/2026/01/discover-michelangelos-first-painting.html",
-    "comments": 164
+    "title": "How scientists are using Claude to accelerate research and discovery",
+    "score": 75,
+    "by": "gmays",
+    "url": "https://www.anthropic.com/news/accelerating-scientific-research",
+    "comments": 43
   },
   {
-    "title": "Dev-owned testing: Why it fails in practice and succeeds in theory",
-    "score": 134,
-    "by": "rbanffy",
-    "url": "https://dl.acm.org/doi/10.1145/3780063.3780066",
-    "comments": 157
+    "title": "We put Claude Code in Rollercoaster Tycoon",
+    "score": 435,
+    "by": "iamwil",
+    "url": "https://labs.ramp.com/rct",
+    "comments": 235
   },
   {
-    "title": "Launch HN: Indy (YC S21) – A support app designed for ADHD brains",
-    "score": 72,
-    "by": "christalwang",
-    "url": "https://www.shimmer.care/indy-redirect",
-    "comments": 80
+    "title": "Ask HN: When has a \"dumb\" solution beaten a sophisticated one for you?",
+    "score": 28,
+    "by": "amadeuswoo",
+    "url": "",
+    "comments": 29
   },
   {
-    "title": "Zep AI (Agent Context Engineering, YC W24) Is Hiring Forward Deployed Engineers",
-    "score": 1,
-    "by": "roseway4",
-    "url": "https://www.ycombinator.com/companies/zep-ai/jobs/",
-    "comments": 0
+    "title": "Raising money fucked me up",
+    "score": 224,
+    "by": "yakkomajuri",
+    "url": "https://blog.yakkomajuri.com/blog/raising-money-fucked-me-up",
+    "comments": 77
   },
   {
-    "title": "psc: The ps utility, with an eBPF twist and container context",
-    "score": 94,
-    "by": "tanelpoder",
-    "url": "https://github.com/loresuso/psc",
-    "comments": 27
+    "title": "Claude Shannon's randomness-guessing machine",
+    "score": 14,
+    "by": "Kotlopou",
+    "url": "https://www.loper-os.org/bad-at-entropy/manmach.html",
+    "comments": 2
   },
   {
-    "title": "Crypto grifters are recruiting open-source AI developers",
-    "score": 67,
-    "by": "lalitmaganti",
-    "url": "https://www.seangoedecke.com/gas-and-ralph/",
-    "comments": 21
+    "title": "U.S. Court Order Against Anna's Archive Spells More Trouble for the Site",
+    "score": 56,
+    "by": "t-3",
+    "url": "https://torrentfreak.com/u-s-court-order-against-annas-archive-spells-more-trouble-for-the-site/",
+    "comments": 28
   },
   {
-    "title": "Training my smartwatch to track intelligence",
-    "score": 139,
-    "by": "dmvaldman",
-    "url": "https://dmvaldman.github.io/rooklift/",
-    "comments": 64
+    "title": "Show HN: ChunkHound, a local-first tool for understanding large codebases",
+    "score": 76,
+    "by": "NadavBenItzhak",
+    "url": "https://github.com/chunkhound/chunkhound",
+    "comments": 25
   },
   {
-    "title": "Show HN: 1Code – Open-source Cursor-like UI for Claude Code",
-    "score": 59,
-    "by": "Bunas",
-    "url": "https://github.com/21st-dev/1code",
-    "comments": 37
+    "title": "What twenty years of DevOps has failed to do",
+    "score": 57,
+    "by": "mooreds",
+    "url": "https://www.honeycomb.io/blog/you-had-one-job-why-twenty-years-of-devops-has-failed-to-do-it",
+    "comments": 113
   },
   {
-    "title": "Re: Mix: open-source repairable blender",
-    "score": 24,
-    "by": "rishikeshs",
-    "url": "https://github.com/openfunkHQ/reMix",
-    "comments": 10
-  },
-  {
-    "title": "Reality Is Breaking the \"AI Revolution\"",
-    "score": 9,
-    "by": "handfuloflight",
-    "url": "https://www.planetearthandbeyond.co/p/reality-is-breaking-the-ai-revolution",
-    "comments": 0
+    "title": "Show HN: Hekate – A Zero-Copy ZK Engine Overcoming the Memory Wall",
+    "score": 4,
+    "by": "y00zzeek",
+    "url": "",
+    "comments": 7
   }
 ]
