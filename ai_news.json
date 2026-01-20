@@ -1,79 +1,44 @@
 [
   {
-    "title": "Show HN: I quit coding years ago. AI brought me back",
-    "score": 85,
-    "by": "ivcatcher",
-    "url": "https://calquio.com/finance/compound-interest",
-    "comments": 59
+    "title": "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
+    "score": 93,
+    "by": "SilenN",
+    "url": "https://blog.silennai.com/claude-code",
+    "comments": 152
   },
   {
-    "title": "Show HN: Dock – Slack minus the bloat, tax, and 90-day memory loss",
-    "score": 120,
-    "by": "yadavrh",
-    "url": "https://getdock.io/",
-    "comments": 104
+    "title": "Show HN: E80: an 8-bit CPU in structural VHDL",
+    "score": 5,
+    "by": "Axonis",
+    "url": "https://github.com/Stokpan/E80",
+    "comments": 0
   },
   {
-    "title": "Using proxies to hide secrets from Claude Code",
-    "score": 71,
-    "by": "drewgregory",
-    "url": "https://www.joinformal.com/blog/using-proxies-to-hide-secrets-from-claude-code/",
-    "comments": 24
-  },
-  {
-    "title": "How to wrangle non-deterministic AI outputs into conventional software? (2025)",
-    "score": 34,
-    "by": "druther",
-    "url": "https://www.domainlanguage.com/articles/ai-components-deterministic-system/",
-    "comments": 22
-  },
-  {
-    "title": "High-speed train collision in Spain kills at least 21",
-    "score": 104,
-    "by": "akyuu",
-    "url": "https://www.bbc.com/news/articles/cedw6ylpynyo",
-    "comments": 72
-  },
-  {
-    "title": "Show HN: Lume 0.2 – Build and Run macOS VMs with unattended setup",
-    "score": 121,
-    "by": "frabonacci",
-    "url": "https://cua.ai/docs/lume/guide/getting-started/introduction",
-    "comments": 34
-  },
-  {
-    "title": "Predicting OpenAI's ad strategy",
-    "score": 538,
-    "by": "calcifer",
-    "url": "https://ossa-ma.github.io/blog/openads",
-    "comments": 472
-  },
-  {
-    "title": "My thoughts on Gas Town after 10k hours of Claude Code",
+    "title": "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
     "score": 11,
-    "by": "todsacerdoti",
-    "url": "https://simonhartcher.com/posts/2026-01-19-my-thoughts-on-gas-town-after-10000-hours-of-claude-code/",
-    "comments": 5
+    "by": "MrEricSir",
+    "url": "https://munimet.ro/",
+    "comments": 3
   },
   {
-    "title": "Show HN: Intent Layer: A context engineering skill for AI agents",
-    "score": 11,
-    "by": "Hunter17",
-    "url": "https://www.railly.dev/blog/intent-layer/",
-    "comments": 2
+    "title": "Show HN: Subth.ink – write something and see how many others wrote the same",
+    "score": 66,
+    "by": "sonnig",
+    "url": "https://subth.ink/",
+    "comments": 41
   },
   {
-    "title": "More sustainable epoxy thanks to phosphorus",
-    "score": 85,
-    "by": "JeanKage",
-    "url": "https://www.empa.ch/web/s604/flamm-hemmendes-epoxidharz-nachhaltiger-machen",
-    "comments": 36
-  },
-  {
-    "title": "Starting from scratch: Training a 30M Topological Transformer",
+    "title": "Bypassing Gemma and Qwen safety with raw strings",
     "score": 127,
-    "by": "tuned",
-    "url": "https://www.tuned.org.uk/posts/013_the_topological_transformer_training_tauformer",
-    "comments": 50
+    "by": "teendifferent",
+    "url": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety",
+    "comments": 33
+  },
+  {
+    "title": "Weight Transfer for RL Post-Training in under 2 seconds",
+    "score": 37,
+    "by": "jxmorris12",
+    "url": "https://research.perplexity.ai/articles/weight-transfer-for-rl-post-training-in-under-2-seconds",
+    "comments": 1
   }
 ]
