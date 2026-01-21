@@ -1,44 +1,100 @@
 [
   {
-    "title": "I was a top 0.01% Cursor user, then switched to Claude Code 2.0",
-    "score": 93,
-    "by": "SilenN",
-    "url": "https://blog.silennai.com/claude-code",
-    "comments": 152
+    "title": "The Agentic AI Handbook: Production-Ready Patterns",
+    "score": 39,
+    "by": "SouravInsights",
+    "url": "https://www.nibzard.com/agentic-handbook",
+    "comments": 5
   },
   {
-    "title": "Show HN: E80: an 8-bit CPU in structural VHDL",
-    "score": 5,
-    "by": "Axonis",
-    "url": "https://github.com/Stokpan/E80",
-    "comments": 0
+    "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
+    "score": 47,
+    "by": "zdw",
+    "url": "https://github.com/ef1500/libbbf",
+    "comments": 19
   },
   {
-    "title": "Show HN: Munimet.ro – ML-based status page for the local subways in SF",
-    "score": 11,
-    "by": "MrEricSir",
-    "url": "https://munimet.ro/",
-    "comments": 3
+    "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
+    "score": 456,
+    "by": "mkmk",
+    "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
+    "comments": 90
   },
   {
-    "title": "Show HN: Subth.ink – write something and see how many others wrote the same",
-    "score": 66,
-    "by": "sonnig",
-    "url": "https://subth.ink/",
-    "comments": 41
+    "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
+    "score": 157,
+    "by": "calcsam",
+    "url": "https://github.com/mastra-ai/mastra",
+    "comments": 49
   },
   {
-    "title": "Bypassing Gemma and Qwen safety with raw strings",
-    "score": 127,
-    "by": "teendifferent",
-    "url": "https://teendifferent.substack.com/p/apply_chat_template-is-the-safety",
+    "title": "Which AI Lies Best? A game theory classic designed by John Nash",
+    "score": 117,
+    "by": "lout332",
+    "url": "https://so-long-sucker.vercel.app/",
+    "comments": 52
+  },
+  {
+    "title": "Maintenance: Of Everything, Part One",
+    "score": 107,
+    "by": "mitchbob",
+    "url": "https://press.stripe.com/maintenance-part-one",
+    "comments": 18
+  },
+  {
+    "title": "Ask HN: Do you have any evidence that agentic coding works?",
+    "score": 212,
+    "by": "terabytest",
+    "url": "",
+    "comments": 196
+  },
+  {
+    "title": "Show HN: TopicRadar – Track trending topics across HN, GitHub, ArXiv, and more",
+    "score": 28,
+    "by": "MickolasJae",
+    "url": "https://apify.com/mick-johnson/topic-radar",
+    "comments": 7
+  },
+  {
+    "title": "Show HN: I built a tool to assist AI agents to know when a PR is good to go",
+    "score": 43,
+    "by": "dsifry",
+    "url": "https://dsifry.github.io/goodtogo/",
     "comments": 33
   },
   {
-    "title": "Weight Transfer for RL Post-Training in under 2 seconds",
-    "score": 37,
-    "by": "jxmorris12",
-    "url": "https://research.perplexity.ai/articles/weight-transfer-for-rl-post-training-in-under-2-seconds",
-    "comments": 1
+    "title": "Ask HN: Revive a mostly dead Discord server",
+    "score": 12,
+    "by": "movedx",
+    "url": "",
+    "comments": 16
+  },
+  {
+    "title": "Running Claude Code dangerously (safely)",
+    "score": 312,
+    "by": "emilburzo",
+    "url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
+    "comments": 241
+  },
+  {
+    "title": "Show HN: Aventos – An experiment in cheap AI SEO",
+    "score": 16,
+    "by": "JimsonYang",
+    "url": "https://www.aventos.dev/",
+    "comments": 10
+  },
+  {
+    "title": "Show HN: macOS native DAW with Git branching model",
+    "score": 26,
+    "by": "hpen",
+    "url": "https://www.scratchtrackaudio.com",
+    "comments": 19
+  },
+  {
+    "title": "Electricity use of AI coding agents",
+    "score": 84,
+    "by": "linolevan",
+    "url": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
+    "comments": 55
   }
 ]
