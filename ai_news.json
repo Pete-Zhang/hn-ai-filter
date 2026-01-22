@@ -1,100 +1,100 @@
 [
   {
-    "title": "The Agentic AI Handbook: Production-Ready Patterns",
-    "score": 39,
-    "by": "SouravInsights",
-    "url": "https://www.nibzard.com/agentic-handbook",
-    "comments": 5
+    "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
+    "score": 222,
+    "by": "williamzeng0",
+    "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
+    "comments": 27
   },
   {
-    "title": "Libbbf: Bound Book Format, A high-performance container for comics and manga",
-    "score": 47,
-    "by": "zdw",
-    "url": "https://github.com/ef1500/libbbf",
-    "comments": 19
+    "title": "Claude's new constitution",
+    "score": 432,
+    "by": "meetpateltech",
+    "url": "https://www.anthropic.com/news/claude-new-constitution",
+    "comments": 419
   },
   {
-    "title": "A 26,000-year astronomical monument hidden in plain sight (2019)",
-    "score": 456,
-    "by": "mkmk",
-    "url": "https://longnow.org/ideas/the-26000-year-astronomical-monument-hidden-in-plain-sight/",
-    "comments": 90
+    "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
+    "score": 579,
+    "by": "huntergemmer",
+    "url": "https://github.com/ChartGPU/ChartGPU",
+    "comments": 167
   },
   {
-    "title": "Show HN: Mastra 1.0, open-source JavaScript agent framework from the Gatsby devs",
-    "score": 157,
-    "by": "calcsam",
-    "url": "https://github.com/mastra-ai/mastra",
-    "comments": 49
+    "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
+    "score": 128,
+    "by": "misswaterfairy",
+    "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
+    "comments": 97
   },
   {
-    "title": "Which AI Lies Best? A game theory classic designed by John Nash",
-    "score": 117,
-    "by": "lout332",
-    "url": "https://so-long-sucker.vercel.app/",
-    "comments": 52
+    "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
+    "score": 294,
+    "by": "josephwegner",
+    "url": "https://blog.kagi.com/waiting-dawn-search",
+    "comments": 163
   },
   {
-    "title": "Maintenance: Of Everything, Part One",
-    "score": 107,
-    "by": "mitchbob",
-    "url": "https://press.stripe.com/maintenance-part-one",
-    "comments": 18
+    "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
+    "score": 111,
+    "by": "bdcravens",
+    "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
+    "comments": 109
   },
   {
-    "title": "Ask HN: Do you have any evidence that agentic coding works?",
-    "score": 212,
-    "by": "terabytest",
+    "title": "Show HN: Rails UI",
+    "score": 162,
+    "by": "justalever",
+    "url": "https://railsui.com/",
+    "comments": 84
+  },
+  {
+    "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
+    "score": 108,
+    "by": "oliverjanssen",
     "url": "",
-    "comments": 196
+    "comments": 44
   },
   {
-    "title": "Show HN: TopicRadar – Track trending topics across HN, GitHub, ArXiv, and more",
-    "score": 28,
-    "by": "MickolasJae",
-    "url": "https://apify.com/mick-johnson/topic-radar",
+    "title": "Letting Claude play text adventures",
+    "score": 111,
+    "by": "varjag",
+    "url": "https://borretti.me/article/letting-claude-play-text-adventures",
+    "comments": 46
+  },
+  {
+    "title": "Show HN: Open-source certificate from GitHub activity",
+    "score": 32,
+    "by": "brendonmatos",
+    "url": "https://certificate.brendonmatos.com",
     "comments": 7
   },
   {
-    "title": "Show HN: I built a tool to assist AI agents to know when a PR is good to go",
-    "score": 43,
-    "by": "dsifry",
-    "url": "https://dsifry.github.io/goodtogo/",
-    "comments": 33
+    "title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
+    "score": 52,
+    "by": "borenstein",
+    "url": "https://github.com/borenstein/yolo-cage",
+    "comments": 66
   },
   {
-    "title": "Ask HN: Revive a mostly dead Discord server",
-    "score": 12,
-    "by": "movedx",
+    "title": "Claude Chill: Fix Claude Code's flickering in terminal",
+    "score": 163,
+    "by": "behnamoh",
+    "url": "https://github.com/davidbeesley/claude-chill",
+    "comments": 120
+  },
+  {
+    "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
+    "score": 373,
+    "by": "Daemon404",
     "url": "",
-    "comments": 16
+    "comments": 412
   },
   {
-    "title": "Running Claude Code dangerously (safely)",
-    "score": 312,
-    "by": "emilburzo",
-    "url": "https://blog.emilburzo.com/2026/01/running-claude-code-dangerously-safely/",
-    "comments": 241
-  },
-  {
-    "title": "Show HN: Aventos – An experiment in cheap AI SEO",
-    "score": 16,
-    "by": "JimsonYang",
-    "url": "https://www.aventos.dev/",
-    "comments": 10
-  },
-  {
-    "title": "Show HN: macOS native DAW with Git branching model",
-    "score": 26,
-    "by": "hpen",
-    "url": "https://www.scratchtrackaudio.com",
-    "comments": 19
-  },
-  {
-    "title": "Electricity use of AI coding agents",
-    "score": 84,
-    "by": "linolevan",
-    "url": "https://www.simonpcouch.com/blog/2026-01-20-cc-impact/",
-    "comments": 55
+    "title": "A verification layer for browser agents: Amazon case study",
+    "score": 24,
+    "by": "tonyww",
+    "url": "https://www.sentienceapi.com/blog/verification-layer-amazon-case-study",
+    "comments": 5
   }
 ]
