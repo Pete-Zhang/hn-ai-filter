@@ -1,100 +1,114 @@
 [
   {
-    "title": "Show HN: Sweep, Open-weights 1.5B model for next-edit autocomplete",
-    "score": 222,
-    "by": "williamzeng0",
-    "url": "https://huggingface.co/sweepai/sweep-next-edit-1.5B",
-    "comments": 27
+    "title": "Proton Spam and the AI Consent Problem",
+    "score": 92,
+    "by": "dbushell",
+    "url": "https://dbushell.com/2026/01/22/proton-spam/",
+    "comments": 38
   },
   {
-    "title": "Claude's new constitution",
-    "score": 432,
-    "by": "meetpateltech",
-    "url": "https://www.anthropic.com/news/claude-new-constitution",
-    "comments": 419
+    "title": "Capital One to acquire Brex for $5.15B",
+    "score": 283,
+    "by": "personjerry",
+    "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
+    "comments": 214
   },
   {
-    "title": "Show HN: ChartGPU – WebGPU-powered charting library (1M points at 60fps)",
-    "score": 579,
-    "by": "huntergemmer",
-    "url": "https://github.com/ChartGPU/ChartGPU",
-    "comments": 167
+    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
+    "score": 874,
+    "by": "cannoneyed",
+    "url": "https://cannoneyed.com/isometric-nyc/",
+    "comments": 174
   },
   {
-    "title": "Your brain on ChatGPT: Accumulation of cognitive debt when using an AI assistant",
-    "score": 128,
-    "by": "misswaterfairy",
-    "url": "https://www.media.mit.edu/publications/your-brain-on-chatgpt/",
-    "comments": 97
+    "title": "I was banned from Claude for scaffolding a Claude.md file?",
+    "score": 499,
+    "by": "hugodan",
+    "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
+    "comments": 401
   },
   {
-    "title": "Waiting for dawn in search: Search index, Google rulings and impact on Kagi",
-    "score": 294,
-    "by": "josephwegner",
-    "url": "https://blog.kagi.com/waiting-dawn-search",
-    "comments": 163
+    "title": "Scaling PostgreSQL to power 800M ChatGPT users",
+    "score": 151,
+    "by": "mustaphah",
+    "url": "https://openai.com/index/scaling-postgresql/",
+    "comments": 60
+  },
+  {
+    "title": "A gaming success story: how Warhammer became one of Britain's biggest companies",
+    "score": 15,
+    "by": "GeoAtreides",
+    "url": "https://www.theguardian.com/lifeandstyle/2026/jan/18/a-gaming-success-story-how-warhammer-became-one-of-britains-biggest-companies",
+    "comments": 13
+  },
+  {
+    "title": "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
+    "score": 37,
+    "by": "kmajid",
+    "url": "",
+    "comments": 15
+  },
+  {
+    "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
+    "score": 75,
+    "by": "schopra909",
+    "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
+    "comments": 14
+  },
+  {
+    "title": "Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters",
+    "score": 9,
+    "by": "tsanummy",
+    "url": "https://github.com/malvarezcastillo/txt2plotter",
+    "comments": 2
+  },
+  {
+    "title": "'Active' sitting is better for brain health: review of studies",
+    "score": 100,
+    "by": "mikhael",
+    "url": "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health",
+    "comments": 36
+  },
+  {
+    "title": "Show HN: BrowserOS – \"Claude Cowork\" in the browser",
+    "score": 60,
+    "by": "felarof",
+    "url": "https://github.com/browseros-ai/BrowserOS",
+    "comments": 24
+  },
+  {
+    "title": "Ask HN: How do you find the \"why\" behind old code decisions?",
+    "score": 7,
+    "by": "siddhibansal9",
+    "url": "",
+    "comments": 11
+  },
+  {
+    "title": "Autodesk burns the village to feed AI and the Cloud – cuts 7% of workforce",
+    "score": 22,
+    "by": "zdw",
+    "url": "https://blog.adafruit.com/2026/01/22/autodesk-burns-the-village-to-feed-ai-and-the-cloud-cuts-7-of-workforce/",
+    "comments": 2
+  },
+  {
+    "title": "Show HN: I've been using AI to analyze every supplement on the market",
+    "score": 65,
+    "by": "lilouartz",
+    "url": "https://pillser.com/",
+    "comments": 32
+  },
+  {
+    "title": "CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story",
+    "score": 22,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d",
+    "comments": 5
   },
   {
     "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-    "score": 111,
+    "score": 313,
     "by": "bdcravens",
     "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
-    "comments": 109
-  },
-  {
-    "title": "Show HN: Rails UI",
-    "score": 162,
-    "by": "justalever",
-    "url": "https://railsui.com/",
-    "comments": 84
-  },
-  {
-    "title": "Tell HN: 2 years building a kids audio app as a solo dev – lessons learned",
-    "score": 108,
-    "by": "oliverjanssen",
-    "url": "",
-    "comments": 44
-  },
-  {
-    "title": "Letting Claude play text adventures",
-    "score": 111,
-    "by": "varjag",
-    "url": "https://borretti.me/article/letting-claude-play-text-adventures",
-    "comments": 46
-  },
-  {
-    "title": "Show HN: Open-source certificate from GitHub activity",
-    "score": 32,
-    "by": "brendonmatos",
-    "url": "https://certificate.brendonmatos.com",
-    "comments": 7
-  },
-  {
-    "title": "Show HN: yolo-cage – AI coding agents that can't exfiltrate secrets",
-    "score": 52,
-    "by": "borenstein",
-    "url": "https://github.com/borenstein/yolo-cage",
-    "comments": 66
-  },
-  {
-    "title": "Claude Chill: Fix Claude Code's flickering in terminal",
-    "score": 163,
-    "by": "behnamoh",
-    "url": "https://github.com/davidbeesley/claude-chill",
-    "comments": 120
-  },
-  {
-    "title": "Tell HN: Bending Spoons laid off almost everybody at Vimeo yesterday",
-    "score": 373,
-    "by": "Daemon404",
-    "url": "",
-    "comments": 412
-  },
-  {
-    "title": "A verification layer for browser agents: Amazon case study",
-    "score": 24,
-    "by": "tonyww",
-    "url": "https://www.sentienceapi.com/blog/verification-layer-amazon-case-study",
-    "comments": 5
+    "comments": 337
   }
 ]
