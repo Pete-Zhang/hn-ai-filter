@@ -1,114 +1,51 @@
 [
   {
-    "title": "Proton Spam and the AI Consent Problem",
-    "score": 92,
+    "title": "Traintrackr – Live LED Maps",
+    "score": 14,
+    "by": "recursion",
+    "url": "https://www.traintrackr.co.uk/",
+    "comments": 1
+  },
+  {
+    "title": "Air traffic control: the IBM 9020",
+    "score": 30,
+    "by": "pinewurst",
+    "url": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
+    "comments": 3
+  },
+  {
+    "title": "Proton spam and the AI consent problem",
+    "score": 505,
     "by": "dbushell",
     "url": "https://dbushell.com/2026/01/22/proton-spam/",
-    "comments": 38
+    "comments": 359
   },
   {
-    "title": "Capital One to acquire Brex for $5.15B",
-    "score": 283,
-    "by": "personjerry",
-    "url": "https://www.reuters.com/legal/transactional/capital-one-buy-fintech-firm-brex-515-billion-deal-2026-01-22/",
-    "comments": 214
+    "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
+    "score": 96,
+    "by": "sizzle",
+    "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
+    "comments": 70
   },
   {
-    "title": "Show HN: isometric.nyc – giant isometric pixel art map of NYC",
-    "score": 874,
-    "by": "cannoneyed",
-    "url": "https://cannoneyed.com/isometric-nyc/",
-    "comments": 174
+    "title": "AI is a horse (2024)",
+    "score": 457,
+    "by": "zdw",
+    "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
+    "comments": 221
   },
   {
-    "title": "I was banned from Claude for scaffolding a Claude.md file?",
-    "score": 499,
-    "by": "hugodan",
-    "url": "https://hugodaniel.com/posts/claude-code-banned-me/",
-    "comments": 401
-  },
-  {
-    "title": "Scaling PostgreSQL to power 800M ChatGPT users",
-    "score": 151,
-    "by": "mustaphah",
-    "url": "https://openai.com/index/scaling-postgresql/",
-    "comments": 60
-  },
-  {
-    "title": "A gaming success story: how Warhammer became one of Britain's biggest companies",
-    "score": 15,
-    "by": "GeoAtreides",
-    "url": "https://www.theguardian.com/lifeandstyle/2026/jan/18/a-gaming-success-story-how-warhammer-became-one-of-britains-biggest-companies",
+    "title": "AI can 10x developers in creating tech debt",
+    "score": 41,
+    "by": "thebeardisred",
+    "url": "https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/",
     "comments": 13
   },
   {
-    "title": "Launch HN: Constellation Space (YC W26) – AI for satellite mission assurance",
-    "score": 37,
-    "by": "kmajid",
-    "url": "",
-    "comments": 15
-  },
-  {
-    "title": "Show HN: Text-to-video model from scratch (2 brothers, 2 years, 2B params)",
-    "score": 75,
-    "by": "schopra909",
-    "url": "https://huggingface.co/collections/Linum-AI/linum-v2-2b-text-to-video",
-    "comments": 14
-  },
-  {
-    "title": "Show HN: Txt2plotter – True centerline vectors from Flux.2 for pen plotters",
-    "score": 9,
-    "by": "tsanummy",
-    "url": "https://github.com/malvarezcastillo/txt2plotter",
-    "comments": 2
-  },
-  {
-    "title": "'Active' sitting is better for brain health: review of studies",
-    "score": 100,
-    "by": "mikhael",
-    "url": "https://www.sciencealert.com/not-all-sitting-is-equal-one-type-was-just-linked-to-better-brain-health",
-    "comments": 36
-  },
-  {
-    "title": "Show HN: BrowserOS – \"Claude Cowork\" in the browser",
-    "score": 60,
-    "by": "felarof",
-    "url": "https://github.com/browseros-ai/BrowserOS",
-    "comments": 24
-  },
-  {
-    "title": "Ask HN: How do you find the \"why\" behind old code decisions?",
-    "score": 7,
-    "by": "siddhibansal9",
-    "url": "",
-    "comments": 11
-  },
-  {
-    "title": "Autodesk burns the village to feed AI and the Cloud – cuts 7% of workforce",
-    "score": 22,
-    "by": "zdw",
-    "url": "https://blog.adafruit.com/2026/01/22/autodesk-burns-the-village-to-feed-ai-and-the-cloud-cuts-7-of-workforce/",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: I've been using AI to analyze every supplement on the market",
-    "score": 65,
-    "by": "lilouartz",
-    "url": "https://pillser.com/",
-    "comments": 32
-  },
-  {
-    "title": "CEOs Say AI Is Making Work More Efficient. Employees Tell a Different Story",
-    "score": 22,
-    "by": "1vuio0pswjnm7",
-    "url": "https://www.wsj.com/lifestyle/workplace/ceos-say-ai-is-making-work-more-efficient-employees-tell-a-different-story-6613ce9d",
-    "comments": 5
-  },
-  {
-    "title": "eBay explicitly bans AI \"buy for me\" agents in user agreement update",
-    "score": 313,
-    "by": "bdcravens",
-    "url": "https://www.valueaddedresource.net/ebay-bans-ai-agents-updates-arbitration-user-agreement-feb-2026/",
-    "comments": 337
+    "title": "The state of modern AI text to speech systems for screen reader users",
+    "score": 95,
+    "by": "tuukkao",
+    "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
+    "comments": 41
   }
 ]
