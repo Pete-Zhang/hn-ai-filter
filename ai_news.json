@@ -1,51 +1,79 @@
 [
   {
-    "title": "Traintrackr – Live LED Maps",
-    "score": 14,
-    "by": "recursion",
-    "url": "https://www.traintrackr.co.uk/",
-    "comments": 1
+    "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
+    "score": 317,
+    "by": "hhs",
+    "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
+    "comments": 245
   },
   {
-    "title": "Air traffic control: the IBM 9020",
-    "score": 30,
-    "by": "pinewurst",
-    "url": "https://computer.rip/2026-01-17-air-traffic-control-9020.html",
-    "comments": 3
+    "title": "AI won't take your job. A guy with a $599 Mac Mini and Claude will",
+    "score": 9,
+    "by": "bishwasbh",
+    "url": "https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will",
+    "comments": 0
   },
   {
-    "title": "Proton spam and the AI consent problem",
-    "score": 505,
-    "by": "dbushell",
-    "url": "https://dbushell.com/2026/01/22/proton-spam/",
-    "comments": 359
+    "title": "Claude Code's new hidden feature: Swarms",
+    "score": 385,
+    "by": "AffableSpatula",
+    "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
+    "comments": 251
   },
   {
-    "title": "SEC obtains final consent judgments against former FTX and Alameda executives",
-    "score": 96,
-    "by": "sizzle",
-    "url": "https://www.sec.gov/enforcement-litigation/litigation-releases/lr-26450",
-    "comments": 70
+    "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
+    "score": 22,
+    "by": "theYipster",
+    "url": "https://github.com/mroboff/vm-curator",
+    "comments": 2
   },
   {
-    "title": "AI is a horse (2024)",
-    "score": 457,
-    "by": "zdw",
-    "url": "https://kconner.com/2024/08/02/ai-is-a-horse.html",
-    "comments": 221
+    "title": "Draig, a Welsh Programming Language",
+    "score": 31,
+    "by": "librasteve",
+    "url": "https://raku.land/zef:l10n/L10N::CY",
+    "comments": 25
   },
   {
-    "title": "AI can 10x developers in creating tech debt",
-    "score": 41,
-    "by": "thebeardisred",
-    "url": "https://stackoverflow.blog/2026/01/23/ai-can-10x-developers-in-creating-tech-debt/",
-    "comments": 13
+    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
+    "score": 166,
+    "by": "goopthink",
+    "url": "",
+    "comments": 109
   },
   {
-    "title": "The state of modern AI text to speech systems for screen reader users",
-    "score": 95,
-    "by": "tuukkao",
-    "url": "https://stuff.interfree.ca/2026/01/05/ai-tts-for-screenreaders.html",
-    "comments": 41
+    "title": "Shared Claude: A website controlled by the public",
+    "score": 59,
+    "by": "reasonableklout",
+    "url": "https://sharedclaude.com/",
+    "comments": 21
+  },
+  {
+    "title": "Show HN: Open-source Figma design to code",
+    "score": 43,
+    "by": "alepeak",
+    "url": "https://github.com/vibeflowing-inc/vibe_figma",
+    "comments": 8
+  },
+  {
+    "title": "Show HN: Semantic search engine for Studio Ghibli movie",
+    "score": 38,
+    "by": "aninibread",
+    "url": "https://ghibli-search.anini.workers.dev/",
+    "comments": 9
+  },
+  {
+    "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
+    "score": 100,
+    "by": "keepamovin",
+    "url": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
+    "comments": 83
+  },
+  {
+    "title": "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
+    "score": 204,
+    "by": "io_eric",
+    "url": "",
+    "comments": 64
   }
 ]
