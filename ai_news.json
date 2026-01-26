@@ -1,79 +1,72 @@
 [
   {
-    "title": "Adoption of EVs tied to real-world reductions in air pollution: study",
-    "score": 317,
-    "by": "hhs",
-    "url": "https://keck.usc.edu/news/adoption-of-electric-vehicles-tied-to-real-world-reductions-in-air-pollution-study-finds/",
-    "comments": 245
+    "title": "Scientists identify brain waves that define the limits of 'you'",
+    "score": 169,
+    "by": "mikhael",
+    "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
+    "comments": 35
   },
   {
-    "title": "AI won't take your job. A guy with a $599 Mac Mini and Claude will",
-    "score": 9,
-    "by": "bishwasbh",
-    "url": "https://webmatrices.com/post/ai-won-t-take-your-job-a-guy-with-a-599-mac-mini-and-claude-will",
-    "comments": 0
+    "title": "Case study: Creative math – How AI fakes proofs",
+    "score": 82,
+    "by": "musculus",
+    "url": "https://tomaszmachnik.pl/case-study-math-en.html",
+    "comments": 51
   },
   {
-    "title": "Claude Code's new hidden feature: Swarms",
-    "score": 385,
-    "by": "AffableSpatula",
-    "url": "https://twitter.com/NicerInPerson/status/2014989679796347375",
-    "comments": 251
+    "title": "Clawdbot - open source personal AI assistant",
+    "score": 208,
+    "by": "KuzeyAbi",
+    "url": "https://github.com/clawdbot/clawdbot",
+    "comments": 140
   },
   {
-    "title": "Show HN: VM-curator – a TUI alternative to libvirt and virt-manager",
-    "score": 22,
-    "by": "theYipster",
-    "url": "https://github.com/mroboff/vm-curator",
+    "title": "Web-based image editor modeled after Deluxe Paint",
+    "score": 215,
+    "by": "bananaboy",
+    "url": "https://github.com/steffest/DPaint-js",
+    "comments": 19
+  },
+  {
+    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
+    "score": 64,
+    "by": "idd2",
+    "url": "https://www.lighthouses.app/",
+    "comments": 19
+  },
+  {
+    "title": "Spanish track was fractured before high-speed train disaster, report finds",
+    "score": 192,
+    "by": "Rygian",
+    "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
+    "comments": 167
+  },
+  {
+    "title": "ICE using Palantir tool that feeds on Medicaid data",
+    "score": 1158,
+    "by": "JKCalhoun",
+    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
+    "comments": 690
+  },
+  {
+    "title": "Show HN: NukeCast – If it happened today, where would the fallout go",
+    "score": 10,
+    "by": "todd_tracerlab",
+    "url": "https://nukecast.com/",
     "comments": 2
   },
   {
-    "title": "Draig, a Welsh Programming Language",
-    "score": 31,
-    "by": "librasteve",
-    "url": "https://raku.land/zef:l10n/L10N::CY",
-    "comments": 25
+    "title": "Show HN: A small programming language where everything is pass-by-value",
+    "score": 69,
+    "by": "jcparkyn",
+    "url": "https://github.com/Jcparkyn/herd",
+    "comments": 44
   },
   {
-    "title": "Ask HN: Gmail spam filtering suddenly marking everything as spam?",
-    "score": 166,
-    "by": "goopthink",
-    "url": "",
-    "comments": 109
-  },
-  {
-    "title": "Shared Claude: A website controlled by the public",
-    "score": 59,
-    "by": "reasonableklout",
-    "url": "https://sharedclaude.com/",
-    "comments": 21
-  },
-  {
-    "title": "Show HN: Open-source Figma design to code",
-    "score": 43,
-    "by": "alepeak",
-    "url": "https://github.com/vibeflowing-inc/vibe_figma",
-    "comments": 8
-  },
-  {
-    "title": "Show HN: Semantic search engine for Studio Ghibli movie",
-    "score": 38,
-    "by": "aninibread",
-    "url": "https://ghibli-search.anini.workers.dev/",
-    "comments": 9
-  },
-  {
-    "title": "Alex Honnold completes Taipei 101 skyscraper climb without ropes or safety net",
-    "score": 100,
-    "by": "keepamovin",
-    "url": "https://www.cnn.com/sport/live-news/taiwan-alex-honnold-climb-taipei-101-01-25-26-intl-hnk",
-    "comments": 83
-  },
-  {
-    "title": "Show HN: Coi – A language that compiles to WASM, beats React/Vue",
-    "score": 204,
-    "by": "io_eric",
-    "url": "",
-    "comments": 64
+    "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
+    "score": 50,
+    "by": "dangoodmanUT",
+    "url": "https://github.com/danthegoodman1/netfence",
+    "comments": 7
   }
 ]
