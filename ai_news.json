@@ -1,72 +1,93 @@
 [
   {
-    "title": "Scientists identify brain waves that define the limits of 'you'",
-    "score": 169,
-    "by": "mikhael",
-    "url": "https://www.sciencealert.com/scientists-identify-brain-waves-that-define-the-limits-of-you",
-    "comments": 35
+    "title": "Heathrow scraps liquid container limit",
+    "score": 191,
+    "by": "robotsliketea",
+    "url": "https://www.bbc.com/news/articles/c1evvx89559o",
+    "comments": 254
   },
   {
-    "title": "Case study: Creative math – How AI fakes proofs",
-    "score": 82,
-    "by": "musculus",
-    "url": "https://tomaszmachnik.pl/case-study-math-en.html",
-    "comments": 51
+    "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
+    "score": 299,
+    "by": "simonw",
+    "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
+    "comments": 230
   },
   {
-    "title": "Clawdbot - open source personal AI assistant",
-    "score": 208,
-    "by": "KuzeyAbi",
-    "url": "https://github.com/clawdbot/clawdbot",
-    "comments": 140
+    "title": "Apple introduces new AirTag with longer range and improved findability",
+    "score": 403,
+    "by": "meetpateltech",
+    "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
+    "comments": 505
   },
   {
-    "title": "Web-based image editor modeled after Deluxe Paint",
-    "score": 215,
-    "by": "bananaboy",
-    "url": "https://github.com/steffest/DPaint-js",
-    "comments": 19
+    "title": "AI code and software craft",
+    "score": 150,
+    "by": "alexwennerberg",
+    "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
+    "comments": 81
   },
   {
-    "title": "Show HN: An interactive map of US lighthouses and navigational aids",
-    "score": 64,
-    "by": "idd2",
-    "url": "https://www.lighthouses.app/",
-    "comments": 19
+    "title": "There is an AI code review bubble",
+    "score": 248,
+    "by": "dakshgupta",
+    "url": "https://www.greptile.com/blog/ai-code-review-bubble",
+    "comments": 164
   },
   {
-    "title": "Spanish track was fractured before high-speed train disaster, report finds",
+    "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
+    "score": 75,
+    "by": "zdw",
+    "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
+    "comments": 88
+  },
+  {
+    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
+    "score": 694,
+    "by": "bwb",
+    "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
+    "comments": 553
+  },
+  {
+    "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
+    "score": 91,
+    "by": "ykhli",
+    "url": "https://tetrisbench.com/tetrisbench/",
+    "comments": 36
+  },
+  {
+    "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
     "score": 192,
-    "by": "Rygian",
-    "url": "https://www.bbc.com/news/articles/c1m77dmxlvlo",
-    "comments": 167
+    "by": "ibobev",
+    "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
+    "comments": 126
   },
   {
-    "title": "ICE using Palantir tool that feeds on Medicaid data",
-    "score": 1158,
-    "by": "JKCalhoun",
-    "url": "https://www.eff.org/deeplinks/2026/01/report-ice-using-palantir-tool-feeds-medicaid-data",
-    "comments": 690
+    "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
+    "score": 385,
+    "by": "bookofjoe",
+    "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
+    "comments": 200
   },
   {
-    "title": "Show HN: NukeCast – If it happened today, where would the fallout go",
-    "score": 10,
-    "by": "todd_tracerlab",
-    "url": "https://nukecast.com/",
-    "comments": 2
+    "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
+    "score": 123,
+    "by": "mythz",
+    "url": "https://llmspy.org/docs/v3",
+    "comments": 30
   },
   {
-    "title": "Show HN: A small programming language where everything is pass-by-value",
-    "score": 69,
-    "by": "jcparkyn",
-    "url": "https://github.com/Jcparkyn/herd",
-    "comments": 44
+    "title": "The mountain that weighed the Earth",
+    "score": 93,
+    "by": "surprisetalk",
+    "url": "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/",
+    "comments": 14
   },
   {
-    "title": "Show HN: Netfence – Like Envoy for eBPF Filters",
-    "score": 50,
-    "by": "dangoodmanUT",
-    "url": "https://github.com/danthegoodman1/netfence",
-    "comments": 7
+    "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
+    "score": 53,
+    "by": "djwide",
+    "url": "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM",
+    "comments": 47
   }
 ]
