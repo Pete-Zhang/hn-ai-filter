@@ -1,93 +1,86 @@
 [
   {
+    "title": "A few random notes from Claude coding quite a bit last few weeks",
+    "score": 572,
+    "by": "bigwheels",
+    "url": "https://twitter.com/karpathy/status/2015883857489522876",
+    "comments": 461
+  },
+  {
+    "title": "AI2: Open Coding Agents",
+    "score": 178,
+    "by": "publicmatt",
+    "url": "https://allenai.org/blog/open-coding-agents",
+    "comments": 28
+  },
+  {
+    "title": "Amazon closing its Fresh and Go stores",
+    "score": 223,
+    "by": "trenning",
+    "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
+    "comments": 431
+  },
+  {
+    "title": "AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release",
+    "score": 151,
+    "by": "mmsc",
+    "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
+    "comments": 106
+  },
+  {
+    "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+    "score": 88,
+    "by": "lcolucci",
+    "url": "",
+    "comments": 96
+  },
+  {
+    "title": "Show HN: Fuzzy Studio – Apply live effects to videos/camera",
+    "score": 37,
+    "by": "ulyssepence",
+    "url": "https://fuzzy.ulyssepence.com/",
+    "comments": 10
+  },
+  {
+    "title": "Show HN: I wrapped the Zorks with an LLM",
+    "score": 88,
+    "by": "alecf",
+    "url": "https://infocom.tambo.co/",
+    "comments": 51
+  },
+  {
+    "title": "'ICE Is Going Too Far': OpenAI's Altman Weighs in on Minnesota",
+    "score": 4,
+    "by": "haritha-j",
+    "url": "https://www.nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota.html",
+    "comments": 0
+  },
+  {
+    "title": "Management as AI superpower: Thriving in a world of agentic AI",
+    "score": 83,
+    "by": "swolpers",
+    "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "comments": 83
+  },
+  {
+    "title": "Samsung May Raise iPhone RAM Prices by 80% QoQ; SK Hynix Reportedly Near 100%",
+    "score": 8,
+    "by": "walterbell",
+    "url": "https://www.trendforce.com/news/2026/01/27/news-samsung-may-raise-iphone-lpddr-prices-by-over-80-qoq-sk-hynix-reportedly-near-100-increase/",
+    "comments": 1
+  },
+  {
     "title": "Heathrow scraps liquid container limit",
-    "score": 191,
+    "score": 611,
     "by": "robotsliketea",
     "url": "https://www.bbc.com/news/articles/c1evvx89559o",
-    "comments": 254
+    "comments": 784
   },
   {
-    "title": "ChatGPT Containers can now run bash, pip/npm install packages and download files",
-    "score": 299,
-    "by": "simonw",
-    "url": "https://simonwillison.net/2026/Jan/26/chatgpt-containers/",
-    "comments": 230
-  },
-  {
-    "title": "Apple introduces new AirTag with longer range and improved findability",
-    "score": 403,
-    "by": "meetpateltech",
-    "url": "https://www.apple.com/newsroom/2026/01/apple-introduces-new-airtag-with-expanded-range-and-improved-findability/",
-    "comments": 505
-  },
-  {
-    "title": "AI code and software craft",
-    "score": 150,
-    "by": "alexwennerberg",
-    "url": "https://alexwennerberg.com/blog/2026-01-25-slop.html",
-    "comments": 81
-  },
-  {
-    "title": "There is an AI code review bubble",
-    "score": 248,
-    "by": "dakshgupta",
-    "url": "https://www.greptile.com/blog/ai-code-review-bubble",
-    "comments": 164
-  },
-  {
-    "title": "I let ChatGPT analyze a decade of my Apple Watch data, then I called my doctor",
-    "score": 75,
-    "by": "zdw",
-    "url": "https://www.msn.com/en-us/news/technology/i-let-chatgpt-analyze-a-decade-of-my-apple-watch-data-then-i-called-my-doctor/ar-AA1UZxip",
-    "comments": 88
-  },
-  {
-    "title": "France Aiming to Replace Zoom, Google Meet, Microsoft Teams, etc.",
-    "score": 694,
-    "by": "bwb",
-    "url": "https://twitter.com/lellouchenico/status/2015775970330882319",
-    "comments": 553
-  },
-  {
-    "title": "Show HN: TetrisBench – Gemini Flash reaches 66% win rate on Tetris against Opus",
-    "score": 91,
-    "by": "ykhli",
-    "url": "https://tetrisbench.com/tetrisbench/",
+    "title": "A first look at Aperture by Tailscale (private alpha)",
+    "score": 94,
+    "by": "geoffeg",
+    "url": "https://tailscale.com/blog/aperture-private-alpha",
     "comments": 36
-  },
-  {
-    "title": "Porting 100k lines from TypeScript to Rust using Claude Code in a month",
-    "score": 192,
-    "by": "ibobev",
-    "url": "https://blog.vjeux.com/2026/analysis/porting-100k-lines-from-typescript-to-rust-using-claude-code-in-a-month.html",
-    "comments": 126
-  },
-  {
-    "title": "Google AI Overviews cite YouTube more than any medical site for health queries",
-    "score": 385,
-    "by": "bookofjoe",
-    "url": "https://www.theguardian.com/technology/2026/jan/24/google-ai-overviews-youtube-medical-citations-study",
-    "comments": 200
-  },
-  {
-    "title": "OSS ChatGPT WebUI – 530 Models, MCP, Tools, Gemini RAG, Image/Audio Gen",
-    "score": 123,
-    "by": "mythz",
-    "url": "https://llmspy.org/docs/v3",
-    "comments": 30
-  },
-  {
-    "title": "The mountain that weighed the Earth",
-    "score": 93,
-    "by": "surprisetalk",
-    "url": "https://signoregalilei.com/2026/01/18/the-mountain-that-weighed-the-earth/",
-    "comments": 14
-  },
-  {
-    "title": "OracleGPT: Thought Experiment on an AI Powered Executive",
-    "score": 53,
-    "by": "djwide",
-    "url": "https://senteguard.com/blog/#post-7fYcaQrAcfsldmSb7zVM",
-    "comments": 47
   }
 ]
