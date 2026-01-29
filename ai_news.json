@@ -1,86 +1,65 @@
 [
   {
-    "title": "A few random notes from Claude coding quite a bit last few weeks",
-    "score": 572,
-    "by": "bigwheels",
-    "url": "https://twitter.com/karpathy/status/2015883857489522876",
-    "comments": 461
+    "title": "Render Mermaid diagrams as SVGs or ASCII art",
+    "score": 202,
+    "by": "mellosouls",
+    "url": "https://github.com/lukilabs/beautiful-mermaid",
+    "comments": 30
   },
   {
-    "title": "AI2: Open Coding Agents",
-    "score": 178,
-    "by": "publicmatt",
-    "url": "https://allenai.org/blog/open-coding-agents",
-    "comments": 28
+    "title": "We can't send mail farther than 500 miles (2002)",
+    "score": 303,
+    "by": "giancarlostoro",
+    "url": "https://web.mit.edu/jemorris/humor/500-miles",
+    "comments": 33
   },
   {
-    "title": "Amazon closing its Fresh and Go stores",
-    "score": 223,
-    "by": "trenning",
-    "url": "https://finance.yahoo.com/news/amazon-closing-fresh-grocery-convenience-150437789.html",
-    "comments": 431
+    "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
+    "score": 125,
+    "by": "NaOH",
+    "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
+    "comments": 7
   },
   {
-    "title": "AISLE’s autonomous analyzer found all CVEs in the January OpenSSL release",
-    "score": 151,
-    "by": "mmsc",
-    "url": "https://aisle.com/blog/aisle-discovered-12-out-of-12-openssl-vulnerabilities",
-    "comments": 106
-  },
-  {
-    "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
-    "score": 88,
-    "by": "lcolucci",
-    "url": "",
-    "comments": 96
-  },
-  {
-    "title": "Show HN: Fuzzy Studio – Apply live effects to videos/camera",
-    "score": 37,
-    "by": "ulyssepence",
-    "url": "https://fuzzy.ulyssepence.com/",
-    "comments": 10
-  },
-  {
-    "title": "Show HN: I wrapped the Zorks with an LLM",
-    "score": 88,
-    "by": "alecf",
-    "url": "https://infocom.tambo.co/",
+    "title": "Airfoil (2024)",
+    "score": 440,
+    "by": "brk",
+    "url": "https://ciechanow.ski/airfoil/",
     "comments": 51
   },
   {
-    "title": "'ICE Is Going Too Far': OpenAI's Altman Weighs in on Minnesota",
-    "score": 4,
-    "by": "haritha-j",
-    "url": "https://www.nytimes.com/2026/01/27/business/dealbook/altman-openai-minnesota.html",
-    "comments": 0
-  },
-  {
-    "title": "Management as AI superpower: Thriving in a world of agentic AI",
-    "score": 83,
-    "by": "swolpers",
-    "url": "https://www.oneusefulthing.org/p/management-as-ai-superpower",
+    "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+    "score": 160,
+    "by": "jmuncor",
+    "url": "https://github.com/jmuncor/sherlock",
     "comments": 83
   },
   {
-    "title": "Samsung May Raise iPhone RAM Prices by 80% QoQ; SK Hynix Reportedly Near 100%",
-    "score": 8,
-    "by": "walterbell",
-    "url": "https://www.trendforce.com/news/2026/01/27/news-samsung-may-raise-iphone-lpddr-prices-by-over-80-qoq-sk-hynix-reportedly-near-100-increase/",
-    "comments": 1
+    "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+    "score": 342,
+    "by": "JustSkyfall",
+    "url": "https://mahadk.com/posts/ai-skills-hub",
+    "comments": 110
   },
   {
-    "title": "Heathrow scraps liquid container limit",
-    "score": 611,
-    "by": "robotsliketea",
-    "url": "https://www.bbc.com/news/articles/c1evvx89559o",
-    "comments": 784
+    "title": "Show HN: SHDL – A minimal hardware description language built from logic gates",
+    "score": 37,
+    "by": "rafa_rrayes",
+    "url": "https://github.com/rafa-rrayes/SHDL",
+    "comments": 15
   },
   {
-    "title": "A first look at Aperture by Tailscale (private alpha)",
-    "score": 94,
-    "by": "geoffeg",
-    "url": "https://tailscale.com/blog/aperture-private-alpha",
-    "comments": 36
+    "title": "Jellyfin LLM/\"AI\" Development Policy",
+    "score": 185,
+    "by": "mmoogle",
+    "url": "https://jellyfin.org/docs/general/contributing/llm-policies/",
+    "comments": 94
+  },
+  {
+    "title": "Will AIs take all our jobs and end human history, or not? (2023)",
+    "score": 81,
+    "by": "lukakopajtic",
+    "url": "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/",
+    "comments": 137
   }
 ]
