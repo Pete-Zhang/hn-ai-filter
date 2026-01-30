@@ -1,65 +1,86 @@
 [
   {
-    "title": "Render Mermaid diagrams as SVGs or ASCII art",
-    "score": 202,
-    "by": "mellosouls",
-    "url": "https://github.com/lukilabs/beautiful-mermaid",
-    "comments": 30
+    "title": "OpenClaw – Moltbot Renamed Again",
+    "score": 98,
+    "by": "ed",
+    "url": "https://openclaw.ai/blog/introducing-openclaw",
+    "comments": 28
   },
   {
-    "title": "We can't send mail farther than 500 miles (2002)",
-    "score": 303,
+    "title": "How AI Impacts Skill Formation",
+    "score": 34,
+    "by": "northfield27",
+    "url": "https://arxiv.org/abs/2601.20245",
+    "comments": 16
+  },
+  {
+    "title": "Claude Code daily benchmarks for degradation tracking",
+    "score": 656,
+    "by": "qwesr123",
+    "url": "https://marginlab.ai/trackers/claude-code/",
+    "comments": 306
+  },
+  {
+    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+    "score": 180,
+    "by": "rd",
+    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+    "comments": 247
+  },
+  {
+    "title": "How AI assistance impacts the formation of coding skills",
+    "score": 25,
+    "by": "vismit2000",
+    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "comments": 3
+  },
+  {
+    "title": "The WiFi only works when it's raining (2024)",
+    "score": 173,
+    "by": "epicalex",
+    "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+    "comments": 54
+  },
+  {
+    "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
+    "score": 146,
+    "by": "rurp",
+    "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
+    "comments": 217
+  },
+  {
+    "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+    "score": 142,
+    "by": "Haakam21",
+    "url": "",
+    "comments": 147
+  },
+  {
+    "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
+    "score": 205,
+    "by": "ghostwriternr",
+    "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+    "comments": 61
+  },
+  {
+    "title": "Show HN: Ourguide – OS wide task guidance system that shows you where to click",
+    "score": 46,
+    "by": "eshaangulati",
+    "url": "https://ourguide.ai",
+    "comments": 22
+  },
+  {
+    "title": "Ask HN: Notification Overload",
+    "score": 28,
+    "by": "fractal618",
+    "url": "",
+    "comments": 53
+  },
+  {
+    "title": "We can’t send mail farther than 500 miles (2002)",
+    "score": 648,
     "by": "giancarlostoro",
     "url": "https://web.mit.edu/jemorris/humor/500-miles",
-    "comments": 33
-  },
-  {
-    "title": "Maine’s ‘Lobster Lady’ who fished for nearly a century dies aged 105",
-    "score": 125,
-    "by": "NaOH",
-    "url": "https://www.theguardian.com/us-news/2026/jan/28/maine-lobster-lady-dies-aged-105",
-    "comments": 7
-  },
-  {
-    "title": "Airfoil (2024)",
-    "score": 440,
-    "by": "brk",
-    "url": "https://ciechanow.ski/airfoil/",
-    "comments": 51
-  },
-  {
-    "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
-    "score": 160,
-    "by": "jmuncor",
-    "url": "https://github.com/jmuncor/sherlock",
-    "comments": 83
-  },
-  {
-    "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
-    "score": 342,
-    "by": "JustSkyfall",
-    "url": "https://mahadk.com/posts/ai-skills-hub",
-    "comments": 110
-  },
-  {
-    "title": "Show HN: SHDL – A minimal hardware description language built from logic gates",
-    "score": 37,
-    "by": "rafa_rrayes",
-    "url": "https://github.com/rafa-rrayes/SHDL",
-    "comments": 15
-  },
-  {
-    "title": "Jellyfin LLM/\"AI\" Development Policy",
-    "score": 185,
-    "by": "mmoogle",
-    "url": "https://jellyfin.org/docs/general/contributing/llm-policies/",
-    "comments": 94
-  },
-  {
-    "title": "Will AIs take all our jobs and end human history, or not? (2023)",
-    "score": 81,
-    "by": "lukakopajtic",
-    "url": "https://writings.stephenwolfram.com/2023/03/will-ais-take-all-our-jobs-and-end-human-history-or-not-well-its-complicated/",
-    "comments": 137
+    "comments": 107
   }
 ]
