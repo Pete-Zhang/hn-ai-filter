@@ -1,86 +1,86 @@
 [
   {
-    "title": "OpenClaw – Moltbot Renamed Again",
-    "score": 98,
-    "by": "ed",
-    "url": "https://openclaw.ai/blog/introducing-openclaw",
-    "comments": 28
+    "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
+    "score": 201,
+    "by": "simedw",
+    "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+    "comments": 74
   },
   {
-    "title": "How AI Impacts Skill Formation",
-    "score": 34,
-    "by": "northfield27",
-    "url": "https://arxiv.org/abs/2601.20245",
-    "comments": 16
-  },
-  {
-    "title": "Claude Code daily benchmarks for degradation tracking",
-    "score": 656,
-    "by": "qwesr123",
-    "url": "https://marginlab.ai/trackers/claude-code/",
-    "comments": 306
-  },
-  {
-    "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-    "score": 180,
-    "by": "rd",
-    "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
-    "comments": 247
-  },
-  {
-    "title": "How AI assistance impacts the formation of coding skills",
-    "score": 25,
-    "by": "vismit2000",
-    "url": "https://www.anthropic.com/research/AI-assistance-coding-skills",
+    "title": "Show HN: Phage Explorer",
+    "score": 42,
+    "by": "eigenvalue",
+    "url": "https://phage-explorer.org/",
     "comments": 3
   },
   {
-    "title": "The WiFi only works when it's raining (2024)",
-    "score": 173,
-    "by": "epicalex",
-    "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
-    "comments": 54
+    "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
+    "score": 282,
+    "by": "pixelesque",
+    "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
+    "comments": 191
   },
   {
-    "title": "CISA’s acting head uploaded sensitive files into public version of ChatGPT",
-    "score": 146,
-    "by": "rurp",
-    "url": "https://www.politico.com/news/2026/01/27/cisa-madhu-gottumukkala-chatgpt-00749361",
-    "comments": 217
+    "title": "Starlink updates privacy policy to allow consumer data to train",
+    "score": 32,
+    "by": "malchow",
+    "url": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
+    "comments": 10
   },
   {
-    "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
-    "score": 142,
-    "by": "Haakam21",
+    "title": "I trapped an AI model inside an art installation (2025) [video]",
+    "score": 82,
+    "by": "handfuloflight",
+    "url": "https://www.youtube.com/watch?v=7fNYj0EXxMs",
+    "comments": 27
+  },
+  {
+    "title": "How to explain Generative AI in the classroom",
+    "score": 51,
+    "by": "thinkingaboutit",
+    "url": "https://dalelane.co.uk/blog/?p=5847",
+    "comments": 17
+  },
+  {
+    "title": "Roots is a game server daemon that manages Docker containers for game servers",
+    "score": 30,
+    "by": "Kerrick",
+    "url": "https://github.com/SproutPanel/roots",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
+    "score": 135,
+    "by": "souvik1997",
+    "url": "https://github.com/amlalabs/amla-sandbox",
+    "comments": 71
+  },
+  {
+    "title": "Email experiments: filtering out external images",
+    "score": 62,
+    "by": "todsacerdoti",
+    "url": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
+    "comments": 29
+  },
+  {
+    "title": "Show HN: I built an AI conversation partner to practice speaking languages",
+    "score": 61,
+    "by": "omarisbuilding",
+    "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
+    "comments": 46
+  },
+  {
+    "title": "Generative AI for Krita",
+    "score": 4,
+    "by": "OsrsNeedsf2P",
+    "url": "https://github.com/Acly/krita-ai-diffusion",
+    "comments": 0
+  },
+  {
+    "title": "Ask HN: Do you also \"hoard\" notes/links but struggle to turn them into actions?",
+    "score": 182,
+    "by": "item007",
     "url": "",
-    "comments": 147
-  },
-  {
-    "title": "Moltworker: a self-hosted personal AI agent, minus the minis",
-    "score": 205,
-    "by": "ghostwriternr",
-    "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
-    "comments": 61
-  },
-  {
-    "title": "Show HN: Ourguide – OS wide task guidance system that shows you where to click",
-    "score": 46,
-    "by": "eshaangulati",
-    "url": "https://ourguide.ai",
-    "comments": 22
-  },
-  {
-    "title": "Ask HN: Notification Overload",
-    "score": 28,
-    "by": "fractal618",
-    "url": "",
-    "comments": 53
-  },
-  {
-    "title": "We can’t send mail farther than 500 miles (2002)",
-    "score": 648,
-    "by": "giancarlostoro",
-    "url": "https://web.mit.edu/jemorris/humor/500-miles",
-    "comments": 107
+    "comments": 132
   }
 ]
