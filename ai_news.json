@@ -1,86 +1,65 @@
 [
   {
-    "title": "Show HN: I trained a 9M speech model to fix my Mandarin tones",
-    "score": 201,
-    "by": "simedw",
-    "url": "https://simedw.com/2026/01/31/ear-pronunication-via-ctc/",
+    "title": "In praise of –dry-run",
+    "score": 146,
+    "by": "ingve",
+    "url": "https://henrikwarne.com/2026/01/31/in-praise-of-dry-run/",
+    "comments": 83
+  },
+  {
+    "title": "List animals until failure",
+    "score": 128,
+    "by": "l1n",
+    "url": "https://rose.systems/animalist/",
     "comments": 74
   },
   {
-    "title": "Show HN: Phage Explorer",
-    "score": 42,
-    "by": "eigenvalue",
-    "url": "https://phage-explorer.org/",
+    "title": "Generative AI and Wikipedia editing: What we learned in 2025",
+    "score": 135,
+    "by": "ColinWright",
+    "url": "https://wikiedu.org/blog/2026/01/29/generative-ai-and-wikipedia-editing-what-we-learned-in-2025/",
+    "comments": 54
+  },
+  {
+    "title": "Show HN: Minimal – Open-Source Community driven Hardened Container Images",
+    "score": 86,
+    "by": "ritvikarya98",
+    "url": "https://github.com/rtvkiz/minimal",
+    "comments": 25
+  },
+  {
+    "title": "CPython Internals Explained",
+    "score": 193,
+    "by": "yufiz",
+    "url": "https://github.com/zpoint/CPython-Internals",
+    "comments": 45
+  },
+  {
+    "title": "Show HN: OpenJuris – AI legal research with citations from primary sources",
+    "score": 7,
+    "by": "Zachzhao",
+    "url": "https://openjuris.org/",
+    "comments": 1
+  },
+  {
+    "title": "Archive.today is directing a DDoS attack against my blog",
+    "score": 23,
+    "by": "gyrovague-com",
+    "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
     "comments": 3
   },
   {
-    "title": "The $100B megadeal between OpenAI and Nvidia is on ice",
-    "score": 282,
-    "by": "pixelesque",
-    "url": "https://www.wsj.com/tech/ai/the-100-billion-megadeal-between-openai-and-nvidia-is-on-ice-aa3025e3",
-    "comments": 191
+    "title": "US has investigated claims WhatsApp chats aren't private",
+    "score": 181,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.bloomberg.com/news/articles/2026-01-29/us-has-investigated-claims-that-whatsapp-chats-aren-t-private",
+    "comments": 334
   },
   {
-    "title": "Starlink updates privacy policy to allow consumer data to train",
-    "score": 32,
-    "by": "malchow",
-    "url": "https://finance.yahoo.com/news/musks-starlink-updates-privacy-policy-230853500.html",
-    "comments": 10
-  },
-  {
-    "title": "I trapped an AI model inside an art installation (2025) [video]",
-    "score": 82,
-    "by": "handfuloflight",
-    "url": "https://www.youtube.com/watch?v=7fNYj0EXxMs",
-    "comments": 27
-  },
-  {
-    "title": "How to explain Generative AI in the classroom",
-    "score": 51,
-    "by": "thinkingaboutit",
-    "url": "https://dalelane.co.uk/blog/?p=5847",
-    "comments": 17
-  },
-  {
-    "title": "Roots is a game server daemon that manages Docker containers for game servers",
-    "score": 30,
-    "by": "Kerrick",
-    "url": "https://github.com/SproutPanel/roots",
-    "comments": 6
-  },
-  {
-    "title": "Show HN: Amla Sandbox – WASM bash shell sandbox for AI agents",
-    "score": 135,
-    "by": "souvik1997",
-    "url": "https://github.com/amlalabs/amla-sandbox",
-    "comments": 71
-  },
-  {
-    "title": "Email experiments: filtering out external images",
-    "score": 62,
-    "by": "todsacerdoti",
-    "url": "https://www.terracrypt.net/posts/email-experiments-image-filtering.html",
-    "comments": 29
-  },
-  {
-    "title": "Show HN: I built an AI conversation partner to practice speaking languages",
-    "score": 61,
-    "by": "omarisbuilding",
-    "url": "https://apps.apple.com/us/app/talkbits-speak-naturally/id6756824177",
-    "comments": 46
-  },
-  {
-    "title": "Generative AI for Krita",
-    "score": 4,
-    "by": "OsrsNeedsf2P",
-    "url": "https://github.com/Acly/krita-ai-diffusion",
-    "comments": 0
-  },
-  {
-    "title": "Ask HN: Do you also \"hoard\" notes/links but struggle to turn them into actions?",
-    "score": 182,
-    "by": "item007",
-    "url": "",
-    "comments": 132
+    "title": "A Step Behind the Bleeding Edge: A Philosophy on AI in Dev",
+    "score": 148,
+    "by": "Ozzie_osman",
+    "url": "https://somehowmanage.com/2026/01/22/a-step-behind-the-bleeding-edge-monarchs-philosophy-on-ai-in-dev/",
+    "comments": 80
   }
 ]
