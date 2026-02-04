@@ -1,86 +1,72 @@
 [
   {
-    "title": "Todd C. Miller – Sudo maintainer for over 30 years",
-    "score": 410,
-    "by": "wodniok",
-    "url": "https://www.millert.dev/",
-    "comments": 209
+    "title": "X offices raided in France as UK opens fresh investigation into Grok",
+    "score": 329,
+    "by": "vikaveri",
+    "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
+    "comments": 533
   },
   {
-    "title": "xAI joins SpaceX",
-    "score": 664,
-    "by": "g-mork",
-    "url": "https://www.spacex.com/updates#xai-joins-spacex",
-    "comments": 1479
+    "title": "Notepad++ supply chain attack breakdown",
+    "score": 273,
+    "by": "natebc",
+    "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
+    "comments": 124
   },
   {
-    "title": "Archive.today is directing a DDoS attack against my blog?",
-    "score": 131,
-    "by": "gyrovague-com",
-    "url": "https://gyrovague.com/2026/02/01/archive-today-is-directing-a-ddos-attack-against-my-blog/",
-    "comments": 44
-  },
-  {
-    "title": "Ask HN: Who is hiring? (February 2026)",
-    "score": 265,
-    "by": "whoishiring",
+    "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
+    "score": 67,
+    "by": "eduardpi",
     "url": "",
-    "comments": 329
+    "comments": 42
   },
   {
-    "title": "Ask HN: Where do all the web devs talk?",
-    "score": 29,
-    "by": "LinguaBrowse",
-    "url": "",
-    "comments": 26
+    "title": "China Moon Mission: Aiming for 2030 lunar landing",
+    "score": 130,
+    "by": "rbanffy",
+    "url": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
+    "comments": 151
   },
   {
-    "title": "Hacking Moltbook",
-    "score": 309,
-    "by": "galnagli",
-    "url": "https://www.wiz.io/blog/exposed-moltbook-database-reveals-millions-of-api-keys",
-    "comments": 174
+    "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
+    "score": 60,
+    "by": "rbbydotdev",
+    "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
+    "comments": 31
   },
   {
-    "title": "Firefox Getting New Controls to Turn Off AI Features",
-    "score": 159,
-    "by": "stalfosknight",
-    "url": "https://www.macrumors.com/2026/02/02/firefox-ai-toggle/",
-    "comments": 67
+    "title": "The next steps for Airbus' big bet on open rotor engines",
+    "score": 79,
+    "by": "CGMthrowaway",
+    "url": "https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/",
+    "comments": 70
   },
   {
-    "title": "Training a trillion parameter model to be funny",
-    "score": 35,
-    "by": "sdan",
-    "url": "https://jokegen.sdan.io/blog",
-    "comments": 28
+    "title": "Oracle to raise $50B as AI debt piles up",
+    "score": 6,
+    "by": "zerosizedweasle",
+    "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D",
+    "comments": 0
   },
   {
-    "title": "Advancing AI Benchmarking with Game Arena",
-    "score": 124,
-    "by": "salkahfi",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/kaggle-game-arena-updates/",
-    "comments": 51
+    "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
+    "score": 178,
+    "by": "tinuviel",
+    "url": "https://safe-now.live",
+    "comments": 89
   },
   {
     "title": "Banning lead in gas worked. The proof is in our hair",
-    "score": 89,
+    "score": 331,
     "by": "geox",
     "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
-    "comments": 13
+    "comments": 269
   },
   {
-    "title": "Ask HN: Who wants to be hired? (February 2026)",
-    "score": 115,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 282
-  },
-  {
-    "title": "GitHub discusses giving maintainers control to disable PRs",
-    "score": 103,
-    "by": "aofeisheng",
-    "url": "https://github.com/orgs/community/discussions/185387",
-    "comments": 28
+    "title": "Sandboxing AI Agents in Linux",
+    "score": 102,
+    "by": "speckx",
+    "url": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
+    "comments": 63
   }
 ]
