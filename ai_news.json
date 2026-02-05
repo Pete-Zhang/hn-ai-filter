@@ -1,72 +1,79 @@
 [
   {
-    "title": "X offices raided in France as UK opens fresh investigation into Grok",
-    "score": 329,
-    "by": "vikaveri",
-    "url": "https://www.bbc.com/news/articles/ce3ex92557jo",
-    "comments": 533
+    "title": "Claude Code: connect to a local model when your quota runs out",
+    "score": 268,
+    "by": "fugu2",
+    "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
+    "comments": 141
   },
   {
-    "title": "Notepad++ supply chain attack breakdown",
-    "score": 273,
-    "by": "natebc",
-    "url": "https://securelist.com/notepad-supply-chain-attack/118708/",
-    "comments": 124
+    "title": "AI is killing B2B SaaS",
+    "score": 325,
+    "by": "namanyayg",
+    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
+    "comments": 515
   },
   {
-    "title": "Launch HN: Modelence (YC S25) – App Builder with TypeScript / MongoDB Framework",
-    "score": 67,
-    "by": "eduardpi",
+    "title": "Claude Code for Infrastructure",
+    "score": 209,
+    "by": "aspectrr",
+    "url": "https://www.fluid.sh/",
+    "comments": 150
+  },
+  {
+    "title": "Microsoft's Copilot chatbot is running into problems",
+    "score": 200,
+    "by": "fortran77",
+    "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
+    "comments": 223
+  },
+  {
+    "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
+    "score": 12,
+    "by": "emptybits",
+    "url": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
+    "comments": 6
+  },
+  {
+    "title": "Claude is a space to think",
+    "score": 443,
+    "by": "meetpateltech",
+    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+    "comments": 236
+  },
+  {
+    "title": "RS-SDK: Drive RuneScape with Claude Code",
+    "score": 109,
+    "by": "evakhoury",
+    "url": "https://github.com/MaxBittker/rs-sdk",
+    "comments": 41
+  },
+  {
+    "title": "BMW's Newest \"Innovation\" Is a Logo-Shaped Middle Finger to Right to Repair",
+    "score": 10,
+    "by": "gnabgib",
+    "url": "https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
+    "score": 30,
+    "by": "bhaktatejas922",
+    "url": "https://morphllm.com/products/glance",
+    "comments": 10
+  },
+  {
+    "title": "Tell HN: Another round of Zendesk email spam",
+    "score": 94,
+    "by": "Philpax",
     "url": "",
     "comments": 42
   },
   {
-    "title": "China Moon Mission: Aiming for 2030 lunar landing",
-    "score": 130,
-    "by": "rbanffy",
-    "url": "https://spectrum.ieee.org/china-moon-mission-mengzhou-artemis",
-    "comments": 151
-  },
-  {
-    "title": "GitHub Browser Plugin for AI Contribution Blame in Pull Requests",
-    "score": 60,
-    "by": "rbbydotdev",
-    "url": "https://blog.rbby.dev/posts/github-ai-contribution-blame-for-pull-requests/",
-    "comments": 31
-  },
-  {
-    "title": "The next steps for Airbus' big bet on open rotor engines",
-    "score": 79,
-    "by": "CGMthrowaway",
-    "url": "https://aerospaceamerica.aiaa.org/the-next-steps-for-airbus-big-bet-on-open-rotor-engines/",
-    "comments": 70
-  },
-  {
-    "title": "Oracle to raise $50B as AI debt piles up",
-    "score": 6,
-    "by": "zerosizedweasle",
-    "url": "https://www.marketwatch.com/story/oracles-monster-25-billion-debt-financing-points-to-anxieties-around-ai-funding-b92c634b?gaa_at=eafs&gaa_n=AWEtsqczVlBBoDjcC6lCxjyKeNisB6QEz-oEo2k0PWtFwpsWKtDrK59-8jvylfPs4hg%3D&gaa_ts=6982f2dc&gaa_sig=-KcqgqDi0dxU0ClZBaHnzzgUTR14fkTa5R5HKguuHzRXJHBu8gNGy1MqJfI3oFVq-3e_cvFlJqfulVUup8b5hw%3D%3D",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Safe-now.live – Ultra-light emergency info site (<10KB)",
-    "score": 178,
-    "by": "tinuviel",
-    "url": "https://safe-now.live",
-    "comments": 89
-  },
-  {
-    "title": "Banning lead in gas worked. The proof is in our hair",
-    "score": 331,
-    "by": "geox",
-    "url": "https://attheu.utah.edu/health-medicine/banning-lead-in-gas-worked-the-proof-is-in-our-hair/",
-    "comments": 269
-  },
-  {
-    "title": "Sandboxing AI Agents in Linux",
-    "score": 102,
-    "by": "speckx",
-    "url": "https://blog.senko.net/sandboxing-ai-agents-in-linux",
-    "comments": 63
+    "title": "A real-world benchmark for AI code review",
+    "score": 46,
+    "by": "benocodes",
+    "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
+    "comments": 22
   }
 ]
