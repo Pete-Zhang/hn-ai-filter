@@ -1,79 +1,100 @@
 [
   {
-    "title": "Claude Code: connect to a local model when your quota runs out",
-    "score": 268,
-    "by": "fugu2",
-    "url": "https://boxc.net/blog/2026/claude-code-connecting-to-local-models-when-your-quota-runs-out/",
-    "comments": 141
+    "title": "Claude Opus 4.6",
+    "score": 1893,
+    "by": "HellsMaddy",
+    "url": "https://www.anthropic.com/news/claude-opus-4-6",
+    "comments": 797
   },
   {
-    "title": "AI is killing B2B SaaS",
-    "score": 325,
-    "by": "namanyayg",
-    "url": "https://nmn.gl/blog/ai-killing-b2b-saas",
-    "comments": 515
+    "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
+    "score": 40,
+    "by": "bsgeraci",
+    "url": "https://github.com/artifact-keeper",
+    "comments": 9
   },
   {
-    "title": "Claude Code for Infrastructure",
-    "score": 209,
-    "by": "aspectrr",
-    "url": "https://www.fluid.sh/",
-    "comments": 150
+    "title": "My AI Adoption Journey",
+    "score": 554,
+    "by": "anurag",
+    "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
+    "comments": 181
   },
   {
-    "title": "Microsoft's Copilot chatbot is running into problems",
-    "score": 200,
-    "by": "fortran77",
-    "url": "https://www.wsj.com/tech/ai/microsofts-pivotal-ai-product-is-running-into-big-problems-ce235b28",
-    "comments": 223
+    "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
+    "score": 27,
+    "by": "sbuttgereit",
+    "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
+    "comments": 1
   },
   {
-    "title": "Study: Older Cannabis Users Have Larger Brains, Better Cognition",
-    "score": 12,
-    "by": "emptybits",
-    "url": "https://news.cuanschutz.edu/news-stories/study-finds-cannabis-usage-in-middle-aged-and-older-adults-associated-with-larger-brain-volume-better-cognitive-function",
-    "comments": 6
+    "title": "Claude Opus 4.6 extra usage promo",
+    "score": 154,
+    "by": "rob",
+    "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
+    "comments": 48
   },
   {
-    "title": "Claude is a space to think",
-    "score": 443,
-    "by": "meetpateltech",
-    "url": "https://www.anthropic.com/news/claude-is-a-space-to-think",
-    "comments": 236
+    "title": "Hypernetworks: Neural Networks for Hierarchical Data",
+    "score": 60,
+    "by": "mkmccjr",
+    "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
+    "comments": 4
   },
   {
-    "title": "RS-SDK: Drive RuneScape with Claude Code",
-    "score": 109,
-    "by": "evakhoury",
-    "url": "https://github.com/MaxBittker/rs-sdk",
-    "comments": 41
+    "title": "Orchestrate teams of Claude Code sessions",
+    "score": 346,
+    "by": "davidbarker",
+    "url": "https://code.claude.com/docs/en/agent-teams",
+    "comments": 193
   },
   {
-    "title": "BMW's Newest \"Innovation\" Is a Logo-Shaped Middle Finger to Right to Repair",
-    "score": 10,
-    "by": "gnabgib",
-    "url": "https://www.ifixit.com/News/115528/bmws-newest-innovation-is-a-logo-shaped-middle-finger-to-right-to-repair",
+    "title": "Generative Pen-Trained Transformer",
+    "score": 9,
+    "by": "Twarner",
+    "url": "https://theodore.net/projects/Polargraph/",
     "comments": 0
   },
   {
-    "title": "Show HN: Morph – Videos of AI testing your PR, embedded in GitHub",
-    "score": 30,
-    "by": "bhaktatejas922",
-    "url": "https://morphllm.com/products/glance",
-    "comments": 10
+    "title": "Show HN: Local task classifier and dispatcher on RTX 3080",
+    "score": 21,
+    "by": "Shubham_Amb",
+    "url": "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel",
+    "comments": 1
   },
   {
-    "title": "Tell HN: Another round of Zendesk email spam",
-    "score": 94,
-    "by": "Philpax",
+    "title": "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
+    "score": 11,
+    "by": "ryanyu",
+    "url": "https://github.com/calf-ai/calfkit-sdk",
+    "comments": 0
+  },
+  {
+    "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
+    "score": 1,
+    "by": "mxrns",
+    "url": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
+    "comments": 0
+  },
+  {
+    "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
+    "score": 58,
+    "by": "toomuchtodo",
+    "url": "https://arxiv.org/abs/2512.04124",
+    "comments": 47
+  },
+  {
+    "title": "Ask HN: 10 months since the Llama-4 release: what happened to Meta AI?",
+    "score": 14,
+    "by": "Invictus0",
     "url": "",
-    "comments": 42
+    "comments": 6
   },
   {
-    "title": "A real-world benchmark for AI code review",
-    "score": 46,
-    "by": "benocodes",
-    "url": "https://www.qodo.ai/blog/how-we-built-a-real-world-benchmark-for-ai-code-review/",
-    "comments": 22
+    "title": "Ask HN: Anyone Using a Mac Studio for Local AI/LLM?",
+    "score": 14,
+    "by": "UmYeahNo",
+    "url": "",
+    "comments": 10
   }
 ]
