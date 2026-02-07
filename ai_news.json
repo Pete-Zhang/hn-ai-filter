@@ -1,100 +1,86 @@
 [
   {
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "score": 195,
+    "by": "isitcontent",
+    "url": "https://github.com/valdanylchuk/breezydemo",
+    "comments": 24
+  },
+  {
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "score": 195,
+    "by": "dmpetrov",
+    "url": "https://github.com/pydantic/monty",
+    "comments": 87
+  },
+  {
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "score": 303,
+    "by": "vecti",
+    "url": "https://vecti.com",
+    "comments": 135
+  },
+  {
+    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
+    "score": 246,
+    "by": "eljojo",
+    "url": "https://eljojo.github.io/rememory/",
+    "comments": 149
+  },
+  {
+    "title": "How to effectively write quality code with AI",
+    "score": 226,
+    "by": "i5heu",
+    "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
+    "comments": 172
+  },
+  {
+    "title": "Why I Joined OpenAI",
+    "score": 110,
+    "by": "SerCe",
+    "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
+    "comments": 89
+  },
+  {
+    "title": "Understanding Neural Network, Visually",
+    "score": 262,
+    "by": "surprisetalk",
+    "url": "https://visualrambling.space/neural-network/",
+    "comments": 35
+  },
+  {
+    "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
+    "score": 86,
+    "by": "antves",
+    "url": "https://docs.smooth.sh/cli/overview",
+    "comments": 63
+  },
+  {
     "title": "Claude Opus 4.6",
-    "score": 1893,
+    "score": 2287,
     "by": "HellsMaddy",
     "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "comments": 797
+    "comments": 984
   },
   {
-    "title": "Show HN: Artifact Keeper – Open-Source Artifactory/Nexus Alternative in Rust",
-    "score": 40,
-    "by": "bsgeraci",
-    "url": "https://github.com/artifact-keeper",
-    "comments": 9
+    "title": "I'm going to cure my girlfriend's brain tumor",
+    "score": 117,
+    "by": "ray__",
+    "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
+    "comments": 62
   },
   {
-    "title": "My AI Adoption Journey",
-    "score": 554,
-    "by": "anurag",
-    "url": "https://mitchellh.com/writing/my-ai-adoption-journey",
-    "comments": 181
+    "title": "A new bill in New York would require disclaimers on AI-generated news content",
+    "score": 535,
+    "by": "giuliomagnifico",
+    "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
+    "comments": 222
   },
   {
-    "title": "Waiting for Postgres 19: Better planner hints with path generation strategies [video]",
-    "score": 27,
-    "by": "sbuttgereit",
-    "url": "https://www.youtube.com/watch?v=QLb3nhIy2Lc",
-    "comments": 1
-  },
-  {
-    "title": "Claude Opus 4.6 extra usage promo",
-    "score": 154,
-    "by": "rob",
-    "url": "https://support.claude.com/en/articles/13613973-claude-opus-4-6-extra-usage-promo",
-    "comments": 48
-  },
-  {
-    "title": "Hypernetworks: Neural Networks for Hierarchical Data",
-    "score": 60,
-    "by": "mkmccjr",
-    "url": "https://blog.sturdystatistics.com/posts/hnet_part_I/",
-    "comments": 4
-  },
-  {
-    "title": "Orchestrate teams of Claude Code sessions",
-    "score": 346,
-    "by": "davidbarker",
-    "url": "https://code.claude.com/docs/en/agent-teams",
-    "comments": 193
-  },
-  {
-    "title": "Generative Pen-Trained Transformer",
-    "score": 9,
-    "by": "Twarner",
-    "url": "https://theodore.net/projects/Polargraph/",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Local task classifier and dispatcher on RTX 3080",
-    "score": 21,
-    "by": "Shubham_Amb",
-    "url": "https://github.com/resilientworkflowsentinel/resilient-workflow-sentinel",
-    "comments": 1
-  },
-  {
-    "title": "Show HN: Calfkit – an SDK to build distributed, event-driven AI agents on Kafka",
-    "score": 11,
-    "by": "ryanyu",
-    "url": "https://github.com/calf-ai/calfkit-sdk",
-    "comments": 0
-  },
-  {
-    "title": "Maihem (YC W24): hiring senior robotics perception engineer (London, on-site)",
-    "score": 1,
-    "by": "mxrns",
-    "url": "https://jobs.ashbyhq.com/maihem/8da3fa8b-5544-45de-a99e-888021519758",
-    "comments": 0
-  },
-  {
-    "title": "Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models",
-    "score": 58,
-    "by": "toomuchtodo",
-    "url": "https://arxiv.org/abs/2512.04124",
-    "comments": 47
-  },
-  {
-    "title": "Ask HN: 10 months since the Llama-4 release: what happened to Meta AI?",
-    "score": 14,
-    "by": "Invictus0",
-    "url": "",
-    "comments": 6
-  },
-  {
-    "title": "Ask HN: Anyone Using a Mac Studio for Local AI/LLM?",
-    "score": 14,
-    "by": "UmYeahNo",
-    "url": "",
-    "comments": 10
+    "title": "DNS Explained – How Domain Names Get Resolved",
+    "score": 147,
+    "by": "okchildhood",
+    "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
+    "comments": 43
   }
 ]
