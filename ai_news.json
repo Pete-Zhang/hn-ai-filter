@@ -1,86 +1,86 @@
 [
   {
-    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-    "score": 195,
-    "by": "isitcontent",
-    "url": "https://github.com/valdanylchuk/breezydemo",
+    "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
+    "score": 193,
+    "by": "yi_wang",
+    "url": "https://github.com/localgpt-app/localgpt",
+    "comments": 70
+  },
+  {
+    "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
+    "score": 44,
+    "by": "witnessme",
+    "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
+    "comments": 12
+  },
+  {
+    "title": "Al Lowe on model trains, funny deaths and working with Disney",
+    "score": 111,
+    "by": "thelok",
+    "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
     "comments": 24
   },
   {
-    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-    "score": 195,
-    "by": "dmpetrov",
-    "url": "https://github.com/pydantic/monty",
-    "comments": 87
+    "title": "The AI boom is causing shortages everywhere else",
+    "score": 332,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
+    "comments": 538
   },
   {
-    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-    "score": 303,
-    "by": "vecti",
-    "url": "https://vecti.com",
-    "comments": 135
+    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
+    "score": 121,
+    "by": "randycupertino",
+    "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
+    "comments": 247
+  },
+  {
+    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
+    "score": 307,
+    "by": "isitcontent",
+    "url": "https://github.com/valdanylchuk/breezydemo",
+    "comments": 39
+  },
+  {
+    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
+    "score": 315,
+    "by": "dmpetrov",
+    "url": "https://github.com/pydantic/monty",
+    "comments": 160
   },
   {
     "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-    "score": 246,
+    "score": 374,
     "by": "eljojo",
     "url": "https://eljojo.github.io/rememory/",
-    "comments": 149
+    "comments": 218
+  },
+  {
+    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
+    "score": 376,
+    "by": "vecti",
+    "url": "https://vecti.com",
+    "comments": 173
   },
   {
     "title": "How to effectively write quality code with AI",
-    "score": 226,
+    "score": 336,
     "by": "i5heu",
     "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-    "comments": 172
-  },
-  {
-    "title": "Why I Joined OpenAI",
-    "score": 110,
-    "by": "SerCe",
-    "url": "https://www.brendangregg.com/blog/2026-02-07/why-i-joined-openai.html",
-    "comments": 89
-  },
-  {
-    "title": "Understanding Neural Network, Visually",
-    "score": 262,
-    "by": "surprisetalk",
-    "url": "https://visualrambling.space/neural-network/",
-    "comments": 35
-  },
-  {
-    "title": "Show HN: Smooth CLI – Token-efficient browser for AI agents",
-    "score": 86,
-    "by": "antves",
-    "url": "https://docs.smooth.sh/cli/overview",
-    "comments": 63
+    "comments": 291
   },
   {
     "title": "Claude Opus 4.6",
-    "score": 2287,
+    "score": 2316,
     "by": "HellsMaddy",
     "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "comments": 984
+    "comments": 1012
   },
   {
-    "title": "I'm going to cure my girlfriend's brain tumor",
-    "score": 117,
-    "by": "ray__",
-    "url": "https://andrewjrod.substack.com/p/im-going-to-cure-my-girlfriends-brain",
-    "comments": 62
-  },
-  {
-    "title": "A new bill in New York would require disclaimers on AI-generated news content",
-    "score": 535,
-    "by": "giuliomagnifico",
-    "url": "https://www.niemanlab.org/2026/02/a-new-bill-in-new-york-would-require-disclaimers-on-ai-generated-news-content/",
-    "comments": 222
-  },
-  {
-    "title": "DNS Explained – How Domain Names Get Resolved",
-    "score": 147,
-    "by": "okchildhood",
-    "url": "https://www.bhusalmanish.com.np/blog/posts/dns-explained.html",
-    "comments": 43
+    "title": "Understanding Neural Network, Visually",
+    "score": 340,
+    "by": "surprisetalk",
+    "url": "https://visualrambling.space/neural-network/",
+    "comments": 51
   }
 ]
