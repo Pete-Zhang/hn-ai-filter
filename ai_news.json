@@ -1,86 +1,72 @@
 [
   {
-    "title": "Show HN: LocalGPT – A local-first AI assistant in Rust with persistent memory",
-    "score": 193,
-    "by": "yi_wang",
-    "url": "https://github.com/localgpt-app/localgpt",
-    "comments": 70
+    "title": "TSMC to make advanced AI semiconductors in Japan",
+    "score": 125,
+    "by": "dev_tty01",
+    "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
+    "comments": 68
   },
   {
-    "title": "Substack confirms data breach affects users’ email addresses and phone numbers",
-    "score": 44,
-    "by": "witnessme",
-    "url": "https://techcrunch.com/2026/02/05/substack-confirms-data-breach-affecting-email-addresses-and-phone-numbers/",
-    "comments": 12
+    "title": "Claude’s C Compiler vs. GCC",
+    "score": 198,
+    "by": "unchar1",
+    "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
+    "comments": 162
   },
   {
-    "title": "Al Lowe on model trains, funny deaths and working with Disney",
-    "score": 111,
-    "by": "thelok",
-    "url": "https://spillhistorie.no/2026/02/06/interview-with-sierra-veteran-al-lowe/",
-    "comments": 24
+    "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
+    "score": 194,
+    "by": "ariaalam",
+    "url": "https://underhillgame.com/",
+    "comments": 61
   },
   {
-    "title": "The AI boom is causing shortages everywhere else",
-    "score": 332,
-    "by": "1vuio0pswjnm7",
-    "url": "https://www.washingtonpost.com/technology/2026/02/07/ai-spending-economy-shortages/",
-    "comments": 538
+    "title": "Show HN: Horizons – OSS agent execution engine",
+    "score": 36,
+    "by": "JoshPurtell",
+    "url": "https://github.com/synth-laboratories/Horizons",
+    "comments": 5
   },
   {
-    "title": "FDA intends to take action against non-FDA-approved GLP-1 drugs",
-    "score": 121,
-    "by": "randycupertino",
-    "url": "https://www.fda.gov/news-events/press-announcements/fda-intends-take-action-against-non-fda-approved-glp-1-drugs",
-    "comments": 247
+    "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
+    "score": 132,
+    "by": "nullcathedral",
+    "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
+    "comments": 41
   },
   {
-    "title": "Show HN: Look Ma, No Linux: Shell, App Installer, Vi, Cc on ESP32-S3 / BreezyBox",
-    "score": 307,
-    "by": "isitcontent",
-    "url": "https://github.com/valdanylchuk/breezydemo",
-    "comments": 39
+    "title": "AI makes the easy part easier and the hard part harder",
+    "score": 290,
+    "by": "weaksauce",
+    "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
+    "comments": 224
   },
   {
-    "title": "Monty: A minimal, secure Python interpreter written in Rust for use by AI",
-    "score": 315,
-    "by": "dmpetrov",
-    "url": "https://github.com/pydantic/monty",
-    "comments": 160
+    "title": "Show HN: Ported the 1999 game Bugdom to the browser and added a bunch of mods",
+    "score": 8,
+    "by": "reallyeli",
+    "url": "https://reallyeli.com/bugdom/Bugdom.html",
+    "comments": 0
   },
   {
-    "title": "Show HN: If you lose your memory, how to regain access to your computer?",
-    "score": 374,
-    "by": "eljojo",
-    "url": "https://eljojo.github.io/rememory/",
-    "comments": 218
+    "title": "NanoClaw now supports Claude's Agent Swarms in containers",
+    "score": 37,
+    "by": "spendy_clao",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2020701159175155874",
+    "comments": 4
   },
   {
-    "title": "Show HN: I spent 4 years building a UI design tool with only the features I use",
-    "score": 376,
-    "by": "vecti",
-    "url": "https://vecti.com",
-    "comments": 173
+    "title": "Containers, cloud, blockchain, AI – all the same old BS, says veteran Red Hatter",
+    "score": 9,
+    "by": "Brajeshwar",
+    "url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
+    "comments": 1
   },
   {
-    "title": "How to effectively write quality code with AI",
-    "score": 336,
-    "by": "i5heu",
-    "url": "https://heidenstedt.org/posts/2026/how-to-effectively-write-quality-code-with-ai/",
-    "comments": 291
-  },
-  {
-    "title": "Claude Opus 4.6",
-    "score": 2316,
-    "by": "HellsMaddy",
-    "url": "https://www.anthropic.com/news/claude-opus-4-6",
-    "comments": 1012
-  },
-  {
-    "title": "Understanding Neural Network, Visually",
-    "score": 340,
-    "by": "surprisetalk",
-    "url": "https://visualrambling.space/neural-network/",
-    "comments": 51
+    "title": "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
+    "score": 138,
+    "by": "jingkai_he",
+    "url": "https://github.com/jingkaihe/matchlock",
+    "comments": 59
   }
 ]
