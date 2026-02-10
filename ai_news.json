@@ -1,72 +1,37 @@
 [
   {
-    "title": "TSMC to make advanced AI semiconductors in Japan",
-    "score": 125,
-    "by": "dev_tty01",
-    "url": "https://apnews.com/article/semiconductors-tsmc-japan-taiwan-ai-11256f2bfde73ca23d08331ad138d6d5",
-    "comments": 68
+    "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
+    "score": 229,
+    "by": "tiny-automates",
+    "url": "https://arxiv.org/abs/2512.20798",
+    "comments": 144
   },
   {
-    "title": "Claude’s C Compiler vs. GCC",
-    "score": 198,
-    "by": "unchar1",
-    "url": "https://harshanu.space/en/tech/ccc-vs-gcc/",
-    "comments": 162
-  },
-  {
-    "title": "Show HN: I created a Mars colony RPG based on Kim Stanley Robinson’s Mars books",
-    "score": 194,
-    "by": "ariaalam",
-    "url": "https://underhillgame.com/",
-    "comments": 61
-  },
-  {
-    "title": "Show HN: Horizons – OSS agent execution engine",
+    "title": "Generative Pen-Trained Transformer",
     "score": 36,
-    "by": "JoshPurtell",
-    "url": "https://github.com/synth-laboratories/Horizons",
-    "comments": 5
-  },
-  {
-    "title": "Roundcube Webmail: SVG feImage bypasses image blocking to track email opens",
-    "score": 132,
-    "by": "nullcathedral",
-    "url": "https://nullcathedral.com/posts/2026-02-08-roundcube-svg-feimage-remote-image-bypass/",
-    "comments": 41
-  },
-  {
-    "title": "AI makes the easy part easier and the hard part harder",
-    "score": 290,
-    "by": "weaksauce",
-    "url": "https://www.blundergoat.com/articles/ai-makes-the-easy-part-easier-and-the-hard-part-harder",
-    "comments": 224
-  },
-  {
-    "title": "Show HN: Ported the 1999 game Bugdom to the browser and added a bunch of mods",
-    "score": 8,
-    "by": "reallyeli",
-    "url": "https://reallyeli.com/bugdom/Bugdom.html",
+    "by": "Twarner",
+    "url": "https://theodore.net/projects/Polargraph/",
     "comments": 0
   },
   {
-    "title": "NanoClaw now supports Claude's Agent Swarms in containers",
-    "score": 37,
-    "by": "spendy_clao",
-    "url": "https://twitter.com/Gavriel_Cohen/status/2020701159175155874",
-    "comments": 4
-  },
-  {
-    "title": "Containers, cloud, blockchain, AI – all the same old BS, says veteran Red Hatter",
-    "score": 9,
-    "by": "Brajeshwar",
-    "url": "https://www.theregister.com/2026/02/08/waves_of_tech_bs/",
+    "title": "Show HN: VillageSQL = MySQL and Extensions",
+    "score": 20,
+    "by": "metzby",
+    "url": "https://github.com/villagesql/villagesql-server",
     "comments": 1
   },
   {
-    "title": "Matchlock – Secures AI agent workloads with a Linux-based sandbox",
-    "score": 138,
-    "by": "jingkai_he",
-    "url": "https://github.com/jingkaihe/matchlock",
-    "comments": 59
+    "title": "Pg-dev-container is a ready-to-run VS Code development container for PostgreSQL",
+    "score": 33,
+    "by": "mariuz",
+    "url": "https://github.com/jnidzwetzki/pg-dev-container",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: Algorithmically finding the longest line of sight on Earth",
+    "score": 388,
+    "by": "tombh",
+    "url": "https://alltheviews.world",
+    "comments": 161
   }
 ]
