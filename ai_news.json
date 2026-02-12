@@ -1,107 +1,79 @@
 [
   {
-    "title": "The AI Vampire",
-    "score": 7,
-    "by": "SilverElfin",
-    "url": "https://steve-yegge.medium.com/the-ai-vampire-eda6e4f07163",
-    "comments": 4
+    "title": "Warcraft III Peon Voice Notifications for Claude Code",
+    "score": 244,
+    "by": "doppp",
+    "url": "https://github.com/tonyyont/peon-ping",
+    "comments": 96
   },
   {
-    "title": "Ex-GitHub CEO launches a new developer platform for AI agents",
-    "score": 472,
-    "by": "meetpateltech",
-    "url": "https://entire.io/blog/hello-entire-world/",
-    "comments": 433
+    "title": "65 Lines of Markdown, a Claude Code Sensation",
+    "score": 10,
+    "by": "roywashere",
+    "url": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
+    "comments": 1
   },
   {
-    "title": "The Little Learner: A Straight Line to Deep Learning (2023)",
-    "score": 144,
-    "by": "AlexeyBrin",
-    "url": "https://mitpress.mit.edu/9780262546379/the-little-learner/",
-    "comments": 18
+    "title": "Claude Code is being dumbed down?",
+    "score": 896,
+    "by": "WXLCKNO",
+    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
+    "comments": 583
   },
   {
-    "title": "Willow – Protocols for an uncertain future [video]",
+    "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
+    "score": 52,
+    "by": "jared_stewart",
+    "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
+    "comments": 16
+  },
+  {
+    "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
+    "score": 355,
+    "by": "edward",
+    "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
+    "comments": 556
+  },
+  {
+    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
+    "score": 93,
+    "by": "arm",
+    "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
+    "comments": 30
+  },
+  {
+    "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
     "score": 54,
-    "by": "todsacerdoti",
-    "url": "https://fosdem.org/2026/schedule/event/CVGZAV-willow/",
-    "comments": 2
+    "by": "nickvec",
+    "url": "https://agentalcove.ai",
+    "comments": 17
   },
   {
-    "title": "Show HN: JavaScript-first, open-source WYSIWYG DOCX editor",
-    "score": 85,
-    "by": "thisisjedr",
-    "url": "https://github.com/eigenpal/docx-js-editor",
+    "title": "Show HN: AI agents play SimCity through a REST API",
+    "score": 188,
+    "by": "aed",
+    "url": "https://hallucinatingsplines.com",
+    "comments": 67
+  },
+  {
+    "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
+    "score": 90,
+    "by": "vincentjiang",
+    "url": "https://github.com/adenhq/hive/blob/main/README.md",
     "comments": 26
   },
   {
-    "title": "Show HN: Rowboat – AI coworker that turns your work into a knowledge graph (OSS)",
-    "score": 153,
-    "by": "segmenta",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "comments": 38
+    "title": "Show HN: Double blind entropy using Drand for verifiably fair randomness",
+    "score": 17,
+    "by": "rishi_blockrand",
+    "url": "https://blockrand.net/live.html",
+    "comments": 14
   },
   {
-    "title": "Show HN: I built a macOS tool for network engineers – it's called NetViews",
-    "score": 209,
-    "by": "n1sni",
-    "url": "https://www.netviews.app",
-    "comments": 55
-  },
-  {
-    "title": "Tambo 1.0: Open-source toolkit for agents that render React components",
-    "score": 90,
-    "by": "grouchy",
-    "url": "https://github.com/tambo-ai/tambo",
-    "comments": 19
-  },
-  {
-    "title": "Show HN: Distr 2.0 – A year of learning how to ship to customer environments",
-    "score": 85,
-    "by": "louis_w_gk",
-    "url": "https://github.com/distr-sh/distr",
-    "comments": 23
-  },
-  {
-    "title": "Oxide raises $200M Series C",
-    "score": 568,
-    "by": "igrunert",
-    "url": "https://oxide.computer/blog/our-200m-series-c",
-    "comments": 301
-  },
-  {
-    "title": "Show HN: ArtisanForge: Learn Laravel through a gamified RPG adventure",
-    "score": 32,
-    "by": "grazulex",
-    "url": "https://artisanforge.online/",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: Stripe-no-webhooks – Sync your Stripe data to your Postgres DB",
-    "score": 56,
-    "by": "prasoonds",
-    "url": "https://github.com/pretzelai/stripe-no-webhooks",
-    "comments": 23
-  },
-  {
-    "title": "Show HN: Model Training Memory Simulator",
-    "score": 8,
-    "by": "czheo",
-    "url": "https://czheo.github.io/2026/02/08/model-training-memory-simulator/",
-    "comments": 0
-  },
-  {
-    "title": "Frontier AI agents violate ethical constraints 30–50% of time, pressured by KPIs",
-    "score": 524,
-    "by": "tiny-automates",
-    "url": "https://arxiv.org/abs/2512.20798",
-    "comments": 350
-  },
-  {
-    "title": "Show HN: Multimodal perception system for real-time conversation",
-    "score": 46,
-    "by": "mert_gerdan",
-    "url": "https://raven.tavuslabs.org",
-    "comments": 12
+    "title": "Trying Out Thunderbird Appointment While I Patiently Wait for an Invite",
+    "score": 6,
+    "by": "todsacerdoti",
+    "url": "https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/",
+    "comments": 1
   }
 ]
