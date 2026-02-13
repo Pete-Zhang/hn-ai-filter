@@ -1,79 +1,79 @@
 [
   {
+    "title": "An AI agent published a hit piece on me",
+    "score": 1745,
+    "by": "scottshambaugh",
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
+    "comments": 710
+  },
+  {
+    "title": "Asimov (YC W26) Is Hiring",
+    "score": 1,
+    "by": "lningthou",
+    "url": "",
+    "comments": 0
+  },
+  {
+    "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
+    "score": 179,
+    "by": "ffworld",
+    "url": "",
+    "comments": 6
+  },
+  {
+    "title": "Major European payment processor can't send email to Google Workspace users",
+    "score": 507,
+    "by": "thatha7777",
+    "url": "https://atha.io/blog/2026-02-12-viva",
+    "comments": 344
+  },
+  {
+    "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
+    "score": 114,
+    "by": "kmansm27",
+    "url": "",
+    "comments": 135
+  },
+  {
+    "title": "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
+    "score": 16,
+    "by": "benbreen",
+    "url": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
+    "comments": 0
+  },
+  {
+    "title": "Fixing retail with land value capture",
+    "score": 83,
+    "by": "marojejian",
+    "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
+    "comments": 122
+  },
+  {
     "title": "Warcraft III Peon Voice Notifications for Claude Code",
-    "score": 244,
+    "score": 951,
     "by": "doppp",
     "url": "https://github.com/tonyyont/peon-ping",
-    "comments": 96
+    "comments": 289
   },
   {
-    "title": "65 Lines of Markdown, a Claude Code Sensation",
-    "score": 10,
-    "by": "roywashere",
-    "url": "https://tildeweb.nl/~michiel/65-lines-of-markdown-a-claude-code-sensation.html",
-    "comments": 1
+    "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
+    "score": 335,
+    "by": "ryanhn",
+    "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
+    "comments": 351
   },
   {
-    "title": "Claude Code is being dumbed down?",
-    "score": 896,
-    "by": "WXLCKNO",
-    "url": "https://symmetrybreak.ing/blog/claude-code-is-being-dumbed-down/",
-    "comments": 583
+    "title": "A party balloon shut down El Paso International Airport; estimated cost –$573k",
+    "score": 157,
+    "by": "heifer",
+    "url": "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History",
+    "comments": 101
   },
   {
-    "title": "Show HN: CodeRLM – Tree-sitter-backed code indexing for LLM agents",
-    "score": 52,
-    "by": "jared_stewart",
-    "url": "https://github.com/JaredStewart/coderlm/blob/main/server/REPL_to_API.md",
-    "comments": 16
-  },
-  {
-    "title": "Officials Claim Drone Incursion Led to Shutdown of El Paso Airport",
-    "score": 355,
-    "by": "edward",
-    "url": "https://www.nytimes.com/2026/02/11/us/faa-el-paso-flight-restrictions.html",
-    "comments": 556
-  },
-  {
-    "title": "Microwave Oven Failure: Spontaneously turned on by its LED display (2024)",
-    "score": 93,
-    "by": "arm",
-    "url": "https://blog.stuffedcow.net/2024/06/microwave-failure-spontaneously-turns-on/",
-    "comments": 30
-  },
-  {
-    "title": "Show HN: Agent Alcove – Claude, GPT, and Gemini debate across forums",
-    "score": 54,
-    "by": "nickvec",
-    "url": "https://agentalcove.ai",
-    "comments": 17
-  },
-  {
-    "title": "Show HN: AI agents play SimCity through a REST API",
-    "score": 188,
-    "by": "aed",
-    "url": "https://hallucinatingsplines.com",
-    "comments": 67
-  },
-  {
-    "title": "Show HN: Agent framework that generates its own topology and evolves at runtime",
-    "score": 90,
-    "by": "vincentjiang",
-    "url": "https://github.com/adenhq/hive/blob/main/README.md",
-    "comments": 26
-  },
-  {
-    "title": "Show HN: Double blind entropy using Drand for verifiably fair randomness",
-    "score": 17,
-    "by": "rishi_blockrand",
-    "url": "https://blockrand.net/live.html",
-    "comments": 14
-  },
-  {
-    "title": "Trying Out Thunderbird Appointment While I Patiently Wait for an Invite",
-    "score": 6,
-    "by": "todsacerdoti",
-    "url": "https://blog.matthewbrunelle.com/trying-out-thunderbird-appointment-while-i-patiently-await-for-an-invite/",
-    "comments": 1
+    "title": "ai;dr",
+    "score": 634,
+    "by": "ssiddharth",
+    "url": "https://www.0xsid.com/blog/aidr",
+    "comments": 253
   }
 ]
