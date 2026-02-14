@@ -1,79 +1,93 @@
 [
   {
-    "title": "An AI agent published a hit piece on me",
-    "score": 1745,
+    "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
+    "score": 75,
+    "by": "mickamy",
+    "url": "https://github.com/mickamy/sql-tap",
+    "comments": 14
+  },
+  {
+    "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
+    "score": 210,
+    "by": "benstopics",
+    "url": "https://www.wallstreetraider.com/story.html",
+    "comments": 58
+  },
+  {
+    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
+    "score": 146,
+    "by": "xx123122",
+    "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
+    "comments": 12
+  },
+  {
+    "title": "Adventures in Neural Rendering",
+    "score": 25,
+    "by": "ingve",
+    "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
+    "comments": 1
+  },
+  {
+    "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
+    "score": 389,
     "by": "scottshambaugh",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me/",
-    "comments": 710
+    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
+    "comments": 198
   },
   {
-    "title": "Asimov (YC W26) Is Hiring",
-    "score": 1,
-    "by": "lningthou",
+    "title": "I'm not worried about AI job loss",
+    "score": 245,
+    "by": "ezekg",
+    "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
+    "comments": 407
+  },
+  {
+    "title": "OpenAI has deleted the word 'safely' from its mission",
+    "score": 489,
+    "by": "DamnInteresting",
+    "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
+    "comments": 249
+  },
+  {
+    "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
+    "score": 120,
+    "by": "austinwang115",
+    "url": "https://cloudrouter.dev/",
+    "comments": 33
+  },
+  {
+    "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
+    "score": 9,
+    "by": "catapart",
     "url": "",
-    "comments": 0
-  },
-  {
-    "title": "Tell HN: Ralph Giles has died (Xiph.org| Rust@Mozilla | Ghostscript)",
-    "score": 179,
-    "by": "ffworld",
-    "url": "",
-    "comments": 6
-  },
-  {
-    "title": "Major European payment processor can't send email to Google Workspace users",
-    "score": 507,
-    "by": "thatha7777",
-    "url": "https://atha.io/blog/2026-02-12-viva",
-    "comments": 344
-  },
-  {
-    "title": "Launch HN: Omnara (YC S25) – Run Claude Code and Codex from anywhere",
-    "score": 114,
-    "by": "kmansm27",
-    "url": "",
-    "comments": 135
-  },
-  {
-    "title": "Evaluating Multilingual, Context-Aware Guardrails: A Humanitarian LLM Use Case",
-    "score": 16,
-    "by": "benbreen",
-    "url": "https://blog.mozilla.ai/evaluating-multilingual-context-aware-guardrails-evidence-from-a-humanitarian-llm-use-case/",
-    "comments": 0
-  },
-  {
-    "title": "Fixing retail with land value capture",
-    "score": 83,
-    "by": "marojejian",
-    "url": "https://worksinprogress.co/issue/fixing-retail-with-land-value-capture/",
-    "comments": 122
-  },
-  {
-    "title": "Warcraft III Peon Voice Notifications for Claude Code",
-    "score": 951,
-    "by": "doppp",
-    "url": "https://github.com/tonyyont/peon-ping",
-    "comments": 289
+    "comments": 13
   },
   {
     "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
-    "score": 335,
+    "score": 405,
     "by": "ryanhn",
     "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-    "comments": 351
+    "comments": 409
   },
   {
-    "title": "A party balloon shut down El Paso International Airport; estimated cost –$573k",
-    "score": 157,
-    "by": "heifer",
-    "url": "https://log.jasongodfrey.info/questions/The-Most-Expensive-Party-Balloon-in-History",
-    "comments": 101
+    "title": "MinIO repository is no longer maintained",
+    "score": 467,
+    "by": "psvmcc",
+    "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
+    "comments": 347
   },
   {
-    "title": "ai;dr",
-    "score": 634,
-    "by": "ssiddharth",
-    "url": "https://www.0xsid.com/blog/aidr",
-    "comments": 253
+    "title": "Show HN: OpenWhisper – free, local, and private voice-to-text macOS app",
+    "score": 26,
+    "by": "rwu1997",
+    "url": "https://github.com/richardwu/openwhisper",
+    "comments": 8
+  },
+  {
+    "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
+    "score": 100,
+    "by": "fabienpenso",
+    "url": "https://www.moltis.org",
+    "comments": 38
   }
 ]
