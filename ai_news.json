@@ -1,93 +1,86 @@
 [
   {
-    "title": "Show HN: SQL-tap – Real-time SQL traffic viewer for PostgreSQL and MySQL",
-    "score": 75,
-    "by": "mickamy",
-    "url": "https://github.com/mickamy/sql-tap",
-    "comments": 14
-  },
-  {
-    "title": "Show HN: I spent 3 years reverse-engineering a 40 yo stock market sim from 1986",
-    "score": 210,
-    "by": "benstopics",
-    "url": "https://www.wallstreetraider.com/story.html",
+    "title": "I love the work of the ArchWiki maintainers",
+    "score": 308,
+    "by": "panic",
+    "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
     "comments": 58
   },
   {
-    "title": "Show HN: Data Engineering Book – An open source, community-driven guide",
-    "score": 146,
-    "by": "xx123122",
-    "url": "https://github.com/datascale-ai/data_engineering_book/blob/main/README_en.md",
-    "comments": 12
+    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
+    "score": 425,
+    "by": "minimalthinker",
+    "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
+    "comments": 201
   },
   {
-    "title": "Adventures in Neural Rendering",
+    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
+    "score": 476,
+    "by": "ninjagoo",
+    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
+    "comments": 301
+  },
+  {
+    "title": "OpenAI should build Slack",
+    "score": 155,
+    "by": "swyx",
+    "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
+    "comments": 153
+  },
+  {
+    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
     "score": 25,
-    "by": "ingve",
-    "url": "https://interplayoflight.wordpress.com/2026/02/10/adventures-in-neural-rendering/",
+    "by": "bpierre",
+    "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
+    "comments": 3
+  },
+  {
+    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
+    "score": 94,
+    "by": "ali_chherawalla",
+    "url": "https://github.com/alichherawalla/off-grid-mobile",
+    "comments": 35
+  },
+  {
+    "title": "Show HN: MOL – A programming language where pipelines trace themselves",
+    "score": 33,
+    "by": "MouneshK",
+    "url": "https://github.com/crux-ecosystem/mol-lang",
+    "comments": 10
+  },
+  {
+    "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
+    "score": 68,
+    "by": "weinzierl",
+    "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
     "comments": 1
   },
   {
-    "title": "An AI Agent Published a Hit Piece on Me – More Things Have Happened",
-    "score": 389,
+    "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
+    "score": 72,
+    "by": "ahmed_sulajman",
+    "url": "https://github.com/Geek-1001/arcmark",
+    "comments": 17
+  },
+  {
+    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
+    "score": 335,
+    "by": "WhatsTheBigIdea",
+    "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
+    "comments": 216
+  },
+  {
+    "title": "An AI agent published a hit piece on me – more things have happened",
+    "score": 674,
     "by": "scottshambaugh",
     "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "comments": 198
+    "comments": 567
   },
   {
-    "title": "I'm not worried about AI job loss",
-    "score": 245,
-    "by": "ezekg",
-    "url": "https://davidoks.blog/p/why-im-not-worried-about-ai-job-loss",
-    "comments": 407
-  },
-  {
-    "title": "OpenAI has deleted the word 'safely' from its mission",
-    "score": 489,
-    "by": "DamnInteresting",
-    "url": "https://theconversation.com/openai-has-deleted-the-word-safely-from-its-mission-and-its-new-structure-is-a-test-for-whether-ai-serves-society-or-shareholders-274467",
-    "comments": 249
-  },
-  {
-    "title": "Show HN: Skill that lets Claude Code/Codex spin up VMs and GPUs",
-    "score": 120,
-    "by": "austinwang115",
-    "url": "https://cloudrouter.dev/",
-    "comments": 33
-  },
-  {
-    "title": "Ask HN: Are there examples of 3D printing data onto physical surfaces?",
-    "score": 9,
-    "by": "catapart",
-    "url": "",
-    "comments": 13
-  },
-  {
-    "title": "Anthropic raises $30B in Series G funding at $380B post-money valuation",
-    "score": 405,
-    "by": "ryanhn",
-    "url": "https://www.anthropic.com/news/anthropic-raises-30-billion-series-g-funding-380-billion-post-money-valuation",
-    "comments": 409
-  },
-  {
-    "title": "MinIO repository is no longer maintained",
-    "score": 467,
-    "by": "psvmcc",
-    "url": "https://github.com/minio/minio/commit/7aac2a2c5b7c882e68c1ce017d8256be2feea27f",
-    "comments": 347
-  },
-  {
-    "title": "Show HN: OpenWhisper – free, local, and private voice-to-text macOS app",
-    "score": 26,
-    "by": "rwu1997",
-    "url": "https://github.com/richardwu/openwhisper",
-    "comments": 8
-  },
-  {
-    "title": "Show HN: Moltis – AI assistant with memory, tools, and self-extending skills",
-    "score": 100,
-    "by": "fabienpenso",
-    "url": "https://www.moltis.org",
-    "comments": 38
+    "title": "Cuba's regime is in dire straits",
+    "score": 14,
+    "by": "ViktorRay",
+    "url": "https://www.economist.com/the-americas/2026/01/14/cubas-regime-is-in-dire-straits",
+    "comments": 7
   }
 ]
