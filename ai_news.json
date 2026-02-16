@@ -1,86 +1,65 @@
 [
   {
+    "title": "I’m joining OpenAI",
+    "score": 944,
+    "by": "mfiguiere",
+    "url": "https://steipete.me/posts/2026/openclaw",
+    "comments": 647
+  },
+  {
+    "title": "1,300-year-old world chronicle unearthed in Sinai",
+    "score": 21,
+    "by": "telotortium",
+    "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
+    "comments": 2
+  },
+  {
+    "title": "I gave Claude access to my pen plotter",
+    "score": 165,
+    "by": "futurecat",
+    "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
+    "comments": 89
+  },
+  {
+    "title": "Databases should contain their own Metadata – Use SQL Everywhere",
+    "score": 19,
+    "by": "matheusalmeida",
+    "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
+    "comments": 7
+  },
+  {
+    "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
+    "score": 46,
+    "by": "Propolice",
+    "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
+    "comments": 30
+  },
+  {
+    "title": "Editor's Note: Retraction of article containing fabricated quotations",
+    "score": 231,
+    "by": "bikenaga",
+    "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
+    "comments": 160
+  },
+  {
+    "title": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
+    "score": 65,
+    "by": "miloschwartz",
+    "url": "https://github.com/fosrl/pangolin",
+    "comments": 21
+  },
+  {
     "title": "I love the work of the ArchWiki maintainers",
-    "score": 308,
+    "score": 896,
     "by": "panic",
     "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-    "comments": 58
+    "comments": 160
   },
   {
-    "title": "My smart sleep mask broadcasts users' brainwaves to an open MQTT broker",
-    "score": 425,
-    "by": "minimalthinker",
-    "url": "https://aimilios.bearblog.dev/reverse-engineering-sleep-mask/",
-    "comments": 201
-  },
-  {
-    "title": "News publishers limit Internet Archive access due to AI scraping concerns",
-    "score": 476,
-    "by": "ninjagoo",
-    "url": "https://www.niemanlab.org/2026/01/news-publishers-limit-internet-archive-access-due-to-ai-scraping-concerns/",
-    "comments": 301
-  },
-  {
-    "title": "OpenAI should build Slack",
-    "score": 155,
-    "by": "swyx",
-    "url": "https://www.latent.space/p/ainews-why-openai-should-build-slack",
-    "comments": 153
-  },
-  {
-    "title": "Guitars of the USSR and the Jolana Special in Azerbaijani Music",
-    "score": 25,
-    "by": "bpierre",
-    "url": "https://caucascapades.wordpress.com/2012/06/14/guitars-of-the-ussr-and-the-jolana-special-in-azerbaijani-music/",
-    "comments": 3
-  },
-  {
-    "title": "Show HN: Off Grid – Run AI text, image gen, vision offline on your phone",
-    "score": 94,
-    "by": "ali_chherawalla",
-    "url": "https://github.com/alichherawalla/off-grid-mobile",
-    "comments": 35
-  },
-  {
-    "title": "Show HN: MOL – A programming language where pipelines trace themselves",
-    "score": 33,
-    "by": "MouneshK",
-    "url": "https://github.com/crux-ecosystem/mol-lang",
-    "comments": 10
-  },
-  {
-    "title": "Fun with Algebraic Effects – From Toy Examples to Hardcaml Simulations",
-    "score": 68,
-    "by": "weinzierl",
-    "url": "https://blog.janestreet.com/fun-with-algebraic-effects-hardcaml/",
-    "comments": 1
-  },
-  {
-    "title": "Show HN: Arcmark – macOS bookmark manager that attaches to browser as sidebar",
-    "score": 72,
-    "by": "ahmed_sulajman",
-    "url": "https://github.com/Geek-1001/arcmark",
-    "comments": 17
-  },
-  {
-    "title": "IBM tripling entry-level jobs after finding the limits of AI adoption",
-    "score": 335,
-    "by": "WhatsTheBigIdea",
-    "url": "https://fortune.com/2026/02/13/tech-giant-ibm-tripling-gen-z-entry-level-hiring-according-to-chro-rewriting-jobs-ai-era/",
-    "comments": 216
-  },
-  {
-    "title": "An AI agent published a hit piece on me – more things have happened",
-    "score": 674,
-    "by": "scottshambaugh",
-    "url": "https://theshamblog.com/an-ai-agent-published-a-hit-piece-on-me-part-2/",
-    "comments": 567
-  },
-  {
-    "title": "Cuba's regime is in dire straits",
-    "score": 14,
-    "by": "ViktorRay",
-    "url": "https://www.economist.com/the-americas/2026/01/14/cubas-regime-is-in-dire-straits",
-    "comments": 7
+    "title": "AI is going to kill app subscriptions",
+    "score": 116,
+    "by": "informal007",
+    "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
+    "comments": 187
   }
 ]
