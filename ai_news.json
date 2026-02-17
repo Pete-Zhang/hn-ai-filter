@@ -1,65 +1,86 @@
 [
   {
-    "title": "I’m joining OpenAI",
-    "score": 944,
-    "by": "mfiguiere",
-    "url": "https://steipete.me/posts/2026/openclaw",
-    "comments": 647
+    "title": "Show HN: I built a tool to un-dumb Claude Code's CLI output (Local Log Viewer)",
+    "score": 8,
+    "by": "matt1398",
+    "url": "https://github.com/matt1398/claude-devtools",
+    "comments": 0
   },
   {
-    "title": "1,300-year-old world chronicle unearthed in Sinai",
-    "score": 21,
-    "by": "telotortium",
-    "url": "https://www.heritagedaily.com/2026/02/1300-year-old-world-chronicle-unearthed-in-sinai/156948",
-    "comments": 2
+    "title": "Show HN: Scanned 1927-1945 Daily USFS Work Diary",
+    "score": 90,
+    "by": "dogline",
+    "url": "https://forestrydiary.com/",
+    "comments": 16
   },
   {
-    "title": "I gave Claude access to my pen plotter",
-    "score": 165,
-    "by": "futurecat",
-    "url": "https://harmonique.one/posts/i-gave-claude-access-to-my-pen-plotter",
-    "comments": 89
-  },
-  {
-    "title": "Databases should contain their own Metadata – Use SQL Everywhere",
-    "score": 19,
-    "by": "matheusalmeida",
-    "url": "https://floedb.ai/blog/databases-should-contain-their-own-metadata-instrumentation-in-floe",
-    "comments": 7
-  },
-  {
-    "title": "I Love Board Games: A Personal Obsession Explained by Psychology",
-    "score": 46,
-    "by": "Propolice",
-    "url": "https://www.thesswnetwork.com/post/why-i-love-board-games-a-personal-obsession-explained-by-psychology",
+    "title": "Building for an audience of one: starting and finishing side projects with AI",
+    "score": 57,
+    "by": "lorisdev",
+    "url": "https://codemade.net/blog/building-for-one/",
     "comments": 30
   },
   {
-    "title": "Editor's Note: Retraction of article containing fabricated quotations",
-    "score": 231,
-    "by": "bikenaga",
-    "url": "https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/",
-    "comments": 160
+    "title": "Show HN: Glitchy camera – a circuit-bent camera simulator in the browser",
+    "score": 4,
+    "by": "elayabharath",
+    "url": "https://glitchycam.com",
+    "comments": 0
   },
   {
-    "title": "Show HN: Pangolin: Open-source identity-based VPN (Twingate/Zscaler alternative)",
-    "score": 65,
-    "by": "miloschwartz",
-    "url": "https://github.com/fosrl/pangolin",
-    "comments": 21
+    "title": "Neurons outside the brain",
+    "score": 88,
+    "by": "yichab0d",
+    "url": "https://essays.debugyourpain.com/p/you-are-not-just-your-brain",
+    "comments": 36
   },
   {
-    "title": "I love the work of the ArchWiki maintainers",
-    "score": 896,
-    "by": "panic",
-    "url": "https://k7r.eu/i-love-the-work-of-the-archwiki-maintainers/",
-    "comments": 160
+    "title": "Turing Labs (YC W20) Is Hiring – Founding GTM Sales Hacker",
+    "score": 1,
+    "by": "turinglabs",
+    "url": "",
+    "comments": 0
   },
   {
-    "title": "AI is going to kill app subscriptions",
-    "score": 116,
-    "by": "informal007",
-    "url": "https://nichehunt.app/blog/ai-going-to-kill-app-subscriptions",
-    "comments": 187
+    "title": "PCB Rework and Repair Guide [pdf]",
+    "score": 128,
+    "by": "varjag",
+    "url": "https://www.intertronics.co.uk/wp-content/uploads/2017/05/PCB-Rework-and-Repair-Guide.pdf",
+    "comments": 36
+  },
+  {
+    "title": "The long tail of LLM-assisted decompilation",
+    "score": 66,
+    "by": "knackers",
+    "url": "https://blog.chrislewis.au/the-long-tail-of-llm-assisted-decompilation/",
+    "comments": 24
+  },
+  {
+    "title": "Show HN: Maths, CS and AI Compendium",
+    "score": 73,
+    "by": "HenryNdubuaku",
+    "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
+    "comments": 17
+  },
+  {
+    "title": "Show HN: Klaw.sh – Kubernetes for AI agents",
+    "score": 57,
+    "by": "eftalyurtseven",
+    "url": "https://github.com/klawsh/klaw.sh",
+    "comments": 44
+  },
+  {
+    "title": "Show HN: 2D Coulomb Gas Simulator",
+    "score": 37,
+    "by": "swesnow",
+    "url": "https://simonhalvdansson.github.io/2D-Coulomb-Gas-Tools/index_gpu.html",
+    "comments": 5
+  },
+  {
+    "title": "AI is destroying open source, and it's not even good yet",
+    "score": 337,
+    "by": "VorpalWay",
+    "url": "https://www.jeffgeerling.com/blog/2026/ai-is-destroying-open-source/",
+    "comments": 254
   }
 ]
