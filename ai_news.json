@@ -1,100 +1,65 @@
 [
   {
+    "title": "Tailscale Peer Relays is now generally available",
+    "score": 396,
+    "by": "sz4kerto",
+    "url": "https://tailscale.com/blog/peer-relays-ga",
+    "comments": 194
+  },
+  {
+    "title": "How AI is affecting productivity and jobs in Europe",
+    "score": 96,
+    "by": "pseudolus",
+    "url": "https://cepr.org/voxeu/columns/how-ai-affecting-productivity-and-jobs-europe",
+    "comments": 49
+  },
+  {
+    "title": "Show HN: A Lisp where each function call runs a Docker container",
+    "score": 30,
+    "by": "a11ce",
+    "url": "https://github.com/a11ce/docker-lisp",
+    "comments": 10
+  },
+  {
+    "title": "Electrobun v1: Build fast, tiny, and cross-platform desktop apps with TypeScript",
+    "score": 79,
+    "by": "merlindru",
+    "url": "https://blackboard.sh/blog/electrobun-v1/",
+    "comments": 24
+  },
+  {
+    "title": "Show HN: Rebrain.gg – Doom learn, don't doom scroll",
+    "score": 84,
+    "by": "FailMore",
+    "url": "",
+    "comments": 34
+  },
+  {
+    "title": "Show HN: Respectlytics – Open-source, privacy-first mobile analytics (MIT+AGPL)",
+    "score": 18,
+    "by": "cesncn",
+    "url": "https://github.com/respectlytics/respectlytics",
+    "comments": 1
+  },
+  {
+    "title": "Microsoft guide to pirating Harry Potter for LLM training (2024) [removed]",
+    "score": 274,
+    "by": "anonymous908213",
+    "url": "https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore-example/",
+    "comments": 168
+  },
+  {
+    "title": "Show HN: I built a fuse box for microservices",
+    "score": 15,
+    "by": "rodrigorcs",
+    "url": "https://www.openfuse.io",
+    "comments": 12
+  },
+  {
     "title": "Claude Sonnet 4.6",
-    "score": 1066,
+    "score": 1305,
     "by": "adocomplete",
     "url": "https://www.anthropic.com/news/claude-sonnet-4-6",
-    "comments": 937
-  },
-  {
-    "title": "Thank HN: You helped save 33k lives",
-    "score": 747,
-    "by": "chaseadam17",
-    "url": "",
-    "comments": 77
-  },
-  {
-    "title": "Show HN: AsteroidOS 2.0 – Nobody asked, we shipped anyway",
-    "score": 361,
-    "by": "moWerk",
-    "url": "https://asteroidos.org/news/2-0-release/index.html",
-    "comments": 42
-  },
-  {
-    "title": "Reverse Engineering Sid Meier's Railroad Tycoon for DOS from 1990",
-    "score": 84,
-    "by": "LowLevelMahn",
-    "url": "https://www.vogons.org/viewtopic.php?t=105451",
-    "comments": 15
-  },
-  {
-    "title": "Thousands of CEOs just admitted AI had no impact on employment or productivity",
-    "score": 425,
-    "by": "virgildotcodes",
-    "url": "https://fortune.com/2026/02/17/ai-productivity-paradox-ceo-study-robert-solow-information-technology-age/",
-    "comments": 308
-  },
-  {
-    "title": "Show HN: Breadboard – a modern HyperCard for building web apps on the canvas",
-    "score": 16,
-    "by": "simquat",
-    "url": "https://breadboards.io/",
-    "comments": 0
-  },
-  {
-    "title": "Async/Await on the GPU",
-    "score": 190,
-    "by": "Philpax",
-    "url": "https://www.vectorware.com/blog/async-await-on-gpu/",
-    "comments": 50
-  },
-  {
-    "title": "Show HN: I wrote a technical history book on Lisp",
-    "score": 202,
-    "by": "cdegroot",
-    "url": "https://berksoft.ca/gol/",
-    "comments": 76
-  },
-  {
-    "title": "Quamina and Claude, Case 1",
-    "score": 19,
-    "by": "zdw",
-    "url": "https://www.tbray.org/ongoing/When/202x/2026/02/06/Q-Plus-C-Ch1",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: Beautiful interactive explainers generated with Claude Code",
-    "score": 29,
-    "by": "paraschopra",
-    "url": "https://paraschopra.github.io/explainers/",
-    "comments": 12
-  },
-  {
-    "title": "Tesla Sales Down 55% UK, 58% Spain, 59% Germany, 81% Netherlands, 93% Norway",
-    "score": 242,
-    "by": "whynotmaybe",
-    "url": "https://cleantechnica.com/2026/02/15/tesla-sales-down-tremendously-in-uk-norway-netherlands-germany-spain-sweden-denmark-portugal-switzerland/",
-    "comments": 208
-  },
-  {
-    "title": "Show HN: I taught LLMs to play Magic: The Gathering against each other",
-    "score": 102,
-    "by": "GregorStocks",
-    "url": "https://mage-bench.com/",
-    "comments": 77
-  },
-  {
-    "title": "Show HN: Box of Rain - Auto-Layouted ASCII Diagrams",
-    "score": 21,
-    "by": "switz",
-    "url": "https://github.com/switz/box-of-rain",
-    "comments": 12
-  },
-  {
-    "title": "Show HN: I built a \"Socratic\" AI to stop my daughter from copy-pasting homework",
-    "score": 5,
-    "by": "qurio_dev",
-    "url": "https://thinkqurio.com/",
-    "comments": 2
+    "comments": 1182
   }
 ]
