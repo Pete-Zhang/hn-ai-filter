@@ -1,100 +1,114 @@
 [
   {
-    "title": "Defer available in gcc and clang",
-    "score": 110,
-    "by": "r4um",
-    "url": "https://gustedt.wordpress.com/2026/02/15/defer-available-in-gcc-and-clang/",
-    "comments": 53
+    "title": "Ggml.ai joins Hugging Face to ensure the long-term progress of Local AI",
+    "score": 725,
+    "by": "lairv",
+    "url": "https://github.com/ggml-org/llama.cpp/discussions/19759",
+    "comments": 180
   },
   {
-    "title": "Gemini 3.1 Pro",
-    "score": 719,
-    "by": "MallocVoidstar",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
-    "comments": 788
+    "title": "Wikipedia deprecates Archive.today, starts removing archive links",
+    "score": 408,
+    "by": "nobody9999",
+    "url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
+    "comments": 241
   },
   {
-    "title": "Pi for Excel: AI sidebar add-in for Excel",
-    "score": 59,
-    "by": "rahimnathwani",
-    "url": "https://github.com/tmustier/pi-for-excel",
-    "comments": 9
+    "title": "Meta Deployed AI and It Is Killing Our Agency",
+    "score": 123,
+    "by": "zenincognito",
+    "url": "https://mojodojo.io/blog/meta-is-systematically-killing-our-agency/",
+    "comments": 75
   },
   {
-    "title": "Show HN: Micasa – track your house from the terminal",
-    "score": 528,
-    "by": "cpcloud",
-    "url": "https://micasa.dev",
-    "comments": 175
+    "title": "Every company building your AI assistant is now an ad company",
+    "score": 168,
+    "by": "ajuhasz",
+    "url": "https://juno-labs.com/blogs/every-company-building-your-ai-assistant-is-an-ad-company",
+    "comments": 87
   },
   {
-    "title": "An AI Agent Published a Hit Piece on Me – The Operator Came Forward",
-    "score": 337,
-    "by": "scottshambaugh",
-    "url": "https://theshamblog.com/an-ai-agent-wrote-a-hit-piece-on-me-part-4/",
-    "comments": 276
-  },
-  {
-    "title": "MuMu Player (NetEase) silently runs 17 reconnaissance commands every 30 minutes",
-    "score": 259,
-    "by": "interpidused",
-    "url": "https://gist.github.com/interpiduser5/547d8a7baec436f24b7cce89dd4ae1ea",
-    "comments": 100
-  },
-  {
-    "title": "Show HN: Fostrom, an IoT Cloud Platform built for developers",
+    "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
     "score": 6,
-    "by": "arjunbajaj",
-    "url": "https://fostrom.io/",
+    "by": "tesserato",
+    "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
     "comments": 1
   },
   {
-    "title": "Show HN: Ghostty-based terminal with vertical tabs and notifications",
-    "score": 131,
-    "by": "lawrencechen",
-    "url": "https://github.com/manaflow-ai/cmux",
-    "comments": 59
-  },
-  {
-    "title": "Don't Trust the Salt: AI Summarization, Multilingual Safety, and LLM Guardrails",
-    "score": 207,
-    "by": "benbreen",
-    "url": "https://royapakzad.substack.com/p/multilingual-llm-evaluation-to-guardrails",
-    "comments": 80
-  },
-  {
-    "title": "Measuring AI agent autonomy in practice",
-    "score": 104,
-    "by": "jbredeche",
-    "url": "https://www.anthropic.com/research/measuring-agent-autonomy",
-    "comments": 48
-  },
-  {
-    "title": "AI is not a coworker, it's an exoskeleton",
-    "score": 209,
-    "by": "benbeingbin",
-    "url": "https://www.kasava.dev/blog/ai-as-exoskeleton",
-    "comments": 221
-  },
-  {
-    "title": "We're no longer attracting top talent: the brain drain killing American science",
-    "score": 427,
-    "by": "mitchbob",
-    "url": "https://www.theguardian.com/us-news/2026/feb/19/trump-science-funding-cuts",
-    "comments": 399
-  },
-  {
-    "title": "A psychedelic medicine performs well against depression",
+    "title": "Cord: Coordinating Trees of AI Agents",
     "score": 76,
-    "by": "vinni2",
-    "url": "https://www.economist.com/science-and-technology/2026/02/19/a-psychedelic-medicine-performs-well-against-depression",
-    "comments": 60
+    "by": "gfortaine",
+    "url": "https://www.june.kim/cord",
+    "comments": 38
   },
   {
-    "title": "Single vaccine could protect against all coughs, colds and flus",
-    "score": 161,
-    "by": "dabinat",
-    "url": "https://www.bbc.com/news/articles/cx2g8rz7yedo",
-    "comments": 107
+    "title": "Show HN: Mines.fyi – all the mines in the US in a leaflet visualization",
+    "score": 78,
+    "by": "irasigman",
+    "url": "https://mines.fyi/",
+    "comments": 40
+  },
+  {
+    "title": "The path to ubiquitous AI (17k tokens/sec)",
+    "score": 725,
+    "by": "sidnarsipur",
+    "url": "https://taalas.com/the-path-to-ubiquitous-ai/",
+    "comments": 409
+  },
+  {
+    "title": "Making frontier cybersecurity capabilities available to defenders",
+    "score": 114,
+    "by": "surprisetalk",
+    "url": "https://www.anthropic.com/news/claude-code-security",
+    "comments": 51
+  },
+  {
+    "title": "Show HN: A native macOS client for Hacker News, built with SwiftUI",
+    "score": 209,
+    "by": "IronsideXXVI",
+    "url": "https://github.com/IronsideXXVI/Hacker-News",
+    "comments": 144
+  },
+  {
+    "title": "Gemini 3.1 Pro",
+    "score": 936,
+    "by": "MallocVoidstar",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/",
+    "comments": 892
+  },
+  {
+    "title": "Show HN: Script Snap – Extract code from videos",
+    "score": 9,
+    "by": "liumw1203",
+    "url": "https://script-snap.com/",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Agent Passport – OAuth-like identity verification for AI agents",
+    "score": 10,
+    "by": "samerismail",
+    "url": "",
+    "comments": 3
+  },
+  {
+    "title": "The Rediscovery of 103 Hokusai Lost Sketches (2021)",
+    "score": 63,
+    "by": "debo_",
+    "url": "https://japan-forward.com/eternal-hokusai-the-rediscovery-of-103-hokusai-lost-sketches/",
+    "comments": 7
+  },
+  {
+    "title": "Uncovering insiders and alpha on Polymarket with AI",
+    "score": 94,
+    "by": "somerandomness",
+    "url": "https://twitter.com/peterjliu/status/2024901585806225723",
+    "comments": 73
+  },
+  {
+    "title": "The UK tourist with a valid visa detained by ICE for six weeks",
+    "score": 9,
+    "by": "n1b0m",
+    "url": "https://www.theguardian.com/us-news/2026/feb/21/karen-newton-valid-visa-detained-ice",
+    "comments": 5
   }
 ]
