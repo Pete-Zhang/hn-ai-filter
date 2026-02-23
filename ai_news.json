@@ -1,65 +1,100 @@
 [
   {
-    "title": "How I use Claude Code: Separation of planning and execution",
-    "score": 438,
-    "by": "vinhnx",
-    "url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "comments": 256
+    "title": "Pope tells priests to use their brains, not AI, to write homilies",
+    "score": 104,
+    "by": "josephcsible",
+    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
+    "comments": 85
   },
   {
-    "title": "zclaw: personal AI assistant in under 888 KB, running on an ESP32",
-    "score": 155,
-    "by": "tosh",
-    "url": "https://github.com/tnm/zclaw",
-    "comments": 84
+    "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
+    "score": 305,
+    "by": "MilkMp",
+    "url": "https://cia-factbook-archive.fly.dev/",
+    "comments": 75
   },
   {
-    "title": "CXMT has been offering DDR4 chips at about half the prevailing market rate",
-    "score": 193,
-    "by": "phront",
-    "url": "https://www.koreaherald.com/article/10679206",
-    "comments": 179
-  },
-  {
-    "title": "Toyota Mirai hydrogen car depreciation: 65% value loss in a year",
-    "score": 135,
-    "by": "iancmceachern",
-    "url": "https://carbuzz.com/toyota-mirai-massive-depreciation-one-year/",
-    "comments": 311
-  },
-  {
-    "title": "The Human Root of Trust – public domain framework for agent accountability",
-    "score": 11,
-    "by": "3du4rd0v3g4",
-    "url": "https://humanrootoftrust.org/",
-    "comments": 4
-  },
-  {
-    "title": "AI uBlock Blacklist",
-    "score": 245,
-    "by": "rdmuser",
-    "url": "https://github.com/alvi-se/ai-ublock-blacklist",
-    "comments": 109
-  },
-  {
-    "title": "The Internet Is Becoming a Dark Forest – and AI Is the Hunter",
-    "score": 27,
-    "by": "windcbf",
-    "url": "https://opennhp.org/blog/the-internet-is-becoming-a-dark-forest.html",
-    "comments": 26
-  },
-  {
-    "title": "Microsoft throws spox under the bus in ICC email flap",
-    "score": 10,
-    "by": "abdelhousni",
-    "url": "https://www.theregister.com/2026/02/18/microsoft_asks_uk_parliament_to_correct_record/",
+    "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
+    "score": 1,
+    "by": "slederer",
+    "url": "https://bitmovin.com/careers/8023403002/",
     "comments": 0
   },
   {
-    "title": "Lean 4: How the theorem prover works and why it's the new competitive edge in AI",
-    "score": 131,
-    "by": "tesserato",
-    "url": "https://venturebeat.com/ai/lean4-how-the-theorem-prover-works-and-why-its-the-new-competitive-edge-in",
-    "comments": 61
+    "title": "How to train your program verifier",
+    "score": 39,
+    "by": "matt_d",
+    "url": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
+    "comments": 8
+  },
+  {
+    "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
+    "score": 574,
+    "by": "srigi",
+    "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
+    "comments": 474
+  },
+  {
+    "title": "Man accidentally gains control of 7k robot vacuums",
+    "score": 279,
+    "by": "Brajeshwar",
+    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
+    "comments": 153
+  },
+  {
+    "title": "Aqua: A CLI message tool for AI agents",
+    "score": 45,
+    "by": "lyricat",
+    "url": "https://github.com/quailyquaily/aqua",
+    "comments": 23
+  },
+  {
+    "title": "A Bug Is a Bug, but a Patch Is a Policy: The Case for Bootable Containers",
+    "score": 3,
+    "by": "tuananh",
+    "url": "https://tuananh.net/2026/02/20/patch-is-policy/",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Local-First Linux MicroVMs for macOS",
+    "score": 167,
+    "by": "harshdoesdev",
+    "url": "https://shuru.run",
+    "comments": 53
+  },
+  {
+    "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
+    "score": 17,
+    "by": "cwillu",
+    "url": "https://thelexicans.wordpress.com/2020/04/05/38223/",
+    "comments": 1
+  },
+  {
+    "title": "Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology",
+    "score": 34,
+    "by": "jimishol",
+    "url": "https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md",
+    "comments": 9
+  },
+  {
+    "title": "NanoClaw moved from Apple Containers to Docker",
+    "score": 144,
+    "by": "simplesort",
+    "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
+    "comments": 112
+  },
+  {
+    "title": "Spain has blocked access to freedom.gov",
+    "score": 179,
+    "by": "akyuu",
+    "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
+    "comments": 181
+  },
+  {
+    "title": "Redefining the Software Engineering Profession for AI",
+    "score": 13,
+    "by": "dnw",
+    "url": "https://dl.acm.org/doi/10.1145/3779312",
+    "comments": 2
   }
 ]
