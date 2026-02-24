@@ -1,100 +1,93 @@
 [
   {
-    "title": "Pope tells priests to use their brains, not AI, to write homilies",
-    "score": 104,
-    "by": "josephcsible",
-    "url": "https://www.ewtnnews.com/vatican/pope-leo-xiv-tells-priests-to-use-their-brains-not-ai-to-write-homilies",
-    "comments": 85
+    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
+    "score": 173,
+    "by": "shaunpud",
+    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
+    "comments": 133
   },
   {
-    "title": "Show HN: CIA World Factbook Archive (1990–2025), searchable and exportable",
-    "score": 305,
-    "by": "MilkMp",
-    "url": "https://cia-factbook-archive.fly.dev/",
-    "comments": 75
+    "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
+    "score": 54,
+    "by": "parkaboy",
+    "url": "https://github.com/GreatScott/enveil",
+    "comments": 26
   },
   {
-    "title": "Bitmovin (YC S15) Is Hiring Interns in AI for Summer 2026 in Austria",
-    "score": 1,
-    "by": "slederer",
-    "url": "https://bitmovin.com/careers/8023403002/",
+    "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
+    "score": 138,
+    "by": "adebayoj",
+    "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
+    "comments": 25
+  },
+  {
+    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
+    "score": 150,
+    "by": "surprisetalk",
+    "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
+    "comments": 82
+  },
+  {
+    "title": "“Car Wash” test with 53 models",
+    "score": 204,
+    "by": "felix089",
+    "url": "https://opper.ai/blog/car-wash-test",
+    "comments": 232
+  },
+  {
+    "title": "Show HN: PgDog – Scale Postgres without changing the app",
+    "score": 253,
+    "by": "levkk",
+    "url": "https://github.com/pgdogdev/pgdog",
+    "comments": 51
+  },
+  {
+    "title": "Show HN: Cellarium: A Playground for Cellular Automata",
+    "score": 6,
+    "by": "andrewosh",
+    "url": "https://github.com/andrewosh/cellarium",
     "comments": 0
   },
   {
-    "title": "How to train your program verifier",
-    "score": 39,
-    "by": "matt_d",
-    "url": "https://risemsr.github.io/blog/2026-02-16-halleyyoung-a3/",
-    "comments": 8
+    "title": "Ladybird adopts Rust, with help from AI",
+    "score": 1153,
+    "by": "adius",
+    "url": "https://ladybird.org/posts/adopting-rust/",
+    "comments": 632
   },
   {
-    "title": "Google restricting Google AI Pro/Ultra subscribers for using OpenClaw",
-    "score": 574,
-    "by": "srigi",
-    "url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-    "comments": 474
+    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
+    "score": 349,
+    "by": "varankinv",
+    "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+    "comments": 286
   },
   {
-    "title": "Man accidentally gains control of 7k robot vacuums",
-    "score": 279,
-    "by": "Brajeshwar",
-    "url": "https://www.popsci.com/technology/robot-vacuum-army/",
-    "comments": 153
+    "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
+    "score": 108,
+    "by": "eigen-vector",
+    "url": "https://github.com/vignesh07/babyshark",
+    "comments": 40
   },
   {
-    "title": "Aqua: A CLI message tool for AI agents",
-    "score": 45,
-    "by": "lyricat",
-    "url": "https://github.com/quailyquaily/aqua",
-    "comments": 23
+    "title": "Iowa farmers are leading the fight for repair",
+    "score": 112,
+    "by": "gnabgib",
+    "url": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
+    "comments": 27
   },
   {
-    "title": "A Bug Is a Bug, but a Patch Is a Policy: The Case for Bootable Containers",
-    "score": 3,
-    "by": "tuananh",
-    "url": "https://tuananh.net/2026/02/20/patch-is-policy/",
-    "comments": 0
+    "title": "Show HN: Sowbot – Open-hardware agricultural robot (ROS2, RTK GPS)",
+    "score": 150,
+    "by": "Sabrees",
+    "url": "https://sowbot.co.uk/",
+    "comments": 41
   },
   {
-    "title": "Show HN: Local-First Linux MicroVMs for macOS",
-    "score": 167,
-    "by": "harshdoesdev",
-    "url": "https://shuru.run",
-    "comments": 53
-  },
-  {
-    "title": "Rhythms the Compendium: Life aboard an aircraft carrier (2021)",
-    "score": 17,
-    "by": "cwillu",
-    "url": "https://thelexicans.wordpress.com/2020/04/05/38223/",
-    "comments": 1
-  },
-  {
-    "title": "Show HN: A geometric analysis of Chopin's Prelude No. 4 using 3D topology",
-    "score": 34,
-    "by": "jimishol",
-    "url": "https://github.com/jimishol/cholidean-harmony-structure/blob/main/docs/03-case-study-chopin-prelude04.md",
-    "comments": 9
-  },
-  {
-    "title": "NanoClaw moved from Apple Containers to Docker",
-    "score": 144,
-    "by": "simplesort",
-    "url": "https://twitter.com/Gavriel_Cohen/status/2025603982769410356",
-    "comments": 112
-  },
-  {
-    "title": "Spain has blocked access to freedom.gov",
-    "score": 179,
-    "by": "akyuu",
-    "url": "https://twitter.com/Pirat_Nation/status/2025643188321714642",
-    "comments": 181
-  },
-  {
-    "title": "Redefining the Software Engineering Profession for AI",
-    "score": 13,
-    "by": "dnw",
-    "url": "https://dl.acm.org/doi/10.1145/3779312",
-    "comments": 2
+    "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
+    "score": 158,
+    "by": "ai_bot",
+    "url": "https://llm-timeline.com/",
+    "comments": 55
   }
 ]
