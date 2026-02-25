@@ -1,93 +1,100 @@
 [
   {
-    "title": "Firefox 148 Launches with AI Kill Switch Feature and More Enhancements",
-    "score": 173,
-    "by": "shaunpud",
-    "url": "https://serverhost.com/blog/firefox-148-launches-with-exciting-ai-kill-switch-feature-and-more-enhancements/",
-    "comments": 133
+    "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
+    "score": 231,
+    "by": "petewarden",
+    "url": "https://github.com/moonshine-ai/moonshine",
+    "comments": 49
   },
   {
-    "title": "Show HN: enveil – hide your .env secrets from prAIng eyes",
-    "score": 54,
-    "by": "parkaboy",
-    "url": "https://github.com/GreatScott/enveil",
-    "comments": 26
+    "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
+    "score": 7,
+    "by": "b0bbi",
+    "url": "https://shouldhavebought.com/",
+    "comments": 3
   },
   {
-    "title": "Show HN: Steerling-8B, a language model that can explain any token it generates",
-    "score": 138,
-    "by": "adebayoj",
-    "url": "https://www.guidelabs.ai/post/steerling-8b-base-model-release/",
-    "comments": 25
+    "title": "Show HN: Emdash – Open-source agentic development environment",
+    "score": 148,
+    "by": "onecommit",
+    "url": "https://github.com/generalaction/emdash",
+    "comments": 59
   },
   {
-    "title": "Making Wolfram Tech Available as a Foundation Tool for LLM Systems",
-    "score": 150,
-    "by": "surprisetalk",
-    "url": "https://writings.stephenwolfram.com/2026/02/making-wolfram-tech-available-as-a-foundation-tool-for-llm-systems/",
-    "comments": 82
+    "title": "Cell Service for the Fairly Paranoid",
+    "score": 89,
+    "by": "0xWTF",
+    "url": "https://www.cape.co/",
+    "comments": 92
   },
   {
-    "title": "“Car Wash” test with 53 models",
-    "score": 204,
-    "by": "felix089",
-    "url": "https://opper.ai/blog/car-wash-test",
-    "comments": 232
-  },
-  {
-    "title": "Show HN: PgDog – Scale Postgres without changing the app",
-    "score": 253,
-    "by": "levkk",
-    "url": "https://github.com/pgdogdev/pgdog",
-    "comments": 51
-  },
-  {
-    "title": "Show HN: Cellarium: A Playground for Cellular Automata",
-    "score": 6,
-    "by": "andrewosh",
-    "url": "https://github.com/andrewosh/cellarium",
+    "title": "Ed Zitron loses his mind annotating an AI doomer macro memo",
+    "score": 8,
+    "by": "ossa-ma",
+    "url": "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b",
     "comments": 0
   },
   {
-    "title": "Ladybird adopts Rust, with help from AI",
-    "score": 1153,
-    "by": "adius",
-    "url": "https://ladybird.org/posts/adopting-rust/",
-    "comments": 632
+    "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
+    "score": 45,
+    "by": "mksglu",
+    "url": "https://github.com/mksglu/claude-context-mode",
+    "comments": 14
   },
   {
-    "title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook, so AI built one for me",
-    "score": 349,
-    "by": "varankinv",
-    "url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
-    "comments": 286
+    "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
+    "score": 207,
+    "by": "mitchbob",
+    "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
+    "comments": 206
   },
   {
-    "title": "Show HN: Babyshark – Wireshark made easy (terminal UI for PCAPs)",
-    "score": 108,
-    "by": "eigen-vector",
-    "url": "https://github.com/vignesh07/babyshark",
-    "comments": 40
+    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
+    "score": 1724,
+    "by": "Qem",
+    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
+    "comments": 673
   },
   {
-    "title": "Iowa farmers are leading the fight for repair",
-    "score": 112,
-    "by": "gnabgib",
-    "url": "https://www.ifixit.com/News/115722/iowa-farmers-are-leading-the-fight-for-repair",
-    "comments": 27
+    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
+    "score": 562,
+    "by": "rzk",
+    "url": "https://vmfunc.re/blog/persona/",
+    "comments": 175
   },
   {
-    "title": "Show HN: Sowbot – Open-hardware agricultural robot (ROS2, RTK GPS)",
-    "score": 150,
-    "by": "Sabrees",
-    "url": "https://sowbot.co.uk/",
-    "comments": 41
+    "title": "Show HN: Recursively apply patterns for pathfinding",
+    "score": 22,
+    "by": "seveibar",
+    "url": "https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D",
+    "comments": 5
   },
   {
-    "title": "Show HN: AI Timeline – 171 LLMs from Transformer (2017) to GPT-5.3 (2026)",
-    "score": 158,
-    "by": "ai_bot",
-    "url": "https://llm-timeline.com/",
+    "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
+    "score": 149,
+    "by": "KnuthIsGod",
+    "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
     "comments": 55
+  },
+  {
+    "title": "Amazon would rather blame its own engineers than its AI",
+    "score": 3,
+    "by": "beardyw",
+    "url": "https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
+    "comments": 0
+  },
+  {
+    "title": "Tech Firms Aren't Just Encouraging Their Workers to Use AI. They're Enforcing It",
+    "score": 29,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84",
+    "comments": 5
+  },
+  {
+    "title": "How we rebuilt Next.js with AI in one week",
+    "score": 435,
+    "by": "ghostwriternr",
+    "url": "https://blog.cloudflare.com/vinext/",
+    "comments": 167
   }
 ]
