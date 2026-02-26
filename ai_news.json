@@ -1,100 +1,93 @@
 [
   {
-    "title": "Show HN: Moonshine Open-Weights STT models – higher accuracy than WhisperLargev3",
-    "score": 231,
-    "by": "petewarden",
-    "url": "https://github.com/moonshine-ai/moonshine",
-    "comments": 49
+    "title": "How will OpenAI compete?",
+    "score": 205,
+    "by": "iamskeole",
+    "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
+    "comments": 245
   },
   {
-    "title": "Show HN: Quantifying opportunity cost with a deliberately \"simple\" web app",
-    "score": 7,
-    "by": "b0bbi",
-    "url": "https://shouldhavebought.com/",
-    "comments": 3
+    "title": "The Pleasures and Pains of Coffee (1830)",
+    "score": 70,
+    "by": "jxmorris12",
+    "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
+    "comments": 29
   },
   {
-    "title": "Show HN: Emdash – Open-source agentic development environment",
-    "score": 148,
-    "by": "onecommit",
-    "url": "https://github.com/generalaction/emdash",
-    "comments": 59
+    "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
+    "score": 139,
+    "by": "cs702",
+    "url": "https://simonbergerart.com",
+    "comments": 57
   },
   {
-    "title": "Cell Service for the Fairly Paranoid",
-    "score": 89,
-    "by": "0xWTF",
-    "url": "https://www.cape.co/",
-    "comments": 92
+    "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
+    "score": 153,
+    "by": "vintagedave",
+    "url": "https://respectify.org/",
+    "comments": 144
   },
   {
-    "title": "Ed Zitron loses his mind annotating an AI doomer macro memo",
-    "score": 8,
-    "by": "ossa-ma",
-    "url": "https://www.dropbox.com/scl/fi/1p1n0y1ip48ianok9dvbp/Annotation-The-Global-Intelligence-Crisis.pdf?dl=0&e=1&noscript=1&rlkey=qaar8ea6l5hh6jqls4x6g8q4b",
+    "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
+    "score": 49,
+    "by": "zyoralabs",
+    "url": "https://github.com/Zyora-Dev/zse",
+    "comments": 4
+  },
+  {
+    "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
+    "score": 33,
+    "by": "shahules",
+    "url": "https://vibrantlabs.com/blog/pa-bench",
+    "comments": 4
+  },
+  {
+    "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
+    "score": 50,
+    "by": "vincentalbouy",
+    "url": "https://app.teamout.com/ai",
+    "comments": 57
+  },
+  {
+    "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
+    "score": 24,
+    "by": "unohee",
+    "url": "https://github.com/Intrect-io/OpenSwarm",
+    "comments": 13
+  },
+  {
+    "title": "Never buy a .online domain",
+    "score": 719,
+    "by": "ssiddharth",
+    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
+    "comments": 443
+  },
+  {
+    "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
+    "score": 1,
+    "by": "macklinkachorn",
+    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
     "comments": 0
   },
   {
-    "title": "Show HN: Context Mode – 315 KB of MCP output becomes 5.4 KB in Claude Code",
-    "score": 45,
-    "by": "mksglu",
-    "url": "https://github.com/mksglu/claude-context-mode",
-    "comments": 14
+    "title": "Show HN: A real-time strategy game that AI agents can play",
+    "score": 206,
+    "by": "__cayenne__",
+    "url": "https://llmskirmish.com/",
+    "comments": 72
   },
   {
-    "title": "IRS Tactics Against Meta Open a New Front in the Corporate Tax Fight",
-    "score": 207,
-    "by": "mitchbob",
-    "url": "https://www.nytimes.com/2026/02/24/business/irs-meta-corporate-taxes.html",
-    "comments": 206
+    "title": "Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock",
+    "score": 109,
+    "by": "user_timo",
+    "url": "https://www.clocksimulator.com/",
+    "comments": 76
   },
   {
-    "title": "IDF killed Gaza aid workers at point blank range in 2025 massacre: Report",
-    "score": 1724,
-    "by": "Qem",
-    "url": "https://www.dropsitenews.com/p/israeli-soldiers-tel-sultan-gaza-red-crescent-civil-defense-massacre-report-forensic-architecture-earshot",
-    "comments": 673
-  },
-  {
-    "title": "OpenAI, the US government and Persona built an identity surveillance machine",
-    "score": 562,
-    "by": "rzk",
-    "url": "https://vmfunc.re/blog/persona/",
-    "comments": 175
-  },
-  {
-    "title": "Show HN: Recursively apply patterns for pathfinding",
-    "score": 22,
-    "by": "seveibar",
-    "url": "https://pattern-pathfinder.vercel.app/?fixtureId=%7B%22path%22%3A%22site%2Fexamples%2F_intro.fixture.tsx%22%7D",
-    "comments": 5
-  },
-  {
-    "title": "US Military leaders meet with Anthropic to argue against Claude safeguards",
-    "score": 149,
-    "by": "KnuthIsGod",
-    "url": "https://www.theguardian.com/us-news/2026/feb/24/anthropic-claude-military-ai",
-    "comments": 55
-  },
-  {
-    "title": "Amazon would rather blame its own engineers than its AI",
-    "score": 3,
-    "by": "beardyw",
-    "url": "https://www.theregister.com/2026/02/24/amazon_blame_human_not_ai/",
-    "comments": 0
-  },
-  {
-    "title": "Tech Firms Aren't Just Encouraging Their Workers to Use AI. They're Enforcing It",
-    "score": 29,
-    "by": "1vuio0pswjnm7",
-    "url": "https://www.wsj.com/tech/ai/tech-firms-arent-just-encouraging-their-workers-to-use-ai-theyre-enforcing-it-d43ebf84",
-    "comments": 5
-  },
-  {
-    "title": "How we rebuilt Next.js with AI in one week",
-    "score": 435,
-    "by": "ghostwriternr",
-    "url": "https://blog.cloudflare.com/vinext/",
-    "comments": 167
+    "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+    "score": 234,
+    "by": "ceejayoz",
+    "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
+    "comments": 245
   }
 ]
