@@ -1,93 +1,107 @@
 [
   {
-    "title": "How will OpenAI compete?",
-    "score": 205,
-    "by": "iamskeole",
-    "url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-    "comments": 245
+    "title": "What Claude Code chooses",
+    "score": 390,
+    "by": "tin7in",
+    "url": "https://amplifying.ai/research/claude-code-picks",
+    "comments": 159
   },
   {
-    "title": "The Pleasures and Pains of Coffee (1830)",
-    "score": 70,
-    "by": "jxmorris12",
-    "url": "https://quod.lib.umich.edu/m/mqrarchive/act2080.0035.002/10",
-    "comments": 29
+    "title": "Layoffs at Block",
+    "score": 689,
+    "by": "mlex",
+    "url": "https://twitter.com/jack/status/2027129697092731343",
+    "comments": 726
   },
   {
-    "title": "Artist who “paints” portraits on glass by hitting it with a hammer",
-    "score": 139,
-    "by": "cs702",
-    "url": "https://simonbergerart.com",
-    "comments": 57
+    "title": "AirSnitch: Demystifying and breaking client isolation in Wi-Fi networks [pdf]",
+    "score": 351,
+    "by": "DamnInteresting",
+    "url": "https://www.ndss-symposium.org/wp-content/uploads/2026-f1282-paper.pdf",
+    "comments": 164
   },
   {
-    "title": "Show HN: Respectify – A comment moderator that teaches people to argue better",
-    "score": 153,
-    "by": "vintagedave",
-    "url": "https://respectify.org/",
-    "comments": 144
+    "title": "Launch HN: Cardboard (YC W26) – Agentic video editor",
+    "score": 111,
+    "by": "sxmawl",
+    "url": "https://www.usecardboard.com/",
+    "comments": 60
   },
   {
-    "title": "Show HN: ZSE – Open-source LLM inference engine with 3.9s cold starts",
-    "score": 49,
-    "by": "zyoralabs",
-    "url": "https://github.com/Zyora-Dev/zse",
-    "comments": 4
-  },
-  {
-    "title": "PA bench: Evaluating web agents on real world personal assistant workflows",
-    "score": 33,
-    "by": "shahules",
-    "url": "https://vibrantlabs.com/blog/pa-bench",
-    "comments": 4
-  },
-  {
-    "title": "Launch HN: TeamOut (YC W22) – AI agent for planning company retreats",
-    "score": 50,
-    "by": "vincentalbouy",
-    "url": "https://app.teamout.com/ai",
-    "comments": 57
-  },
-  {
-    "title": "Show HN: OpenSwarm – Multi‑Agent Claude CLI Orchestrator for Linear/GitHub",
-    "score": 24,
-    "by": "unohee",
-    "url": "https://github.com/Intrect-io/OpenSwarm",
-    "comments": 13
-  },
-  {
-    "title": "Never buy a .online domain",
-    "score": 719,
-    "by": "ssiddharth",
-    "url": "https://www.0xsid.com/blog/online-tld-is-pain",
-    "comments": 443
-  },
-  {
-    "title": "Trellis AI (YC W24) is hiring deployment lead to accelerate medication access",
-    "score": 1,
-    "by": "macklinkachorn",
-    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/7ZlvQkN-lead-deployment-strategist",
+    "title": "Writing a \"clear room\" Z80 and Spectrum emulator with Claude Code",
+    "score": 6,
+    "by": "antirez",
+    "url": "https://antirez.com/news/160",
     "comments": 0
   },
   {
-    "title": "Show HN: A real-time strategy game that AI agents can play",
-    "score": 206,
-    "by": "__cayenne__",
-    "url": "https://llmskirmish.com/",
-    "comments": 72
+    "title": "Show HN: Hacker Smacker – Spot great (and terrible) HN commenters at a glance",
+    "score": 115,
+    "by": "conesus",
+    "url": "https://hackersmacker.org",
+    "comments": 132
   },
   {
-    "title": "Show HN: Clocksimulator.com – A minimalist, distraction-free analog clock",
-    "score": 109,
-    "by": "user_timo",
-    "url": "https://www.clocksimulator.com/",
-    "comments": 76
+    "title": "Show HN: Linex – A daily challenge: placing pieces on a board that fights back",
+    "score": 62,
+    "by": "Humanista75",
+    "url": "https://www.playlinex.com/",
+    "comments": 20
   },
   {
-    "title": "AIs can't stop recommending nuclear strikes in war game simulations",
+    "title": "Nano Banana 2: Google's latest AI image generation model",
+    "score": 560,
+    "by": "davidbarker",
+    "url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "comments": 528
+  },
+  {
+    "title": "Tell HN: YC companies scrape GitHub activity, send spam emails to users",
+    "score": 629,
+    "by": "miki123211",
+    "url": "",
+    "comments": 234
+  },
+  {
+    "title": "Open Source Endowment – new funding source for open source maintainers",
     "score": 234,
-    "by": "ceejayoz",
-    "url": "https://www.newscientist.com/article/2516885-ais-cant-stop-recommending-nuclear-strikes-in-war-game-simulations/",
-    "comments": 245
+    "by": "kvinogradov",
+    "url": "https://endowment.dev/",
+    "comments": 142
+  },
+  {
+    "title": "Fentanyl makeover: Core structural redesign could lead to safer pain medications",
+    "score": 71,
+    "by": "littlexsparkee",
+    "url": "https://www.scripps.edu/news-and-events/press-room/2026/20260211-janda-molecule.html",
+    "comments": 85
+  },
+  {
+    "title": "Show HN: CodeLeash: framework for quality agent development, NOT an orchestrator",
+    "score": 4,
+    "by": "cadamsdotcom",
+    "url": "https://codeleash.dev/",
+    "comments": 1
+  },
+  {
+    "title": "Show HN: Terminal Phone – E2EE Walkie Talkie from the Command Line",
+    "score": 301,
+    "by": "smalltorch",
+    "url": "https://gitlab.com/here_forawhile/terminalphone",
+    "comments": 74
+  },
+  {
+    "title": "Show HN: Beehive – Multi-Workspace Agent Orchestrator",
+    "score": 44,
+    "by": "mst98",
+    "url": "https://storozhenko98.github.io/beehive/",
+    "comments": 21
+  },
+  {
+    "title": "56% of CEOs report zero financial return from AI in 2026 (PwC survey, n=4,454)",
+    "score": 37,
+    "by": "harran",
+    "url": "https://aishortcutlab.com/articles/pwc-ceo-survey-2026-only-12-of-ceos-win-with-ai",
+    "comments": 22
   }
 ]
