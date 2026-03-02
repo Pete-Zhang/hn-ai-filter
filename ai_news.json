@@ -1,72 +1,79 @@
 [
   {
-    "title": "We do not think Anthropic should be designated as a supply chain risk",
-    "score": 502,
-    "by": "golfer",
-    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "comments": 238
+    "title": "If AI writes code, should the session be part of the commit?",
+    "score": 213,
+    "by": "mandel_x",
+    "url": "https://github.com/mandel-macaque/memento",
+    "comments": 218
   },
   {
-    "title": "Switch to Claude Without Starting Over",
-    "score": 33,
-    "by": "doener",
-    "url": "https://claude.com/import-memory",
-    "comments": 19
+    "title": "WebMCP is available for early preview",
+    "score": 272,
+    "by": "andsoitis",
+    "url": "https://developer.chrome.com/blog/webmcp-epp",
+    "comments": 153
+  },
+  {
+    "title": "Evolving descriptive text of mental content from human brain activity",
+    "score": 19,
+    "by": "ggm",
+    "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
+    "comments": 9
+  },
+  {
+    "title": "Microgpt explained interactively",
+    "score": 262,
+    "by": "growingswe",
+    "url": "https://growingswe.com/blog/microgpt",
+    "comments": 37
+  },
+  {
+    "title": "Why XML tags are so fundamental to Claude",
+    "score": 201,
+    "by": "glth",
+    "url": "https://glthr.com/XML-fundamental-to-Claude",
+    "comments": 136
+  },
+  {
+    "title": "Running Neural Amp Modeler on embedded hardware",
+    "score": 30,
+    "by": "woodybury",
+    "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
+    "comments": 6
+  },
+  {
+    "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
+    "score": 538,
+    "by": "nickk81",
+    "url": "https://99helpers.com/tools/ad-supported-chat",
+    "comments": 284
   },
   {
     "title": "10-202: Introduction to Modern AI (CMU)",
-    "score": 13,
+    "score": 246,
     "by": "vismit2000",
     "url": "https://modernaicourse.org",
+    "comments": 57
+  },
+  {
+    "title": "Show HN: Logira – eBPF runtime auditing for AI agent runs",
+    "score": 17,
+    "by": "melonattacker",
+    "url": "https://github.com/melonattacker/logira",
     "comments": 1
   },
   {
-    "title": "MCP server that reduces Claude Code context consumption by 98%",
-    "score": 355,
-    "by": "mksglu",
-    "url": "https://mksg.lu/blog/context-mode",
-    "comments": 77
+    "title": "We do not think Anthropic should be designated as a supply chain risk",
+    "score": 798,
+    "by": "golfer",
+    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
+    "comments": 431
   },
   {
-    "title": "Show HN: Now I Get It – Translate scientific papers into interactive webpages",
-    "score": 232,
-    "by": "jbdamask",
-    "url": "https://nowigetit.us",
-    "comments": 105
-  },
-  {
-    "title": "OpenAI agrees with Dept. of War to deploy models in their classified network",
-    "score": 1358,
-    "by": "eoskx",
-    "url": "https://twitter.com/sama/status/2027578652477821175",
-    "comments": 630
-  },
-  {
-    "title": "The Future of AI",
-    "score": 127,
-    "by": "BerislavLopac",
-    "url": "https://lucijagregov.com/2026/02/26/the-future-of-ai/",
-    "comments": 100
-  },
-  {
-    "title": "Running a One Trillion-Parameter LLM Locally on AMD Ryzen AI Max+ Cluster",
-    "score": 56,
-    "by": "mindcrime",
-    "url": "https://www.amd.com/en/developer/resources/technical-articles/2026/how-to-run-a-one-trillion-parameter-llm-locally-an-amd.html",
-    "comments": 13
-  },
-  {
-    "title": "Show HN: Xmloxide – an agent-made Rust replacement for libxml2",
-    "score": 54,
-    "by": "jawiggins",
-    "url": "https://github.com/jonwiggins/xmloxide",
-    "comments": 55
-  },
-  {
-    "title": "OpenAI fires an employee for prediction market insider trading",
-    "score": 276,
-    "by": "bookofjoe",
-    "url": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-    "comments": 143
+    "title": "Claude dethrones ChatGPT as top U.S. app after Pentagon saga",
+    "score": 97,
+    "by": "doener",
+    "url": "https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon",
+    "comments": 9
   }
 ]
