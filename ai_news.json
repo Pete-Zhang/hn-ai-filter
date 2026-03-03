@@ -1,79 +1,107 @@
 [
   {
-    "title": "If AI writes code, should the session be part of the commit?",
-    "score": 213,
-    "by": "mandel_x",
-    "url": "https://github.com/mandel-macaque/memento",
-    "comments": 218
+    "title": "Meta’s AI smart glasses and data privacy concerns",
+    "score": 1017,
+    "by": "sandbach",
+    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "comments": 579
   },
   {
-    "title": "WebMCP is available for early preview",
-    "score": 272,
-    "by": "andsoitis",
-    "url": "https://developer.chrome.com/blog/webmcp-epp",
-    "comments": 153
+    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
+    "score": 238,
+    "by": "danso",
+    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
+    "comments": 139
   },
   {
-    "title": "Evolving descriptive text of mental content from human brain activity",
-    "score": 19,
-    "by": "ggm",
-    "url": "https://www.bbc.com/future/article/20260226-how-ai-can-read-your-thoughts",
-    "comments": 9
+    "title": "Daily Driving GrapheneOS",
+    "score": 87,
+    "by": "zdw",
+    "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
+    "comments": 61
   },
   {
-    "title": "Microgpt explained interactively",
-    "score": 262,
-    "by": "growingswe",
-    "url": "https://growingswe.com/blog/microgpt",
-    "comments": 37
+    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+    "score": 372,
+    "by": "nicktikhonov",
+    "url": "https://www.ntik.me/posts/voice-agent",
+    "comments": 108
   },
   {
-    "title": "Why XML tags are so fundamental to Claude",
-    "score": 201,
-    "by": "glth",
-    "url": "https://glthr.com/XML-fundamental-to-Claude",
-    "comments": 136
+    "title": "New iPad Air, powered by M4",
+    "score": 382,
+    "by": "Garbage",
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+    "comments": 604
   },
   {
-    "title": "Running Neural Amp Modeler on embedded hardware",
-    "score": 30,
-    "by": "woodybury",
-    "url": "https://www.tone3000.com/blog/running-nam-on-embedded-hardware",
-    "comments": 6
+    "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+    "score": 293,
+    "by": "gmays",
+    "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+    "comments": 51
   },
   {
-    "title": "I built a demo of what AI chat will look like when it's “free” and ad-supported",
-    "score": 538,
-    "by": "nickk81",
-    "url": "https://99helpers.com/tools/ad-supported-chat",
-    "comments": 284
+    "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+    "score": 99,
+    "by": "rohxnsxngh",
+    "url": "",
+    "comments": 34
   },
   {
-    "title": "10-202: Introduction to Modern AI (CMU)",
-    "score": 246,
-    "by": "vismit2000",
-    "url": "https://modernaicourse.org",
-    "comments": 57
+    "title": "Elevated Errors in Claude.ai",
+    "score": 103,
+    "by": "LostMyLogin",
+    "url": "https://status.claude.com/incidents/yf48hzysrvl5",
+    "comments": 92
   },
   {
-    "title": "Show HN: Logira – eBPF runtime auditing for AI agent runs",
-    "score": 17,
-    "by": "melonattacker",
-    "url": "https://github.com/melonattacker/logira",
-    "comments": 1
+    "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+    "score": 189,
+    "by": "foxfoxx",
+    "url": "https://govbase.com",
+    "comments": 76
   },
   {
-    "title": "We do not think Anthropic should be designated as a supply chain risk",
-    "score": 798,
-    "by": "golfer",
-    "url": "https://twitter.com/OpenAI/status/2027846016423321831",
-    "comments": 431
+    "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
+    "score": 328,
+    "by": "zdw",
+    "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
+    "comments": 95
   },
   {
-    "title": "Claude dethrones ChatGPT as top U.S. app after Pentagon saga",
-    "score": 97,
-    "by": "doener",
-    "url": "https://www.axios.com/2026/03/01/anthropic-claude-chatgpt-app-downloads-pentagon",
-    "comments": 9
+    "title": "Against Query Based Compilers",
+    "score": 60,
+    "by": "surprisetalk",
+    "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
+    "comments": 33
+  },
+  {
+    "title": "Ask HN: Who is hiring? (March 2026)",
+    "score": 209,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 241
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (March 2026)",
+    "score": 96,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 226
+  },
+  {
+    "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
+    "score": 35,
+    "by": "SaaSasaurus",
+    "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
+    "comments": 23
+  },
+  {
+    "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
+    "score": 208,
+    "by": "Tomte",
+    "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
+    "comments": 142
   }
 ]
