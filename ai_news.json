@@ -1,107 +1,65 @@
 [
   {
+    "title": "Claude's Cycles [pdf]",
+    "score": 612,
+    "by": "fs123",
+    "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
+    "comments": 244
+  },
+  {
+    "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
+    "score": 47,
+    "by": "vquemener",
+    "url": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
+    "comments": 22
+  },
+  {
+    "title": "When AI writes the software, who verifies it?",
+    "score": 216,
+    "by": "todsacerdoti",
+    "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
+    "comments": 217
+  },
+  {
+    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+    "score": 80,
+    "by": "atarus",
+    "url": "",
+    "comments": 20
+  },
+  {
+    "title": "TorchLean: Formalizing Neural Networks in Lean",
+    "score": 89,
+    "by": "matt_d",
+    "url": "https://leandojo.org/torchlean.html",
+    "comments": 12
+  },
+  {
     "title": "Meta’s AI smart glasses and data privacy concerns",
-    "score": 1017,
+    "score": 1380,
     "by": "sandbach",
     "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "comments": 579
+    "comments": 781
   },
   {
-    "title": "Ars Technica fires reporter after AI controversy involving fabricated quotes",
-    "score": 238,
-    "by": "danso",
-    "url": "https://futurism.com/artificial-intelligence/ars-technica-fires-reporter-ai-quotes",
-    "comments": 139
-  },
-  {
-    "title": "Daily Driving GrapheneOS",
-    "score": 87,
-    "by": "zdw",
-    "url": "https://blog.matthewbrunelle.com/8-4-months-of-daily-driving-grapheneos/",
-    "comments": 61
-  },
-  {
-    "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
-    "score": 372,
-    "by": "nicktikhonov",
-    "url": "https://www.ntik.me/posts/voice-agent",
-    "comments": 108
-  },
-  {
-    "title": "New iPad Air, powered by M4",
-    "score": 382,
+    "title": "MacBook Air with M5",
+    "score": 392,
     "by": "Garbage",
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
-    "comments": 604
+    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
+    "comments": 448
   },
   {
-    "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
-    "score": 293,
-    "by": "gmays",
-    "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
-    "comments": 51
+    "title": "Lenovo’s new ThinkPads score 10/10 for repairability",
+    "score": 385,
+    "by": "wrxd",
+    "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+    "comments": 185
   },
   {
-    "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
-    "score": 99,
-    "by": "rohxnsxngh",
-    "url": "",
-    "comments": 34
-  },
-  {
-    "title": "Elevated Errors in Claude.ai",
-    "score": 103,
-    "by": "LostMyLogin",
-    "url": "https://status.claude.com/incidents/yf48hzysrvl5",
-    "comments": 92
-  },
-  {
-    "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
-    "score": 189,
-    "by": "foxfoxx",
-    "url": "https://govbase.com",
-    "comments": 76
-  },
-  {
-    "title": "Inside the M4 Apple Neural Engine, Part 1: Reverse Engineering",
-    "score": 328,
-    "by": "zdw",
-    "url": "https://maderix.substack.com/p/inside-the-m4-apple-neural-engine",
-    "comments": 95
-  },
-  {
-    "title": "Against Query Based Compilers",
-    "score": 60,
-    "by": "surprisetalk",
-    "url": "https://matklad.github.io/2026/02/25/against-query-based-compilers.html",
-    "comments": 33
-  },
-  {
-    "title": "Ask HN: Who is hiring? (March 2026)",
-    "score": 209,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 241
-  },
-  {
-    "title": "Ask HN: Who wants to be hired? (March 2026)",
-    "score": 96,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 226
-  },
-  {
-    "title": "Do AI Agents Make Money in 2026? Or Is It Just Mac Minis and Vibes?",
-    "score": 35,
-    "by": "SaaSasaurus",
-    "url": "https://www.siliconsnark.com/do-ai-agents-actually-make-money-in-2026-or-is-it-just-mac-minis-and-vibes/",
-    "comments": 23
-  },
-  {
-    "title": "Mondrian Entered the Public Domain. The Estate Disagrees",
-    "score": 208,
-    "by": "Tomte",
-    "url": "https://copyrightlately.com/mondrian-public-domain-controversy/",
-    "comments": 142
+    "title": "Claude is an Electron App because we've lost native",
+    "score": 159,
+    "by": "todsacerdoti",
+    "url": "https://tonsky.me/blog/fall-of-native/",
+    "comments": 188
   }
 ]
