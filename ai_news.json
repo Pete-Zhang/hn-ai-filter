@@ -1,65 +1,51 @@
 [
   {
+    "title": "AMD will bring its \"Ryzen AI\" processors to standard desktop PCs for first time",
+    "score": 54,
+    "by": "Bender",
+    "url": "https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/",
+    "comments": 42
+  },
+  {
+    "title": "Dario Amodei calls OpenAI’s messaging around military deal ‘straight up lies’",
+    "score": 528,
+    "by": "SilverElfin",
+    "url": "https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/",
+    "comments": 292
+  },
+  {
+    "title": "Jensen Huang says Nvidia is pulling back from OpenAI and Anthropic",
+    "score": 147,
+    "by": "jnord",
+    "url": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+    "comments": 63
+  },
+  {
+    "title": "Roboflow (YC S20) Is Hiring a Security Engineer for AI Infra",
+    "score": 1,
+    "by": "yeldarb",
+    "url": "https://roboflow.com/careers",
+    "comments": 0
+  },
+  {
+    "title": "Relicensing with AI-Assisted Rewrite",
+    "score": 70,
+    "by": "tuananh",
+    "url": "https://tuananh.net/2026/03/05/relicensing-with-ai-assisted-rewrite/",
+    "comments": 57
+  },
+  {
     "title": "Claude's Cycles [pdf]",
-    "score": 612,
+    "score": 776,
     "by": "fs123",
     "url": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf",
-    "comments": 244
+    "comments": 331
   },
   {
-    "title": "Mount Mayhem at Netflix: Scaling Containers on Modern CPUs",
-    "score": 47,
-    "by": "vquemener",
-    "url": "https://netflixtechblog.com/mount-mayhem-at-netflix-scaling-containers-on-modern-cpus-f3b09b68beac",
-    "comments": 22
-  },
-  {
-    "title": "When AI writes the software, who verifies it?",
-    "score": 216,
-    "by": "todsacerdoti",
-    "url": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html",
-    "comments": 217
-  },
-  {
-    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
-    "score": 80,
-    "by": "atarus",
-    "url": "",
-    "comments": 20
-  },
-  {
-    "title": "TorchLean: Formalizing Neural Networks in Lean",
-    "score": 89,
-    "by": "matt_d",
-    "url": "https://leandojo.org/torchlean.html",
-    "comments": 12
-  },
-  {
-    "title": "Meta’s AI smart glasses and data privacy concerns",
-    "score": 1380,
-    "by": "sandbach",
-    "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
-    "comments": 781
-  },
-  {
-    "title": "MacBook Air with M5",
-    "score": 392,
-    "by": "Garbage",
-    "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/",
-    "comments": 448
-  },
-  {
-    "title": "Lenovo’s new ThinkPads score 10/10 for repairability",
-    "score": 385,
-    "by": "wrxd",
-    "url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-    "comments": 185
-  },
-  {
-    "title": "Claude is an Electron App because we've lost native",
-    "score": 159,
-    "by": "todsacerdoti",
-    "url": "https://tonsky.me/blog/fall-of-native/",
-    "comments": 188
+    "title": "Emails to Outlook.com rejected due to a fault or overzealous blocking rules",
+    "score": 166,
+    "by": "Bender",
+    "url": "https://www.theregister.com/2026/03/04/users_fume_at_outlookcom_email/",
+    "comments": 85
   }
 ]
