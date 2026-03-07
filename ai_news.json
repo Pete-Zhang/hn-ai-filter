@@ -1,114 +1,93 @@
 [
   {
+    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
+    "score": 248,
+    "by": "squidleon",
+    "url": "https://github.com/moongate-community/moongatev2",
+    "comments": 137
+  },
+  {
+    "title": "My application programmer instincts failed when debugging assembler",
+    "score": 6,
+    "by": "lifefeed",
+    "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
+    "comments": 2
+  },
+  {
+    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
+    "score": 49,
+    "by": "sam_palus",
+    "url": "",
+    "comments": 72
+  },
+  {
+    "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
+    "score": 41,
+    "by": "c0m4r",
+    "url": "https://github.com/c0m4r/kula",
+    "comments": 21
+  },
+  {
+    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
+    "score": 396,
+    "by": "shannoncc",
+    "url": "",
+    "comments": 264
+  },
+  {
+    "title": "Show HN: 1v1 coding game that LLMs struggle with",
+    "score": 21,
+    "by": "levmiseri",
+    "url": "https://yare.io",
+    "comments": 5
+  },
+  {
+    "title": "Hardening Firefox with Anthropic's Red Team",
+    "score": 558,
+    "by": "todsacerdoti",
+    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
+    "comments": 153
+  },
+  {
+    "title": "xAI loses bid to halt California AI data disclosure law",
+    "score": 4,
+    "by": "consumer451",
+    "url": "https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/",
+    "comments": 0
+  },
+  {
+    "title": "Can a wealthy family change the course of a deadly brain disease?",
+    "score": 37,
+    "by": "Snoozus",
+    "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
+    "comments": 39
+  },
+  {
+    "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
+    "score": 83,
+    "by": "es617",
+    "url": "https://github.com/es617/claude-replay",
+    "comments": 28
+  },
+  {
+    "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
+    "score": 149,
+    "by": "fortran77",
+    "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
+    "comments": 27
+  },
+  {
+    "title": "Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM",
+    "score": 30,
+    "by": "taiseiue",
+    "url": "https://github.com/taiseiue/primitive-playground",
+    "comments": 8
+  },
+  {
     "title": "GPT-5.4",
-    "score": 803,
+    "score": 993,
     "by": "mudkipdev",
     "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "comments": 651
-  },
-  {
-    "title": "Show HN: Swarm – Program a colony of 200 ants using a custom assembly language",
-    "score": 48,
-    "by": "armandhammer10",
-    "url": "https://dev.moment.com/",
-    "comments": 12
-  },
-  {
-    "title": "Labor market impacts of AI: A new measure and early evidence",
-    "score": 176,
-    "by": "jjwiseman",
-    "url": "https://www.anthropic.com/research/labor-market-impacts",
-    "comments": 236
-  },
-  {
-    "title": "A standard protocol to handle and discard low-effort, AI-Generated pull requests",
-    "score": 166,
-    "by": "Muhammad523",
-    "url": "https://406.fail/",
-    "comments": 58
-  },
-  {
-    "title": "TeX Live 2026 is available for download now",
-    "score": 50,
-    "by": "jithinraj",
-    "url": "https://www.tug.org/texlive/acquire.html",
-    "comments": 22
-  },
-  {
-    "title": "Hardware hotplug events on Linux, the gory details",
-    "score": 143,
-    "by": "todsacerdoti",
-    "url": "https://arcanenibble.github.io/hardware-hotplug-events-on-linux-the-gory-details.html",
-    "comments": 12
-  },
-  {
-    "title": "Show HN: Jido 2.0, Elixir Agent Framework",
-    "score": 277,
-    "by": "mikehostetler",
-    "url": "https://jido.run/blog/jido-2-0-is-here",
-    "comments": 57
-  },
-  {
-    "title": "Show HN: PageAgent, A GUI agent that lives inside your web app",
-    "score": 95,
-    "by": "simon_luv_pho",
-    "url": "https://alibaba.github.io/page-agent/",
-    "comments": 50
-  },
-  {
-    "title": "AI and the Ship of Theseus",
-    "score": 91,
-    "by": "pixelmonkey",
-    "url": "https://lucumr.pocoo.org/2026/3/5/theseus/",
-    "comments": 103
-  },
-  {
-    "title": "Launch HN: Vela (YC W26) – AI for complex scheduling",
-    "score": 45,
-    "by": "Gobhanu",
-    "url": "",
-    "comments": 37
-  },
-  {
-    "title": "World-first gigabit laser link between aircraft and geostationary satellite",
-    "score": 178,
-    "by": "giuliomagnifico",
-    "url": "https://www.esa.int/Applications/Connectivity_and_Secure_Communications/World-first_gigabit-per-second_laser_link_between_aircraft_and_geostationary_satellite",
-    "comments": 69
-  },
-  {
-    "title": "Proton Mail Helped FBI Unmask Anonymous 'Stop Cop City' Protester",
-    "score": 342,
-    "by": "sedatk",
-    "url": "https://www.404media.co/proton-mail-helped-fbi-unmask-anonymous-stop-cop-city-protestor/",
-    "comments": 161
-  },
-  {
-    "title": "Datasets for Reconstructing Visual Perception from Brain Data",
-    "score": 56,
-    "by": "katsee",
-    "url": "https://github.com/seelikat/neuro-visual-reconstruction-dataset-index",
-    "comments": 14
-  },
-  {
-    "title": "The next generations of Bubble Tea, Lip Gloss, and Bubbles are available now",
-    "score": 173,
-    "by": "atkrad",
-    "url": "https://charm.land/blog/v2/",
-    "comments": 71
-  },
-  {
-    "title": "A man who broke into jail",
-    "score": 119,
-    "by": "fortran77",
-    "url": "https://www.newyorker.com/magazine/2026/03/09/alexander-friedmann-profile-prison-reform",
-    "comments": 51
-  },
-  {
-    "title": "Jails for NetBSD – Kernel Enforced Isolation and Native Resource Control",
-    "score": 103,
-    "by": "vermaden",
-    "url": "https://netbsd-jails.petermann-digital.de/",
-    "comments": 25
+    "comments": 785
   }
 ]
