@@ -1,93 +1,58 @@
 [
   {
-    "title": "Show HN: Moongate – Ultima Online server emulator in .NET 10 with Lua scripting",
-    "score": 248,
-    "by": "squidleon",
-    "url": "https://github.com/moongate-community/moongatev2",
-    "comments": 137
+    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
+    "score": 8,
+    "by": "mpweiher",
+    "url": "https://arxiv.org/abs/2603.03823",
+    "comments": 1
   },
   {
-    "title": "My application programmer instincts failed when debugging assembler",
-    "score": 6,
-    "by": "lifefeed",
-    "url": "https://landedstar.com/blog/posts/how-my-application-programmer-instincts-failed-when-debugging-assembler/",
-    "comments": 2
+    "title": "\"Warn about PyPy being unmaintained\"",
+    "score": 145,
+    "by": "networked",
+    "url": "https://github.com/astral-sh/uv/pull/17643",
+    "comments": 42
   },
   {
-    "title": "Launch HN: Palus Finance (YC W26): Better yields on idle cash for startups, SMBs",
-    "score": 49,
-    "by": "sam_palus",
-    "url": "",
-    "comments": 72
+    "title": "A decade of Docker containers",
+    "score": 289,
+    "by": "zacwest",
+    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "comments": 201
   },
   {
-    "title": "Show HN: Kula – Lightweight, self-contained Linux server monitoring tool",
-    "score": 41,
-    "by": "c0m4r",
-    "url": "https://github.com/c0m4r/kula",
-    "comments": 21
-  },
-  {
-    "title": "Tell HN: I'm 60 years old. Claude Code has re-ignited a passion",
-    "score": 396,
-    "by": "shannoncc",
-    "url": "",
-    "comments": 264
-  },
-  {
-    "title": "Show HN: 1v1 coding game that LLMs struggle with",
-    "score": 21,
-    "by": "levmiseri",
-    "url": "https://yare.io",
-    "comments": 5
-  },
-  {
-    "title": "Hardening Firefox with Anthropic's Red Team",
-    "score": 558,
-    "by": "todsacerdoti",
-    "url": "https://www.anthropic.com/news/mozilla-firefox-security",
-    "comments": 153
-  },
-  {
-    "title": "xAI loses bid to halt California AI data disclosure law",
-    "score": 4,
-    "by": "consumer451",
-    "url": "https://www.reuters.com/legal/government/xai-loses-bid-halt-california-ai-data-disclosure-law-2026-03-05/",
-    "comments": 0
-  },
-  {
-    "title": "Can a wealthy family change the course of a deadly brain disease?",
-    "score": 37,
-    "by": "Snoozus",
-    "url": "https://www.science.org/content/article/can-wealthy-family-change-course-deadly-brain-disease",
-    "comments": 39
-  },
-  {
-    "title": "Show HN: Claude-replay – A video-like player for Claude Code sessions",
-    "score": 83,
-    "by": "es617",
-    "url": "https://github.com/es617/claude-replay",
+    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
+    "score": 108,
+    "by": "simonpure",
+    "url": "https://github.com/karpathy/autoresearch",
     "comments": 28
   },
   {
-    "title": "Paul Brainerd, founder of Aldus PageMaker, has died",
-    "score": 149,
-    "by": "fortran77",
-    "url": "https://blog.adafruit.com/2026/03/04/pagemaker-and-aldus-founder-pioneer-paul-brainerd-1947-2026/",
-    "comments": 27
+    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
+    "score": 4,
+    "by": "noemit",
+    "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
+    "comments": 2
   },
   {
-    "title": "Show HN: Reconstruct any image using primitive shapes, runs in-browser via WASM",
-    "score": 30,
-    "by": "taiseiue",
-    "url": "https://github.com/taiseiue/primitive-playground",
-    "comments": 8
+    "title": "Self-Portrait by Ernst Mach (1886)",
+    "score": 108,
+    "by": "Hooke",
+    "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
+    "comments": 20
   },
   {
-    "title": "GPT-5.4",
-    "score": 993,
-    "by": "mudkipdev",
-    "url": "https://openai.com/index/introducing-gpt-5-4/",
-    "comments": 785
+    "title": "Show HN: ANSI-Saver – A macOS Screensaver",
+    "score": 93,
+    "by": "lardissone",
+    "url": "https://github.com/lardissone/ansi-saver",
+    "comments": 34
+  },
+  {
+    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
+    "score": 426,
+    "by": "askl",
+    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "comments": 235
   }
 ]
