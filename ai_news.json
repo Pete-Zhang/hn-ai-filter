@@ -1,58 +1,79 @@
 [
   {
+    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+    "score": 115,
+    "by": "dryadin",
+    "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
+    "comments": 46
+  },
+  {
+    "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
+    "score": 43,
+    "by": "knowsuchagency",
+    "url": "https://github.com/knowsuchagency/mcp2cli",
+    "comments": 23
+  },
+  {
+    "title": "The death of social media is the renaissance of RSS (2025)",
+    "score": 104,
+    "by": "jruohonen",
+    "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
+    "comments": 57
+  },
+  {
+    "title": "Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3",
+    "score": 15,
+    "by": "yogthos",
+    "url": "https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md",
+    "comments": 4
+  },
+  {
+    "title": "Living human brain cells play DOOM on a CL1 [video]",
+    "score": 184,
+    "by": "kevinak",
+    "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
+    "comments": 175
+  },
+  {
+    "title": "Ask HN: How to be alone?",
+    "score": 431,
+    "by": "sillysaurusx",
+    "url": "",
+    "comments": 313
+  },
+  {
+    "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
+    "score": 224,
+    "by": "vancecookcobxin",
+    "url": "https://github.com/BigBodyCobain/Shadowbroker",
+    "comments": 96
+  },
+  {
+    "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
+    "score": 18,
+    "by": "stared",
+    "url": "https://quesma.com/blog/chromatron-recompiled/",
+    "comments": 6
+  },
+  {
     "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-    "score": 8,
+    "score": 116,
     "by": "mpweiher",
     "url": "https://arxiv.org/abs/2603.03823",
-    "comments": 1
+    "comments": 40
   },
   {
-    "title": "\"Warn about PyPy being unmaintained\"",
-    "score": 145,
+    "title": "Ask HN: Please restrict new accounts from posting",
+    "score": 573,
+    "by": "Oras",
+    "url": "",
+    "comments": 423
+  },
+  {
+    "title": "Warn about PyPy being unmaintained",
+    "score": 302,
     "by": "networked",
     "url": "https://github.com/astral-sh/uv/pull/17643",
-    "comments": 42
-  },
-  {
-    "title": "A decade of Docker containers",
-    "score": 289,
-    "by": "zacwest",
-    "url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
-    "comments": 201
-  },
-  {
-    "title": "Autoresearch: Agents researching on single-GPU nanochat training automatically",
-    "score": 108,
-    "by": "simonpure",
-    "url": "https://github.com/karpathy/autoresearch",
-    "comments": 28
-  },
-  {
-    "title": "New Research Reassesses the Value of Agents.md Files for AI Coding",
-    "score": 4,
-    "by": "noemit",
-    "url": "https://www.infoq.com/news/2026/03/agents-context-file-value-review/",
-    "comments": 2
-  },
-  {
-    "title": "Self-Portrait by Ernst Mach (1886)",
-    "score": 108,
-    "by": "Hooke",
-    "url": "https://publicdomainreview.org/collection/self-portrait-by-ernst-mach-1886/",
-    "comments": 20
-  },
-  {
-    "title": "Show HN: ANSI-Saver – A macOS Screensaver",
-    "score": 93,
-    "by": "lardissone",
-    "url": "https://github.com/lardissone/ansi-saver",
-    "comments": 34
-  },
-  {
-    "title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues",
-    "score": 426,
-    "by": "askl",
-    "url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
-    "comments": 235
+    "comments": 161
   }
 ]
