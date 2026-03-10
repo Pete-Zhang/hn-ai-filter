@@ -1,79 +1,79 @@
 [
   {
-    "title": "US Court of Appeals: TOS may be updated by email, use can imply consent [pdf]",
+    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
+    "score": 161,
+    "by": "jnord",
+    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
+    "comments": 102
+  },
+  {
+    "title": "Learnings from paying artists royalties for AI-generated art",
+    "score": 123,
+    "by": "jenthoven",
+    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
+    "comments": 91
+  },
+  {
+    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
+    "score": 443,
+    "by": "dahlia",
+    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+    "comments": 474
+  },
+  {
+    "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
     "score": 115,
-    "by": "dryadin",
-    "url": "https://cdn.ca9.uscourts.gov/datastore/memoranda/2026/03/03/25-403.pdf",
-    "comments": 46
-  },
-  {
-    "title": "Show HN: Mcp2cli – One CLI for every API, 96-99% fewer tokens than native MCP",
-    "score": 43,
-    "by": "knowsuchagency",
-    "url": "https://github.com/knowsuchagency/mcp2cli",
-    "comments": 23
-  },
-  {
-    "title": "The death of social media is the renaissance of RSS (2025)",
-    "score": 104,
-    "by": "jruohonen",
-    "url": "https://www.smartlab.at/rss-revival-life-after-social-media/",
-    "comments": 57
-  },
-  {
-    "title": "Claude built a system in 3 rounds, latent bugs from round 1 exploded in round 3",
-    "score": 15,
-    "by": "yogthos",
-    "url": "https://github.com/mycelium-clj/mycelium/blob/main/benchmarks/SCALING.md",
-    "comments": 4
-  },
-  {
-    "title": "Living human brain cells play DOOM on a CL1 [video]",
-    "score": 184,
-    "by": "kevinak",
-    "url": "https://www.youtube.com/watch?v=yRV8fSw6HaE",
-    "comments": 175
-  },
-  {
-    "title": "Ask HN: How to be alone?",
-    "score": 431,
-    "by": "sillysaurusx",
-    "url": "",
-    "comments": 313
-  },
-  {
-    "title": "Show HN: I built a real-time OSINT dashboard pulling 15 live global feeds",
-    "score": 224,
-    "by": "vancecookcobxin",
-    "url": "https://github.com/BigBodyCobain/Shadowbroker",
+    "by": "kumar_abhirup",
+    "url": "https://github.com/DenchHQ/DenchClaw",
     "comments": 96
   },
   {
-    "title": "Show HN: Reviving a 20-year-old puzzle game Chromatron with Ghidra and AI",
-    "score": 18,
-    "by": "stared",
-    "url": "https://quesma.com/blog/chromatron-recompiled/",
-    "comments": 6
-  },
-  {
-    "title": "SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via CI",
-    "score": 116,
-    "by": "mpweiher",
-    "url": "https://arxiv.org/abs/2603.03823",
-    "comments": 40
-  },
-  {
-    "title": "Ask HN: Please restrict new accounts from posting",
-    "score": 573,
-    "by": "Oras",
+    "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
+    "score": 101,
+    "by": "filipbalucha",
     "url": "",
-    "comments": 423
+    "comments": 71
   },
   {
-    "title": "Warn about PyPy being unmaintained",
-    "score": 302,
-    "by": "networked",
-    "url": "https://github.com/astral-sh/uv/pull/17643",
-    "comments": 161
+    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
+    "score": 334,
+    "by": "spenvo",
+    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
+    "comments": 190
+  },
+  {
+    "title": "The first airplane fatality",
+    "score": 79,
+    "by": "Hooke",
+    "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+    "comments": 21
+  },
+  {
+    "title": "Show HN: The Mog Programming Language",
+    "score": 147,
+    "by": "belisarius222",
+    "url": "https://moglang.org",
+    "comments": 71
+  },
+  {
+    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
+    "score": 164,
+    "by": "robtherobber",
+    "url": "https://fixfest.therestartproject.org/",
+    "comments": 19
+  },
+  {
+    "title": "Algebraic topology: knots links and braids",
+    "score": 85,
+    "by": "marysminefnuf",
+    "url": "https://aeb.win.tue.nl/at/algtop-5.html",
+    "comments": 10
+  },
+  {
+    "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
+    "score": 205,
+    "by": "heresie-dabord",
+    "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
+    "comments": 137
   }
 ]
