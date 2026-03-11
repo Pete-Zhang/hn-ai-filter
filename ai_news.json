@@ -1,79 +1,100 @@
 [
   {
-    "title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-    "score": 161,
-    "by": "jnord",
-    "url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "comments": 102
+    "title": "Why does AI tell you to use Terminal so much?",
+    "score": 6,
+    "by": "ingve",
+    "url": "https://eclecticlight.co/2026/03/11/why-does-ai-tell-you-to-use-terminal-so-much/",
+    "comments": 1
   },
   {
-    "title": "Learnings from paying artists royalties for AI-generated art",
-    "score": 123,
-    "by": "jenthoven",
-    "url": "https://www.kapwing.com/blog/learnings-from-paying-artists-royalties-for-ai-generated-art/",
-    "comments": 91
+    "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
+    "score": 55,
+    "by": "TheWiggles",
+    "url": "https://github.com/gcv/julia-snail",
+    "comments": 7
   },
   {
-    "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-    "score": 443,
-    "by": "dahlia",
-    "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
-    "comments": 474
+    "title": "Yann LeCun raises $1B to build AI that understands the physical world",
+    "score": 446,
+    "by": "helloplanets",
+    "url": "https://www.wired.com/story/yann-lecun-raises-dollar1-billion-to-build-ai-that-understands-the-physical-world/",
+    "comments": 368
   },
   {
-    "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-    "score": 115,
-    "by": "kumar_abhirup",
-    "url": "https://github.com/DenchHQ/DenchClaw",
-    "comments": 96
-  },
-  {
-    "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-    "score": 101,
-    "by": "filipbalucha",
-    "url": "",
-    "comments": 71
-  },
-  {
-    "title": "OpenAI is walking away from expanding its Stargate data center with Oracle",
-    "score": 334,
-    "by": "spenvo",
-    "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-    "comments": 190
-  },
-  {
-    "title": "The first airplane fatality",
-    "score": 79,
-    "by": "Hooke",
-    "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
+    "title": "Writing my own text editor, and daily-driving it",
+    "score": 89,
+    "by": "todsacerdoti",
+    "url": "https://blog.jsbarretto.com/post/text-editor",
     "comments": 21
   },
   {
-    "title": "Show HN: The Mog Programming Language",
-    "score": 147,
-    "by": "belisarius222",
-    "url": "https://moglang.org",
-    "comments": 71
+    "title": "Debian decides not to decide on AI-generated contributions",
+    "score": 323,
+    "by": "jwilk",
+    "url": "https://lwn.net/SubscriberLink/1061544/125f911834966dd0/",
+    "comments": 250
   },
   {
-    "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-    "score": 164,
-    "by": "robtherobber",
-    "url": "https://fixfest.therestartproject.org/",
-    "comments": 19
+    "title": "Launch HN: RunAnywhere (YC W26) – Faster AI Inference on Apple Silicon",
+    "score": 207,
+    "by": "sanchitmonga22",
+    "url": "https://github.com/RunanywhereAI/rcli",
+    "comments": 128
   },
   {
-    "title": "Algebraic topology: knots links and braids",
-    "score": 85,
-    "by": "marysminefnuf",
-    "url": "https://aeb.win.tue.nl/at/algtop-5.html",
-    "comments": 10
+    "title": "Universal vaccine against respiratory infections and allergens",
+    "score": 225,
+    "by": "phony-account",
+    "url": "https://med.stanford.edu/news/all-news/2026/02/universal-vaccine.html",
+    "comments": 76
   },
   {
-    "title": "Jolla on track to ship new phone with Sailfish OS, user-replaceable battery",
-    "score": 205,
-    "by": "heresie-dabord",
-    "url": "https://liliputing.com/the-new-jolla-phone-with-sailfish-os-is-on-track-to-start-shipping-in-the-first-half-of-2026/",
-    "comments": 137
+    "title": "Roblox is minting teen millionaires",
+    "score": 125,
+    "by": "petethomas",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-06/roblox-s-teen-millionaires-are-disrupting-the-gaming-industry",
+    "comments": 134
+  },
+  {
+    "title": "Meta acquires Moltbook",
+    "score": 481,
+    "by": "mmayberry",
+    "url": "https://www.axios.com/2026/03/10/meta-facebook-moltbook-agent-social-network",
+    "comments": 324
+  },
+  {
+    "title": "Launch HN: Didit (YC W26) – Stripe for Identity Verification",
+    "score": 65,
+    "by": "rosasalberto",
+    "url": "",
+    "comments": 59
+  },
+  {
+    "title": "After outages, Amazon to make senior engineers sign off on AI-assisted changes",
+    "score": 556,
+    "by": "ndr42",
+    "url": "https://arstechnica.com/ai/2026/03/after-outages-amazon-to-make-senior-engineers-sign-off-on-ai-assisted-changes/",
+    "comments": 443
+  },
+  {
+    "title": "Open Weights isn't Open Training",
+    "score": 103,
+    "by": "addiefoote8",
+    "url": "https://www.workshoplabs.ai/blog/open-weights-open-training",
+    "comments": 33
+  },
+  {
+    "title": "I built a programming language using Claude Code",
+    "score": 117,
+    "by": "GeneralMaximus",
+    "url": "https://ankursethi.com/blog/programming-language-claude-code/",
+    "comments": 163
+  },
+  {
+    "title": "PgAdmin 4 9.13 with AI Assistant Panel",
+    "score": 86,
+    "by": "__natty__",
+    "url": "https://www.pgadmin.org/docs/pgadmin4/9.13/query_tool.html#ai-assistant-panel",
+    "comments": 30
   }
 ]
