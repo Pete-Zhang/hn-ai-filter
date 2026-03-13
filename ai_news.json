@@ -1,163 +1,86 @@
 [
   {
-    "title": "Returning to Rails in 2026",
-    "score": 72,
-    "by": "stanislavb",
-    "url": "https://www.markround.com/blog/2026/03/05/returning-to-rails-in-2026/",
-    "comments": 53
+    "title": "Reversing memory loss via gut-brain communication",
+    "score": 298,
+    "by": "mustaphah",
+    "url": "https://med.stanford.edu/news/all-news/2026/03/gut-brain-cognitive-decline.html",
+    "comments": 119
   },
   {
-    "title": "I was interviewed by an AI bot for a job",
-    "score": 280,
-    "by": "speckx",
-    "url": "https://www.theverge.com/featured-video/892850/i-was-interviewed-by-an-ai-bot-for-a-job",
-    "comments": 254
+    "title": "Document poisoning in RAG systems: How attackers corrupt AI's sources",
+    "score": 113,
+    "by": "aminerj",
+    "url": "https://aminrj.com/posts/rag-document-poisoning/",
+    "comments": 44
   },
   {
-    "title": "Don't post generated/AI-edited comments. HN is for conversation between humans",
-    "score": 3431,
-    "by": "usefulposter",
-    "url": "https://news.ycombinator.com/newsguidelines.html#generated",
-    "comments": 1279
+    "title": "Grief and the AI split",
+    "score": 134,
+    "by": "avernet",
+    "url": "https://blog.lmorchard.com/2026/03/11/grief-and-the-ai-split/",
+    "comments": 206
   },
   {
-    "title": "Show HN: A context-aware permission guard for Claude Code",
-    "score": 94,
-    "by": "schipperai",
-    "url": "https://github.com/manuelschipper/nah/",
-    "comments": 38
+    "title": "Innocent woman jailed after being misidentified using AI facial recognition",
+    "score": 585,
+    "by": "rectang",
+    "url": "https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case",
+    "comments": 301
+  },
+  {
+    "title": "Show HN: Axe – A 12MB binary that replaces your AI framework",
+    "score": 189,
+    "by": "jrswab",
+    "url": "https://github.com/jrswab/axe",
+    "comments": 103
+  },
+  {
+    "title": "Launch HN: IonRouter (YC W26) – High-throughput, low-cost inference",
+    "score": 62,
+    "by": "vshah1016",
+    "url": "https://ionrouter.io",
+    "comments": 25
+  },
+  {
+    "title": "Show HN: OneCLI – Vault for AI Agents in Rust",
+    "score": 144,
+    "by": "guyb3",
+    "url": "https://github.com/onecli/onecli",
+    "comments": 41
+  },
+  {
+    "title": "DDR4 Sdram – Initialization, Training and Calibration",
+    "score": 93,
+    "by": "todsacerdoti",
+    "url": "https://www.systemverilog.io/design/ddr4-initialization-and-calibration/",
+    "comments": 20
   },
   {
     "title": "Iran-backed hackers claim wiper attack on medtech firm Stryker",
-    "score": 144,
+    "score": 251,
     "by": "2bluesc",
     "url": "https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/",
-    "comments": 65
+    "comments": 264
   },
   {
-    "title": "Show HN: I built a tool that watches webpages and exposes changes as RSS",
-    "score": 229,
-    "by": "vkuprin",
-    "url": "https://sitespy.app",
-    "comments": 51
+    "title": "Daily multivitamin use may slow biological aging: COSMOS trial results",
+    "score": 22,
+    "by": "hhs",
+    "url": "https://www.massgeneralbrigham.org/en/about/newsroom/press-releases/daily-multivitamin-use-may-slow-aging",
+    "comments": 4
   },
   {
-    "title": "Faster asin() was hiding in plain sight",
-    "score": 197,
-    "by": "def-pri-pub",
-    "url": "https://16bpp.net/blog/post/faster-asin-was-hiding-in-plain-sight/",
-    "comments": 107
+    "title": "Show HN: Rudel – Claude Code Session Analytics",
+    "score": 130,
+    "by": "keks0r",
+    "url": "https://github.com/obsessiondb/rudel",
+    "comments": 72
   },
   {
-    "title": "5,200 holes carved into a Peruvian mountain left by an ancient economy",
-    "score": 126,
-    "by": "defrost",
-    "url": "https://newatlas.com/environment/5-200-holes-peruvian-mountain/",
-    "comments": 61
-  },
-  {
-    "title": "Show HN: Klaus – OpenClaw on a VM, batteries included",
-    "score": 140,
-    "by": "robthompson2018",
-    "url": "https://klausai.com/",
-    "comments": 80
-  },
-  {
-    "title": "Against vibes: When is a generative model useful",
-    "score": 82,
-    "by": "takira",
-    "url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-    "comments": 17
-  },
-  {
-    "title": "Show HN: Autoresearch@home",
-    "score": 62,
-    "by": "austinbaggio",
-    "url": "https://www.ensue-network.ai/autoresearch",
-    "comments": 10
-  },
-  {
-    "title": "CNN Explainer – Learn Convolutional Neural Network in Your Browser (2020)",
-    "score": 52,
-    "by": "vismit2000",
-    "url": "https://poloclub.github.io/cnn-explainer/",
-    "comments": 2
-  },
-  {
-    "title": "How we hacked McKinsey's AI platform",
-    "score": 435,
-    "by": "mycroft_4221",
-    "url": "https://codewall.ai/blog/how-we-hacked-mckinseys-ai-platform",
-    "comments": 171
-  },
-  {
-    "title": "Britain is ejecting hereditary nobles from Parliament after 700 years",
-    "score": 254,
-    "by": "divbzero",
-    "url": "https://apnews.com/article/uk-house-of-lords-hereditary-peers-expelled-535df8781dd01e8970acda1dca99d3d4",
-    "comments": 274
-  },
-  {
-    "title": "Swiss e-voting pilot can't count 2,048 ballots after decryption failure",
-    "score": 183,
-    "by": "jjgreen",
-    "url": "https://www.theregister.com/2026/03/11/swiss_evote_usb_snafu/",
-    "comments": 412
-  },
-  {
-    "title": "Preliminary data from a longitudinal AI impact study",
-    "score": 49,
-    "by": "donutshop",
-    "url": "https://newsletter.getdx.com/p/ai-productivity-gains-are-10-not",
-    "comments": 33
-  },
-  {
-    "title": "Show HN: Open-source browser for AI agents",
-    "score": 124,
-    "by": "theredsix",
-    "url": "https://github.com/theredsix/agent-browser-protocol",
-    "comments": 43
-  },
-  {
-    "title": "Launch HN: Prism (YC X25) – Workspace and API to generate and edit videos",
-    "score": 36,
-    "by": "aliu327",
-    "url": "https://www.prismvideos.com",
-    "comments": 18
-  },
-  {
-    "title": "Launch HN: Sentrial (YC W26) – Catch AI agent failures before your users do",
-    "score": 28,
-    "by": "anayrshukla",
-    "url": "https://www.sentrial.com/",
-    "comments": 11
-  },
-  {
-    "title": "Show HN: Vanilla JavaScript refinery simulator built to explain job to my kids",
-    "score": 96,
-    "by": "fuelingcurious",
-    "url": "https://fuelingcuriosity.com/game.html",
-    "comments": 45
-  },
-  {
-    "title": "Show HN: Satellite imagery object detection using text prompts",
-    "score": 49,
-    "by": "eyasu6464",
-    "url": "https://www.useful-ai-tools.com/tools/satellite-analysis-demo/",
-    "comments": 18
-  },
-  {
-    "title": "How much of HN is AI?",
-    "score": 86,
-    "by": "surprisetalk",
-    "url": "https://lcamtuf.substack.com/p/how-much-of-hn-is-ai",
-    "comments": 50
-  },
-  {
-    "title": "Julia Snail – An Emacs Development Environment for Julia Like Clojure's Cider",
-    "score": 147,
-    "by": "TheWiggles",
-    "url": "https://github.com/gcv/julia-snail",
-    "comments": 23
+    "title": "Show HN: Understudy – Teach a desktop agent by demonstrating a task once",
+    "score": 98,
+    "by": "bayes-song",
+    "url": "https://github.com/understudy-ai/understudy",
+    "comments": 41
   }
 ]
