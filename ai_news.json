@@ -1,121 +1,58 @@
 [
   {
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "score": 624,
-    "by": "meetpateltech",
-    "url": "https://claude.com/blog/1m-context-ga",
-    "comments": 254
+    "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
+    "score": 74,
+    "by": "tartoran",
+    "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
+    "comments": 83
   },
   {
-    "title": "Emacs and Vim in the Age of AI",
-    "score": 108,
-    "by": "psibi",
-    "url": "https://batsov.com/articles/2026/03/09/emacs-and-vim-in-the-age-of-ai/",
-    "comments": 46
+    "title": "Show HN: Han – A Korean programming language written in Rust",
+    "score": 164,
+    "by": "xodn348",
+    "url": "https://github.com/xodn348/han",
+    "comments": 92
   },
   {
-    "title": "Qatar helium shutdown puts chip supply chain on a two-week clock",
-    "score": 541,
-    "by": "johnbarron",
-    "url": "https://www.tomshardware.com/tech-industry/qatar-helium-shutdown-puts-chip-supply-chain-on-a-two-week-clock",
-    "comments": 475
-  },
-  {
-    "title": "Mouser: An open source alternative to Logi-Plus mouse software",
-    "score": 289,
-    "by": "avionics-guy",
-    "url": "https://github.com/TomBadash/MouseControl",
-    "comments": 86
-  },
-  {
-    "title": "Can I run AI locally?",
-    "score": 1183,
-    "by": "ricardbejarano",
-    "url": "https://www.canirun.ai/",
-    "comments": 288
-  },
-  {
-    "title": "Digg is gone again",
-    "score": 160,
-    "by": "hammerbrostime",
-    "url": "https://digg.com/",
-    "comments": 122
-  },
-  {
-    "title": "New 'negative light' technology hides data transfers in plain sight",
-    "score": 83,
-    "by": "wjSgoWPm5bWAhXB",
-    "url": "https://www.unsw.edu.au/newsroom/news/2026/03/New-negative-light-technology-hides-data-transfers-in-plain-sight",
-    "comments": 48
-  },
-  {
-    "title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
-    "score": 412,
-    "by": "merksittich",
-    "url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
-    "comments": 627
-  },
-  {
-    "title": "Launch HN: Spine Swarm (YC S23) – AI agents that collaborate on a visual canvas",
-    "score": 93,
-    "by": "a24venka",
-    "url": "https://www.getspine.ai/",
+    "title": "Launching the Claude Partner Network",
+    "score": 136,
+    "by": "gmays",
+    "url": "https://www.anthropic.com/news/claude-partner-network",
     "comments": 67
   },
   {
-    "title": "Show HN: Context Gateway – Compress agent context before it hits the LLM",
-    "score": 74,
-    "by": "ivzak",
-    "url": "https://github.com/Compresr-ai/Context-Gateway",
-    "comments": 46
+    "title": "Airbus is preparing two uncrewed combat aircraft",
+    "score": 128,
+    "by": "phasnox",
+    "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+    "comments": 70
   },
   {
-    "title": "The Wyden Siren Goes Off Again: We’ll Be “Stunned” By What the NSA Is Doing",
-    "score": 456,
-    "by": "cf100clunk",
-    "url": "https://www.techdirt.com/2026/03/12/the-wyden-siren-goes-off-again-well-be-stunned-by-what-the-nsa-is-doing-under-section-702/",
-    "comments": 132
+    "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+    "score": 41,
+    "by": "__grob",
+    "url": "https://github.com/groverburger/grobpaint",
+    "comments": 6
   },
   {
-    "title": "John Carmack about open source and anti-AI activists",
-    "score": 307,
-    "by": "tzury",
-    "url": "https://twitter.com/id_aa_carmack/status/2032460578669691171",
-    "comments": 405
+    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
+    "score": 1154,
+    "by": "meetpateltech",
+    "url": "https://claude.com/blog/1m-context-ga",
+    "comments": 490
   },
   {
-    "title": "Launch HN: Captain (YC W26) – Automated RAG for Files",
-    "score": 50,
-    "by": "CMLewis",
-    "url": "https://www.runcaptain.com/",
-    "comments": 35
+    "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
+    "score": 111,
+    "by": "sivasurend",
+    "url": "https://www.gitagent.sh/",
+    "comments": 17
   },
   {
-    "title": "Show HN: Simple plugin to get Claude Code to listen to you",
-    "score": 14,
-    "by": "itsankur",
-    "url": "https://www.gopeek.ai",
-    "comments": 3
-  },
-  {
-    "title": "What changes happen in the aging brain?",
-    "score": 11,
-    "by": "hhs",
-    "url": "https://www.salk.edu/news-release/what-changes-happen-in-the-aging-brain/",
-    "comments": 1
-  },
-  {
-    "title": "Kovan: From Production MVCC Systems to Wait-Free Memory Reclamation",
-    "score": 12,
-    "by": "EvgeniyZh",
-    "url": "https://vertexclique.com/blog/kovan-from-prod-to-mr/",
-    "comments": 0
-  },
-  {
-    "title": "MetaGenesis Core – offline verification for computational claims",
-    "score": 13,
-    "by": "Lama9901",
-    "url": "https://www.metagenesis-core.dev/",
-    "comments": 16
+    "title": "Can I run AI locally?",
+    "score": 1422,
+    "by": "ricardbejarano",
+    "url": "https://www.canirun.ai/",
+    "comments": 343
   }
 ]
