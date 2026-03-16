@@ -1,58 +1,72 @@
 [
   {
-    "title": "Treasure hunter freed from jail after refusing to turn over shipwreck gold",
-    "score": 74,
-    "by": "tartoran",
-    "url": "https://www.bbc.com/news/articles/cg4g7kn99q3o",
-    "comments": 83
+    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
+    "score": 63,
+    "by": "zdw",
+    "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
+    "comments": 53
   },
   {
-    "title": "Show HN: Han – A Korean programming language written in Rust",
-    "score": 164,
-    "by": "xodn348",
-    "url": "https://github.com/xodn348/han",
-    "comments": 92
+    "title": "A Visual Introduction to Machine Learning (2015)",
+    "score": 356,
+    "by": "vismit2000",
+    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
+    "comments": 31
   },
   {
-    "title": "Launching the Claude Partner Network",
-    "score": 136,
-    "by": "gmays",
-    "url": "https://www.anthropic.com/news/claude-partner-network",
-    "comments": 67
-  },
-  {
-    "title": "Airbus is preparing two uncrewed combat aircraft",
-    "score": 128,
-    "by": "phasnox",
-    "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
+    "score": 116,
+    "by": "anjel",
+    "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
     "comments": 70
   },
   {
-    "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+    "title": "A Plain Anabaptist Story: The Hutterites",
     "score": 41,
-    "by": "__grob",
-    "url": "https://github.com/groverburger/grobpaint",
-    "comments": 6
+    "by": "gaplong",
+    "url": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites",
+    "comments": 5
   },
   {
-    "title": "1M context is now generally available for Opus 4.6 and Sonnet 4.6",
-    "score": 1154,
-    "by": "meetpateltech",
-    "url": "https://claude.com/blog/1m-context-ga",
-    "comments": 490
+    "title": "Quillx is an open standard for disclosing AI involvement in software projects",
+    "score": 20,
+    "by": "qainsights",
+    "url": "https://github.com/QAInsights/AIx",
+    "comments": 30
   },
   {
-    "title": "Show HN: GitAgent – An open standard that turns any Git repo into an AI agent",
-    "score": 111,
-    "by": "sivasurend",
-    "url": "https://www.gitagent.sh/",
-    "comments": 17
+    "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
+    "score": 109,
+    "by": "mapldx",
+    "url": "https://signet.watch",
+    "comments": 30
   },
   {
-    "title": "Can I run AI locally?",
-    "score": 1422,
-    "by": "ricardbejarano",
-    "url": "https://www.canirun.ai/",
-    "comments": 343
+    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
+    "score": 304,
+    "by": "svara",
+    "url": "",
+    "comments": 491
+  },
+  {
+    "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
+    "score": 59,
+    "by": "Tim25659",
+    "url": "",
+    "comments": 55
+  },
+  {
+    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
+    "score": 82,
+    "by": "octetta",
+    "url": "https://octetta.github.io/k-synth/",
+    "comments": 28
+  },
+  {
+    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
+    "score": 400,
+    "by": "ZacnyLos",
+    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
+    "comments": 352
   }
 ]
