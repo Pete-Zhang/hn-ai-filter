@@ -1,72 +1,72 @@
 [
   {
-    "title": "A new Bigfoot documentary helps explain our conspiracy-minded era",
-    "score": 63,
-    "by": "zdw",
-    "url": "https://www.msn.com/en-us/news/us/a-new-bigfoot-documentary-helps-explain-our-conspiracy-minded-era/ar-AA1Yv6px",
-    "comments": 53
+    "title": "Claude Tips for 3D Work",
+    "score": 72,
+    "by": "snide",
+    "url": "https://www.davesnider.com/posts/claude-3d",
+    "comments": 13
   },
   {
-    "title": "A Visual Introduction to Machine Learning (2015)",
-    "score": 356,
-    "by": "vismit2000",
-    "url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
-    "comments": 31
+    "title": "Starlink Mini as a failover",
+    "score": 254,
+    "by": "jkpe",
+    "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
+    "comments": 185
   },
   {
-    "title": "Cannabinoids remove plaque-forming Alzheimer's proteins from brain cells (2016)",
-    "score": 116,
-    "by": "anjel",
-    "url": "https://www.salk.edu/news-release/cannabinoids-remove-plaque-forming-alzheimers-proteins-from-brain-cells/",
-    "comments": 70
+    "title": "AirPods Max 2",
+    "score": 276,
+    "by": "ssijak",
+    "url": "https://www.apple.com/airpods-max/",
+    "comments": 455
   },
   {
-    "title": "A Plain Anabaptist Story: The Hutterites",
-    "score": 41,
-    "by": "gaplong",
-    "url": "https://ulmer457718.substack.com/p/a-plain-anabaptist-story-the-hutterites",
-    "comments": 5
+    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
+    "score": 108,
+    "by": "wek",
+    "url": "https://arxiv.org/abs/2511.04427",
+    "comments": 61
   },
   {
-    "title": "Quillx is an open standard for disclosing AI involvement in software projects",
-    "score": 20,
-    "by": "qainsights",
-    "url": "https://github.com/QAInsights/AIx",
-    "comments": 30
+    "title": "Show HN: Claude Code skills that build complete Godot games",
+    "score": 243,
+    "by": "htdt",
+    "url": "https://github.com/htdt/godogen",
+    "comments": 145
   },
   {
-    "title": "Show HN: Signet – Autonomous wildfire tracking from satellite and weather data",
-    "score": 109,
-    "by": "mapldx",
-    "url": "https://signet.watch",
-    "comments": 30
-  },
-  {
-    "title": "Ask HN: How is AI-assisted coding going for you professionally?",
-    "score": 304,
-    "by": "svara",
+    "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
+    "score": 73,
+    "by": "ymarkov",
     "url": "",
-    "comments": 491
+    "comments": 57
   },
   {
-    "title": "Tell HN: AI tools are making me lose interest in CS fundamentals",
-    "score": 59,
-    "by": "Tim25659",
-    "url": "",
-    "comments": 55
+    "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
+    "score": 128,
+    "by": "gertjandewilde",
+    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
+    "comments": 108
   },
   {
-    "title": "Show HN: What if your synthesizer was powered by APL (or a dumb K clone)?",
-    "score": 82,
-    "by": "octetta",
-    "url": "https://octetta.github.io/k-synth/",
-    "comments": 28
+    "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
+    "score": 984,
+    "by": "opengrass",
+    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "comments": 323
   },
   {
-    "title": "$96 3D-printed rocket that recalculates its mid-air trajectory using a $5 sensor",
-    "score": 400,
-    "by": "ZacnyLos",
-    "url": "https://github.com/novatic14/MANPADS-System-Launcher-and-Rocket",
-    "comments": 352
+    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
+    "score": 156,
+    "by": "lewismenelaws",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
+    "comments": 92
+  },
+  {
+    "title": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
+    "score": 24,
+    "by": "jshen96",
+    "url": "https://www.usechamber.io/",
+    "comments": 6
   }
 ]
