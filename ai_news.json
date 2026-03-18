@@ -1,72 +1,65 @@
 [
   {
-    "title": "Claude Tips for 3D Work",
-    "score": 72,
-    "by": "snide",
-    "url": "https://www.davesnider.com/posts/claude-3d",
-    "comments": 13
+    "title": "Mistral AI Releases Forge",
+    "score": 402,
+    "by": "pember",
+    "url": "https://mistral.ai/news/forge",
+    "comments": 75
   },
   {
-    "title": "Starlink Mini as a failover",
-    "score": 254,
-    "by": "jkpe",
-    "url": "https://www.jackpearce.co.uk/posts/starlink-failover/",
-    "comments": 185
+    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
+    "score": 144,
+    "by": "adammiribyan",
+    "url": "https://github.com/adammiribyan/zeroboot",
+    "comments": 37
   },
   {
-    "title": "AirPods Max 2",
-    "score": 276,
-    "by": "ssijak",
-    "url": "https://www.apple.com/airpods-max/",
-    "comments": 455
+    "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
+    "score": 107,
+    "by": "aanet",
+    "url": "https://arxiv.org/abs/2603.15381",
+    "comments": 32
   },
   {
-    "title": "Speed at the cost of quality: Study of use of Cursor AI in open source projects (2025)",
-    "score": 108,
-    "by": "wek",
-    "url": "https://arxiv.org/abs/2511.04427",
-    "comments": 61
-  },
-  {
-    "title": "Show HN: Claude Code skills that build complete Godot games",
-    "score": 243,
-    "by": "htdt",
-    "url": "https://github.com/htdt/godogen",
-    "comments": 145
-  },
-  {
-    "title": "Launch HN: Voygr (YC W26) – A better maps API for agents and AI apps",
-    "score": 73,
-    "by": "ymarkov",
+    "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
+    "score": 42,
+    "by": "rheamalhotra1",
     "url": "",
-    "comments": 57
-  },
-  {
-    "title": "Apideck CLI – An AI-agent interface with much lower context consumption than MCP",
-    "score": 128,
-    "by": "gertjandewilde",
-    "url": "https://www.apideck.com/blog/mcp-server-eating-context-window-cli-alternative",
-    "comments": 108
-  },
-  {
-    "title": "Bill C-22, the Lawful Access Act: Dangerous backdoor surveillance risks remain",
-    "score": 984,
-    "by": "opengrass",
-    "url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
-    "comments": 323
-  },
-  {
-    "title": "Nvidia Launches Vera CPU, Purpose-Built for Agentic AI",
-    "score": 156,
-    "by": "lewismenelaws",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai",
-    "comments": 92
-  },
-  {
-    "title": "Launch HN: Chamber (YC W26) – An AI Teammate for GPU Infrastructure",
-    "score": 24,
-    "by": "jshen96",
-    "url": "https://www.usechamber.io/",
     "comments": 6
+  },
+  {
+    "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
+    "score": 34,
+    "by": "wiseprobe",
+    "url": "https://amaiya.github.io/onprem/examples_agent.html",
+    "comments": 8
+  },
+  {
+    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
+    "score": 236,
+    "by": "bookofjoe",
+    "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
+    "comments": 128
+  },
+  {
+    "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
+    "score": 59,
+    "by": "axlan",
+    "url": "https://www.robopenguins.com/fatal_core_dump/",
+    "comments": 1
+  },
+  {
+    "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
+    "score": 80,
+    "by": "jellyotsiro",
+    "url": "https://github.com/chenxin-yan/crust",
+    "comments": 34
+  },
+  {
+    "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
+    "score": 65,
+    "by": "petersunde",
+    "url": "https://github.com/peters/horizon",
+    "comments": 26
   }
 ]
