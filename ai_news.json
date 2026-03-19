@@ -1,65 +1,93 @@
 [
   {
-    "title": "Mistral AI Releases Forge",
-    "score": 402,
-    "by": "pember",
-    "url": "https://mistral.ai/news/forge",
-    "comments": 75
+    "title": "Cook: A simple CLI for orchestrating Claude Code",
+    "score": 163,
+    "by": "staticvar",
+    "url": "https://rjcorwin.github.io/cook/",
+    "comments": 40
   },
   {
-    "title": "Show HN: Sub-millisecond VM sandboxes using CoW memory forking",
-    "score": 144,
-    "by": "adammiribyan",
-    "url": "https://github.com/adammiribyan/zeroboot",
-    "comments": 37
+    "title": "Warranty Void If Regenerated",
+    "score": 308,
+    "by": "Stwerner",
+    "url": "https://nearzero.software/p/warranty-void-if-regenerated",
+    "comments": 172
   },
   {
-    "title": "Why AI systems don't learn – On autonomous learning from cognitive science",
-    "score": 107,
-    "by": "aanet",
-    "url": "https://arxiv.org/abs/2603.15381",
+    "title": "A sufficiently detailed spec is code",
+    "score": 308,
+    "by": "signa11",
+    "url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "comments": 158
+  },
+  {
+    "title": "Show HN: Duplicate 3 layers in a 24B LLM, logical deduction .22→.76. No training",
+    "score": 98,
+    "by": "xlayn",
+    "url": "https://github.com/alainnothere/llm-circuit-finder",
     "comments": 32
   },
   {
-    "title": "Launch HN: Kita (YC W26) – Automate credit review in emerging markets",
-    "score": 42,
-    "by": "rheamalhotra1",
+    "title": "The math that explains why bell curves are everywhere",
+    "score": 118,
+    "by": "ibobev",
+    "url": "https://www.quantamagazine.org/the-math-that-explains-why-bell-curves-are-everywhere-20260316/",
+    "comments": 65
+  },
+  {
+    "title": "Show HN: Will my flight have Starlink?",
+    "score": 219,
+    "by": "bblcla",
     "url": "",
+    "comments": 286
+  },
+  {
+    "title": "Show HN: Browser grand strategy game for hundreds of players on huge maps",
+    "score": 22,
+    "by": "sgolem",
+    "url": "https://borderhold.io/play",
+    "comments": 13
+  },
+  {
+    "title": "Book: The Emerging Science of Machine Learning Benchmarks",
+    "score": 118,
+    "by": "jxmorris12",
+    "url": "https://mlbenchmarks.org/00-preface.html",
     "comments": 6
   },
   {
-    "title": "Launch an autonomous AI agent with sandboxed execution in 2 lines of code",
-    "score": 34,
-    "by": "wiseprobe",
-    "url": "https://amaiya.github.io/onprem/examples_agent.html",
-    "comments": 8
+    "title": "What 81,000 people want from AI",
+    "score": 101,
+    "by": "dsr12",
+    "url": "https://www.anthropic.com/features/81k-interviews",
+    "comments": 82
   },
   {
-    "title": "Ryugu asteroid samples contain all DNA and RNA building blocks",
-    "score": 236,
-    "by": "bookofjoe",
-    "url": "https://phys.org/news/2026-03-ryugu-asteroid-samples-dna-rna.html",
-    "comments": 128
+    "title": "OpenAI Has New Focus (on the IPO)",
+    "score": 221,
+    "by": "aamederen",
+    "url": "https://om.co/2026/03/17/openai-has-new-focus-on-the-ipo/",
+    "comments": 193
   },
   {
-    "title": "Show HN: Fatal Core Dump – A debugging murder mystery played with GDB",
-    "score": 59,
-    "by": "axlan",
-    "url": "https://www.robopenguins.com/fatal_core_dump/",
-    "comments": 1
+    "title": "Trevor Milton is raising funds for a new jet he claims will transform flying",
+    "score": 118,
+    "by": "jgalt212",
+    "url": "https://www.wsj.com/business/trevor-milton-pardon-nikola-trump-3163e19c",
+    "comments": 182
   },
   {
-    "title": "Show HN: Crust – A CLI framework for TypeScript and Bun",
-    "score": 80,
-    "by": "jellyotsiro",
-    "url": "https://github.com/chenxin-yan/crust",
-    "comments": 34
+    "title": "A BEAM-native personal autonomous AI agent built on Elixir/OTP",
+    "score": 21,
+    "by": "ahamez",
+    "url": "https://github.com/thatsme/AlexClaw",
+    "comments": 0
   },
   {
-    "title": "Show HN: Horizon – GPU-accelerated infinite-canvas terminal in Rust",
-    "score": 65,
-    "by": "petersunde",
-    "url": "https://github.com/peters/horizon",
-    "comments": 26
+    "title": "Show HN: Tmux-IDE, OSS agent-first terminal IDE",
+    "score": 77,
+    "by": "thijsverreck",
+    "url": "https://tmux.thijsverreck.com",
+    "comments": 36
   }
 ]
