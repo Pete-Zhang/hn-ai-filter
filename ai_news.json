@@ -1,79 +1,72 @@
 [
   {
+    "title": "Cross-Model Void Convergence: GPT-5.2 and Claude Opus 4.6 Deterministic Silence",
+    "score": 9,
+    "by": "rayanpal_",
+    "url": "https://zenodo.org/records/18976656",
+    "comments": 2
+  },
+  {
+    "title": "Tinybox – A powerful computer for deep learning",
+    "score": 466,
+    "by": "albelfio",
+    "url": "https://tinygrad.org/#tinybox",
+    "comments": 274
+  },
+  {
+    "title": "Trivy ecosystem supply chain briefly compromised",
+    "score": 61,
+    "by": "batch12",
+    "url": "https://github.com/aquasecurity/trivy/security/advisories/GHSA-69fq-xp46-6x23",
+    "comments": 22
+  },
+  {
+    "title": "Thinking Fast, Slow, and Artificial: How AI Is Reshaping Human Reasoning",
+    "score": 135,
+    "by": "Anon84",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6097646",
+    "comments": 71
+  },
+  {
+    "title": "Training Center for Maneuvering on Manned Model Ships",
+    "score": 8,
+    "by": "mhb",
+    "url": "https://www.portrevel.com/",
+    "comments": 5
+  },
+  {
+    "title": "The paddle wheel aircraft carriers of Lake Michigan",
+    "score": 77,
+    "by": "surprisetalk",
+    "url": "https://signoregalilei.com/2026/03/08/the-paddle-wheel-aircraft-carriers-of-lake-michigan/",
+    "comments": 8
+  },
+  {
     "title": "OpenCode – Open source AI coding agent",
-    "score": 722,
+    "score": 1208,
     "by": "rbanffy",
     "url": "https://opencode.ai/",
-    "comments": 319
+    "comments": 596
   },
   {
-    "title": "Man pleads guilty to $8M AI-generated music scheme",
-    "score": 23,
-    "by": "nstj",
-    "url": "https://therecord.media/man-pleads-guilty-8-million-ai-music-scheme",
-    "comments": 9
-  },
-  {
-    "title": "The Ugliest Airplane: An Appreciation",
-    "score": 59,
-    "by": "randycupertino",
-    "url": "https://www.smithsonianmag.com/air-space-magazine/ugliest-airplane-appreciation-180978708/",
-    "comments": 30
+    "title": "Blocking Internet Archive Won't Stop AI, but Will Erase Web's Historical Record",
+    "score": 519,
+    "by": "pabs3",
+    "url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+    "comments": 144
   },
   {
     "title": "An industrial piping contractor on Claude Code [video]",
-    "score": 33,
+    "score": 127,
     "by": "mighty-fine",
     "url": "https://twitter.com/toddsaunders/status/2034243420147859716",
-    "comments": 4
+    "comments": 87
   },
   {
-    "title": "France's aircraft carrier located in real time by Le Monde through fitness app",
-    "score": 559,
-    "by": "MrDresden",
-    "url": "https://www.lemonde.fr/en/international/article/2026/03/20/stravaleaks-france-s-aircraft-carrier-located-in-real-time-by-le-monde-through-fitness-app_6751640_4.html",
-    "comments": 448
-  },
-  {
-    "title": "Show HN: Red Grid Link – peer-to-peer team tracking over Bluetooth, no servers",
-    "score": 41,
-    "by": "redgridtactical",
-    "url": "https://github.com/RedGridTactical/RedGridLink",
-    "comments": 14
-  },
-  {
-    "title": "Google details new 24-hour process to sideload unverified Android apps",
-    "score": 1150,
-    "by": "0xedb",
-    "url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-    "comments": 1230
-  },
-  {
-    "title": "Astral to Join OpenAI",
-    "score": 1454,
-    "by": "ibraheemdev",
-    "url": "https://astral.sh/blog/openai",
-    "comments": 879
-  },
-  {
-    "title": "Launch HN: Sitefire (YC W26) – Automating actions to improve AI visibility",
-    "score": 33,
-    "by": "vincko",
-    "url": "",
-    "comments": 25
-  },
-  {
-    "title": "HP trialed mandatory 15-minute support call wait times (2025)",
-    "score": 323,
-    "by": "felineflock",
-    "url": "https://arstechnica.com/gadgets/2025/02/misguided-hp-customer-support-approach-included-forced-15-minute-call-wait-times/",
-    "comments": 208
-  },
-  {
-    "title": "Show HN: Baltic shadow fleet tracker – live AIS, cable proximity alerts",
-    "score": 45,
-    "by": "FormerLabFred",
-    "url": "https://github.com/FormerLab/shadow-fleet-tracker-light",
-    "comments": 14
+    "title": "A pig's brain has been frozen with its cellular activity locked in place",
+    "score": 113,
+    "by": "Brajeshwar",
+    "url": "https://www.newscientist.com/article/2520204-major-leap-towards-reanimation-after-death-as-mammals-brain-preserved/",
+    "comments": 164
   }
 ]
