@@ -1,65 +1,86 @@
 [
   {
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "score": 129,
+    "by": "ray__",
+    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "comments": 21
+  },
+  {
+    "title": "Flighty Airports",
+    "score": 296,
+    "by": "skogstokig",
+    "url": "https://flighty.com/airports",
+    "comments": 99
+  },
+  {
+    "title": "Goodbye to Sora",
+    "score": 677,
+    "by": "mikeocool",
+    "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
+    "comments": 490
+  },
+  {
+    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
+    "score": 383,
+    "by": "Heff",
+    "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "comments": 68
+  },
+  {
+    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
+    "score": 648,
+    "by": "dot_treo",
+    "url": "https://github.com/BerriAI/litellm/issues/24512",
+    "comments": 414
+  },
+  {
+    "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
+    "score": 42,
+    "by": "cigrainger",
+    "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
+    "comments": 3
+  },
+  {
+    "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
+    "score": 283,
+    "by": "dancablam",
+    "url": "https://www.emailmd.dev/",
+    "comments": 67
+  },
+  {
+    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
+    "score": 897,
+    "by": "felineflock",
+    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
+    "comments": 318
+  },
+  {
+    "title": "Show HN: AI Roundtable – Let 200 models debate your question",
+    "score": 51,
+    "by": "felix089",
+    "url": "https://opper.ai/ai-roundtable/",
+    "comments": 43
+  },
+  {
     "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-    "score": 10,
+    "score": 130,
     "by": "jberthom",
-    "url": "https://proofshot.argil.io/",
-    "comments": 4
+    "url": "https://github.com/AmElmo/proofshot",
+    "comments": 89
   },
   {
-    "title": "Show HN: Cq – Stack Overflow for AI coding agents",
-    "score": 136,
-    "by": "peteski22",
-    "url": "https://blog.mozilla.ai/cq-stack-overflow-for-agents/",
-    "comments": 47
+    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
+    "score": 363,
+    "by": "m_fayer",
+    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
+    "comments": 285
   },
   {
-    "title": "Claude Code Cheat Sheet",
-    "score": 368,
-    "by": "phasE89",
-    "url": "https://cc.storyfox.cz",
-    "comments": 106
-  },
-  {
-    "title": "How I'm Productive with Claude Code",
-    "score": 194,
-    "by": "neilkakkar",
-    "url": "https://neilkakkar.com/productive-with-claude-code.html",
-    "comments": 115
-  },
-  {
-    "title": "Ju Ci: The Art of Repairing Porcelain",
-    "score": 89,
-    "by": "lawrenceyan",
-    "url": "https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/",
-    "comments": 8
-  },
-  {
-    "title": "Trivy under attack again: Widespread GitHub Actions tag compromise secrets",
-    "score": 195,
-    "by": "jicea",
-    "url": "https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise",
-    "comments": 69
-  },
-  {
-    "title": "I built an AI receptionist for a mechanic shop",
-    "score": 266,
-    "by": "mooreds",
-    "url": "https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/",
-    "comments": 279
-  },
-  {
-    "title": "Designing AI for Disruptive Science",
-    "score": 72,
-    "by": "mailyk",
-    "url": "https://www.asimov.press/p/ai-science",
-    "comments": 40
-  },
-  {
-    "title": "GitHub appears to be struggling with measly three nines availability",
-    "score": 451,
-    "by": "richtr",
-    "url": "https://www.theregister.com/2026/02/10/github_outages/",
-    "comments": 232
+    "title": "Is anybody else bored of talking about AI?",
+    "score": 639,
+    "by": "jakelsaunders94",
+    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
+    "comments": 435
   }
 ]
