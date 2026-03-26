@@ -1,86 +1,86 @@
 [
   {
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-    "score": 129,
-    "by": "ray__",
-    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
+    "score": 272,
+    "by": "louiereederson",
+    "url": "https://www.claudescode.dev/?window=since_launch",
+    "comments": 162
+  },
+  {
+    "title": "False claims in a widely-cited paper",
+    "score": 262,
+    "by": "qsi",
+    "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
+    "comments": 100
+  },
+  {
+    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
+    "score": 35,
+    "by": "andrew_zhong",
+    "url": "https://github.com/lightfeed/extractor",
     "comments": 21
   },
   {
-    "title": "Flighty Airports",
-    "score": 296,
-    "by": "skogstokig",
-    "url": "https://flighty.com/airports",
-    "comments": 99
+    "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
+    "score": 387,
+    "by": "zdw",
+    "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+    "comments": 216
+  },
+  {
+    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
+    "score": 91,
+    "by": "marciopuga",
+    "url": "https://lab.puga.com.br/cog/",
+    "comments": 26
+  },
+  {
+    "title": "My astrophotography in the movie Project Hail Mary",
+    "score": 853,
+    "by": "wallflower",
+    "url": "https://rpastro.square.site/s/stories/phm",
+    "comments": 197
+  },
+  {
+    "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
+    "score": 49,
+    "by": "jawiggins",
+    "url": "https://github.com/jonwiggins/optio",
+    "comments": 28
+  },
+  {
+    "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
+    "score": 156,
+    "by": "dabinat",
+    "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
+    "comments": 176
+  },
+  {
+    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+    "score": 515,
+    "by": "ray__",
+    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+    "comments": 144
+  },
+  {
+    "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
+    "score": 139,
+    "by": "billybuckwheat",
+    "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
+    "comments": 46
   },
   {
     "title": "Goodbye to Sora",
-    "score": 677,
+    "score": 1097,
     "by": "mikeocool",
     "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-    "comments": 490
+    "comments": 809
   },
   {
-    "title": "Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller",
-    "score": 383,
-    "by": "Heff",
-    "url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-    "comments": 68
-  },
-  {
-    "title": "Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised",
-    "score": 648,
-    "by": "dot_treo",
-    "url": "https://github.com/BerriAI/litellm/issues/24512",
-    "comments": 414
-  },
-  {
-    "title": "Show HN: DuckDB community extension for prefiltered HNSW using ACORN-1",
-    "score": 42,
-    "by": "cigrainger",
-    "url": "https://github.com/cigrainger/duckdb-hnsw-acorn",
-    "comments": 3
-  },
-  {
-    "title": "Show HN: Email.md – Markdown to responsive, email-safe HTML",
-    "score": 283,
-    "by": "dancablam",
-    "url": "https://www.emailmd.dev/",
-    "comments": 67
-  },
-  {
-    "title": "Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains",
-    "score": 897,
-    "by": "felineflock",
-    "url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "comments": 318
-  },
-  {
-    "title": "Show HN: AI Roundtable – Let 200 models debate your question",
-    "score": 51,
-    "by": "felix089",
-    "url": "https://opper.ai/ai-roundtable/",
-    "comments": 43
-  },
-  {
-    "title": "Show HN: ProofShot – Give AI coding agents eyes to verify the UI they build",
-    "score": 130,
-    "by": "jberthom",
-    "url": "https://github.com/AmElmo/proofshot",
-    "comments": 89
-  },
-  {
-    "title": "LaGuardia pilots raised safety alarms months before deadly runway crash",
-    "score": 363,
-    "by": "m_fayer",
-    "url": "https://www.theguardian.com/us-news/2026/mar/24/laguardia-airplane-pilots-safety-concerns-crash",
-    "comments": 285
-  },
-  {
-    "title": "Is anybody else bored of talking about AI?",
-    "score": 639,
-    "by": "jakelsaunders94",
-    "url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-    "comments": 435
+    "title": "The Military Failures of Fascism",
+    "score": 22,
+    "by": "JumpCrisscross",
+    "url": "https://acoup.blog/2024/02/23/fireside-friday-february-23-2024-on-the-military-failures-of-fascism/",
+    "comments": 4
   }
 ]
