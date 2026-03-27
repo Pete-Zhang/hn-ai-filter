@@ -1,86 +1,79 @@
 [
   {
-    "title": "90% of Claude-linked output going to GitHub repos w <2 stars",
-    "score": 272,
-    "by": "louiereederson",
-    "url": "https://www.claudescode.dev/?window=since_launch",
-    "comments": 162
+    "title": "21,864 Yugoslavian .yu Domains",
+    "score": 21,
+    "by": "speckx",
+    "url": "https://jacobfilipp.com/yu/",
+    "comments": 6
   },
   {
-    "title": "False claims in a widely-cited paper",
-    "score": 262,
-    "by": "qsi",
-    "url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-    "comments": 100
+    "title": "Show HN: I put an AI agent on a $7/month VPS with IRC as its transport layer",
+    "score": 226,
+    "by": "j0rg3",
+    "url": "https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/",
+    "comments": 68
   },
   {
-    "title": "Show HN: Robust LLM Extractor for Websites in TypeScript",
-    "score": 35,
-    "by": "andrew_zhong",
-    "url": "https://github.com/lightfeed/extractor",
-    "comments": 21
+    "title": "$500 GPU outperforms Claude Sonnet on coding benchmarks",
+    "score": 226,
+    "by": "yogthos",
+    "url": "https://github.com/itigges22/ATLAS",
+    "comments": 93
   },
   {
-    "title": "Apple randomly closes bug reports unless you \"verify\" the bug remains unfixed",
-    "score": 387,
-    "by": "zdw",
-    "url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-    "comments": 216
+    "title": "We rewrote JSONata with AI in a day, saved $500k/year",
+    "score": 147,
+    "by": "cjlm",
+    "url": "https://www.reco.ai/blog/we-rewrote-jsonata-with-ai",
+    "comments": 130
   },
   {
-    "title": "Show HN: A plain-text cognitive architecture for Claude Code",
-    "score": 91,
-    "by": "marciopuga",
-    "url": "https://lab.puga.com.br/cog/",
-    "comments": 26
+    "title": "Show HN: Minimalist library to generate SVG views of scientific data",
+    "score": 18,
+    "by": "afc",
+    "url": "https://github.com/alefore/mini_svg/",
+    "comments": 2
   },
   {
-    "title": "My astrophotography in the movie Project Hail Mary",
-    "score": 853,
-    "by": "wallflower",
-    "url": "https://rpastro.square.site/s/stories/phm",
-    "comments": 197
+    "title": "Agent-to-agent pair programming",
+    "score": 66,
+    "by": "axldelafosse",
+    "url": "https://axeldelafosse.com/blog/agent-to-agent-pair-programming",
+    "comments": 20
   },
   {
-    "title": "Show HN: Optio – Orchestrate AI coding agents in K8s to go from ticket to PR",
-    "score": 49,
-    "by": "jawiggins",
-    "url": "https://github.com/jonwiggins/optio",
-    "comments": 28
+    "title": "Chroma Context-1: Training a Self-Editing Search Agent",
+    "score": 45,
+    "by": "philip1209",
+    "url": "https://www.trychroma.com/research/context-1",
+    "comments": 3
   },
   {
-    "title": "I tried to prove I'm not AI. My aunt wasn't convinced",
-    "score": 156,
-    "by": "dabinat",
-    "url": "https://www.bbc.com/future/article/20260324-i-tried-to-prove-im-not-an-ai-deepfake",
-    "comments": 176
-  },
-  {
-    "title": "TurboQuant: Redefining AI efficiency with extreme compression",
-    "score": 515,
-    "by": "ray__",
-    "url": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
-    "comments": 144
-  },
-  {
-    "title": "Health NZ staff told to stop using ChatGPT to write clinical notes",
+    "title": "Show HN: Turbolite – a SQLite VFS serving sub-250ms cold JOIN queries from S3",
     "score": 139,
-    "by": "billybuckwheat",
-    "url": "https://www.rnz.co.nz/news/national/590645/health-nz-staff-told-to-stop-using-chatgpt-to-write-clinical-notes",
-    "comments": 46
+    "by": "russellthehippo",
+    "url": "https://github.com/russellromney/turbolite",
+    "comments": 37
   },
   {
-    "title": "Goodbye to Sora",
-    "score": 1097,
-    "by": "mikeocool",
-    "url": "https://twitter.com/soraofficialapp/status/2036532795984715896",
-    "comments": 809
+    "title": "Judge blocks Pentagon effort to 'punish' Anthropic with supply chain risk label",
+    "score": 369,
+    "by": "prawn",
+    "url": "https://www.cnn.com/2026/03/26/business/anthropic-pentagon-injunction-supply-chain-risk",
+    "comments": 195
   },
   {
-    "title": "The Military Failures of Fascism",
-    "score": 22,
-    "by": "JumpCrisscross",
-    "url": "https://acoup.blog/2024/02/23/fireside-friday-february-23-2024-on-the-military-failures-of-fascism/",
-    "comments": 4
+    "title": "Chopping my brain into bits – turning my brain into a 3D model on the web",
+    "score": 7,
+    "by": "lanakei",
+    "url": "https://srg.id.au/posts/brain/",
+    "comments": 2
+  },
+  {
+    "title": "Show HN: Veil – Dark mode PDFs without destroying images, runs in the browser",
+    "score": 75,
+    "by": "simoneamico",
+    "url": "https://veil.simoneamico.com/",
+    "comments": 12
   }
 ]
