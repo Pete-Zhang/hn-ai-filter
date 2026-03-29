@@ -1,51 +1,72 @@
 [
   {
-    "title": "CERN uses tiny AI models burned into silicon for real-time LHC data filtering",
-    "score": 9,
-    "by": "TORcicada",
-    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "comments": 4
+    "title": "AI overly affirms users asking for personal advice",
+    "score": 630,
+    "by": "oldfrenchfries",
+    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+    "comments": 475
   },
   {
-    "title": "Anatomy of the .claude/ folder",
-    "score": 477,
-    "by": "freedomben",
-    "url": "https://blog.dailydoseofds.com/p/anatomy-of-the-claude-folder",
-    "comments": 220
+    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+    "score": 199,
+    "by": "mean_mistreater",
+    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+    "comments": 130
+  },
+  {
+    "title": "The first 40 months of the AI era",
+    "score": 172,
+    "by": "jpmitchell",
+    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
+    "comments": 90
+  },
+  {
+    "title": "What if AI doesn't need more RAM but better math?",
+    "score": 4,
+    "by": "adlrocha",
+    "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
+    "comments": 1
+  },
+  {
+    "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
+    "score": 1,
+    "by": "tulasichintha",
+    "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
+    "comments": 0
+  },
+  {
+    "title": "Wikipedia officially bans AI-generated content",
+    "score": 30,
+    "by": "1vuio0pswjnm7",
+    "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
+    "comments": 1
+  },
+  {
+    "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
+    "score": 138,
+    "by": "rahen",
+    "url": "https://github.com/dbrll/ATTN-11",
+    "comments": 24
   },
   {
     "title": "Iran-linked hackers breach FBI director's personal email",
-    "score": 236,
+    "score": 425,
     "by": "m-hodges",
     "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "comments": 341
+    "comments": 514
   },
   {
-    "title": "Telnyx package compromised on PyPI",
-    "score": 98,
-    "by": "ramimac",
-    "url": "https://telnyx.com/resources/telnyx-python-sdk-supply-chain-security-notice-march-2026",
-    "comments": 101
+    "title": "Can AI Exit Vim?",
+    "score": 8,
+    "by": "topwalktown",
+    "url": "https://theadamcolton.github.io/can-ai-exit-vim",
+    "comments": 5
   },
   {
-    "title": "Everything old is new again: memory optimization",
-    "score": 203,
-    "by": "ibobev",
-    "url": "https://nibblestew.blogspot.com/2026/03/everything-old-is-new-again-memory.html",
-    "comments": 139
-  },
-  {
-    "title": "21,864 Yugoslavian .yu domains",
-    "score": 88,
-    "by": "freediver",
-    "url": "https://jacobfilipp.com/yu/",
-    "comments": 106
-  },
-  {
-    "title": "Namespace: We've raised $23M to build the compute layer for code",
-    "score": 21,
-    "by": "pestkranker",
-    "url": "https://namespace.so/blog/series-a",
-    "comments": 3
+    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
+    "score": 310,
+    "by": "TORcicada",
+    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "comments": 141
   }
 ]
