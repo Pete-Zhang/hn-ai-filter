@@ -1,72 +1,86 @@
 [
   {
-    "title": "AI overly affirms users asking for personal advice",
-    "score": 630,
-    "by": "oldfrenchfries",
-    "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
-    "comments": 475
+    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
+    "score": 615,
+    "by": "alberto-m",
+    "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
+    "comments": 397
   },
   {
-    "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
-    "score": 199,
-    "by": "mean_mistreater",
-    "url": "https://twitter.com/BoWang87/status/2037648937453232504",
-    "comments": 130
+    "title": "Coding Agents Could Make Free Software Matter Again",
+    "score": 171,
+    "by": "rogueleaderr",
+    "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
+    "comments": 165
   },
   {
-    "title": "The first 40 months of the AI era",
-    "score": 172,
-    "by": "jpmitchell",
-    "url": "https://lzon.ca/posts/other/thoughts-ai-era/",
-    "comments": 90
+    "title": "Pretext: TypeScript library for multiline text measurement and layout",
+    "score": 301,
+    "by": "emersonmacro",
+    "url": "https://github.com/chenglou/pretext",
+    "comments": 52
   },
   {
-    "title": "What if AI doesn't need more RAM but better math?",
-    "score": 4,
-    "by": "adlrocha",
-    "url": "https://adlrocha.substack.com/p/adlrocha-what-if-ai-doesnt-need-more",
-    "comments": 1
+    "title": "I am definitely missing the pre-AI writing era",
+    "score": 34,
+    "by": "joozio",
+    "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
+    "comments": 16
   },
   {
-    "title": "InpharmD (YC W21) Is Hiring – Senior Ruby on Rails Developer",
-    "score": 1,
-    "by": "tulasichintha",
-    "url": "https://inpharmd.com/jobs/senior-ruby-on-rails-engineer",
-    "comments": 0
+    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
+    "score": 93,
+    "by": "walterbell",
+    "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
+    "comments": 76
   },
   {
-    "title": "Wikipedia officially bans AI-generated content",
-    "score": 30,
-    "by": "1vuio0pswjnm7",
-    "url": "https://nypost.com/2026/03/28/tech/wikipedia-officially-bans-ai-generated-encyclopedia-entries/",
-    "comments": 1
+    "title": "AI and bots have officially taken over the internet",
+    "score": 26,
+    "by": "zaikunzhang",
+    "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
+    "comments": 39
   },
   {
-    "title": "Paper Tape Is All You Need – Training a Transformer on a 1976 Minicomputer",
-    "score": 138,
-    "by": "rahen",
-    "url": "https://github.com/dbrll/ATTN-11",
-    "comments": 24
+    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
+    "score": 317,
+    "by": "LucidLynx",
+    "url": "https://github.com/austin-weeks/miasma",
+    "comments": 227
   },
   {
-    "title": "Iran-linked hackers breach FBI director's personal email",
-    "score": 425,
-    "by": "m-hodges",
-    "url": "https://www.reuters.com/world/us/iran-linked-hackers-claim-breach-of-fbi-directors-personal-email-doj-official-2026-03-27/",
-    "comments": 514
+    "title": "Kyushu Railway Company Train Varieties",
+    "score": 84,
+    "by": "NaOH",
+    "url": "https://www.jrkyushu.co.jp/english/train/index.html",
+    "comments": 13
   },
   {
-    "title": "Can AI Exit Vim?",
-    "score": 8,
-    "by": "topwalktown",
-    "url": "https://theadamcolton.github.io/can-ai-exit-vim",
-    "comments": 5
+    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
+    "score": 244,
+    "by": "mthwsjc_",
+    "url": "https://github.com/anthropics/claude-code/issues/40710",
+    "comments": 178
   },
   {
-    "title": "CERN uses ultra-compact AI models on FPGAs for real-time LHC data filtering",
-    "score": 310,
-    "by": "TORcicada",
-    "url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
-    "comments": 141
+    "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
+    "score": 95,
+    "by": "dannote",
+    "url": "https://github.com/elixir-volt/quickbeam",
+    "comments": 14
+  },
+  {
+    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
+    "score": 390,
+    "by": "ourmandave",
+    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
+    "comments": 169
+  },
+  {
+    "title": "Show HN: Crazierl – An Erlang Operating System",
+    "score": 59,
+    "by": "toast0",
+    "url": "https://crazierl.org/demo/",
+    "comments": 11
   }
 ]
