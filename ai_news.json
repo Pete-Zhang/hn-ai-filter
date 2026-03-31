@@ -1,86 +1,100 @@
 [
   {
-    "title": "ChatGPT won't let you type until Cloudflare reads your React state",
-    "score": 615,
-    "by": "alberto-m",
-    "url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-    "comments": 397
+    "title": "Universal Claude.md – cut Claude output tokens",
+    "score": 287,
+    "by": "killme2008",
+    "url": "https://github.com/drona23/claude-token-efficient",
+    "comments": 112
   },
   {
-    "title": "Coding Agents Could Make Free Software Matter Again",
-    "score": 171,
-    "by": "rogueleaderr",
-    "url": "https://www.gjlondon.com/blog/ai-agents-could-make-free-software-matter-again/",
-    "comments": 165
-  },
-  {
-    "title": "Pretext: TypeScript library for multiline text measurement and layout",
-    "score": 301,
-    "by": "emersonmacro",
-    "url": "https://github.com/chenglou/pretext",
-    "comments": 52
-  },
-  {
-    "title": "I am definitely missing the pre-AI writing era",
-    "score": 34,
-    "by": "joozio",
-    "url": "https://www.lesswrong.com/posts/BJ4pnropWdnzzgeJc/i-am-definitely-missing-the-pre-ai-writing-era",
-    "comments": 16
-  },
-  {
-    "title": "Midnight train from GA: A view of America from the tracks as airports struggle",
-    "score": 93,
-    "by": "walterbell",
-    "url": "https://apnews.com/article/airports-shutdown-long-lines-train-travel-amtrak-e4d8ea591b3b036142c2bf2dee7dff5a",
-    "comments": 76
-  },
-  {
-    "title": "AI and bots have officially taken over the internet",
-    "score": 26,
-    "by": "zaikunzhang",
-    "url": "https://www.cnbc.com/2026/03/26/ai-bots-humans-internet.html",
-    "comments": 39
-  },
-  {
-    "title": "Miasma: A tool to trap AI web scrapers in an endless poison pit",
-    "score": 317,
-    "by": "LucidLynx",
-    "url": "https://github.com/austin-weeks/miasma",
-    "comments": 227
-  },
-  {
-    "title": "Kyushu Railway Company Train Varieties",
-    "score": 84,
-    "by": "NaOH",
-    "url": "https://www.jrkyushu.co.jp/english/train/index.html",
-    "comments": 13
-  },
-  {
-    "title": "Claude Code runs Git reset –hard origin/main against project repo every 10 mins",
-    "score": 244,
-    "by": "mthwsjc_",
-    "url": "https://github.com/anthropics/claude-code/issues/40710",
-    "comments": 178
-  },
-  {
-    "title": "Show HN: QuickBEAM – run JavaScript as supervised Erlang/OTP processes",
-    "score": 95,
-    "by": "dannote",
-    "url": "https://github.com/elixir-volt/quickbeam",
+    "title": "Clojure: The Documentary, official trailer [video]",
+    "score": 177,
+    "by": "fogus",
+    "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
     "comments": 14
   },
   {
-    "title": "Police used AI facial recognition to wrongly arrest TN woman for crimes in ND",
-    "score": 390,
-    "by": "ourmandave",
-    "url": "https://www.cnn.com/2026/03/29/us/angela-lipps-ai-facial-recognition",
-    "comments": 169
+    "title": "RamAIn (YC W26) Is Hiring",
+    "score": 1,
+    "by": "svee",
+    "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
+    "comments": 0
   },
   {
-    "title": "Show HN: Crazierl – An Erlang Operating System",
-    "score": 59,
-    "by": "toast0",
-    "url": "https://crazierl.org/demo/",
-    "comments": 11
+    "title": "Show HN: Free AI Coding Skills for Rails",
+    "score": 7,
+    "by": "julianrubisch",
+    "url": "https://www.railsreviews.com/skills",
+    "comments": 0
+  },
+  {
+    "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
+    "score": 44,
+    "by": "y1n0",
+    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
+    "comments": 24
+  },
+  {
+    "title": "Bird brains (2023)",
+    "score": 317,
+    "by": "DiffTheEnder",
+    "url": "https://www.dhanishsemar.com/writing/bird-brains",
+    "comments": 200
+  },
+  {
+    "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
+    "score": 39,
+    "by": "virpo",
+    "url": "https://github.com/virpo/pegboard",
+    "comments": 8
+  },
+  {
+    "title": "R3 Bio pitched “brainless clones” to serve the role of backup human bodies",
+    "score": 57,
+    "by": "joozio",
+    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
+    "comments": 62
+  },
+  {
+    "title": "Show HN: Coasts – Containerized Hosts for Agents",
+    "score": 76,
+    "by": "jsunderland323",
+    "url": "https://github.com/coast-guard/coasts",
+    "comments": 31
+  },
+  {
+    "title": "Recover Apple Keychain",
+    "score": 83,
+    "by": "speckx",
+    "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
+    "comments": 30
+  },
+  {
+    "title": "Learn Claude Code by doing, not reading",
+    "score": 229,
+    "by": "taubek",
+    "url": "https://claude.nagdy.me/",
+    "comments": 101
+  },
+  {
+    "title": "The Inference Shift – How Cheap Chips Could Put Frontier AI in Everyone's Hands",
+    "score": 4,
+    "by": "arcanemachiner",
+    "url": "https://substack.com/home/post/p-192665961",
+    "comments": 2
+  },
+  {
+    "title": "Mathematical methods and human thought in the age of AI",
+    "score": 202,
+    "by": "zaikunzhang",
+    "url": "https://arxiv.org/abs/2603.26524",
+    "comments": 85
+  },
+  {
+    "title": "Claude Code bug can silently 10-20x API costs",
+    "score": 32,
+    "by": "wg0",
+    "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
+    "comments": 3
   }
 ]
