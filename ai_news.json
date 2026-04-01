@@ -1,17 +1,94 @@
 [
   {
-    "title": "Universal Claude.md – cut Claude output tokens",
-    "score": 287,
-    "by": "killme2008",
-    "url": "https://github.com/drona23/claude-token-efficient",
-    "comments": 112
+    "title": "Claude Code Unpacked : A visual guide",
+    "score": 330,
+    "by": "autocracy101",
+    "url": "https://ccunpacked.dev/",
+    "comments": 70
   },
   {
-    "title": "Clojure: The Documentary, official trailer [video]",
-    "score": 177,
-    "by": "fogus",
-    "url": "https://www.youtube.com/watch?v=JJEyffSdBsk",
-    "comments": 14
+    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+    "score": 43,
+    "by": "wazHFsRy",
+    "url": "https://github.com/yannick-cw/korb",
+    "comments": 5
+  },
+  {
+    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
+    "score": 238,
+    "by": "PrismML",
+    "url": "https://prismml.com/",
+    "comments": 101
+  },
+  {
+    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
+    "score": 1154,
+    "by": "alex000kim",
+    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
+    "comments": 456
+  },
+  {
+    "title": "OpenAI closes funding round at an $852B valuation",
+    "score": 439,
+    "by": "surprisetalk",
+    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
+    "comments": 381
+  },
+  {
+    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
+    "score": 301,
+    "by": "KoftaBob",
+    "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
+    "comments": 808
+  },
+  {
+    "title": "Back to FreeBSD – Part 2 – Jails",
+    "score": 84,
+    "by": "vermaden",
+    "url": "https://hypha.pub/back-to-freebsd-part-2",
+    "comments": 15
+  },
+  {
+    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
+    "score": 146,
+    "by": "tjgreen",
+    "url": "https://github.com/timescale/pg_textsearch",
+    "comments": 44
+  },
+  {
+    "title": "I traced my traffic through a home Tailscale exit node",
+    "score": 111,
+    "by": "stonecharioteer",
+    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
+    "comments": 53
+  },
+  {
+    "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
+    "score": 129,
+    "by": "jkool702",
+    "url": "https://github.com/jkool702/forkrun",
+    "comments": 31
+  },
+  {
+    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
+    "score": 6,
+    "by": "ishqdehlvi",
+    "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
+    "comments": 0
+  },
+  {
+    "title": "Accidentally created my first fork bomb with Claude Code",
+    "score": 68,
+    "by": "offbyone42",
+    "url": "https://www.droppedasbaby.com/posts/2602-01/",
+    "comments": 18
+  },
+  {
+    "title": "Microsoft: Copilot is for entertainment purposes only",
+    "score": 518,
+    "by": "lpcvoid",
+    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "comments": 185
   },
   {
     "title": "RamAIn (YC W26) Is Hiring",
@@ -19,82 +96,5 @@
     "by": "svee",
     "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
     "comments": 0
-  },
-  {
-    "title": "Show HN: Free AI Coding Skills for Rails",
-    "score": 7,
-    "by": "julianrubisch",
-    "url": "https://www.railsreviews.com/skills",
-    "comments": 0
-  },
-  {
-    "title": "Mr. Chatterbox is a Victorian-era ethically trained model",
-    "score": 44,
-    "by": "y1n0",
-    "url": "https://simonwillison.net/2026/Mar/30/mr-chatterbox/",
-    "comments": 24
-  },
-  {
-    "title": "Bird brains (2023)",
-    "score": 317,
-    "by": "DiffTheEnder",
-    "url": "https://www.dhanishsemar.com/writing/bird-brains",
-    "comments": 200
-  },
-  {
-    "title": "Show HN: I turned a sketch into a 3D-print pegboard for my kid with an AI agent",
-    "score": 39,
-    "by": "virpo",
-    "url": "https://github.com/virpo/pegboard",
-    "comments": 8
-  },
-  {
-    "title": "R3 Bio pitched “brainless clones” to serve the role of backup human bodies",
-    "score": 57,
-    "by": "joozio",
-    "url": "https://www.technologyreview.com/2026/03/30/1134780/r3-bio-brainless-human-clones-full-body-replacement-john-schloendorn-aging-longevity/",
-    "comments": 62
-  },
-  {
-    "title": "Show HN: Coasts – Containerized Hosts for Agents",
-    "score": 76,
-    "by": "jsunderland323",
-    "url": "https://github.com/coast-guard/coasts",
-    "comments": 31
-  },
-  {
-    "title": "Recover Apple Keychain",
-    "score": 83,
-    "by": "speckx",
-    "url": "https://arkoinad.com/posts/apple_keychain_recovery.html",
-    "comments": 30
-  },
-  {
-    "title": "Learn Claude Code by doing, not reading",
-    "score": 229,
-    "by": "taubek",
-    "url": "https://claude.nagdy.me/",
-    "comments": 101
-  },
-  {
-    "title": "The Inference Shift – How Cheap Chips Could Put Frontier AI in Everyone's Hands",
-    "score": 4,
-    "by": "arcanemachiner",
-    "url": "https://substack.com/home/post/p-192665961",
-    "comments": 2
-  },
-  {
-    "title": "Mathematical methods and human thought in the age of AI",
-    "score": 202,
-    "by": "zaikunzhang",
-    "url": "https://arxiv.org/abs/2603.26524",
-    "comments": 85
-  },
-  {
-    "title": "Claude Code bug can silently 10-20x API costs",
-    "score": 32,
-    "by": "wg0",
-    "url": "https://old.reddit.com/r/ClaudeCode/comments/1s7mitf/psa_claude_code_has_two_cache_bugs_that_can",
-    "comments": 3
   }
 ]
