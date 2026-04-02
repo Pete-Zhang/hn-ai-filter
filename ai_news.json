@@ -1,100 +1,114 @@
 [
   {
-    "title": "Claude Code Unpacked : A visual guide",
-    "score": 330,
-    "by": "autocracy101",
-    "url": "https://ccunpacked.dev/",
-    "comments": 70
+    "title": "Email obfuscation: What works in 2026?",
+    "score": 95,
+    "by": "jaden",
+    "url": "https://spencermortensen.com/articles/email-obfuscation/",
+    "comments": 21
   },
   {
-    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-    "score": 43,
-    "by": "wazHFsRy",
-    "url": "https://github.com/yannick-cw/korb",
+    "title": "Should AI have the right to say 'No' to its owner?",
+    "score": 4,
+    "by": "Jang-woo",
+    "url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
+    "comments": 2
+  },
+  {
+    "title": "AI Perfected Chess. Humans Made It Unpredictable Again",
+    "score": 30,
+    "by": "GMoromisato",
+    "url": "https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves",
+    "comments": 21
+  },
+  {
+    "title": "AI for American-produced cement and concrete",
+    "score": 189,
+    "by": "latchkey",
+    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
+    "comments": 110
+  },
+  {
+    "title": "Ask HN: Who is hiring? (April 2026)",
+    "score": 234,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 199
+  },
+  {
+    "title": "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
+    "score": 79,
+    "by": "kasparnoor",
+    "url": "https://getdull.app",
+    "comments": 63
+  },
+  {
+    "title": "The Claude Code Leak",
+    "score": 141,
+    "by": "mergesort",
+    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
+    "comments": 118
+  },
+  {
+    "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
+    "score": 33,
+    "by": "ruevs",
+    "url": "https://github.com/solvespace/solvespace/issues/1036",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better",
+    "score": 7,
+    "by": "QWERTYmini",
+    "url": "https://k-keyboard.com/Why-2-Row-16-Key-Structure",
     "comments": 5
   },
   {
-    "title": "Show HN: 1-Bit Bonsai, the First Commercially Viable 1-Bit LLMs",
-    "score": 238,
-    "by": "PrismML",
-    "url": "https://prismml.com/",
-    "comments": 101
+    "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
+    "score": 75,
+    "by": "coolwulf",
+    "url": "https://flight-viz.com",
+    "comments": 38
   },
   {
-    "title": "The Claude Code Source Leak: fake tools, frustration regexes, undercover mode",
-    "score": 1154,
-    "by": "alex000kim",
-    "url": "https://alex000kim.com/posts/2026-03-31-claude-code-source-leak/",
-    "comments": 456
+    "title": "Show HN: We open-sourced our content writing workflow as a Claude Code skill",
+    "score": 7,
+    "by": "arximughal",
+    "url": "https://www.npmjs.com/package/claude-content-writer",
+    "comments": 1
   },
   {
-    "title": "OpenAI closes funding round at an $852B valuation",
-    "score": 439,
-    "by": "surprisetalk",
-    "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html",
-    "comments": 381
+    "title": "Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",
+    "score": 7,
+    "by": "joaoli131",
+    "url": "https://constitutionalmap.ai/en",
+    "comments": 1
   },
   {
-    "title": "Why the US Navy won't blast the Iranians and 'open' Strait of Hormuz",
-    "score": 301,
-    "by": "KoftaBob",
-    "url": "https://responsiblestatecraft.org/iran-strait-of-hormuz/",
-    "comments": 808
+    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
+    "score": 191,
+    "by": "wazHFsRy",
+    "url": "https://github.com/yannick-cw/korb",
+    "comments": 80
   },
   {
-    "title": "Back to FreeBSD – Part 2 – Jails",
-    "score": 84,
-    "by": "vermaden",
-    "url": "https://hypha.pub/back-to-freebsd-part-2",
-    "comments": 15
+    "title": "Windows 95 defenses against installers that overwrite a file with an older one",
+    "score": 145,
+    "by": "michelangelo",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
+    "comments": 75
   },
   {
-    "title": "Show HN: Postgres extension for BM25 relevance-ranked full-text search",
-    "score": 146,
-    "by": "tjgreen",
-    "url": "https://github.com/timescale/pg_textsearch",
-    "comments": 44
+    "title": "Ask HN: Who wants to be hired? (April 2026)",
+    "score": 63,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 161
   },
   {
-    "title": "I traced my traffic through a home Tailscale exit node",
-    "score": 111,
-    "by": "stonecharioteer",
-    "url": "https://tech.stonecharioteer.com/posts/2026/tailscale-exit-nodes/",
-    "comments": 53
-  },
-  {
-    "title": "Show HN: Forkrun – NUMA-aware shell parallelizer (50×–400× faster than parallel)",
-    "score": 129,
-    "by": "jkool702",
-    "url": "https://github.com/jkool702/forkrun",
-    "comments": 31
-  },
-  {
-    "title": "Claude Wrote a Full FreeBSD Remote Kernel RCE with Root Shell (CVE-2026-4747)",
-    "score": 6,
-    "by": "ishqdehlvi",
-    "url": "https://github.com/califio/publications/blob/main/MADBugs/CVE-2026-4747/write-up.md",
-    "comments": 0
-  },
-  {
-    "title": "Accidentally created my first fork bomb with Claude Code",
-    "score": 68,
-    "by": "offbyone42",
-    "url": "https://www.droppedasbaby.com/posts/2602-01/",
-    "comments": 18
-  },
-  {
-    "title": "Microsoft: Copilot is for entertainment purposes only",
-    "score": 518,
-    "by": "lpcvoid",
-    "url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
-    "comments": 185
-  },
-  {
-    "title": "RamAIn (YC W26) Is Hiring",
-    "score": 1,
-    "by": "svee",
-    "url": "https://www.ycombinator.com/companies/ramain/jobs/jezgwo5-ai-ml-research-engineer",
-    "comments": 0
+    "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
+    "score": 122,
+    "by": "afshinmeh",
+    "url": "https://github.com/afshinm/zerobox",
+    "comments": 85
   }
 ]
