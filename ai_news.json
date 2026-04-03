@@ -1,114 +1,58 @@
 [
   {
-    "title": "Email obfuscation: What works in 2026?",
-    "score": 95,
-    "by": "jaden",
-    "url": "https://spencermortensen.com/articles/email-obfuscation/",
-    "comments": 21
+    "title": "The True Shape of Io's Steeple Mountain",
+    "score": 36,
+    "by": "carlosjobim",
+    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
+    "comments": 0
   },
   {
-    "title": "Should AI have the right to say 'No' to its owner?",
-    "score": 4,
-    "by": "Jang-woo",
-    "url": "https://github.com/Jang-woo-AnnaSoft/execution-boundaries",
-    "comments": 2
+    "title": "Tailscale's new macOS home",
+    "score": 446,
+    "by": "tosh",
+    "url": "https://tailscale.com/blog/macos-notch-escape",
+    "comments": 222
   },
   {
-    "title": "AI Perfected Chess. Humans Made It Unpredictable Again",
-    "score": 30,
-    "by": "GMoromisato",
-    "url": "https://www.bloomberg.com/news/articles/2026-03-27/ai-changed-chess-grandmasters-now-win-with-unpredictable-moves",
-    "comments": 21
+    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
+    "score": 246,
+    "by": "sedev",
+    "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
+    "comments": 101
   },
   {
-    "title": "AI for American-produced cement and concrete",
-    "score": 189,
-    "by": "latchkey",
-    "url": "https://engineering.fb.com/2026/03/30/data-center-engineering/ai-for-american-produced-cement-and-concrete/",
-    "comments": 110
+    "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
+    "score": 49,
+    "by": "sthottingal",
+    "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
+    "comments": 30
   },
   {
-    "title": "Ask HN: Who is hiring? (April 2026)",
-    "score": 234,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 199
+    "title": "OpenAI Acquires TBPN",
+    "score": 208,
+    "by": "surprisetalk",
+    "url": "https://openai.com/index/openai-acquires-tbpn/",
+    "comments": 163
   },
   {
-    "title": "Show HN: Dull – Instagram Without Reels, YouTube Without Shorts (iOS)",
-    "score": 79,
-    "by": "kasparnoor",
-    "url": "https://getdull.app",
-    "comments": 63
+    "title": "A Rave Review of Superpowers (For Claude Code)",
+    "score": 10,
+    "by": "emschwartz",
+    "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
+    "comments": 0
   },
   {
-    "title": "The Claude Code Leak",
-    "score": 141,
-    "by": "mergesort",
-    "url": "https://build.ms/2026/4/1/the-claude-code-leak/",
-    "comments": 118
+    "title": "Post Mortem: axios NPM supply chain compromise",
+    "score": 90,
+    "by": "Kyro38",
+    "url": "https://github.com/axios/axios/issues/10636",
+    "comments": 51
   },
   {
-    "title": "SolveSpace (open source 2D/3D CAD) working on Windows 2000 (2025)",
-    "score": 33,
-    "by": "ruevs",
-    "url": "https://github.com/solvespace/solvespace/issues/1036",
-    "comments": 6
-  },
-  {
-    "title": "Show HN: QWERTY mini Pro – Why a 2-row, 16-key keyboard works better",
-    "score": 7,
-    "by": "QWERTYmini",
-    "url": "https://k-keyboard.com/Why-2-Row-16-Key-Structure",
-    "comments": 5
-  },
-  {
-    "title": "Show HN: Flight-Viz – 10K flights on a 3D globe in 3.5MB of Rust+WASM",
-    "score": 75,
-    "by": "coolwulf",
-    "url": "https://flight-viz.com",
-    "comments": 38
-  },
-  {
-    "title": "Show HN: We open-sourced our content writing workflow as a Claude Code skill",
-    "score": 7,
-    "by": "arximughal",
-    "url": "https://www.npmjs.com/package/claude-content-writer",
-    "comments": 1
-  },
-  {
-    "title": "Show HN: Semantic atlas of 188 constitutions in 3D (30k articles, embeddings)",
-    "score": 7,
-    "by": "joaoli131",
-    "url": "https://constitutionalmap.ai/en",
-    "comments": 1
-  },
-  {
-    "title": "Show HN: CLI to order groceries via reverse-engineered REWE API (Haskell)",
-    "score": 191,
-    "by": "wazHFsRy",
-    "url": "https://github.com/yannick-cw/korb",
-    "comments": 80
-  },
-  {
-    "title": "Windows 95 defenses against installers that overwrite a file with an older one",
-    "score": 145,
-    "by": "michelangelo",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260324-00/?p=112159",
-    "comments": 75
-  },
-  {
-    "title": "Ask HN: Who wants to be hired? (April 2026)",
-    "score": 63,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 161
-  },
-  {
-    "title": "Show HN: Zerobox – Sandbox any command with file, network, credential controls",
-    "score": 122,
-    "by": "afshinmeh",
-    "url": "https://github.com/afshinm/zerobox",
-    "comments": 85
+    "title": "Significant raise of reports",
+    "score": 293,
+    "by": "stratos123",
+    "url": "https://lwn.net/Articles/1065620/",
+    "comments": 150
   }
 ]
