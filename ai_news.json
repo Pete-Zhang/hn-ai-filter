@@ -1,58 +1,86 @@
 [
   {
-    "title": "The True Shape of Io's Steeple Mountain",
-    "score": 36,
-    "by": "carlosjobim",
-    "url": "https://www.weareinquisitive.com/news/hidden-in-the-shadow",
-    "comments": 0
+    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
+    "score": 623,
+    "by": "firloop",
+    "url": "",
+    "comments": 522
   },
   {
-    "title": "Tailscale's new macOS home",
-    "score": 446,
-    "by": "tosh",
-    "url": "https://tailscale.com/blog/macos-notch-escape",
-    "comments": 222
+    "title": "Artemis II crew take “spectacular” image of Earth",
+    "score": 724,
+    "by": "andsoitis",
+    "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+    "comments": 256
   },
   {
-    "title": "Good ideas do not need lots of lies in order to gain public acceptance (2008)",
-    "score": 246,
-    "by": "sedev",
-    "url": "https://blog.danieldavies.com/2004/05/d-squared-digest-one-minute-mba.html",
-    "comments": 101
-  },
-  {
-    "title": "Show HN: Home Maker: Declare Your Dev Tools in a Makefile",
-    "score": 49,
-    "by": "sthottingal",
-    "url": "https://thottingal.in/blog/2026/03/29/home-maker/",
-    "comments": 30
-  },
-  {
-    "title": "OpenAI Acquires TBPN",
-    "score": 208,
-    "by": "surprisetalk",
-    "url": "https://openai.com/index/openai-acquires-tbpn/",
-    "comments": 163
-  },
-  {
-    "title": "A Rave Review of Superpowers (For Claude Code)",
-    "score": 10,
-    "by": "emschwartz",
-    "url": "https://emschwartz.me/a-rave-review-of-superpowers-for-claude-code/",
-    "comments": 0
+    "title": "Run Linux containers on Android, no root required",
+    "score": 103,
+    "by": "politelemon",
+    "url": "https://github.com/ExTV/Podroid",
+    "comments": 34
   },
   {
     "title": "Post Mortem: axios NPM supply chain compromise",
-    "score": 90,
+    "score": 246,
     "by": "Kyro38",
     "url": "https://github.com/axios/axios/issues/10636",
-    "comments": 51
+    "comments": 112
   },
   {
-    "title": "Significant raise of reports",
-    "score": 293,
-    "by": "stratos123",
-    "url": "https://lwn.net/Articles/1065620/",
-    "comments": 150
+    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
+    "score": 291,
+    "by": "denssumesh",
+    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
+    "comments": 116
+  },
+  {
+    "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
+    "score": 65,
+    "by": "borski",
+    "url": "https://github.com/borski/travel-hacking-toolkit",
+    "comments": 29
+  },
+  {
+    "title": "Show HN: I built a frontpage for personal blogs",
+    "score": 707,
+    "by": "ramkarthikk",
+    "url": "https://text.blogosphere.app/",
+    "comments": 180
+  },
+  {
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "score": 31,
+    "by": "eichin",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "comments": 13
+  },
+  {
+    "title": "50 years measuring the cleanest air",
+    "score": 7,
+    "by": "defrost",
+    "url": "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air",
+    "comments": 0
+  },
+  {
+    "title": "How to Write Unmaintainable Code (1999)",
+    "score": 40,
+    "by": "downbad_",
+    "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
+    "comments": 10
+  },
+  {
+    "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
+    "score": 187,
+    "by": "upofadown",
+    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
+    "comments": 82
+  },
+  {
+    "title": "Show HN: Apfel – The free AI already on your Mac",
+    "score": 670,
+    "by": "franze",
+    "url": "https://apfel.franzai.com",
+    "comments": 140
   }
 ]
