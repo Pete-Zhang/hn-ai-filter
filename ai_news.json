@@ -1,86 +1,65 @@
 [
   {
-    "title": "Tell HN: Anthropic no longer allowing Claude Code subscriptions to use OpenClaw",
-    "score": 623,
-    "by": "firloop",
-    "url": "",
-    "comments": 522
+    "title": "Show HN: I built a small app for FSI German Course",
+    "score": 25,
+    "by": "syedmsawaid",
+    "url": "https://detawk.com/",
+    "comments": 6
   },
   {
-    "title": "Artemis II crew take “spectacular” image of Earth",
-    "score": 724,
-    "by": "andsoitis",
-    "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-    "comments": 256
-  },
-  {
-    "title": "Run Linux containers on Android, no root required",
-    "score": 103,
-    "by": "politelemon",
-    "url": "https://github.com/ExTV/Podroid",
-    "comments": 34
-  },
-  {
-    "title": "Post Mortem: axios NPM supply chain compromise",
-    "score": 246,
-    "by": "Kyro38",
-    "url": "https://github.com/axios/axios/issues/10636",
-    "comments": 112
-  },
-  {
-    "title": "We replaced RAG with a virtual filesystem for our AI documentation assistant",
-    "score": 291,
-    "by": "denssumesh",
-    "url": "https://www.mintlify.com/blog/how-we-built-a-virtual-filesystem-for-our-assistant",
-    "comments": 116
-  },
-  {
-    "title": "Show HN: Travel Hacking Toolkit – Points search and trip planning with AI",
-    "score": 65,
-    "by": "borski",
-    "url": "https://github.com/borski/travel-hacking-toolkit",
-    "comments": 29
-  },
-  {
-    "title": "Show HN: I built a frontpage for personal blogs",
-    "score": 707,
-    "by": "ramkarthikk",
-    "url": "https://text.blogosphere.app/",
-    "comments": 180
-  },
-  {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "score": 31,
-    "by": "eichin",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "comments": 13
-  },
-  {
-    "title": "50 years measuring the cleanest air",
-    "score": 7,
-    "by": "defrost",
-    "url": "https://www.csiro.au/en/news/All/News/2026/April/50-years-measuring-the-worlds-cleanest-air",
-    "comments": 0
-  },
-  {
-    "title": "How to Write Unmaintainable Code (1999)",
-    "score": 40,
-    "by": "downbad_",
-    "url": "https://www.doc.ic.ac.uk/%7Esusan/475/unmain.html",
+    "title": "Show HN: I made open source, zero power PCB hackathon badges",
+    "score": 93,
+    "by": "kaipereira",
+    "url": "https://github.com/KaiPereira/Overglade-Badges",
     "comments": 10
   },
   {
-    "title": "Iran strikes leave Amazon availability zones \"hard down\" in Bahrain and Dubai",
-    "score": 187,
-    "by": "upofadown",
-    "url": "https://www.bigtechnology.com/p/iran-strikes-leave-amazon-availability",
-    "comments": 82
+    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
+    "score": 154,
+    "by": "jrandolf",
+    "url": "https://sllm.cloud",
+    "comments": 76
   },
   {
-    "title": "Show HN: Apfel – The free AI already on your Mac",
-    "score": 670,
-    "by": "franze",
-    "url": "https://apfel.franzai.com",
-    "comments": 140
+    "title": "Training mRNA Language Models Across 25 Species for $165",
+    "score": 138,
+    "by": "maziyar",
+    "url": "",
+    "comments": 32
+  },
+  {
+    "title": "Artemis II crew take “spectacular” image of Earth",
+    "score": 1037,
+    "by": "andsoitis",
+    "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
+    "comments": 355
+  },
+  {
+    "title": "Writing Lisp is AI resistant and I'm sad",
+    "score": 64,
+    "by": "djha-skin",
+    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
+    "comments": 61
+  },
+  {
+    "title": "Mbodi AI (YC P25) Is Hiring",
+    "score": 1,
+    "by": "chitianhao",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+    "comments": 0
+  },
+  {
+    "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
+    "score": 46,
+    "by": "ingenika",
+    "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
+    "comments": 9
+  },
+  {
+    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
+    "score": 389,
+    "by": "eichin",
+    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
+    "comments": 245
   }
 ]
