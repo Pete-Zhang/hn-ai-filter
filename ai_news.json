@@ -1,65 +1,93 @@
 [
   {
-    "title": "Show HN: I built a small app for FSI German Course",
-    "score": 25,
-    "by": "syedmsawaid",
-    "url": "https://detawk.com/",
-    "comments": 6
+    "title": "Show HN: I built a tiny LLM to demystify how language models work",
+    "score": 427,
+    "by": "armanified",
+    "url": "https://github.com/arman-bd/guppylm",
+    "comments": 34
   },
   {
-    "title": "Show HN: I made open source, zero power PCB hackathon badges",
-    "score": 93,
-    "by": "kaipereira",
-    "url": "https://github.com/KaiPereira/Overglade-Badges",
-    "comments": 10
+    "title": "France pulls last gold held in US for $15B gain",
+    "score": 40,
+    "by": "teleforce",
+    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
+    "comments": 21
   },
   {
-    "title": "Show HN: sllm – Split a GPU node with other developers, unlimited tokens",
-    "score": 154,
-    "by": "jrandolf",
-    "url": "https://sllm.cloud",
-    "comments": 76
+    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
+    "score": 74,
+    "by": "ikessler",
+    "url": "https://github.com/kessler/gemma-gem",
+    "comments": 14
   },
   {
-    "title": "Training mRNA Language Models Across 25 Species for $165",
-    "score": 138,
-    "by": "maziyar",
-    "url": "",
-    "comments": 32
+    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
+    "score": 77,
+    "by": "karimf",
+    "url": "https://github.com/fikrikarim/parlor",
+    "comments": 3
   },
   {
-    "title": "Artemis II crew take “spectacular” image of Earth",
-    "score": 1037,
-    "by": "andsoitis",
-    "url": "https://www.bbc.com/news/articles/ce8jzr423p9o",
-    "comments": 355
+    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
+    "score": 270,
+    "by": "vbtechguy",
+    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
+    "comments": 65
   },
   {
-    "title": "Writing Lisp is AI resistant and I'm sad",
-    "score": 64,
-    "by": "djha-skin",
-    "url": "https://blog.djhaskin.com/blog/writing-lisp-is-ai-resistant-and-im-sad/",
-    "comments": 61
+    "title": "Jobs Being Created by AI",
+    "score": 5,
+    "by": "Jimmc414",
+    "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
+    "comments": 2
   },
   {
-    "title": "Mbodi AI (YC P25) Is Hiring",
-    "score": 1,
-    "by": "chitianhao",
-    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/mf9L3sy-senior-robotics-engineer-systems-controls",
+    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
+    "score": 11,
+    "by": "stevebmark",
+    "url": "https://drop.com/",
+    "comments": 1
+  },
+  {
+    "title": "A tail-call interpreter in (nightly) Rust",
+    "score": 159,
+    "by": "g0xA52A2A",
+    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
+    "comments": 36
+  },
+  {
+    "title": "Eight years of wanting, three months of building with AI",
+    "score": 773,
+    "by": "brilee",
+    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
+    "comments": 233
+  },
+  {
+    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
+    "score": 185,
+    "by": "desideratum",
+    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
+    "comments": 25
+  },
+  {
+    "title": "OpenAI's fall from grace as investors race to Anthropic",
+    "score": 155,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
+    "comments": 104
+  },
+  {
+    "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
+    "score": 10,
+    "by": "tmoravec",
+    "url": "https://www.bbc.com/news/articles/cy41n17e23go",
     "comments": 0
   },
   {
-    "title": "Brain scans reveal how to enters a psychedelic-like trance without drugs",
-    "score": 46,
-    "by": "ingenika",
-    "url": "https://www.psypost.org/brain-scans-reveal-how-a-woman-voluntarily-enters-a-psychedelic-like-trance-without-drugs/",
-    "comments": 9
-  },
-  {
-    "title": "Claude Code Found a Linux Vulnerability Hidden for 23 Years",
-    "score": 389,
-    "by": "eichin",
-    "url": "https://mtlynch.io/claude-code-found-linux-vulnerability/",
-    "comments": 245
+    "title": "From birds to brains: My path to the fusiform face area (2024)",
+    "score": 35,
+    "by": "everbody",
+    "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
+    "comments": 0
   }
 ]
