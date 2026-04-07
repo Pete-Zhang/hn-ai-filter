@@ -1,93 +1,86 @@
 [
   {
+    "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
+    "score": 366,
+    "by": "MattHart88",
+    "url": "https://github.com/matthartman/ghost-pepper",
+    "comments": 170
+  },
+  {
+    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
+    "score": 1057,
+    "by": "StanAngeloff",
+    "url": "https://github.com/anthropics/claude-code/issues/42796",
+    "comments": 588
+  },
+  {
+    "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
+    "score": 265,
+    "by": "benswerd",
+    "url": "https://www.freestyle.sh/",
+    "comments": 145
+  },
+  {
+    "title": "AI singer now occupies eleven spots on iTunes singles chart",
+    "score": 166,
+    "by": "flinner",
+    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
+    "comments": 262
+  },
+  {
+    "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
+    "score": 71,
+    "by": "noone_youknow",
+    "url": "https://github.com/roscopeco/anos",
+    "comments": 22
+  },
+  {
+    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
+    "score": 91,
+    "by": "kitfunso",
+    "url": "https://github.com/kitfunso/hippo-memory",
+    "comments": 17
+  },
+  {
+    "title": "HackerRank (YC S11) Is Hiring",
+    "score": 1,
+    "by": "rvivek",
+    "url": "",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting",
+    "score": 51,
+    "by": "4RH1T3CT0R",
+    "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
+    "comments": 12
+  },
+  {
+    "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+    "score": 132,
+    "by": "tantalor",
+    "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
+    "comments": 208
+  },
+  {
     "title": "Show HN: I built a tiny LLM to demystify how language models work",
-    "score": 427,
+    "score": 868,
     "by": "armanified",
     "url": "https://github.com/arman-bd/guppylm",
-    "comments": 34
-  },
-  {
-    "title": "France pulls last gold held in US for $15B gain",
-    "score": 40,
-    "by": "teleforce",
-    "url": "https://www.mining.com/france-pulls-last-gold-held-in-us-for-15b-gain/",
-    "comments": 21
-  },
-  {
-    "title": "Show HN: Gemma Gem – AI model embedded in a browser – no API keys, no cloud",
-    "score": 74,
-    "by": "ikessler",
-    "url": "https://github.com/kessler/gemma-gem",
-    "comments": 14
+    "comments": 128
   },
   {
     "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-    "score": 77,
+    "score": 271,
     "by": "karimf",
     "url": "https://github.com/fikrikarim/parlor",
-    "comments": 3
-  },
-  {
-    "title": "Running Gemma 4 locally with LM Studio's new headless CLI and Claude Code",
-    "score": 270,
-    "by": "vbtechguy",
-    "url": "https://ai.georgeliu.com/p/running-google-gemma-4-locally-with",
-    "comments": 65
-  },
-  {
-    "title": "Jobs Being Created by AI",
-    "score": 5,
-    "by": "Jimmc414",
-    "url": "https://www.wsj.com/tech/ai/wanted-head-of-human-ai-solutions-the-new-jobs-being-created-by-ai-870c6ed5",
-    "comments": 2
+    "comments": 34
   },
   {
     "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
-    "score": 11,
+    "score": 129,
     "by": "stevebmark",
     "url": "https://drop.com/",
-    "comments": 1
-  },
-  {
-    "title": "A tail-call interpreter in (nightly) Rust",
-    "score": 159,
-    "by": "g0xA52A2A",
-    "url": "https://www.mattkeeter.com/blog/2026-04-05-tailcall/",
-    "comments": 36
-  },
-  {
-    "title": "Eight years of wanting, three months of building with AI",
-    "score": 773,
-    "by": "brilee",
-    "url": "https://lalitm.com/post/building-syntaqlite-ai/",
-    "comments": 233
-  },
-  {
-    "title": "Nanocode: The best Claude Code that $200 can buy in pure JAX on TPUs",
-    "score": 185,
-    "by": "desideratum",
-    "url": "https://github.com/salmanmohammadi/nanocode/discussions/1",
-    "comments": 25
-  },
-  {
-    "title": "OpenAI's fall from grace as investors race to Anthropic",
-    "score": 155,
-    "by": "1vuio0pswjnm7",
-    "url": "https://www.latimes.com/business/story/2026-04-01/openais-shocking-fall-from-grace-as-investors-race-to-anthropic",
-    "comments": 104
-  },
-  {
-    "title": "China fell for a lobster: What an AI assistant tells us about Beijing's ambition",
-    "score": 10,
-    "by": "tmoravec",
-    "url": "https://www.bbc.com/news/articles/cy41n17e23go",
-    "comments": 0
-  },
-  {
-    "title": "From birds to brains: My path to the fusiform face area (2024)",
-    "score": 35,
-    "by": "everbody",
-    "url": "https://www.kavliprize.org/nancy-kanwisher-autobiography",
-    "comments": 0
+    "comments": 70
   }
 ]
