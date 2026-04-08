@@ -1,86 +1,65 @@
 [
   {
-    "title": "Show HN: Ghost Pepper – Local hold-to-talk speech-to-text for macOS",
-    "score": 366,
-    "by": "MattHart88",
-    "url": "https://github.com/matthartman/ghost-pepper",
-    "comments": 170
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "score": 1259,
+    "by": "Ryan5453",
+    "url": "https://www.anthropic.com/glasswing",
+    "comments": 615
   },
   {
-    "title": "Issue: Claude Code is unusable for complex engineering tasks with Feb updates",
-    "score": 1057,
-    "by": "StanAngeloff",
-    "url": "https://github.com/anthropics/claude-code/issues/42796",
-    "comments": 588
+    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
+    "score": 55,
+    "by": "bundie",
+    "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+    "comments": 16
   },
   {
-    "title": "Launch HN: Freestyle – Sandboxes for Coding Agents",
-    "score": 265,
-    "by": "benswerd",
-    "url": "https://www.freestyle.sh/",
-    "comments": 145
+    "title": "System Card: Claude Mythos Preview [pdf]",
+    "score": 674,
+    "by": "be7a",
+    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
+    "comments": 484
   },
   {
-    "title": "AI singer now occupies eleven spots on iTunes singles chart",
-    "score": 166,
-    "by": "flinner",
-    "url": "https://www.showbiz411.com/2026/04/05/itunes-takeover-by-fake-ai-singer-eddie-dalton-now-occupies-eleven-spots-on-chart-despite-not-being-human-or-real-exclusive",
-    "comments": 262
+    "title": "Show HN: An interactive map of Tolkien's Middle-earth",
+    "score": 195,
+    "by": "frasermarlow",
+    "url": "https://middle-earth-interactive-map.web.app/",
+    "comments": 39
   },
   {
-    "title": "Show HN: Anos – a hand-written ~100KiB microkernel for x86-64 and RISC-V",
-    "score": 71,
-    "by": "noone_youknow",
-    "url": "https://github.com/roscopeco/anos",
-    "comments": 22
+    "title": "US and Iran agree to provisional ceasefire",
+    "score": 465,
+    "by": "g-b-r",
+    "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
+    "comments": 1287
   },
   {
-    "title": "Show HN: Hippo, biologically inspired memory for AI agents",
-    "score": 91,
-    "by": "kitfunso",
-    "url": "https://github.com/kitfunso/hippo-memory",
-    "comments": 17
+    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
+    "score": 174,
+    "by": "MediaSquirrel",
+    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
+    "comments": 23
   },
   {
-    "title": "HackerRank (YC S11) Is Hiring",
-    "score": 1,
-    "by": "rvivek",
-    "url": "",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: TTF-DOOM – A raycaster running inside TrueType font hinting",
-    "score": 51,
-    "by": "4RH1T3CT0R",
-    "url": "https://github.com/4RH1T3CT0R7/ttf-doom",
-    "comments": 12
-  },
-  {
-    "title": "The team behind a pro-Iran, Lego-themed viral-video campaign",
+    "title": "AI helps add 10k more photos to OldNYC",
     "score": 132,
-    "by": "tantalor",
-    "url": "https://www.newyorker.com/culture/infinite-scroll/the-team-behind-a-pro-iran-lego-themed-viral-video-campaign",
-    "comments": 208
+    "by": "evakhoury",
+    "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
+    "comments": 45
   },
   {
-    "title": "Show HN: I built a tiny LLM to demystify how language models work",
-    "score": 868,
-    "by": "armanified",
-    "url": "https://github.com/arman-bd/guppylm",
-    "comments": 128
+    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
+    "score": 283,
+    "by": "sweis",
+    "url": "https://red.anthropic.com/2026/mythos-preview/",
+    "comments": 41
   },
   {
-    "title": "Show HN: Real-time AI (audio/video in, voice out) on an M3 Pro with Gemma E2B",
-    "score": 271,
-    "by": "karimf",
-    "url": "https://github.com/fikrikarim/parlor",
-    "comments": 34
-  },
-  {
-    "title": "Drop, formerly Massdrop, ends most collaborations and rebrands under Corsair",
-    "score": 129,
-    "by": "stevebmark",
-    "url": "https://drop.com/",
-    "comments": 70
+    "title": "Taste in the age of AI and LLMs",
+    "score": 243,
+    "by": "speckx",
+    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
+    "comments": 194
   }
 ]
