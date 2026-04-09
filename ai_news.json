@@ -1,65 +1,100 @@
 [
   {
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "score": 1259,
-    "by": "Ryan5453",
-    "url": "https://www.anthropic.com/glasswing",
-    "comments": 615
+    "title": "Process Manager for Autonomous AI Agents",
+    "score": 29,
+    "by": "ankitg12",
+    "url": "https://botctl.dev/",
+    "comments": 5
   },
   {
-    "title": "We moved Railway's frontend off Next.js. Builds went from 10+ mins to under two",
-    "score": 55,
-    "by": "bundie",
-    "url": "https://blog.railway.com/p/moving-railways-frontend-off-nextjs",
+    "title": "Ask HN: What are you building that's not AI related?",
+    "score": 21,
+    "by": "meander_water",
+    "url": "",
+    "comments": 19
+  },
+  {
+    "title": "Muse Spark: Scaling towards personal superintelligence",
+    "score": 338,
+    "by": "chabons",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+    "comments": 325
+  },
+  {
+    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
+    "score": 294,
+    "by": "chrsw",
+    "url": "https://arxiv.org/abs/2604.05091",
+    "comments": 52
+  },
+  {
+    "title": "Ask HN: Any interesting niche hobbies?",
+    "score": 357,
+    "by": "e-topy",
+    "url": "",
+    "comments": 519
+  },
+  {
+    "title": "John Deere to pay $99M in right-to-repair settlement",
+    "score": 301,
+    "by": "CharlesW",
+    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+    "comments": 90
+  },
+  {
+    "title": "Show HN: Is Hormuz open yet?",
+    "score": 390,
+    "by": "anonfunction",
+    "url": "https://www.ishormuzopenyet.com/",
+    "comments": 158
+  },
+  {
+    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
+    "score": 358,
+    "by": "nickvec",
+    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "comments": 172
+  },
+  {
+    "title": "Show HN: Unicode Steganography",
+    "score": 50,
+    "by": "PatrickVuscan",
+    "url": "https://steganography.patrickvuscan.com",
+    "comments": 14
+  },
+  {
+    "title": "You Can Just Print an Air Purifier",
+    "score": 17,
+    "by": "zdw",
+    "url": "https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/",
+    "comments": 0
+  },
+  {
+    "title": "Project Glasswing: Securing critical software for the AI era",
+    "score": 1493,
+    "by": "Ryan5453",
+    "url": "https://www.anthropic.com/glasswing",
+    "comments": 802
+  },
+  {
+    "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
+    "score": 26,
+    "by": "Stratoscope",
+    "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
+    "comments": 6
+  },
+  {
+    "title": "Claude Managed Agents Overview",
+    "score": 22,
+    "by": "NicoJuicy",
+    "url": "https://platform.claude.com/docs/en/managed-agents/overview",
     "comments": 16
   },
   {
-    "title": "System Card: Claude Mythos Preview [pdf]",
-    "score": 674,
-    "by": "be7a",
-    "url": "https://www-cdn.anthropic.com/53566bf5440a10affd749724787c8913a2ae0841.pdf",
-    "comments": 484
-  },
-  {
-    "title": "Show HN: An interactive map of Tolkien's Middle-earth",
-    "score": 195,
-    "by": "frasermarlow",
-    "url": "https://middle-earth-interactive-map.web.app/",
-    "comments": 39
-  },
-  {
-    "title": "US and Iran agree to provisional ceasefire",
-    "score": 465,
-    "by": "g-b-r",
-    "url": "https://www.theguardian.com/us-news/2026/apr/07/trump-iran-war-ceasefire",
-    "comments": 1287
-  },
-  {
-    "title": "Show HN: Gemma 4 Multimodal Fine-Tuner for Apple Silicon",
-    "score": 174,
-    "by": "MediaSquirrel",
-    "url": "https://github.com/mattmireles/gemma-tuner-multimodal",
-    "comments": 23
-  },
-  {
-    "title": "AI helps add 10k more photos to OldNYC",
-    "score": 132,
-    "by": "evakhoury",
-    "url": "https://www.danvk.org/2026/03/08/oldnyc-updates.html",
-    "comments": 45
-  },
-  {
-    "title": "Assessing Claude Mythos Preview's cybersecurity capabilities",
-    "score": 283,
-    "by": "sweis",
-    "url": "https://red.anthropic.com/2026/mythos-preview/",
-    "comments": 41
-  },
-  {
-    "title": "Taste in the age of AI and LLMs",
-    "score": 243,
-    "by": "speckx",
-    "url": "https://rajnandan.com/posts/taste-in-the-age-of-ai-and-llms/",
-    "comments": 194
+    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
+    "score": 43,
+    "by": "dreamsome",
+    "url": "https://github.com/onesuper/tui-use",
+    "comments": 35
   }
 ]
