@@ -1,100 +1,65 @@
 [
   {
-    "title": "Process Manager for Autonomous AI Agents",
-    "score": 29,
-    "by": "ankitg12",
-    "url": "https://botctl.dev/",
-    "comments": 5
+    "title": "We've raised $17M to build what comes after Git",
+    "score": 110,
+    "by": "ellieh",
+    "url": "https://blog.gitbutler.com/series-a",
+    "comments": 232
   },
   {
-    "title": "Ask HN: What are you building that's not AI related?",
-    "score": 21,
-    "by": "meander_water",
-    "url": "",
-    "comments": 19
+    "title": "Instant 1.0, a backend for AI-coded apps",
+    "score": 142,
+    "by": "stopachka",
+    "url": "https://www.instantdb.com/essays/architecture",
+    "comments": 77
   },
   {
-    "title": "Muse Spark: Scaling towards personal superintelligence",
-    "score": 338,
-    "by": "chabons",
-    "url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
-    "comments": 325
+    "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
+    "score": 78,
+    "by": "vermilingua",
+    "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
+    "comments": 21
   },
   {
-    "title": "MegaTrain: Full Precision Training of 100B+ Parameter LLMs on a Single GPU",
-    "score": 294,
-    "by": "chrsw",
-    "url": "https://arxiv.org/abs/2604.05091",
-    "comments": 52
+    "title": "An AI robot in my home",
+    "score": 33,
+    "by": "kukanani",
+    "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
+    "comments": 12
   },
   {
-    "title": "Ask HN: Any interesting niche hobbies?",
-    "score": 357,
-    "by": "e-topy",
-    "url": "",
-    "comments": 519
-  },
-  {
-    "title": "John Deere to pay $99M in right-to-repair settlement",
-    "score": 301,
-    "by": "CharlesW",
-    "url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
-    "comments": 90
-  },
-  {
-    "title": "Show HN: Is Hormuz open yet?",
-    "score": 390,
-    "by": "anonfunction",
-    "url": "https://www.ishormuzopenyet.com/",
-    "comments": 158
-  },
-  {
-    "title": "I've been waiting over a month for Anthropic to respond to my billing issue",
-    "score": 358,
-    "by": "nickvec",
-    "url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
-    "comments": 172
-  },
-  {
-    "title": "Show HN: Unicode Steganography",
-    "score": 50,
-    "by": "PatrickVuscan",
-    "url": "https://steganography.patrickvuscan.com",
-    "comments": 14
-  },
-  {
-    "title": "You Can Just Print an Air Purifier",
-    "score": 17,
-    "by": "zdw",
-    "url": "https://aftermath.site/3d-printing-air-purifier-corsi-rosenthal/",
-    "comments": 0
-  },
-  {
-    "title": "Project Glasswing: Securing critical software for the AI era",
-    "score": 1493,
-    "by": "Ryan5453",
-    "url": "https://www.anthropic.com/glasswing",
-    "comments": 802
-  },
-  {
-    "title": "'There's a lot of desperation': older workers turn to AI training to stay afloat",
-    "score": 26,
-    "by": "Stratoscope",
-    "url": "https://www.theguardian.com/technology/ng-interactive/2026/apr/07/ai-training-work-jobs",
-    "comments": 6
-  },
-  {
-    "title": "Claude Managed Agents Overview",
+    "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
     "score": 22,
-    "by": "NicoJuicy",
-    "url": "https://platform.claude.com/docs/en/managed-agents/overview",
-    "comments": 16
+    "by": "russellharper",
+    "url": "https://pvp-ai.russell-harper.com",
+    "comments": 4
   },
   {
-    "title": "Show HN: TUI-use: Let AI agents control interactive terminal programs",
-    "score": 43,
-    "by": "dreamsome",
-    "url": "https://github.com/onesuper/tui-use",
-    "comments": 35
+    "title": "Show HN: I built a Cargo-like build tool for C/C++",
+    "score": 149,
+    "by": "randerson_112",
+    "url": "https://github.com/randerson112/craft",
+    "comments": 135
+  },
+  {
+    "title": "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
+    "score": 45,
+    "by": "behat",
+    "url": "https://www.relvy.ai",
+    "comments": 23
+  },
+  {
+    "title": "Show HN: CSS Studio. Design by hand, code by agent",
+    "score": 153,
+    "by": "SirHound",
+    "url": "https://cssstudio.ai",
+    "comments": 95
+  },
+  {
+    "title": "Netflix Prices Went Up Again – I Bought a DVD Player Instead",
+    "score": 207,
+    "by": "speckx",
+    "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
+    "comments": 234
   }
 ]
