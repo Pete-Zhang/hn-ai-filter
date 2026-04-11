@@ -1,65 +1,79 @@
 [
   {
+    "title": "Great at gaming? US air traffic control wants you to apply",
+    "score": 27,
+    "by": "1659447091",
+    "url": "https://www.bbc.com/news/articles/ce84rvx0e6do",
+    "comments": 34
+  },
+  {
+    "title": "AI assistance when contributing to the Linux kernel",
+    "score": 300,
+    "by": "hmokiguess",
+    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
+    "comments": 197
+  },
+  {
+    "title": "CPU-Z and HWMonitor compromised",
+    "score": 319,
+    "by": "pashadee",
+    "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
+    "comments": 89
+  },
+  {
+    "title": "Italo Calvino: A traveller in a world of uncertainty",
+    "score": 70,
+    "by": "lermontov",
+    "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
+    "comments": 13
+  },
+  {
+    "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
+    "score": 67,
+    "by": "danoandco",
+    "url": "https://twill.ai",
+    "comments": 63
+  },
+  {
+    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
+    "score": 1,
+    "by": "rooppal",
+    "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
+    "score": 125,
+    "by": "maouida",
+    "url": "https://fluidcad.io/",
+    "comments": 28
+  },
+  {
+    "title": "Sam Altman's response to Molotov cocktail incident",
+    "score": 296,
+    "by": "jack_hanford",
+    "url": "https://blog.samaltman.com/2279512",
+    "comments": 592
+  },
+  {
+    "title": "Show HN: Eve – Managed OpenClaw for work",
+    "score": 57,
+    "by": "zachdive",
+    "url": "https://eve.new/login",
+    "comments": 33
+  },
+  {
+    "title": "Show HN: A WYSIWYG word processor in Python",
+    "score": 70,
+    "by": "chrisecker",
+    "url": "https://codeberg.org/chrisecker/miniword",
+    "comments": 32
+  },
+  {
     "title": "We've raised $17M to build what comes after Git",
-    "score": 110,
+    "score": 314,
     "by": "ellieh",
     "url": "https://blog.gitbutler.com/series-a",
-    "comments": 232
-  },
-  {
-    "title": "Instant 1.0, a backend for AI-coded apps",
-    "score": 142,
-    "by": "stopachka",
-    "url": "https://www.instantdb.com/essays/architecture",
-    "comments": 77
-  },
-  {
-    "title": "The Raft consensus algorithm explained through \"Mean Girls\" (2019)",
-    "score": 78,
-    "by": "vermilingua",
-    "url": "https://www.cockroachlabs.com/blog/raft-is-so-fetch/",
-    "comments": 21
-  },
-  {
-    "title": "An AI robot in my home",
-    "score": 33,
-    "by": "kukanani",
-    "url": "https://allevato.me/2026/04/07/an-ai-robot-in-my-home",
-    "comments": 12
-  },
-  {
-    "title": "LLM plays an 8-bit Commander X16 game using structured \"smart senses\"",
-    "score": 22,
-    "by": "russellharper",
-    "url": "https://pvp-ai.russell-harper.com",
-    "comments": 4
-  },
-  {
-    "title": "Show HN: I built a Cargo-like build tool for C/C++",
-    "score": 149,
-    "by": "randerson_112",
-    "url": "https://github.com/randerson112/craft",
-    "comments": 135
-  },
-  {
-    "title": "Launch HN: Relvy (YC F24) – On-call runbooks, automated",
-    "score": 45,
-    "by": "behat",
-    "url": "https://www.relvy.ai",
-    "comments": 23
-  },
-  {
-    "title": "Show HN: CSS Studio. Design by hand, code by agent",
-    "score": 153,
-    "by": "SirHound",
-    "url": "https://cssstudio.ai",
-    "comments": 95
-  },
-  {
-    "title": "Netflix Prices Went Up Again – I Bought a DVD Player Instead",
-    "score": 207,
-    "by": "speckx",
-    "url": "https://aywren.com/2026/04/09/netflix-prices-went-up-again-i-bought-a-dvd-player-instead/",
-    "comments": 234
+    "comments": 687
   }
 ]
