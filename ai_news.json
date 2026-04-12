@@ -1,79 +1,44 @@
 [
   {
-    "title": "Great at gaming? US air traffic control wants you to apply",
-    "score": 27,
+    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+    "score": 363,
+    "by": "Anon84",
+    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
+    "comments": 93
+  },
+  {
+    "title": "How a dancer with ALS used brainwaves to perform live",
+    "score": 38,
     "by": "1659447091",
-    "url": "https://www.bbc.com/news/articles/ce84rvx0e6do",
-    "comments": 34
+    "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
+    "comments": 8
   },
   {
-    "title": "AI assistance when contributing to the Linux kernel",
-    "score": 300,
-    "by": "hmokiguess",
-    "url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-    "comments": 197
+    "title": "Cirrus Labs to join OpenAI",
+    "score": 263,
+    "by": "seekdeep",
+    "url": "https://cirruslabs.org/",
+    "comments": 126
   },
   {
-    "title": "CPU-Z and HWMonitor compromised",
-    "score": 319,
-    "by": "pashadee",
-    "url": "https://www.theregister.com/2026/04/10/cpuid_site_hijacked/",
-    "comments": 89
+    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
+    "score": 426,
+    "by": "vidluther",
+    "url": "",
+    "comments": 238
   },
   {
-    "title": "Italo Calvino: A traveller in a world of uncertainty",
-    "score": 70,
-    "by": "lermontov",
-    "url": "https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty",
-    "comments": 13
-  },
-  {
-    "title": "Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",
-    "score": 67,
-    "by": "danoandco",
-    "url": "https://twill.ai",
-    "comments": 63
-  },
-  {
-    "title": "Bild AI (YC W25) Is Hiring a Founding Product Engineer",
-    "score": 1,
-    "by": "rooppal",
-    "url": "https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: FluidCAD – Parametric CAD with JavaScript",
-    "score": 125,
-    "by": "maouida",
-    "url": "https://fluidcad.io/",
-    "comments": 28
-  },
-  {
-    "title": "Sam Altman's response to Molotov cocktail incident",
-    "score": 296,
-    "by": "jack_hanford",
-    "url": "https://blog.samaltman.com/2279512",
-    "comments": 592
-  },
-  {
-    "title": "Show HN: Eve – Managed OpenClaw for work",
-    "score": 57,
-    "by": "zachdive",
-    "url": "https://eve.new/login",
+    "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
+    "score": 34,
+    "by": "maxloh",
+    "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
     "comments": 33
   },
   {
-    "title": "Show HN: A WYSIWYG word processor in Python",
-    "score": 70,
-    "by": "chrisecker",
-    "url": "https://codeberg.org/chrisecker/miniword",
-    "comments": 32
-  },
-  {
-    "title": "We've raised $17M to build what comes after Git",
-    "score": 314,
-    "by": "ellieh",
-    "url": "https://blog.gitbutler.com/series-a",
-    "comments": 687
+    "title": "Midnight Captain – A midnight commander inspired file manager",
+    "score": 32,
+    "by": "duguyue100",
+    "url": "https://github.com/duguyue100/midnight-captain",
+    "comments": 19
   }
 ]
