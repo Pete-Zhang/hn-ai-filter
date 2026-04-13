@@ -1,44 +1,79 @@
 [
   {
-    "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-    "score": 363,
+    "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
+    "score": 369,
+    "by": "a-ve",
+    "url": "https://boringbar.app/",
+    "comments": 202
+  },
+  {
+    "title": "I gave every train in New York an instrument",
+    "score": 280,
+    "by": "joshuawolk",
+    "url": "https://www.trainjazz.com/",
+    "comments": 52
+  },
+  {
+    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
+    "score": 897,
+    "by": "littlecranky67",
+    "url": "",
+    "comments": 334
+  },
+  {
+    "title": "We have a 99% email reputation, but Gmail disagrees",
+    "score": 255,
+    "by": "em-bee",
+    "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
+    "comments": 231
+  },
+  {
+    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
+    "score": 183,
+    "by": "walterbell",
+    "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
+    "comments": 185
+  },
+  {
+    "title": "Exploiting the most prominent AI agent benchmarks",
+    "score": 524,
     "by": "Anon84",
     "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "comments": 93
+    "comments": 132
   },
   {
-    "title": "How a dancer with ALS used brainwaves to perform live",
-    "score": 38,
-    "by": "1659447091",
-    "url": "https://www.electronicspecifier.com/products/sensors/how-a-dancer-with-als-used-brainwaves-to-perform-live/",
-    "comments": 8
+    "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
+    "score": 12,
+    "by": "LostMyLogin",
+    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
+    "comments": 2
   },
   {
-    "title": "Cirrus Labs to join OpenAI",
-    "score": 263,
-    "by": "seekdeep",
-    "url": "https://cirruslabs.org/",
-    "comments": 126
+    "title": "Show HN: Claudraband – Claude Code for the Power User",
+    "score": 106,
+    "by": "halfwhey",
+    "url": "https://github.com/halfwhey/claudraband",
+    "comments": 38
   },
   {
-    "title": "Show HN: Pardonned.com – A searchable database of US Pardons",
-    "score": 426,
-    "by": "vidluther",
-    "url": "",
-    "comments": 238
+    "title": "Why AI Sucks at Front End",
+    "score": 85,
+    "by": "tobr",
+    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
+    "comments": 99
   },
   {
-    "title": "High-Level Rust: Getting 80% of the Benefits with 20% of the Pain",
-    "score": 34,
-    "by": "maxloh",
-    "url": "https://hamy.xyz/blog/2026-01_high-level-rust",
-    "comments": 33
+    "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
+    "score": 46,
+    "by": "steveharing1",
+    "url": "https://github.com/imbue-ai/bouncer",
+    "comments": 87
   },
   {
-    "title": "Midnight Captain – A midnight commander inspired file manager",
-    "score": 32,
-    "by": "duguyue100",
-    "url": "https://github.com/duguyue100/midnight-captain",
-    "comments": 19
+    "title": "Tech valuations are back to pre-AI boom levels",
+    "score": 135,
+    "by": "akyuu",
+    "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
+    "comments": 37
   }
 ]
