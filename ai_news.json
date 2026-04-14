@@ -1,79 +1,72 @@
 [
   {
-    "title": "Show HN: boringBar – a taskbar-style dock replacement for macOS",
-    "score": 369,
-    "by": "a-ve",
-    "url": "https://boringbar.app/",
-    "comments": 202
+    "title": "An AI Vibe Coding Horror Story",
+    "score": 40,
+    "by": "teichmann",
+    "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
+    "comments": 14
   },
   {
-    "title": "I gave every train in New York an instrument",
-    "score": 280,
-    "by": "joshuawolk",
-    "url": "https://www.trainjazz.com/",
-    "comments": 52
+    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
+    "score": 64,
+    "by": "mufeedvh",
+    "url": "https://ndaybench.winfunc.com",
+    "comments": 18
   },
   {
-    "title": "Tell HN: Docker pull fails in Spain due to football Cloudflare block",
-    "score": 897,
-    "by": "littlecranky67",
-    "url": "",
-    "comments": 334
+    "title": "Can Claude Fly a Plane?",
+    "score": 77,
+    "by": "casi",
+    "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
+    "comments": 71
   },
   {
-    "title": "We have a 99% email reputation, but Gmail disagrees",
-    "score": 255,
-    "by": "em-bee",
-    "url": "https://blogfontawesome.wpcomstaging.com/we-have-a-99-email-reputation-gmail-disagrees/",
-    "comments": 231
+    "title": "Air Powered Segment Display? [video]",
+    "score": 104,
+    "by": "ProfDreamer",
+    "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
+    "comments": 11
   },
   {
-    "title": "Apple's accidental moat: How the \"AI Loser\" may end up winning",
-    "score": 183,
-    "by": "walterbell",
-    "url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
-    "comments": 185
+    "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
+    "score": 128,
+    "by": "galaxyLogic",
+    "url": "https://amd-gaia.ai/docs",
+    "comments": 30
   },
   {
-    "title": "Exploiting the most prominent AI agent benchmarks",
-    "score": 524,
-    "by": "Anon84",
-    "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "comments": 132
-  },
-  {
-    "title": "Caffeine, cocaine, and painkillers detected in sharks from The Bahamas",
-    "score": 12,
-    "by": "LostMyLogin",
-    "url": "https://www.sciencedirect.com/science/article/abs/pii/S0269749126001880",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: Claudraband – Claude Code for the Power User",
-    "score": 106,
-    "by": "halfwhey",
-    "url": "https://github.com/halfwhey/claudraband",
+    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
+    "score": 147,
+    "by": "cvrajeesh",
+    "url": "https://www.ithihasas.in",
     "comments": 38
   },
   {
-    "title": "Why AI Sucks at Front End",
-    "score": 85,
-    "by": "tobr",
-    "url": "https://nerdy.dev/why-ai-sucks-at-front-end",
-    "comments": 99
+    "title": "Servo is now available on crates.io",
+    "score": 450,
+    "by": "ffin",
+    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
+    "comments": 145
   },
   {
-    "title": "Bouncer: Block \"crypto\", \"rage politics\", and more from your X feed using AI",
-    "score": 46,
-    "by": "steveharing1",
-    "url": "https://github.com/imbue-ai/bouncer",
-    "comments": 87
+    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
+    "score": 86,
+    "by": "bookofjoe",
+    "url": "https://spectrum.ieee.org/mems-photonics",
+    "comments": 38
   },
   {
-    "title": "Tech valuations are back to pre-AI boom levels",
-    "score": 135,
-    "by": "akyuu",
-    "url": "https://www.apollo.com/wealth/the-daily-spark/tech-valuations-back-to-pre-ai-boom-levels",
-    "comments": 37
+    "title": "Why it’s impossible to measure England’s coastline",
+    "score": 30,
+    "by": "BiraIgnacio",
+    "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
+    "comments": 26
+  },
+  {
+    "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+    "score": 84,
+    "by": "mfilion",
+    "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
+    "comments": 24
   }
 ]
