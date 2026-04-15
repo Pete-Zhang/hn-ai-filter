@@ -1,72 +1,79 @@
 [
   {
-    "title": "An AI Vibe Coding Horror Story",
-    "score": 40,
-    "by": "teichmann",
-    "url": "https://www.tobru.ch/an-ai-vibe-coding-horror-story/",
-    "comments": 14
+    "title": "Claude Code Routines",
+    "score": 601,
+    "by": "matthieu_bl",
+    "url": "https://code.claude.com/docs/en/routines",
+    "comments": 351
   },
   {
-    "title": "N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?",
-    "score": 64,
-    "by": "mufeedvh",
-    "url": "https://ndaybench.winfunc.com",
-    "comments": 18
+    "title": "My AI-Assisted Workflow",
+    "score": 16,
+    "by": "maiobarbero",
+    "url": "https://www.maiobarbero.dev/articles/ai-assisted-workflow/",
+    "comments": 9
   },
   {
-    "title": "Can Claude Fly a Plane?",
-    "score": 77,
-    "by": "casi",
-    "url": "https://so.long.thanks.fish/can-claude-fly-a-plane/",
-    "comments": 71
+    "title": "MDalgorithms (AI Healthcare) – Hiring Growth Marketer – Remote – $80K-$140K",
+    "score": 1,
+    "by": "odedharth93",
+    "url": "https://www.ycombinator.com/companies/mdalgorithms-inc/jobs/LVODKN7-growth-marketer-for-a-rapidly-growing-consumer-ai-healthcare-startup",
+    "comments": 0
   },
   {
-    "title": "Air Powered Segment Display? [video]",
-    "score": 104,
-    "by": "ProfDreamer",
-    "url": "https://www.youtube.com/watch?v=E1BLGpE5zH0",
-    "comments": 11
+    "title": "Turn your best AI prompts into one-click tools in Chrome",
+    "score": 159,
+    "by": "xnx",
+    "url": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
+    "comments": 79
   },
   {
-    "title": "GAIA – Open-source framework for building AI agents that run on local hardware",
-    "score": 128,
-    "by": "galaxyLogic",
-    "url": "https://amd-gaia.ai/docs",
-    "comments": 30
+    "title": "Tell HN: Fiverr left customer files public and searchable",
+    "score": 635,
+    "by": "morpheuskafka",
+    "url": "",
+    "comments": 160
   },
   {
-    "title": "Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",
-    "score": 147,
-    "by": "cvrajeesh",
-    "url": "https://www.ithihasas.in",
-    "comments": 38
+    "title": "Troubleshooting Email Delivery to Microsoft Users",
+    "score": 73,
+    "by": "rozumem",
+    "url": "https://rozumem.xyz/posts/14",
+    "comments": 17
   },
   {
-    "title": "Servo is now available on crates.io",
-    "score": 450,
-    "by": "ffin",
-    "url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
-    "comments": 145
+    "title": "Google Gemma 4 Runs Natively on iPhone with Full Offline AI Inference",
+    "score": 4,
+    "by": "takumi123",
+    "url": "https://www.gizmoweek.com/gemma-4-runs-iphone/",
+    "comments": 1
   },
   {
-    "title": "MEMS Array Chip Can Project Video the Size of a Grain of Sand",
-    "score": 86,
-    "by": "bookofjoe",
-    "url": "https://spectrum.ieee.org/mems-photonics",
-    "comments": 38
-  },
-  {
-    "title": "Why it’s impossible to measure England’s coastline",
-    "score": 30,
-    "by": "BiraIgnacio",
-    "url": "https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline",
-    "comments": 26
-  },
-  {
-    "title": "Initial mainline video capture and camera support for Rockchip RK3588",
+    "title": "Show HN: Plain – The full-stack Python framework designed for humans and agents",
     "score": 84,
-    "by": "mfilion",
-    "url": "https://www.collabora.com/news-and-blog/news-and-events/mainline-video-capture-and-camera-support-for-rockchip-rk3588.html",
-    "comments": 24
+    "by": "focom",
+    "url": "https://github.com/dropseed/plain",
+    "comments": 43
+  },
+  {
+    "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+    "score": 132,
+    "by": "zc2610",
+    "url": "https://github.com/ginlix-ai/langalpha",
+    "comments": 45
+  },
+  {
+    "title": "Scientists discover why bread can cause weight gain without extra calories",
+    "score": 11,
+    "by": "XzetaU8",
+    "url": "https://www.sciencedaily.com/releases/2026/04/260414075637.htm",
+    "comments": 1
+  },
+  {
+    "title": "The Death of an AI Whistleblower",
+    "score": 12,
+    "by": "SLHamlet",
+    "url": "https://www.thenation.com/article/society/open-ai-suchir-balaji-whistleblowers/",
+    "comments": 1
   }
 ]
