@@ -1,65 +1,79 @@
 [
   {
+    "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
+    "score": 74,
+    "by": "speckx",
+    "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+    "comments": 41
+  },
+  {
+    "title": "College instructor turns to typewriters to curb AI-written work",
+    "score": 266,
+    "by": "gnabgib",
+    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
+    "comments": 253
+  },
+  {
+    "title": "Why Japan has such good railways",
+    "score": 398,
+    "by": "RickJWagner",
+    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
+    "comments": 363
+  },
+  {
+    "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
+    "score": 24,
+    "by": "bookofjoe",
+    "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
+    "comments": 9
+  },
+  {
+    "title": "Thoughts and feelings around Claude Design",
+    "score": 300,
+    "by": "cdrnsf",
+    "url": "https://samhenri.gold/blog/20260418-claude-design/",
+    "comments": 193
+  },
+  {
     "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-    "score": 138,
+    "score": 300,
     "by": "fouronnes3",
     "url": "https://victorpoughon.github.io/interval-calculator/",
-    "comments": 21
+    "comments": 50
+  },
+  {
+    "title": "Show HN: SmallDocs – Markdown without the frustrations",
+    "score": 75,
+    "by": "FailMore",
+    "url": "",
+    "comments": 38
+  },
+  {
+    "title": "Air Is Full of DNA",
+    "score": 19,
+    "by": "howrude",
+    "url": "https://www.nature.com/articles/d41586-026-01099-2",
+    "comments": 2
+  },
+  {
+    "title": "Graphs that explain the state of AI in 2026",
+    "score": 92,
+    "by": "bryanrasmussen",
+    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
+    "comments": 55
   },
   {
     "title": "Claude Design",
-    "score": 1020,
+    "score": 1195,
     "by": "meetpateltech",
     "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "comments": 669
+    "comments": 743
   },
   {
-    "title": "Measuring Claude 4.7's tokenizer costs",
-    "score": 601,
-    "by": "aray07",
-    "url": "https://www.claudecodecamp.com/p/i-measured-claude-4-7-s-new-tokenizer-here-s-what-it-costs-you",
-    "comments": 427
-  },
-  {
-    "title": "Are the costs of AI agents also rising exponentially? (2025)",
-    "score": 194,
-    "by": "louiereederson",
-    "url": "https://www.tobyord.com/writing/hourly-costs-for-ai-agents",
-    "comments": 48
-  },
-  {
-    "title": "Show HN: PanicLock – Close your MacBook lid disable TouchID –> password unlock",
-    "score": 186,
-    "by": "seanieb",
-    "url": "https://github.com/paniclock/paniclock/",
-    "comments": 78
-  },
-  {
-    "title": "\"Liberation Day\" at OpenAI as multiple senior executives announce leaving",
-    "score": 22,
-    "by": "riffraff",
-    "url": "https://mas.to/@carnage4life/116422881496195720",
-    "comments": 1
-  },
-  {
-    "title": "Solitaire simulator for finding the best strategy: Current record is 8.590%",
-    "score": 47,
-    "by": "PaulHoule",
-    "url": "https://github.com/dacracot/Klondike3-Simulator",
-    "comments": 21
-  },
-  {
-    "title": "Claude Opus wrote a Chrome exploit for $2,283",
-    "score": 3,
-    "by": "Mohansrk",
-    "url": "https://www.theregister.com/2026/04/17/claude_opus_wrote_chrome_exploit/",
-    "comments": 0
-  },
-  {
-    "title": "Remember? \"Sideloading\" is here to stay, and won't go away, they said?",
-    "score": 11,
-    "by": "pabs3",
-    "url": "https://floss.social/@IzzyOnDroid/116415766636505917",
-    "comments": 1
+    "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
+    "score": 40,
+    "by": "arjunchint",
+    "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
+    "comments": 12
   }
 ]
