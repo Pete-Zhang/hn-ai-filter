@@ -1,79 +1,51 @@
 [
   {
-    "title": "Game Devs Explain the Tricks Involved with Letting You Pause a Game",
-    "score": 74,
-    "by": "speckx",
-    "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-    "comments": 41
+    "title": "Claude Token Counter, now with model comparisons",
+    "score": 110,
+    "by": "twapi",
+    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
+    "comments": 42
   },
   {
-    "title": "College instructor turns to typewriters to curb AI-written work",
-    "score": 266,
-    "by": "gnabgib",
-    "url": "https://sentinelcolorado.com/uncategorized/a-college-instructor-turns-to-typewriters-to-curb-ai-written-work-and-teach-life-lessons/",
-    "comments": 253
+    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
+    "score": 320,
+    "by": "pretext",
+    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
+    "comments": 182
   },
   {
-    "title": "Why Japan has such good railways",
-    "score": 398,
-    "by": "RickJWagner",
-    "url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "comments": 363
+    "title": "Swiss AI Initiative (2023)",
+    "score": 70,
+    "by": "doener",
+    "url": "https://www.swiss-ai.org",
+    "comments": 25
   },
   {
-    "title": "Dizzying Spiral Staircase with Single Guardrail Once Led to Top of Eiffel Tower",
-    "score": 24,
-    "by": "bookofjoe",
-    "url": "https://www.smithsonianmag.com/smart-news/a-dizzying-spiral-staircase-with-a-single-guardrail-once-led-to-the-top-of-the-eiffel-tower-now-you-can-buy-14-of-the-original-steps-180988535/",
-    "comments": 9
+    "title": "2,100 Swiss municipalities showing which provider handles their official email",
+    "score": 185,
+    "by": "doener",
+    "url": "https://mxmap.ch/",
+    "comments": 56
   },
   {
-    "title": "Thoughts and feelings around Claude Design",
-    "score": 300,
-    "by": "cdrnsf",
-    "url": "https://samhenri.gold/blog/20260418-claude-design/",
-    "comments": 193
-  },
-  {
-    "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-    "score": 300,
-    "by": "fouronnes3",
-    "url": "https://victorpoughon.github.io/interval-calculator/",
-    "comments": 50
-  },
-  {
-    "title": "Show HN: SmallDocs – Markdown without the frustrations",
-    "score": 75,
-    "by": "FailMore",
-    "url": "",
+    "title": "Show HN: Faceoff – A terminal UI for following NHL games",
+    "score": 115,
+    "by": "vcf",
+    "url": "https://www.vincentgregoire.com/faceoff/",
     "comments": 38
   },
   {
-    "title": "Air Is Full of DNA",
-    "score": 19,
-    "by": "howrude",
-    "url": "https://www.nature.com/articles/d41586-026-01099-2",
-    "comments": 2
+    "title": "Notion leaks email addresses of all editors of any public page",
+    "score": 371,
+    "by": "Tiberium",
+    "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
+    "comments": 136
   },
   {
-    "title": "Graphs that explain the state of AI in 2026",
-    "score": 92,
-    "by": "bryanrasmussen",
-    "url": "https://spectrum.ieee.org/state-of-ai-index-2026",
-    "comments": 55
-  },
-  {
-    "title": "Claude Design",
-    "score": 1195,
-    "by": "meetpateltech",
-    "url": "https://www.anthropic.com/news/claude-design-anthropic-labs",
-    "comments": 743
-  },
-  {
-    "title": "Show HN: AI Subroutines – Run automation scripts inside your browser tab",
-    "score": 40,
-    "by": "arjunchint",
-    "url": "https://www.rtrvr.ai/blog/ai-subroutines-zero-token-deterministic-automation",
-    "comments": 12
+    "title": "Game devs explain the tricks involved with letting you pause a game",
+    "score": 428,
+    "by": "speckx",
+    "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
+    "comments": 237
   }
 ]
