@@ -1,51 +1,93 @@
 [
   {
-    "title": "Claude Token Counter, now with model comparisons",
-    "score": 110,
-    "by": "twapi",
-    "url": "https://simonwillison.net/2026/Apr/20/claude-token-counts/",
-    "comments": 42
+    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+    "score": 177,
+    "by": "jmsflknr",
+    "url": "https://docs.openclaw.ai/providers/anthropic",
+    "comments": 101
   },
   {
-    "title": "Changes in the system prompt between Claude Opus 4.6 and 4.7",
-    "score": 320,
-    "by": "pretext",
-    "url": "https://simonwillison.net/2026/Apr/18/opus-system-prompt/",
-    "comments": 182
+    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
+    "score": 142,
+    "by": "bishwasbh",
+    "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
+    "comments": 66
   },
   {
-    "title": "Swiss AI Initiative (2023)",
-    "score": 70,
-    "by": "doener",
-    "url": "https://www.swiss-ai.org",
-    "comments": 25
+    "title": "The Beauty of Bonsai Styles",
+    "score": 63,
+    "by": "lagniappe",
+    "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+    "comments": 16
   },
   {
-    "title": "2,100 Swiss municipalities showing which provider handles their official email",
-    "score": 185,
-    "by": "doener",
-    "url": "https://mxmap.ch/",
-    "comments": 56
+    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
+    "score": 25,
+    "by": "1659447091",
+    "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
+    "comments": 5
   },
   {
-    "title": "Show HN: Faceoff – A terminal UI for following NHL games",
-    "score": 115,
-    "by": "vcf",
-    "url": "https://www.vincentgregoire.com/faceoff/",
-    "comments": 38
+    "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
+    "score": 59,
+    "by": "sanity",
+    "url": "https://mediator.ai/",
+    "comments": 26
   },
   {
-    "title": "Notion leaks email addresses of all editors of any public page",
-    "score": 371,
-    "by": "Tiberium",
-    "url": "https://twitter.com/weezerOSINT/status/2045849358462222720",
-    "comments": 136
+    "title": "Types and Neural Networks",
+    "score": 23,
+    "by": "bgavran",
+    "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
+    "comments": 4
   },
   {
-    "title": "Game devs explain the tricks involved with letting you pause a game",
-    "score": 428,
-    "by": "speckx",
-    "url": "https://kotaku.com/video-game-devs-explain-how-pausing-works-and-sometimes-it-gets-weird-2000686339",
-    "comments": 237
+    "title": "How a subsea cable is repaired",
+    "score": 67,
+    "by": "slicktux",
+    "url": "https://www.onesteppower.com/post/subsea-cable-repair",
+    "comments": 15
+  },
+  {
+    "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
+    "score": 144,
+    "by": "nnx",
+    "url": "https://prismml.com/news/ternary-bonsai",
+    "comments": 41
+  },
+  {
+    "title": "Air is full of DNA",
+    "score": 91,
+    "by": "howrude",
+    "url": "https://www.nature.com/articles/d41586-026-01099-2",
+    "comments": 20
+  },
+  {
+    "title": "Atlassian enables default data collection to train AI",
+    "score": 568,
+    "by": "kevcampb",
+    "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+    "comments": 125
+  },
+  {
+    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
+    "score": 265,
+    "by": "jlark77777",
+    "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
+    "comments": 132
+  },
+  {
+    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+    "score": 344,
+    "by": "FiddlerClamp",
+    "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
+    "comments": 350
+  },
+  {
+    "title": "Figma's woes compound with Claude Design",
+    "score": 107,
+    "by": "martinald",
+    "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
+    "comments": 92
   }
 ]
