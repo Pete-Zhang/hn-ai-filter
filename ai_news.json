@@ -1,93 +1,86 @@
 [
   {
-    "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-    "score": 177,
-    "by": "jmsflknr",
-    "url": "https://docs.openclaw.ai/providers/anthropic",
-    "comments": 101
+    "title": "ChatGPT Images 2.0",
+    "score": 791,
+    "by": "wahnfrieden",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "comments": 609
   },
   {
-    "title": "A Roblox cheat and one AI tool brought down Vercel's platform",
-    "score": 142,
-    "by": "bishwasbh",
-    "url": "https://webmatrices.com/post/how-a-roblox-cheat-and-one-ai-tool-brought-down-vercel-s-entire-platform",
-    "comments": 66
+    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+    "score": 310,
+    "by": "queenelvis",
+    "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "comments": 108
   },
   {
-    "title": "The Beauty of Bonsai Styles",
-    "score": 63,
-    "by": "lagniappe",
-    "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-    "comments": 16
+    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
+    "score": 543,
+    "by": "dlx",
+    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
+    "comments": 393
+  },
+  {
+    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
+    "score": 192,
+    "by": "tobr",
+    "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
+    "comments": 105
+  },
+  {
+    "title": "Claude Code to be removed from Anthropic's Pro plan?",
+    "score": 556,
+    "by": "JamesMcMinn",
+    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "comments": 519
+  },
+  {
+    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+    "score": 275,
+    "by": "kolx",
+    "url": "https://vidstudio.app/video-editor",
+    "comments": 86
+  },
+  {
+    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "score": 4,
+    "by": "latein",
+    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
+    "comments": 1
+  },
+  {
+    "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
+    "score": 1,
+    "by": "macklinkachorn",
+    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: GoModel – an open-source AI gateway in Go",
+    "score": 174,
+    "by": "santiago-pl",
+    "url": "https://github.com/ENTERPILOT/GOModel/",
+    "comments": 65
   },
   {
     "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-    "score": 25,
+    "score": 137,
     "by": "1659447091",
     "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-    "comments": 5
+    "comments": 90
   },
   {
-    "title": "Show HN: Mediator.ai – Using Nash bargaining and LLMs to systematize fairness",
-    "score": 59,
-    "by": "sanity",
-    "url": "https://mediator.ai/",
-    "comments": 26
+    "title": "The Beauty of Bonsai Styles",
+    "score": 206,
+    "by": "lagniappe",
+    "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
+    "comments": 37
   },
   {
-    "title": "Types and Neural Networks",
-    "score": 23,
-    "by": "bgavran",
-    "url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
-    "comments": 4
-  },
-  {
-    "title": "How a subsea cable is repaired",
-    "score": 67,
-    "by": "slicktux",
-    "url": "https://www.onesteppower.com/post/subsea-cable-repair",
-    "comments": 15
-  },
-  {
-    "title": "Ternary Bonsai: Top Intelligence at 1.58 Bits",
-    "score": 144,
-    "by": "nnx",
-    "url": "https://prismml.com/news/ternary-bonsai",
-    "comments": 41
-  },
-  {
-    "title": "Air is full of DNA",
-    "score": 91,
-    "by": "howrude",
-    "url": "https://www.nature.com/articles/d41586-026-01099-2",
-    "comments": 20
-  },
-  {
-    "title": "Atlassian enables default data collection to train AI",
-    "score": 568,
-    "by": "kevcampb",
-    "url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
-    "comments": 125
-  },
-  {
-    "title": "OpenAI ad partner now selling ChatGPT ad placements based on “prompt relevance”",
-    "score": 265,
-    "by": "jlark77777",
-    "url": "https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/",
-    "comments": 132
-  },
-  {
-    "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-    "score": 344,
-    "by": "FiddlerClamp",
-    "url": "https://techcrunch.com/2026/04/20/deezer-says-44-of-songs-uploaded-to-its-platform-daily-are-ai-generated/",
-    "comments": 350
-  },
-  {
-    "title": "Figma's woes compound with Claude Design",
-    "score": 107,
-    "by": "martinald",
-    "url": "https://martinalderson.com/posts/figmas-woes-compound-with-claude-design/",
-    "comments": 92
+    "title": "Less human AI agents, please",
+    "score": 145,
+    "by": "nialse",
+    "url": "https://nial.se/blog/less-human-ai-agents-please/",
+    "comments": 153
   }
 ]
