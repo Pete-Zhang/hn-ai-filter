@@ -1,86 +1,58 @@
 [
   {
-    "title": "ChatGPT Images 2.0",
-    "score": 791,
-    "by": "wahnfrieden",
-    "url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
-    "comments": 609
+    "title": "Ars Technica: Our newsroom AI policy",
+    "score": 46,
+    "by": "zdw",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "comments": 29
   },
   {
-    "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
-    "score": 310,
-    "by": "queenelvis",
-    "url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
-    "comments": 108
+    "title": "Scoring Show HN submissions for AI design patterns",
+    "score": 306,
+    "by": "hubraumhugo",
+    "url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "comments": 219
   },
   {
-    "title": "Meta to start capturing employee mouse movements, keystrokes for AI training",
-    "score": 543,
-    "by": "dlx",
-    "url": "https://www.reuters.com/sustainability/boards-policy-regulation/meta-start-capturing-employee-mouse-movements-keystrokes-ai-training-data-2026-04-21/",
-    "comments": 393
-  },
-  {
-    "title": "Stephen's Sausage Roll remains one of the most influential puzzle games",
-    "score": 192,
-    "by": "tobr",
-    "url": "https://thinkygames.com/features/10-years-of-grilling-stephens-sausage-roll-remains-one-of-the-most-influential-puzzle-games-ever-created/",
-    "comments": 105
-  },
-  {
-    "title": "Claude Code to be removed from Anthropic's Pro plan?",
-    "score": 556,
-    "by": "JamesMcMinn",
-    "url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
-    "comments": 519
-  },
-  {
-    "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-    "score": 275,
-    "by": "kolx",
-    "url": "https://vidstudio.app/video-editor",
-    "comments": 86
-  },
-  {
-    "title": "Meta employees are up in arms over a mandatory program to train AI on their",
+    "title": "The Forgotten History of Hershey's Electric Railway (1916) in Cuba",
     "score": 4,
-    "by": "latein",
-    "url": "https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4",
-    "comments": 1
-  },
-  {
-    "title": "Trellis AI (YC W24) Is hiring engineers to build self-improving agents",
-    "score": 1,
-    "by": "macklinkachorn",
-    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/SvzJaTH-member-of-technical-staff-product-engineering-full-time",
+    "by": "defrost",
+    "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
     "comments": 0
   },
   {
-    "title": "Show HN: GoModel – an open-source AI gateway in Go",
-    "score": 174,
-    "by": "santiago-pl",
-    "url": "https://github.com/ENTERPILOT/GOModel/",
-    "comments": 65
+    "title": "Workspace Agents in ChatGPT",
+    "score": 135,
+    "by": "mfiguiere",
+    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
+    "comments": 51
   },
   {
-    "title": "Salmon exposed to cocaine and its main byproduct roam more widely",
-    "score": 137,
-    "by": "1659447091",
-    "url": "https://www.science.org/content/article/cocaine-pollution-gives-salmon-wanderlust",
-    "comments": 90
+    "title": "OpenAI's response to the Axios developer tool compromise",
+    "score": 74,
+    "by": "shpat",
+    "url": "https://openai.com/index/axios-developer-tool-compromise/",
+    "comments": 43
   },
   {
-    "title": "The Beauty of Bonsai Styles",
-    "score": 206,
-    "by": "lagniappe",
-    "url": "https://longwoodgardens.org/blog/2023-05-17/beauty-bonsai-styles",
-    "comments": 37
+    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
+    "score": 55,
+    "by": "agronaut",
+    "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "comments": 18
   },
   {
-    "title": "Less human AI agents, please",
-    "score": 145,
-    "by": "nialse",
-    "url": "https://nial.se/blog/less-human-ai-agents-please/",
-    "comments": 153
+    "title": "OpenAI model for masking personally identifiable information (PII) in text",
+    "score": 27,
+    "by": "tanelpoder",
+    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
+    "score": 61,
+    "by": "yzhong94",
+    "url": "https://github.com/besimple-oss/broccoli",
+    "comments": 41
   }
 ]
