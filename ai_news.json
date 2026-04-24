@@ -1,58 +1,86 @@
 [
   {
-    "title": "Ars Technica: Our newsroom AI policy",
-    "score": 46,
-    "by": "zdw",
-    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "comments": 29
+    "title": "DeepSeek v4",
+    "score": 911,
+    "by": "impact_sy",
+    "url": "https://api-docs.deepseek.com/",
+    "comments": 560
   },
   {
-    "title": "Scoring Show HN submissions for AI design patterns",
-    "score": 306,
-    "by": "hubraumhugo",
-    "url": "https://www.adriankrebs.ch/blog/design-slop/",
-    "comments": 219
-  },
-  {
-    "title": "The Forgotten History of Hershey's Electric Railway (1916) in Cuba",
-    "score": 4,
-    "by": "defrost",
-    "url": "https://spectrum.ieee.org/hershey-electric-railway-cuba",
-    "comments": 0
-  },
-  {
-    "title": "Workspace Agents in ChatGPT",
-    "score": 135,
+    "title": "An update on recent Claude Code quality reports",
+    "score": 733,
     "by": "mfiguiere",
-    "url": "https://openai.com/index/introducing-workspace-agents-in-chatgpt/",
-    "comments": 51
+    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
+    "comments": 549
   },
   {
-    "title": "OpenAI's response to the Axios developer tool compromise",
-    "score": 74,
-    "by": "shpat",
-    "url": "https://openai.com/index/axios-developer-tool-compromise/",
-    "comments": 43
+    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "score": 234,
+    "by": "nkrisc",
+    "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
+    "comments": 276
   },
   {
-    "title": "The Illuminated Man: an unconventional portrait of JG Ballard",
-    "score": 55,
-    "by": "agronaut",
-    "url": "https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard",
+    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
+    "score": 750,
+    "by": "tosh",
+    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "comments": 365
+  },
+  {
+    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
+    "score": 24,
+    "by": "ynarwal__",
+    "url": "https://ynarwal.github.io/how-llms-work/",
+    "comments": 3
+  },
+  {
+    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+    "score": 217,
+    "by": "wielebny",
+    "url": "https://blog.meshcore.io/2026/04/23/the-split",
+    "comments": 112
+  },
+  {
+    "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
+    "score": 200,
+    "by": "lucaronin",
+    "url": "https://github.com/refactoringhq/tolaria",
+    "comments": 76
+  },
+  {
+    "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
+    "score": 39,
+    "by": "adityaathalye",
+    "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
     "comments": 18
   },
   {
-    "title": "OpenAI model for masking personally identifiable information (PII) in text",
-    "score": 27,
-    "by": "tanelpoder",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-    "comments": 6
+    "title": "UK Biobank health data keeps ending up on GitHub",
+    "score": 123,
+    "by": "Cynddl",
+    "url": "https://biobank.rocher.lc",
+    "comments": 32
   },
   {
-    "title": "Show HN: Broccoli, one shot coding agent on the cloud",
-    "score": 61,
-    "by": "yzhong94",
-    "url": "https://github.com/besimple-oss/broccoli",
-    "comments": 41
+    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
+    "score": 105,
+    "by": "dangtony98",
+    "url": "https://github.com/Infisical/agent-vault",
+    "comments": 37
+  },
+  {
+    "title": "A Renaissance gambling dispute spawned probability theory",
+    "score": 111,
+    "by": "sohkamyung",
+    "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
+    "comments": 17
+  },
+  {
+    "title": "Our newsroom AI policy",
+    "score": 195,
+    "by": "zdw",
+    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+    "comments": 127
   }
 ]
