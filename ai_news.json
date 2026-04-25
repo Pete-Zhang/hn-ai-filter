@@ -1,86 +1,93 @@
 [
   {
+    "title": "\"Plain text has been around for decades and it's here to stay.\" – Unsung",
+    "score": 79,
+    "by": "rbanffy",
+    "url": "https://unsung.aresluna.org/plain-text-has-been-around-for-decades-and-its-here-to-stay/",
+    "comments": 16
+  },
+  {
+    "title": "There Will Be a Scientific Theory of Deep Learning",
+    "score": 223,
+    "by": "jamie-simon",
+    "url": "https://arxiv.org/abs/2604.21691",
+    "comments": 95
+  },
+  {
+    "title": "The mail sent to a video game publisher",
+    "score": 21,
+    "by": "colinprince",
+    "url": "https://www.gamefile.news/p/panic-mail-arco-despelote-time-flies-thank-goodness-teeth",
+    "comments": 0
+  },
+  {
+    "title": "Email could have been X.400 times better",
+    "score": 170,
+    "by": "maguay",
+    "url": "https://buttondown.com/blog/x400-vs-smtp-email",
+    "comments": 148
+  },
+  {
+    "title": "Open source memory layer so any AI agent can do what Claude.ai and ChatGPT do",
+    "score": 26,
+    "by": "alash3al",
+    "url": "https://alash3al.github.io/stash?_v01",
+    "comments": 6
+  },
+  {
     "title": "DeepSeek v4",
-    "score": 911,
+    "score": 1894,
     "by": "impact_sy",
-    "url": "https://api-docs.deepseek.com/",
-    "comments": 560
+    "url": "https://api-docs.deepseek.com/news/news260424",
+    "comments": 1474
   },
   {
-    "title": "An update on recent Claude Code quality reports",
-    "score": 733,
-    "by": "mfiguiere",
-    "url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "comments": 549
+    "title": "Show HN: I've built a nice home server OS",
+    "score": 113,
+    "by": "Zta77",
+    "url": "https://lightwhale.asklandd.dk/",
+    "comments": 46
   },
   {
-    "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+    "title": "I cancelled Claude: Token issues, declining quality, and poor support",
+    "score": 870,
+    "by": "y42",
+    "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
+    "comments": 506
+  },
+  {
+    "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
+    "score": 98,
+    "by": "gregpr07",
+    "url": "https://github.com/browser-use/browser-harness",
+    "comments": 52
+  },
+  {
+    "title": "CC-Canary: Detect early signs of regressions in Claude Code",
+    "score": 53,
+    "by": "tejpalv",
+    "url": "https://github.com/delta-hq/cc-canary",
+    "comments": 24
+  },
+  {
+    "title": "SFO Quiet Airport (2025)",
+    "score": 142,
+    "by": "CaliforniaKarl",
+    "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
+    "comments": 84
+  },
+  {
+    "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
     "score": 234,
-    "by": "nkrisc",
-    "url": "https://www.cnn.com/2026/04/23/politics/us-special-forces-soldier-arrested-maduro-raid-trade",
-    "comments": 276
+    "by": "arabicalories",
+    "url": "https://developers.openai.com/api/docs/changelog",
+    "comments": 129
   },
   {
-    "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-    "score": 750,
-    "by": "tosh",
-    "url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "comments": 365
-  },
-  {
-    "title": "Show HN: How LLMs Work – Interactive visual guide based on Karpathy's lecture",
-    "score": 24,
-    "by": "ynarwal__",
-    "url": "https://ynarwal.github.io/how-llms-work/",
-    "comments": 3
-  },
-  {
-    "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-    "score": 217,
-    "by": "wielebny",
-    "url": "https://blog.meshcore.io/2026/04/23/the-split",
-    "comments": 112
-  },
-  {
-    "title": "Show HN: Tolaria – Open-source macOS app to manage Markdown knowledge bases",
-    "score": 200,
-    "by": "lucaronin",
-    "url": "https://github.com/refactoringhq/tolaria",
-    "comments": 76
-  },
-  {
-    "title": "Familiarity is the enemy: On why Enterprise systems have failed for 60 years",
-    "score": 39,
-    "by": "adityaathalye",
-    "url": "https://felixbarbalet.com/familiarity-is-the-enemy/",
-    "comments": 18
-  },
-  {
-    "title": "UK Biobank health data keeps ending up on GitHub",
-    "score": 123,
-    "by": "Cynddl",
-    "url": "https://biobank.rocher.lc",
-    "comments": 32
-  },
-  {
-    "title": "Show HN: Agent Vault – Open-source credential proxy and vault for agents",
-    "score": 105,
-    "by": "dangtony98",
-    "url": "https://github.com/Infisical/agent-vault",
-    "comments": 37
-  },
-  {
-    "title": "A Renaissance gambling dispute spawned probability theory",
-    "score": 111,
-    "by": "sohkamyung",
-    "url": "https://www.scientificamerican.com/article/how-a-renaissance-gambling-dispute-spawned-probability-theory/",
-    "comments": 17
-  },
-  {
-    "title": "Our newsroom AI policy",
-    "score": 195,
-    "by": "zdw",
-    "url": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
-    "comments": 127
+    "title": "Show HN: VT Code – Rust TUI coding agent with multi-provider support",
+    "score": 6,
+    "by": "vinhnx",
+    "url": "https://github.com/vinhnx/VTCode",
+    "comments": 2
   }
 ]
