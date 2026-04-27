@@ -1,44 +1,58 @@
 [
   {
+    "title": "AI should elevate your thinking, not replace it",
+    "score": 500,
+    "by": "koshyjohn",
+    "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+    "comments": 361
+  },
+  {
+    "title": "Three constraints before I build anything",
+    "score": 215,
+    "by": "nervous_north",
+    "url": "https://jordanlord.co.uk/blog/3-constraints/",
+    "comments": 36
+  },
+  {
+    "title": "An AI agent deleted our production database. The agent's confession is below",
+    "score": 692,
+    "by": "jeremyccrane",
+    "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+    "comments": 836
+  },
+  {
+    "title": "EvanFlow – A TDD driven feedback loop for Claude Code",
+    "score": 68,
+    "by": "evanklem2004",
+    "url": "https://github.com/evanklem/evanflow",
+    "comments": 30
+  },
+  {
+    "title": "GoDaddy gave a domain to a stranger without any documentation",
+    "score": 610,
+    "by": "jamesponddotco",
+    "url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
+    "comments": 236
+  },
+  {
+    "title": "Show HN: Tiao, A two-player turn-based board game",
+    "score": 45,
+    "by": "trebeljahr",
+    "url": "https://playtiao.com",
+    "comments": 20
+  },
+  {
+    "title": "Agentic AI systems violate the implicit assumptions of database design",
+    "score": 101,
+    "by": "mooreds",
+    "url": "https://arpitbhayani.me/blogs/defensive-databases/",
+    "comments": 100
+  },
+  {
     "title": "Amateur armed with ChatGPT solves an Erdős problem",
-    "score": 347,
+    "score": 755,
     "by": "pr337h4m",
     "url": "https://www.scientificamerican.com/article/amateur-armed-with-chatgpt-vibe-maths-a-60-year-old-problem/",
-    "comments": 209
-  },
-  {
-    "title": "GnuPG – post-quantum crypto landing in mainline",
-    "score": 57,
-    "by": "zdkaster",
-    "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q2/000504.html",
-    "comments": 17
-  },
-  {
-    "title": "Terra API (YC W21) Hiring: Applied AI Strategist(Health Intelligence)",
-    "score": 1,
-    "by": "kyriakosel",
-    "url": "https://www.ycombinator.com/companies/terra-api/jobs/DY7BCZU-applied-ai-strategist-market-intelligence-health",
-    "comments": 0
-  },
-  {
-    "title": "OpenAI Privacy Filter",
-    "score": 204,
-    "by": "tanelpoder",
-    "url": "https://openai.com/index/introducing-openai-privacy-filter/",
-    "comments": 38
-  },
-  {
-    "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-    "score": 578,
-    "by": "stephen-hill",
-    "url": "https://www.hypertalking.com/2023/05/08/1-bit-pixel-art-of-hokusais-the-great-wave-off-kanagawa/",
-    "comments": 90
-  },
-  {
-    "title": "Hokusai and Tesselations",
-    "score": 106,
-    "by": "srean",
-    "url": "https://dl.ndl.go.jp/pid/1899550/1/11/",
-    "comments": 14
+    "comments": 539
   }
 ]
