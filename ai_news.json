@@ -1,65 +1,107 @@
 [
   {
-    "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-    "score": 880,
-    "by": "helsinkiandrew",
-    "url": "https://www.bloomberg.com/news/articles/2026-04-27/microsoft-to-stop-sharing-revenue-with-main-ai-partner-openai",
-    "comments": 760
-  },
-  {
-    "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-    "score": 535,
-    "by": "Oravys",
-    "url": "https://app.oravys.com/blog/mercor-breach-2026",
-    "comments": 203
-  },
-  {
-    "title": "Pgbackrest is no longer being maintained",
-    "score": 426,
-    "by": "c0l0",
-    "url": "https://github.com/pgbackrest/pgbackrest",
-    "comments": 221
-  },
-  {
-    "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-    "score": 343,
-    "by": "GodelNumbering",
-    "url": "https://github.com/dirac-run/dirac",
-    "comments": 126
-  },
-  {
-    "title": "China blocks Meta's acquisition of AI startup Manus",
-    "score": 370,
-    "by": "yakkomajuri",
-    "url": "https://www.cnbc.com/2026/04/27/meta-manus-china-blocks-acquisition-ai-startup.html",
-    "comments": 272
-  },
-  {
-    "title": "Magic by return of post: How mail order delivered the occult",
-    "score": 47,
-    "by": "Vigier",
-    "url": "https://publicdomainreview.org/essay/magic-by-return-of-post/",
-    "comments": 5
-  },
-  {
-    "title": "David Silver of DeepMind raises $1B to build AI that learns without human data",
-    "score": 28,
-    "by": "ryan_j_naughton",
-    "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+    "title": "Tell HN: An update from the new Tindie team",
+    "score": 29,
+    "by": "altairprime",
+    "url": "",
     "comments": 12
   },
   {
-    "title": "Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop",
-    "score": 100,
-    "by": "ManyaGhobadi",
-    "url": "https://www.systalyze.com/utilyze",
-    "comments": 24
+    "title": "How ChatGPT serves ads",
+    "score": 342,
+    "by": "lmbbuchodi",
+    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
+    "comments": 231
   },
   {
-    "title": "Getting my daily news from a dot matrix printer 2024",
-    "score": 103,
-    "by": "xupybd",
-    "url": "https://aschmelyun.com/blog/getting-my-daily-news-from-a-dot-matrix-printer/",
-    "comments": 22
+    "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
+    "score": 55,
+    "by": "hugocorreia90",
+    "url": "https://github.com/rocky-data/rocky",
+    "comments": 4
+  },
+  {
+    "title": "Withnail's Coat and I",
+    "score": 76,
+    "by": "apollinaire",
+    "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
+    "comments": 3
+  },
+  {
+    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+    "score": 274,
+    "by": "translocator",
+    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "comments": 89
+  },
+  {
+    "title": "Who owns the code Claude Code wrote?",
+    "score": 407,
+    "by": "senaevren",
+    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
+    "comments": 381
+  },
+  {
+    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
+    "score": 118,
+    "by": "ibobev",
+    "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
+    "comments": 3
+  },
+  {
+    "title": "Regression: malware reminder on every read still causes subagent refusals",
+    "score": 217,
+    "by": "thomashobohm",
+    "url": "https://github.com/anthropics/claude-code/issues/49363",
+    "comments": 111
+  },
+  {
+    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+    "score": 850,
+    "by": "bilsbie",
+    "url": "https://github.com/localsend/localsend",
+    "comments": 251
+  },
+  {
+    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
+    "score": 131,
+    "by": "frabonacci",
+    "url": "https://github.com/trycua/cua",
+    "comments": 32
+  },
+  {
+    "title": "VibeVoice: Open-source frontier voice AI",
+    "score": 370,
+    "by": "tosh",
+    "url": "https://github.com/microsoft/VibeVoice",
+    "comments": 169
+  },
+  {
+    "title": "Claude for Creative Work",
+    "score": 118,
+    "by": "elsewhen",
+    "url": "https://www.anthropic.com/news/claude-for-creative-work",
+    "comments": 87
+  },
+  {
+    "title": "Anthropic's Champion Kit for engineers pushing Claude Code at their company",
+    "score": 9,
+    "by": "ashadh",
+    "url": "https://code.claude.com/docs/en/champion-kit",
+    "comments": 1
+  },
+  {
+    "title": "I Built My Own Hair Electrolysis Machine",
+    "score": 12,
+    "by": "y1n0",
+    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "comments": 1
+  },
+  {
+    "title": "Claude.ai unavailable and elevated errors on the API",
+    "score": 284,
+    "by": "shorsher",
+    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "comments": 246
   }
 ]
