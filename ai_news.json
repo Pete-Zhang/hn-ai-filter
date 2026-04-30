@@ -1,107 +1,65 @@
 [
   {
-    "title": "Tell HN: An update from the new Tindie team",
-    "score": 29,
-    "by": "altairprime",
+    "title": "The Zig project's rationale for their anti-AI contribution policy",
+    "score": 280,
+    "by": "lumpa",
+    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "comments": 118
+  },
+  {
+    "title": "Craig Venter has died",
+    "score": 233,
+    "by": "rdl",
+    "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
+    "comments": 41
+  },
+  {
+    "title": "Copy Fail",
+    "score": 970,
+    "by": "unsnap_biceps",
+    "url": "https://copy.fail/",
+    "comments": 359
+  },
+  {
+    "title": "Mike: open-source legal AI",
+    "score": 95,
+    "by": "noleary",
+    "url": "https://mikeoss.com/",
+    "comments": 35
+  },
+  {
+    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
+    "score": 8,
+    "by": "louisbarclay",
+    "url": "https://datacenter.fm/",
+    "comments": 0
+  },
+  {
+    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
+    "score": 49,
+    "by": "Jblx2",
+    "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
+    "comments": 128
+  },
+  {
+    "title": "Ramp's Sheets AI Exfiltrates Financials",
+    "score": 130,
+    "by": "takira",
+    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
+    "comments": 42
+  },
+  {
+    "title": "Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author",
+    "score": 25,
+    "by": "adithyassekhar",
     "url": "",
-    "comments": 12
+    "comments": 17
   },
   {
-    "title": "How ChatGPT serves ads",
-    "score": 342,
-    "by": "lmbbuchodi",
-    "url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
-    "comments": 231
-  },
-  {
-    "title": "Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",
-    "score": 55,
-    "by": "hugocorreia90",
-    "url": "https://github.com/rocky-data/rocky",
-    "comments": 4
-  },
-  {
-    "title": "Withnail's Coat and I",
-    "score": 76,
-    "by": "apollinaire",
-    "url": "https://ontherow.substack.com/p/withnails-coat-and-i",
-    "comments": 3
-  },
-  {
-    "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-    "score": 274,
-    "by": "translocator",
-    "url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
-    "comments": 89
-  },
-  {
-    "title": "Who owns the code Claude Code wrote?",
-    "score": 407,
-    "by": "senaevren",
-    "url": "https://legallayer.substack.com/p/who-owns-the-claude-code-wrote",
-    "comments": 381
-  },
-  {
-    "title": "Behavioral timescale synaptic plasticity rewires the brain after an experience",
-    "score": 118,
-    "by": "ibobev",
-    "url": "https://www.quantamagazine.org/a-new-type-of-neuroplasticity-rewires-the-brain-after-a-single-experience-20260424/",
-    "comments": 3
-  },
-  {
-    "title": "Regression: malware reminder on every read still causes subagent refusals",
-    "score": 217,
-    "by": "thomashobohm",
-    "url": "https://github.com/anthropics/claude-code/issues/49363",
-    "comments": 111
-  },
-  {
-    "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-    "score": 850,
-    "by": "bilsbie",
-    "url": "https://github.com/localsend/localsend",
-    "comments": 251
-  },
-  {
-    "title": "Show HN: Drive any macOS app in the background without stealing the cursor",
-    "score": 131,
-    "by": "frabonacci",
-    "url": "https://github.com/trycua/cua",
-    "comments": 32
-  },
-  {
-    "title": "VibeVoice: Open-source frontier voice AI",
-    "score": 370,
-    "by": "tosh",
-    "url": "https://github.com/microsoft/VibeVoice",
-    "comments": 169
-  },
-  {
-    "title": "Claude for Creative Work",
-    "score": 118,
-    "by": "elsewhen",
-    "url": "https://www.anthropic.com/news/claude-for-creative-work",
-    "comments": 87
-  },
-  {
-    "title": "Anthropic's Champion Kit for engineers pushing Claude Code at their company",
-    "score": 9,
-    "by": "ashadh",
-    "url": "https://code.claude.com/docs/en/champion-kit",
-    "comments": 1
-  },
-  {
-    "title": "I Built My Own Hair Electrolysis Machine",
-    "score": 12,
-    "by": "y1n0",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "comments": 1
-  },
-  {
-    "title": "Claude.ai unavailable and elevated errors on the API",
-    "score": 284,
-    "by": "shorsher",
-    "url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "comments": 246
+    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
+    "score": 86,
+    "by": "Cynddl",
+    "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
+    "comments": 64
   }
 ]
