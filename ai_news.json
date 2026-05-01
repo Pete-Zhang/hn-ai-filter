@@ -1,65 +1,58 @@
 [
   {
-    "title": "The Zig project's rationale for their anti-AI contribution policy",
-    "score": 280,
-    "by": "lumpa",
-    "url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
+    "score": 498,
+    "by": "ori_b",
+    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "comments": 386
+  },
+  {
+    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "score": 396,
+    "by": "j12y",
+    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "comments": 133
+  },
+  {
+    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
+    "score": 1151,
+    "by": "elmean",
+    "url": "https://twitter.com/theo/status/2049645973350363168",
+    "comments": 630
+  },
+  {
+    "title": "Reverse Engineering SimTower",
+    "score": 196,
+    "by": "patrickhulin",
+    "url": "https://phulin.me/blog/simtower",
+    "comments": 40
+  },
+  {
+    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+    "score": 289,
+    "by": "steveharing1",
+    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
+    "comments": 184
+  },
+  {
+    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
+    "score": 479,
+    "by": "akyuu",
+    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
+    "comments": 187
+  },
+  {
+    "title": "How People ask Claude for personal guidance",
+    "score": 6,
+    "by": "pseudolus",
+    "url": "https://www.anthropic.com/research/claude-personal-guidance",
+    "comments": 3
+  },
+  {
+    "title": "What can we gain by losing infinity?",
+    "score": 110,
+    "by": "Tomte",
+    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
     "comments": 118
-  },
-  {
-    "title": "Craig Venter has died",
-    "score": 233,
-    "by": "rdl",
-    "url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "comments": 41
-  },
-  {
-    "title": "Copy Fail",
-    "score": 970,
-    "by": "unsnap_biceps",
-    "url": "https://copy.fail/",
-    "comments": 359
-  },
-  {
-    "title": "Mike: open-source legal AI",
-    "score": 95,
-    "by": "noleary",
-    "url": "https://mikeoss.com/",
-    "comments": 35
-  },
-  {
-    "title": "DataCenter.FM – background noise app featuring the sound of the AI bubble",
-    "score": 8,
-    "by": "louisbarclay",
-    "url": "https://datacenter.fm/",
-    "comments": 0
-  },
-  {
-    "title": "Joby kicks off NYC electric air taxi demos with historic JFK flight",
-    "score": 49,
-    "by": "Jblx2",
-    "url": "https://www.flyingmag.com/joby-nyc-electric-air-taxi-jfk-airport/",
-    "comments": 128
-  },
-  {
-    "title": "Ramp's Sheets AI Exfiltrates Financials",
-    "score": 130,
-    "by": "takira",
-    "url": "https://www.promptarmor.com/resources/ramps-sheets-ai-exfiltrates-financials",
-    "comments": 42
-  },
-  {
-    "title": "Tell HN: VS Code v1.117.0 automatically adds GitHub Copilot as your co author",
-    "score": 25,
-    "by": "adithyassekhar",
-    "url": "",
-    "comments": 17
-  },
-  {
-    "title": "Making AI chatbots friendly leads to mistakes and support of conspiracy theories",
-    "score": 86,
-    "by": "Cynddl",
-    "url": "https://www.theguardian.com/technology/2026/apr/29/making-ai-chatbots-more-friendly-mistakes-support-false-beliefs-conspiracy-theories-study",
-    "comments": 64
   }
 ]
