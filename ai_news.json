@@ -1,58 +1,65 @@
 [
   {
-    "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-    "score": 498,
-    "by": "ori_b",
-    "url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "comments": 386
+    "title": "Ask HN: Who is hiring? (May 2026)",
+    "score": 257,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 276
   },
   {
-    "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "score": 396,
-    "by": "j12y",
-    "url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "comments": 133
+    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
+    "score": 497,
+    "by": "sleepingNomad",
+    "url": "https://github.com/darrylmorley/whatcable",
+    "comments": 144
   },
   {
-    "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-    "score": 1151,
-    "by": "elmean",
-    "url": "https://twitter.com/theo/status/2049645973350363168",
-    "comments": 630
+    "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
+    "score": 137,
+    "by": "zdw",
+    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "comments": 190
   },
   {
-    "title": "Reverse Engineering SimTower",
-    "score": 196,
-    "by": "patrickhulin",
-    "url": "https://phulin.me/blog/simtower",
-    "comments": 40
+    "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
+    "score": 50,
+    "by": "bookofjoe",
+    "url": "https://www.nature.com/articles/s41467-026-71526-5",
+    "comments": 16
   },
   {
-    "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
-    "score": 289,
-    "by": "steveharing1",
-    "url": "https://firethering.com/granite-4-1-ibm-open-source-model-family/",
-    "comments": 184
+    "title": "The gay jailbreak technique (2025)",
+    "score": 518,
+    "by": "bobsmooth",
+    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "comments": 212
   },
   {
-    "title": "Spain's parliament will act against massive IP blockages by LaLiga",
-    "score": 479,
-    "by": "akyuu",
-    "url": "https://www.democrata.es/en/politics/congress-and-senate/congress-will-act-against-massive-ip-blockages-by-laliga/",
-    "comments": 187
+    "title": "Show HN: AI CAD Harness",
+    "score": 85,
+    "by": "zachdive",
+    "url": "https://fusion.adam.new/install",
+    "comments": 86
   },
   {
-    "title": "How People ask Claude for personal guidance",
-    "score": 6,
-    "by": "pseudolus",
-    "url": "https://www.anthropic.com/research/claude-personal-guidance",
-    "comments": 3
+    "title": "Ask HN: Who wants to be hired? (May 2026)",
+    "score": 127,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 276
   },
   {
-    "title": "What can we gain by losing infinity?",
-    "score": 110,
-    "by": "Tomte",
-    "url": "https://www.quantamagazine.org/what-can-we-gain-by-losing-infinity-20260429/",
-    "comments": 118
+    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
+    "score": 242,
+    "by": "reconnecting",
+    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
+    "comments": 267
+  },
+  {
+    "title": "AI uses less water than the public thinks",
+    "score": 374,
+    "by": "hirpslop",
+    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "comments": 347
   }
 ]
