@@ -1,65 +1,58 @@
 [
   {
-    "title": "Ask HN: Who is hiring? (May 2026)",
-    "score": 257,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 276
+    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
+    "score": 98,
+    "by": "brendanmc6",
+    "url": "https://acai.sh/blog/specsmaxxing",
+    "comments": 77
   },
   {
-    "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-    "score": 497,
-    "by": "sleepingNomad",
-    "url": "https://github.com/darrylmorley/whatcable",
-    "comments": 144
+    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
+    "score": 103,
+    "by": "yunusabd",
+    "url": "https://hnup.date/hn-sota",
+    "comments": 55
   },
   {
-    "title": "Eka’s robotic claw feels like we're approaching a ChatGPT moment",
-    "score": 137,
-    "by": "zdw",
-    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-    "comments": 190
+    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
+    "score": 269,
+    "by": "bazlightyear",
+    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
+    "comments": 126
   },
   {
-    "title": "Direct electrochemical black coffee quality appraisal using cyclic voltammetry",
-    "score": 50,
-    "by": "bookofjoe",
-    "url": "https://www.nature.com/articles/s41467-026-71526-5",
-    "comments": 16
+    "title": "AI, Intimacy, and the Data You Never Meant to Share",
+    "score": 26,
+    "by": "victorkulla",
+    "url": "https://fshot.org/techzone/the-algorithm-knows.php",
+    "comments": 1
   },
   {
-    "title": "The gay jailbreak technique (2025)",
-    "score": 518,
-    "by": "bobsmooth",
-    "url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-    "comments": 212
+    "title": "When Dawkins met Claude – Could this AI be conscious?",
+    "score": 28,
+    "by": "pentestercrab",
+    "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
+    "comments": 162
   },
   {
-    "title": "Show HN: AI CAD Harness",
-    "score": 85,
-    "by": "zachdive",
-    "url": "https://fusion.adam.new/install",
-    "comments": 86
+    "title": "Musk's AI told me people were coming to kill me (BBC)",
+    "score": 23,
+    "by": "walden789",
+    "url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
+    "comments": 4
   },
   {
-    "title": "Ask HN: Who wants to be hired? (May 2026)",
-    "score": 127,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 276
+    "title": "Voice-AI-for-Beginners – A curated learning path for developers",
+    "score": 70,
+    "by": "mahimai",
+    "url": "https://github.com/mahimairaja/voiceai",
+    "comments": 4
   },
   {
-    "title": "Spotify adds 'Verified' badges to distinguish human artists from AI",
-    "score": 242,
-    "by": "reconnecting",
-    "url": "https://www.bbc.com/news/articles/c5yerr4m1yno",
-    "comments": 267
-  },
-  {
-    "title": "AI uses less water than the public thinks",
-    "score": 374,
-    "by": "hirpslop",
-    "url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-    "comments": 347
+    "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
+    "score": 102,
+    "by": "karakanb",
+    "url": "https://github.com/bruin-data/dac",
+    "comments": 32
   }
 ]
