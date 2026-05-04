@@ -1,58 +1,51 @@
 [
   {
-    "title": "Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",
-    "score": 98,
-    "by": "brendanmc6",
-    "url": "https://acai.sh/blog/specsmaxxing",
-    "comments": 77
+    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
+    "score": 469,
+    "by": "alattaran",
+    "url": "https://github.com/aattaran/deepclaude",
+    "comments": 183
   },
   {
-    "title": "Show HN: State of the Art of Coding Models, According to Hacker News Commenters",
-    "score": 103,
-    "by": "yunusabd",
-    "url": "https://hnup.date/hn-sota",
-    "comments": 55
+    "title": "Southwest Headquarters Tour",
+    "score": 254,
+    "by": "KatiMichel",
+    "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
+    "comments": 79
   },
   {
-    "title": "Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",
-    "score": 269,
-    "by": "bazlightyear",
-    "url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
-    "comments": 126
+    "title": "Let's Buy Spirit Air",
+    "score": 342,
+    "by": "bjhess",
+    "url": "https://letsbuyspiritair.com/",
+    "comments": 325
   },
   {
-    "title": "AI, Intimacy, and the Data You Never Meant to Share",
-    "score": 26,
-    "by": "victorkulla",
-    "url": "https://fshot.org/techzone/the-algorithm-knows.php",
-    "comments": 1
+    "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
+    "score": 399,
+    "by": "donsupreme",
+    "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
+    "comments": 346
   },
   {
-    "title": "When Dawkins met Claude – Could this AI be conscious?",
-    "score": 28,
-    "by": "pentestercrab",
-    "url": "https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/",
-    "comments": 162
+    "title": "Show HN: Ableton Live MCP",
+    "score": 84,
+    "by": "bschoepke",
+    "url": "https://github.com/bschoepke/ableton-live-mcp",
+    "comments": 54
   },
   {
-    "title": "Musk's AI told me people were coming to kill me (BBC)",
-    "score": 23,
-    "by": "walden789",
-    "url": "https://www.bbc.com/news/articles/c242pzr1zp2o",
-    "comments": 4
+    "title": "I built my own hair electrolysis machine",
+    "score": 229,
+    "by": "y1n0",
+    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
+    "comments": 59
   },
   {
-    "title": "Voice-AI-for-Beginners – A curated learning path for developers",
-    "score": 70,
-    "by": "mahimai",
-    "url": "https://github.com/mahimairaja/voiceai",
-    "comments": 4
-  },
-  {
-    "title": "Show HN: DAC – open-source dashboard as code tool for agents and humans",
-    "score": 102,
-    "by": "karakanb",
-    "url": "https://github.com/bruin-data/dac",
-    "comments": 32
+    "title": "Group averages obscure how an individual's brain controls behavior: study",
+    "score": 119,
+    "by": "hhs",
+    "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
+    "comments": 36
   }
 ]
