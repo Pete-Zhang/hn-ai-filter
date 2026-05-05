@@ -1,51 +1,51 @@
 [
   {
-    "title": "DeepClaude – Claude Code agent loop with DeepSeek V4 Pro",
-    "score": 469,
-    "by": "alattaran",
-    "url": "https://github.com/aattaran/deepclaude",
-    "comments": 183
+    "title": "Should I Run Plain Docker Compose in Production in 2026?",
+    "score": 7,
+    "by": "pmig",
+    "url": "https://distr.sh/blog/running-docker-in-production/",
+    "comments": 3
   },
   {
-    "title": "Southwest Headquarters Tour",
-    "score": 254,
-    "by": "KatiMichel",
-    "url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-    "comments": 79
+    "title": "How OpenAI delivers low-latency voice AI at scale",
+    "score": 408,
+    "by": "Sean-Der",
+    "url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
+    "comments": 125
   },
   {
-    "title": "Let's Buy Spirit Air",
-    "score": 342,
-    "by": "bjhess",
-    "url": "https://letsbuyspiritair.com/",
-    "comments": 325
+    "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
+    "score": 103,
+    "by": "averi",
+    "url": "https://www.dragonsreach.it/2026/05/04/cve-2026-31431-copy-fail-rootless-containers/",
+    "comments": 37
   },
   {
-    "title": "OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors",
-    "score": 399,
-    "by": "donsupreme",
-    "url": "https://www.theguardian.com/technology/2026/apr/30/ai-outperforms-doctors-in-harvard-trial-of-emergency-triage-diagnoses",
-    "comments": 346
+    "title": "Train Your Own LLM from Scratch",
+    "score": 241,
+    "by": "kristianpaul",
+    "url": "https://github.com/angelos-p/llm-from-scratch",
+    "comments": 28
   },
   {
-    "title": "Show HN: Ableton Live MCP",
-    "score": 84,
-    "by": "bschoepke",
-    "url": "https://github.com/bschoepke/ableton-live-mcp",
-    "comments": 54
+    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+    "score": 197,
+    "by": "john-doe",
+    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
+    "comments": 209
   },
   {
-    "title": "I built my own hair electrolysis machine",
-    "score": 229,
-    "by": "y1n0",
-    "url": "https://www.scd31.com/posts/diy-hair-electrolysis-machine",
-    "comments": 59
+    "title": "Y Combinator's Stake in OpenAI (0.6%?)",
+    "score": 332,
+    "by": "gyomu",
+    "url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "comments": 51
   },
   {
-    "title": "Group averages obscure how an individual's brain controls behavior: study",
-    "score": 119,
-    "by": "hhs",
-    "url": "https://med.stanford.edu/news/all-news/2026/04/brain-scans-individual-versus-group.html",
-    "comments": 36
+    "title": "Sierra Raises $950M at $15B Valuation",
+    "score": 105,
+    "by": "doppp",
+    "url": "https://sierra.ai/blog/better-customer-experiences-built-on-sierra",
+    "comments": 130
   }
 ]
