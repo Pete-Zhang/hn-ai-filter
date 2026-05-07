@@ -1,86 +1,58 @@
 [
   {
+    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+    "score": 44,
+    "by": "segmenta",
+    "url": "https://unsloth.ai/blog/nvidia-collab",
+    "comments": 2
+  },
+  {
+    "title": "A Theory of Deep Learning",
+    "score": 196,
+    "by": "elonlit",
+    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "comments": 46
+  },
+  {
+    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+    "score": 132,
+    "by": "oahmadov",
+    "url": "https://play.templatical.com",
+    "comments": 33
+  },
+  {
     "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "score": 333,
+    "score": 635,
     "by": "rolph",
     "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "comments": 183
+    "comments": 358
   },
   {
-    "title": "DNSSEC disruption affecting .de domains – Resolved",
-    "score": 671,
-    "by": "warpspin",
-    "url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-    "comments": 336
+    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+    "score": 460,
+    "by": "meetpateltech",
+    "url": "https://www.anthropic.com/news/higher-limits-spacex",
+    "comments": 423
   },
   {
-    "title": "Telus Uses AI to Alter Call-Agent Accents",
-    "score": 155,
-    "by": "debo_",
-    "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
-    "comments": 118
-  },
-  {
-    "title": "Three Inverse Laws of AI",
-    "score": 450,
-    "by": "blenderob",
-    "url": "https://susam.net/inverse-laws-of-robotics.html",
-    "comments": 313
+    "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
+    "score": 1,
+    "by": "botacode",
+    "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+    "comments": 0
   },
   {
     "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "score": 1450,
+    "score": 1675,
     "by": "john-doe",
     "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "comments": 978
+    "comments": 1105
   },
   {
     "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-    "score": 121,
+    "score": 141,
     "by": "mtricot",
     "url": "",
-    "comments": 31
-  },
-  {
-    "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-    "score": 176,
-    "by": "ouli",
-    "url": "https://paletteinspiration.com/",
-    "comments": 61
-  },
-  {
-    "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-    "score": 387,
-    "by": "spankibalt",
-    "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
-    "comments": 347
-  },
-  {
-    "title": "Mark Cuban: OpenAI Will Never Return the $1T It's Investing [video]",
-    "score": 25,
-    "by": "operatingthetan",
-    "url": "https://www.youtube.com/watch?v=oEVHNvE_jDw",
-    "comments": 30
-  },
-  {
-    "title": "The Soul of Maintaining a New Machine",
-    "score": 10,
-    "by": "akkartik",
-    "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-    "comments": 1
-  },
-  {
-    "title": "When everyone has AI and the company still learns nothing",
-    "score": 362,
-    "by": "youngbrioche",
-    "url": "https://www.robert-glaser.de/when-everyone-has-ai-and-the-company-still-learns-nothing/",
-    "comments": 241
-  },
-  {
-    "title": "Should I run plain Docker Compose in production in 2026?",
-    "score": 398,
-    "by": "pmig",
-    "url": "https://distr.sh/blog/running-docker-in-production/",
-    "comments": 279
+    "comments": 42
   }
 ]
