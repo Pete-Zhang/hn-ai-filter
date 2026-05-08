@@ -1,58 +1,86 @@
 [
   {
-    "title": "Making LLM Training Faster with Unsloth and NVIDIA",
+    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
+    "score": 616,
+    "by": "stefanpie",
+    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
+    "comments": 377
+  },
+  {
+    "title": "ClojureScript Gets Async/Await",
+    "score": 36,
+    "by": "Borkdude",
+    "url": "https://clojurescript.org/news/2026-05-07-release",
+    "comments": 6
+  },
+  {
+    "title": "Rumors of my death are slightly exaggerated",
+    "score": 220,
+    "by": "CliffStoll",
+    "url": "",
+    "comments": 29
+  },
+  {
+    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
     "score": 44,
-    "by": "segmenta",
-    "url": "https://unsloth.ai/blog/nvidia-collab",
+    "by": "peter_d_sherman",
+    "url": "https://github.com/graemeg/blaise",
+    "comments": 12
+  },
+  {
+    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+    "score": 273,
+    "by": "instagraham",
+    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "comments": 89
+  },
+  {
+    "title": "Hardening Firefox with Claude Mythos Preview",
+    "score": 185,
+    "by": "HieronymusBosch",
+    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
+    "comments": 87
+  },
+  {
+    "title": "AI slop is killing online communities",
+    "score": 643,
+    "by": "thm",
+    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "comments": 559
+  },
+  {
+    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
+    "score": 89,
+    "by": "jruohonen",
+    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
+    "comments": 19
+  },
+  {
+    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
+    "score": 554,
+    "by": "newsoftheday",
+    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
+    "comments": 216
+  },
+  {
+    "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
+    "score": 13,
+    "by": "Armor1AI",
+    "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
     "comments": 2
   },
   {
-    "title": "A Theory of Deep Learning",
-    "score": 196,
-    "by": "elonlit",
-    "url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
-    "comments": 46
+    "title": "Tools in the Grass: Raising the next generation of crafts person",
+    "score": 42,
+    "by": "NaOH",
+    "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
+    "comments": 4
   },
   {
-    "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
-    "score": 132,
-    "by": "oahmadov",
-    "url": "https://play.templatical.com",
-    "comments": 33
-  },
-  {
-    "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "score": 635,
-    "by": "rolph",
-    "url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "comments": 358
-  },
-  {
-    "title": "Higher usage limits for Claude and a compute deal with SpaceX",
-    "score": 460,
-    "by": "meetpateltech",
-    "url": "https://www.anthropic.com/news/higher-limits-spacex",
-    "comments": 423
-  },
-  {
-    "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
-    "score": 1,
-    "by": "botacode",
-    "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
-    "comments": 0
-  },
-  {
-    "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-    "score": 1675,
-    "by": "john-doe",
-    "url": "https://www.thatprivacyguy.com/blog/chrome-silent-nano-install/",
-    "comments": 1105
-  },
-  {
-    "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-    "score": 141,
-    "by": "mtricot",
-    "url": "",
-    "comments": 42
+    "title": "Komai: a fine Matrix chat app you can get to love",
+    "score": 52,
+    "by": "anotherevan",
+    "url": "https://etke.cc/blog/introducing-komai",
+    "comments": 27
   }
 ]
