@@ -1,86 +1,86 @@
 [
   {
-    "title": "Canvas is down as ShinyHunters threatens to leak schools’ data",
-    "score": 616,
-    "by": "stefanpie",
-    "url": "https://www.theverge.com/tech/926458/canvas-shinyhunters-breach",
-    "comments": 377
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "score": 270,
+    "by": "_alternator_",
+    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "comments": 136
+  },
+  {
+    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+    "score": 122,
+    "by": "pretext",
+    "url": "https://twitter.com/trq212/status/2052809885763747935",
+    "comments": 71
+  },
+  {
+    "title": "OpenAI’s WebRTC problem",
+    "score": 298,
+    "by": "atgctg",
+    "url": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "comments": 76
+  },
+  {
+    "title": "All my clients wanted a carousel, now it's an AI chatbot",
+    "score": 73,
+    "by": "edent",
+    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
+    "comments": 26
+  },
+  {
+    "title": "AI is breaking two vulnerability cultures",
+    "score": 326,
+    "by": "speckx",
+    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
+    "comments": 132
+  },
+  {
+    "title": "AWS North Virginia data center outage – recovery to take hours",
+    "score": 218,
+    "by": "christhecaribou",
+    "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
+    "comments": 139
+  },
+  {
+    "title": "Teaching Claude Why",
+    "score": 161,
+    "by": "pretext",
+    "url": "https://www.anthropic.com/research/teaching-claude-why",
+    "comments": 78
+  },
+  {
+    "title": "The Soul of Maintaining a New Machine",
+    "score": 47,
+    "by": "akkartik",
+    "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
+    "comments": 5
+  },
+  {
+    "title": "All means are fair except solving the problem",
+    "score": 55,
+    "by": "akkartik",
+    "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
+    "comments": 46
+  },
+  {
+    "title": "Podman rootless containers and the Copy Fail exploit",
+    "score": 126,
+    "by": "ggpsv",
+    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
+    "comments": 24
   },
   {
     "title": "ClojureScript Gets Async/Await",
-    "score": 36,
+    "score": 268,
     "by": "Borkdude",
     "url": "https://clojurescript.org/news/2026-05-07-release",
-    "comments": 6
+    "comments": 72
   },
   {
     "title": "Rumors of my death are slightly exaggerated",
-    "score": 220,
+    "score": 1588,
     "by": "CliffStoll",
     "url": "",
-    "comments": 29
-  },
-  {
-    "title": "Blaise – A modern self-hosting zero-legacy Object Pascal compiler targeting QBE",
-    "score": 44,
-    "by": "peter_d_sherman",
-    "url": "https://github.com/graemeg/blaise",
-    "comments": 12
-  },
-  {
-    "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-    "score": 273,
-    "by": "instagraham",
-    "url": "https://www.anthropic.com/research/natural-language-autoencoders",
-    "comments": 89
-  },
-  {
-    "title": "Hardening Firefox with Claude Mythos Preview",
-    "score": 185,
-    "by": "HieronymusBosch",
-    "url": "https://hacks.mozilla.org/2026/05/behind-the-scenes-hardening-firefox/",
-    "comments": 87
-  },
-  {
-    "title": "AI slop is killing online communities",
-    "score": 643,
-    "by": "thm",
-    "url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "comments": 559
-  },
-  {
-    "title": "Two Home Affairs officials suspended after AI 'hallucinations' found",
-    "score": 89,
-    "by": "jruohonen",
-    "url": "https://www.citizen.co.za/news/home-affairs-officials-suspended-ai-hallucinations/",
-    "comments": 19
-  },
-  {
-    "title": "Chrome removes claim of On-device Al not sending data to Google Servers",
-    "score": 554,
-    "by": "newsoftheday",
-    "url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "comments": 216
-  },
-  {
-    "title": "Claude Code CVE-2026-39861:sandbox escape via symlink",
-    "score": 13,
-    "by": "Armor1AI",
-    "url": "https://github.com/advisories/GHSA-vp62-r36r-9xqp",
-    "comments": 2
-  },
-  {
-    "title": "Tools in the Grass: Raising the next generation of crafts person",
-    "score": 42,
-    "by": "NaOH",
-    "url": "https://www.popularwoodworking.com/editors-blog/tools-in-the-grass/",
-    "comments": 4
-  },
-  {
-    "title": "Komai: a fine Matrix chat app you can get to love",
-    "score": 52,
-    "by": "anotherevan",
-    "url": "https://etke.cc/blog/introducing-komai",
-    "comments": 27
+    "comments": 243
   }
 ]
