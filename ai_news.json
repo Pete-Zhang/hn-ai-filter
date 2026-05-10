@@ -1,86 +1,58 @@
 [
   {
+    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+    "score": 272,
+    "by": "imtomt",
+    "url": "https://github.com/imtomt/ymawky",
+    "comments": 118
+  },
+  {
+    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+    "score": 167,
+    "by": "marcingas",
+    "url": "https://github.com/nooga/let-go",
+    "comments": 42
+  },
+  {
     "title": "A recent experience with ChatGPT 5.5 Pro",
-    "score": 270,
+    "score": 631,
     "by": "_alternator_",
     "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "comments": 136
+    "comments": 463
   },
   {
     "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "score": 122,
+    "score": 458,
     "by": "pretext",
     "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "comments": 71
+    "comments": 257
   },
   {
     "title": "OpenAI’s WebRTC problem",
-    "score": 298,
+    "score": 487,
     "by": "atgctg",
     "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "comments": 76
+    "comments": 143
   },
   {
-    "title": "All my clients wanted a carousel, now it's an AI chatbot",
-    "score": 73,
-    "by": "edent",
-    "url": "https://adele.pages.casa/md/blog/all-my-clients-wanted-a-carousel-now-it-s-an-ai-chatbot.md",
-    "comments": 26
+    "title": "Task Paralysis and AI",
+    "score": 5,
+    "by": "MrGilbert",
+    "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
+    "comments": 0
+  },
+  {
+    "title": "Meta's embrace of AI is making its employees miserable",
+    "score": 392,
+    "by": "JumpCrisscross",
+    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
+    "comments": 425
   },
   {
     "title": "AI is breaking two vulnerability cultures",
-    "score": 326,
+    "score": 415,
     "by": "speckx",
     "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "comments": 132
-  },
-  {
-    "title": "AWS North Virginia data center outage – recovery to take hours",
-    "score": 218,
-    "by": "christhecaribou",
-    "url": "https://www.cnbc.com/2026/05/08/aws-outage-data-center-fanduel-coinbase.html",
-    "comments": 139
-  },
-  {
-    "title": "Teaching Claude Why",
-    "score": 161,
-    "by": "pretext",
-    "url": "https://www.anthropic.com/research/teaching-claude-why",
-    "comments": 78
-  },
-  {
-    "title": "The Soul of Maintaining a New Machine",
-    "score": 47,
-    "by": "akkartik",
-    "url": "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/3",
-    "comments": 5
-  },
-  {
-    "title": "All means are fair except solving the problem",
-    "score": 55,
-    "by": "akkartik",
-    "url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-    "comments": 46
-  },
-  {
-    "title": "Podman rootless containers and the Copy Fail exploit",
-    "score": 126,
-    "by": "ggpsv",
-    "url": "https://garrido.io/notes/podman-rootless-containers-copy-fail/",
-    "comments": 24
-  },
-  {
-    "title": "ClojureScript Gets Async/Await",
-    "score": 268,
-    "by": "Borkdude",
-    "url": "https://clojurescript.org/news/2026-05-07-release",
-    "comments": 72
-  },
-  {
-    "title": "Rumors of my death are slightly exaggerated",
-    "score": 1588,
-    "by": "CliffStoll",
-    "url": "",
-    "comments": 243
+    "comments": 167
   }
 ]
