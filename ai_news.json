@@ -1,58 +1,65 @@
 [
   {
-    "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-    "score": 272,
-    "by": "imtomt",
-    "url": "https://github.com/imtomt/ymawky",
-    "comments": 118
+    "title": "Local AI needs to be the norm",
+    "score": 1207,
+    "by": "cylo",
+    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
+    "comments": 507
   },
   {
-    "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
-    "score": 167,
-    "by": "marcingas",
-    "url": "https://github.com/nooga/let-go",
+    "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+    "score": 190,
+    "by": "susam",
+    "url": "https://www.openculture.com/2024/10/the-greatest-shot-in-television.html",
+    "comments": 81
+  },
+  {
+    "title": "An AI coding agent, used to write code, needs to reduce your maintenance costs",
+    "score": 178,
+    "by": "cratermoon",
+    "url": "https://www.jamesshore.com/v2/blog/2026/you-need-ai-that-reduces-your-maintenance-costs",
     "comments": 42
   },
   {
-    "title": "A recent experience with ChatGPT 5.5 Pro",
-    "score": 631,
-    "by": "_alternator_",
-    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "comments": 463
+    "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+    "score": 40,
+    "by": "adamthegoalie",
+    "url": "https://github.com/adamjgmiller/adamsreview",
+    "comments": 12
   },
   {
-    "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-    "score": 458,
-    "by": "pretext",
-    "url": "https://twitter.com/trq212/status/2052809885763747935",
-    "comments": 257
-  },
-  {
-    "title": "OpenAI’s WebRTC problem",
-    "score": 487,
-    "by": "atgctg",
-    "url": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "comments": 143
+    "title": "How Fast Does Claude, Acting as a User Space IP Stack, Respond to Pings?",
+    "score": 88,
+    "by": "adunk",
+    "url": "https://dunkels.com/adam/claude-user-space-ip-stack-ping/",
+    "comments": 29
   },
   {
     "title": "Task Paralysis and AI",
-    "score": 5,
+    "score": 241,
     "by": "MrGilbert",
     "url": "https://g5t.de/articles/20260510-task-paralysis-and-ai/index.html",
-    "comments": 0
+    "comments": 122
   },
   {
-    "title": "Meta's embrace of AI is making its employees miserable",
-    "score": 392,
-    "by": "JumpCrisscross",
-    "url": "https://www.nytimes.com/2026/05/08/technology/meta-ai-employees-miserable.html",
-    "comments": 425
+    "title": "Maryland citizens hit with $2B power grid upgrade for out-of-state AI",
+    "score": 259,
+    "by": "lemonberry",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises",
+    "comments": 149
   },
   {
-    "title": "AI is breaking two vulnerability cultures",
-    "score": 415,
-    "by": "speckx",
-    "url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "comments": 167
+    "title": "A recent experience with ChatGPT 5.5 Pro",
+    "score": 694,
+    "by": "_alternator_",
+    "url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
+    "comments": 521
+  },
+  {
+    "title": "PS3 Emulator Devs Politely Ask That People Stop Flooding It with AI PRs",
+    "score": 166,
+    "by": "stalfosknight",
+    "url": "https://kotaku.com/playstation-3-emulator-devs-politely-ask-that-people-stop-flooding-it-with-ai-code-pull-requests-2000694656",
+    "comments": 123
   }
 ]
