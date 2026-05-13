@@ -1,100 +1,100 @@
 [
   {
+    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
+    "score": 51,
+    "by": "HardwareLust",
+    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
+    "comments": 17
+  },
+  {
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "score": 469,
+    "by": "HenryNdubuaku",
+    "url": "https://github.com/cactus-compute/needle",
+    "comments": 154
+  },
+  {
+    "title": "Why senior developers fail to communicate their expertise",
+    "score": 587,
+    "by": "nilirl",
+    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
+    "comments": 255
+  },
+  {
+    "title": "Reimagining the mouse pointer for the AI era",
+    "score": 206,
+    "by": "devhouse",
+    "url": "https://deepmind.google/blog/ai-pointer/",
+    "comments": 173
+  },
+  {
+    "title": "Show HN: Agentic interface for mainframes and COBOL",
+    "score": 77,
+    "by": "sai18",
+    "url": "https://www.hypercubic.ai/hopper",
+    "comments": 41
+  },
+  {
+    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
+    "score": 54,
+    "by": "ttpost",
+    "url": "https://voker.ai",
+    "comments": 20
+  },
+  {
+    "title": "Foucault's Order of Things Explained with Trading Cards [video]",
+    "score": 35,
+    "by": "surprisetalk",
+    "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
+    "comments": 25
+  },
+  {
+    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
+    "score": 92,
+    "by": "azurewraith",
+    "url": "https://github.com/statewright/statewright",
+    "comments": 33
+  },
+  {
+    "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
+    "score": 50,
+    "by": "namanyayg",
+    "url": "",
+    "comments": 20
+  },
+  {
+    "title": "“I applied to be pope”: Losing grip on reality while using ChatGPT",
+    "score": 41,
+    "by": "hansmayer",
+    "url": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
+    "comments": 37
+  },
+  {
+    "title": "Israel's AI targeting system: how data from a phone become a death sentence",
+    "score": 150,
+    "by": "YeGoblynQueenne",
+    "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
+    "comments": 47
+  },
+  {
+    "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
+    "score": 1,
+    "by": "scottfr",
+    "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
+    "comments": 0
+  },
+  {
     "title": "Postmortem: TanStack NPM supply-chain compromise",
-    "score": 864,
+    "score": 1073,
     "by": "varunsharma07",
     "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "comments": 347
+    "comments": 451
   },
   {
-    "title": "If AI writes your code, why use Python?",
-    "score": 513,
-    "by": "indigodaddy",
-    "url": "https://medium.com/@NMitchem/if-ai-writes-your-code-why-use-python-bf8c4ba1a055",
-    "comments": 560
-  },
-  {
-    "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-    "score": 347,
-    "by": "bookofjoe",
-    "url": "https://stemcell.ucla.edu/news/ucla-discovers-first-stroke-rehabilitation-drug-repair-brain-damage",
-    "comments": 69
-  },
-  {
-    "title": "Claude Platform on AWS",
-    "score": 145,
-    "by": "matrixhelix",
-    "url": "https://claude.com/blog/claude-platform-on-aws",
-    "comments": 66
-  },
-  {
-    "title": "Google says criminal hackers used AI to find a major software flaw",
-    "score": 188,
-    "by": "donohoe",
-    "url": "https://www.nytimes.com/2026/05/11/us/politics/google-hackers-attack-ai.html",
-    "comments": 140
-  },
-  {
-    "title": "I let AI build a tool to help me figure out what was waking me up at night",
-    "score": 184,
-    "by": "showmypost",
-    "url": "https://martin.sh/i-let-ai-build-a-tool-to-help-me-figure-out-what-was-waking-me-up-at-night/",
-    "comments": 198
-  },
-  {
-    "title": "Words Fail (2020)",
-    "score": 3,
-    "by": "surprisetalk",
-    "url": "https://carcinisation.com/2020/06/26/words-fail/",
-    "comments": 1
-  },
-  {
-    "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-    "score": 242,
-    "by": "zdw",
-    "url": "https://www.cocoawithlove.com/blog/matrix-multiplications-swift.html",
-    "comments": 12
-  },
-  {
-    "title": "Bild AI (YC W25) Is Hiring Founding Product Engineers",
-    "score": 1,
-    "by": "rooppal",
-    "url": "https://bild.ai/jobs",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: OpenGravity – A zero-install, BYOK vanilla JS clone of Antigravity",
-    "score": 85,
-    "by": "ab613",
-    "url": "https://github.com/ab-613/opengravity",
-    "comments": 28
-  },
-  {
-    "title": "Local AI needs to be the norm",
-    "score": 1805,
-    "by": "cylo",
-    "url": "https://unix.foo/posts/local-ai-needs-to-be-norm/",
-    "comments": 719
-  },
-  {
-    "title": "Gmail registration now requires scanning a QR code and sending a text message",
-    "score": 597,
-    "by": "negura",
-    "url": "https://discuss.privacyguides.net/t/google-account-registration-now-requires-sending-an-sms-via-phone-instead-of-receiving-an-sms/36082",
-    "comments": 468
-  },
-  {
-    "title": "Mass NPM Supply Chain Attack Hits TanStack, Mistral AI, and 170 Packages",
-    "score": 6,
-    "by": "birdculture",
-    "url": "https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: E2a – Open-source email gateway for AI agents",
-    "score": 39,
-    "by": "mnexa",
-    "url": "https://github.com/Mnexa-AI/e2a",
+    "title": "DMARC Fail: 7 Causes and How to Fix Each",
+    "score": 14,
+    "by": "meysamazad",
+    "url": "https://dmarcguard.io/blog/dmarc-failed-how-to-fix/",
     "comments": 3
   }
 ]
