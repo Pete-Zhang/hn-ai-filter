@@ -1,100 +1,72 @@
 [
   {
-    "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-    "score": 51,
-    "by": "HardwareLust",
-    "url": "https://www.sciencedaily.com/releases/2026/05/260510030950.htm",
-    "comments": 17
+    "title": "Claude for Small Business",
+    "score": 256,
+    "by": "neilfrndes",
+    "url": "https://www.anthropic.com/news/claude-for-small-business",
+    "comments": 188
   },
   {
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "score": 469,
-    "by": "HenryNdubuaku",
-    "url": "https://github.com/cactus-compute/needle",
-    "comments": 154
-  },
-  {
-    "title": "Why senior developers fail to communicate their expertise",
-    "score": 587,
-    "by": "nilirl",
-    "url": "https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise",
-    "comments": 255
-  },
-  {
-    "title": "Reimagining the mouse pointer for the AI era",
-    "score": 206,
-    "by": "devhouse",
-    "url": "https://deepmind.google/blog/ai-pointer/",
+    "title": "Setting up a free *.city.state.us locality domain (2025)",
+    "score": 562,
+    "by": "speckx",
+    "url": "https://fredchan.org/blog/locality-domains-guide/",
     "comments": 173
   },
   {
-    "title": "Show HN: Agentic interface for mainframes and COBOL",
-    "score": 77,
-    "by": "sai18",
-    "url": "https://www.hypercubic.ai/hopper",
-    "comments": 41
+    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
+    "score": 47,
+    "by": "cdrnsf",
+    "url": "https://github.com/DrCatHicks/learning-opportunities",
+    "comments": 12
   },
   {
-    "title": "Launch HN: Voker (YC S24) – Analytics for AI Agents",
-    "score": 54,
-    "by": "ttpost",
-    "url": "https://voker.ai",
-    "comments": 20
+    "title": "The US is winning the AI race where it matters most: commercialization",
+    "score": 201,
+    "by": "akrylov",
+    "url": "https://avkcode.github.io/blog/us-winning-ai-race.html",
+    "comments": 550
   },
   {
-    "title": "Foucault's Order of Things Explained with Trading Cards [video]",
-    "score": 35,
-    "by": "surprisetalk",
-    "url": "https://www.youtube.com/watch?v=1TbHYjGvS68",
-    "comments": 25
+    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+    "score": 676,
+    "by": "HenryNdubuaku",
+    "url": "https://github.com/cactus-compute/needle",
+    "comments": 189
   },
   {
-    "title": "Show HN: Statewright – Visual state machines that make AI agents reliable",
-    "score": 92,
-    "by": "azurewraith",
-    "url": "https://github.com/statewright/statewright",
-    "comments": 33
+    "title": "Arena AI Model ELO History",
+    "score": 59,
+    "by": "mayerwin",
+    "url": "https://mayerwin.github.io/AI-Arena-History/",
+    "comments": 44
   },
   {
-    "title": "Show HN: Gigacatalyst – Extend your SaaS with an embedded AI builder",
-    "score": 50,
-    "by": "namanyayg",
+    "title": "Launch HN: Ardent (YC P26) – Postgres sandboxes in seconds with zero migration",
+    "score": 86,
+    "by": "vc289",
+    "url": "https://www.tryardent.com/",
+    "comments": 34
+  },
+  {
+    "title": "The other half of AI safety",
+    "score": 81,
+    "by": "sofiaqt",
+    "url": "https://personalaisafety.com/p/the-other-half-of-ai-safety",
+    "comments": 106
+  },
+  {
+    "title": "Meta won't let you block its AI account on Threads",
+    "score": 168,
+    "by": "logickkk1",
+    "url": "https://www.theverge.com/tech/929091/meta-ai-threads-account-block",
+    "comments": 75
+  },
+  {
+    "title": "Tell HN: Dont use Claude Design, lost access to my projects after unsubscribing",
+    "score": 260,
+    "by": "pycassa",
     "url": "",
-    "comments": 20
-  },
-  {
-    "title": "“I applied to be pope”: Losing grip on reality while using ChatGPT",
-    "score": 41,
-    "by": "hansmayer",
-    "url": "https://www.thestandard.com.hk/world/article/331886/I-applied-to-be-pope-Losing-grip-on-reality-while-using-ChatGPT",
-    "comments": 37
-  },
-  {
-    "title": "Israel's AI targeting system: how data from a phone become a death sentence",
-    "score": 150,
-    "by": "YeGoblynQueenne",
-    "url": "https://www.latimes.com/world-nation/story/2026-05-04/inside-israels-ai-targeting-system-how-data-from-phone-become-death-sentence",
-    "comments": 47
-  },
-  {
-    "title": "Text Blaze (YC W21) Is Hiring for a No-AI Summer Internship",
-    "score": 1,
-    "by": "scottfr",
-    "url": "https://www.ycombinator.com/companies/text-blaze/jobs/P4CCN62-the-blaze-no-ai-summer-internship",
-    "comments": 0
-  },
-  {
-    "title": "Postmortem: TanStack NPM supply-chain compromise",
-    "score": 1073,
-    "by": "varunsharma07",
-    "url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
-    "comments": 451
-  },
-  {
-    "title": "DMARC Fail: 7 Causes and How to Fix Each",
-    "score": 14,
-    "by": "meysamazad",
-    "url": "https://dmarcguard.io/blog/dmarc-failed-how-to-fix/",
-    "comments": 3
+    "comments": 71
   }
 ]
