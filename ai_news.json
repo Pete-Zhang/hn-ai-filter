@@ -1,93 +1,86 @@
 [
   {
-    "title": "RelaxAI – UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
-    "score": 21,
-    "by": "benjamintnorris",
-    "url": "https://relax.ai/docs",
-    "comments": 8
+    "title": "Frontier AI has broken the open CTF format",
+    "score": 100,
+    "by": "frays",
+    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "comments": 76
   },
   {
-    "title": "Show HN: GlycemicGPT – Open-source AI-powered diabetes management",
-    "score": 28,
-    "by": "jlengelbrecht",
-    "url": "https://github.com/GlycemicGPT/GlycemicGPT",
-    "comments": 8
+    "title": "I believe there are entire companies right now under AI psychosis",
+    "score": 1326,
+    "by": "reasonableklout",
+    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
+    "comments": 648
   },
   {
-    "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-    "score": 144,
-    "by": "kspacewalk2",
-    "url": "https://www.tristandc.com/government/news-2026-05-11-airdrop.php",
-    "comments": 39
+    "title": "The main thing about P2P meth is that there's so much of it (2021)",
+    "score": 117,
+    "by": "tomjakubowski",
+    "url": "https://dynomight.net/p2p-meth/",
+    "comments": 135
   },
   {
-    "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-    "score": 597,
-    "by": "allenleee",
-    "url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
-    "comments": 145
+    "title": "A 0-click exploit chain for the Pixel 10",
+    "score": 375,
+    "by": "happyhardcore",
+    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
+    "comments": 204
   },
   {
-    "title": "Codex is now in the ChatGPT mobile app",
-    "score": 336,
-    "by": "mikeevans",
-    "url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "comments": 169
+    "title": "Gaining control of every projector and camera on campus",
+    "score": 22,
+    "by": "ednaordinary",
+    "url": "https://www.edna.land/blogs/posts/scanning/",
+    "comments": 2
   },
   {
-    "title": "Access to frontier AI will soon be limited by economic and security constraints",
-    "score": 159,
-    "by": "thoughtpeddler",
-    "url": "https://writing.antonleicht.me/p/cut-off",
-    "comments": 149
+    "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
+    "score": 57,
+    "by": "jolaflow",
+    "url": "https://ljtn.github.io/epiq/",
+    "comments": 20
   },
   {
-    "title": "Claude for Legal",
-    "score": 96,
-    "by": "Einenlum",
-    "url": "https://github.com/anthropics/claude-for-legal",
-    "comments": 89
+    "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
+    "score": 8,
+    "by": "ZeljkoS",
+    "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
+    "comments": 3
   },
   {
-    "title": "How Claude Code works in large codebases",
-    "score": 168,
-    "by": "shenli3514",
-    "url": "https://claude.com/blog/how-claude-code-works-in-large-codebases-best-practices-and-where-to-start",
-    "comments": 120
+    "title": "Show HN: Watch a neural net learn to play Snake",
+    "score": 157,
+    "by": "c1b",
+    "url": "https://ppo.gradexp.xyz/",
+    "comments": 37
   },
   {
-    "title": "Ontario auditors find doctors' AI note takers routinely blow basic facts",
-    "score": 236,
-    "by": "sohkamyung",
-    "url": "https://www.theregister.com/ai-ml/2026/05/14/ontario-auditors-find-doctors-ai-note-takers-routinely-blow-basic-facts/5240771",
-    "comments": 112
+    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
+    "score": 400,
+    "by": "ndiddy",
+    "url": "https://github.com/oven-sh/bun/issues/30719",
+    "comments": 285
   },
   {
-    "title": "Show HN: I solved my study problems by talking to a goose",
-    "score": 6,
-    "by": "polaritymaking",
-    "url": "https://professorgoose.com/",
-    "comments": 6
+    "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
+    "score": 76,
+    "by": "steveharing1",
+    "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
+    "comments": 113
   },
   {
-    "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-    "score": 735,
-    "by": "HenryNdubuaku",
-    "url": "https://github.com/cactus-compute/needle",
-    "comments": 207
+    "title": "Show HN: AI that audits your codebase in 60 seconds",
+    "score": 5,
+    "by": "haapatel",
+    "url": "https://triyambakam-apex-corp.hf.space",
+    "comments": 3
   },
   {
-    "title": "The era of 15GB free Gmail storage is ending",
-    "score": 17,
-    "by": "01-_-",
-    "url": "https://www.androidauthority.com/google-gmail-5gb-free-storage-test-3667002/",
-    "comments": 18
-  },
-  {
-    "title": "A Claude Code and Codex Skill for Deliberate Skill Development",
-    "score": 234,
-    "by": "cdrnsf",
-    "url": "https://github.com/DrCatHicks/learning-opportunities",
-    "comments": 46
+    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
+    "score": 350,
+    "by": "hackernj",
+    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
+    "comments": 393
   }
 ]
