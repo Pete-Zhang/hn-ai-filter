@@ -1,86 +1,51 @@
 [
   {
+    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
+    "score": 188,
+    "by": "bookofjoe",
+    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
+    "comments": 211
+  },
+  {
+    "title": "Moving away from Tailwind, and learning to structure my CSS",
+    "score": 540,
+    "by": "mpweiher",
+    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "comments": 316
+  },
+  {
     "title": "Frontier AI has broken the open CTF format",
-    "score": 100,
+    "score": 377,
     "by": "frays",
     "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "comments": 76
+    "comments": 382
   },
   {
     "title": "I believe there are entire companies right now under AI psychosis",
-    "score": 1326,
+    "score": 1963,
     "by": "reasonableklout",
     "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "comments": 648
-  },
-  {
-    "title": "The main thing about P2P meth is that there's so much of it (2021)",
-    "score": 117,
-    "by": "tomjakubowski",
-    "url": "https://dynomight.net/p2p-meth/",
-    "comments": 135
+    "comments": 1149
   },
   {
     "title": "A 0-click exploit chain for the Pixel 10",
-    "score": 375,
+    "score": 433,
     "by": "happyhardcore",
     "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "comments": 204
+    "comments": 232
   },
   {
     "title": "Gaining control of every projector and camera on campus",
-    "score": 22,
+    "score": 112,
     "by": "ednaordinary",
     "url": "https://www.edna.land/blogs/posts/scanning/",
-    "comments": 2
+    "comments": 32
   },
   {
-    "title": "Show HN: Epiq – Distributed Git based issue tracker TUI",
-    "score": 57,
-    "by": "jolaflow",
-    "url": "https://ljtn.github.io/epiq/",
-    "comments": 20
-  },
-  {
-    "title": "Someone Shared a Real Monet Painting as AI and Asked for Critiques",
-    "score": 8,
-    "by": "ZeljkoS",
-    "url": "https://petapixel.com/2026/05/14/someone-shared-a-real-monet-painting-as-ai-and-asked-for-critiques/",
-    "comments": 3
-  },
-  {
-    "title": "Show HN: Watch a neural net learn to play Snake",
-    "score": 157,
-    "by": "c1b",
-    "url": "https://ppo.gradexp.xyz/",
-    "comments": 37
-  },
-  {
-    "title": "Bun Rust rewrite: \"codebase fails basic miri checks, allows for UB in safe rust\"",
-    "score": 400,
-    "by": "ndiddy",
-    "url": "https://github.com/oven-sh/bun/issues/30719",
-    "comments": 285
-  },
-  {
-    "title": "OpenAI is connecting ChatGPT to bank accounts via Plaid",
-    "score": 76,
-    "by": "steveharing1",
-    "url": "https://firethering.com/chatgpt-bank-account-plaid-openai/",
-    "comments": 113
-  },
-  {
-    "title": "Show HN: AI that audits your codebase in 60 seconds",
-    "score": 5,
-    "by": "haapatel",
-    "url": "https://triyambakam-apex-corp.hf.space",
-    "comments": 3
-  },
-  {
-    "title": "Amazon workers under pressure to up their AI usage are making up tasks",
-    "score": 350,
-    "by": "hackernj",
-    "url": "https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks",
-    "comments": 393
+    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
+    "score": 237,
+    "by": "Brajeshwar",
+    "url": "https://www.seangoedecke.com/steering-vectors/",
+    "comments": 72
   }
 ]
