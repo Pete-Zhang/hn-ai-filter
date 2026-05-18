@@ -1,51 +1,79 @@
 [
   {
-    "title": "OpenAI and Government of Malta partner to roll out ChatGPT Plus to all citizens",
-    "score": 188,
-    "by": "bookofjoe",
-    "url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
-    "comments": 211
+    "title": "NASA still maintains some of the Voyager spacecraft code from the 70s era",
+    "score": 14,
+    "by": "redbell",
+    "url": "https://spacedaily.com/nasa-still-maintains-some-of-the-voyager-spacecraft-code-in-a-1970s-era-programming-language-that-almost-nobody-on-earth-fully-understands-anymore-and-the-handful-of-engineers-who-do-are-now-in-their/",
+    "comments": 7
   },
   {
-    "title": "Moving away from Tailwind, and learning to structure my CSS",
-    "score": 540,
-    "by": "mpweiher",
-    "url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "comments": 316
+    "title": "Show HN: Semble – Code search for agents that uses 98% fewer tokens than grep",
+    "score": 352,
+    "by": "Bibabomas",
+    "url": "https://github.com/MinishLab/semble",
+    "comments": 119
   },
   {
-    "title": "Frontier AI has broken the open CTF format",
-    "score": 377,
-    "by": "frays",
-    "url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "comments": 382
+    "title": "WriteUp: 16 Bytes of x86 that turn Matrix rain into sound",
+    "score": 151,
+    "by": "HellMood",
+    "url": "https://hellmood.111mb.de//wake_up_16b_writeup.html",
+    "comments": 31
   },
   {
-    "title": "I believe there are entire companies right now under AI psychosis",
-    "score": 1963,
-    "by": "reasonableklout",
-    "url": "https://twitter.com/mitchellh/status/2055380239711457578",
-    "comments": 1149
+    "title": "Two EA-18 fighter jets collide at Mountain Home airshow, pilots ejected safely",
+    "score": 206,
+    "by": "ChrisArchitect",
+    "url": "https://idahonews.com/news/local/two-f-18-fighter-jets-have-crashed-during-an-airshow-at-mountain-home-air-force-base",
+    "comments": 204
   },
   {
-    "title": "A 0-click exploit chain for the Pixel 10",
-    "score": 433,
-    "by": "happyhardcore",
-    "url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
-    "comments": 232
+    "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
+    "score": 96,
+    "by": "wrxd",
+    "url": "https://www.nbcnews.com/video/multiple-commencement-speakers-booed-for-ai-comments-during-graduation-speeches-263486021518",
+    "comments": 80
   },
   {
-    "title": "Gaining control of every projector and camera on campus",
-    "score": 112,
-    "by": "ednaordinary",
-    "url": "https://www.edna.land/blogs/posts/scanning/",
-    "comments": 32
+    "title": "Prolog Basics Explained with Pokémon",
+    "score": 258,
+    "by": "birdculture",
+    "url": "https://unplannedobsolescence.com/blog/prolog-basics-pokemon/",
+    "comments": 42
   },
   {
-    "title": "DeepSeek-V4-Flash means LLM steering is interesting again",
-    "score": 237,
-    "by": "Brajeshwar",
-    "url": "https://www.seangoedecke.com/steering-vectors/",
-    "comments": 72
+    "title": "I don't think AI will make your processes go faster",
+    "score": 611,
+    "by": "TheEdonian",
+    "url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "comments": 411
+  },
+  {
+    "title": "Trials on veterans suggest ibogaine could provide a new treatment for PTSD",
+    "score": 100,
+    "by": "bushwart",
+    "url": "https://www.bbc.com/future/article/20260514-how-hallucinogenic-ibogaine-helps-veterans-overcome-ptsd",
+    "comments": 110
+  },
+  {
+    "title": "Ebola outbreak with uncommon strain erupts in Congo and Uganda; 65 deaths",
+    "score": 6,
+    "by": "rbanffy",
+    "url": "https://arstechnica.com/health/2026/05/ebola-outbreak-confirmed-in-congo-and-uganda-246-suspected-cases-65-deaths/",
+    "comments": 1
+  },
+  {
+    "title": "AI is a technology not a product",
+    "score": 418,
+    "by": "ch_sm",
+    "url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "comments": 179
+  },
+  {
+    "title": "The History of ThinkPad: From IBM’s Bento Box to Lenovo’s AI Workstations",
+    "score": 103,
+    "by": "zdw",
+    "url": "https://www.jdhodges.com/blog/thinkpad-history/",
+    "comments": 50
   }
 ]
