@@ -1,114 +1,86 @@
 [
   {
-    "title": "Learnings from 100K lines of Rust with AI (2025)",
-    "score": 15,
-    "by": "pramodbiligiri",
-    "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
-    "comments": 6
+    "title": "Google officially announces that ads will be included in AI Mode search results",
+    "score": 80,
+    "by": "sofumel",
+    "url": "https://blog.google/products/ads-commerce/google-marketing-live-search-ads/",
+    "comments": 73
   },
   {
-    "title": "Gemini 3.5 Flash",
-    "score": 807,
-    "by": "spectraldrift",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/",
-    "comments": 560
+    "title": "Show HN: Rmux – A programmable terminal multiplexer with a Playwright-style SDK",
+    "score": 46,
+    "by": "shideneyu",
+    "url": "https://github.com/helvesec/rmux",
+    "comments": 32
   },
   {
-    "title": "Google changes its search box",
-    "score": 560,
-    "by": "berkeleyjunk",
-    "url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
-    "comments": 742
+    "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+    "score": 1206,
+    "by": "tedsanders",
+    "url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
+    "comments": 883
   },
   {
-    "title": "Show HN: Forge – Guardrails take an 8B model from 53% to 99% on agentic tasks",
-    "score": 504,
-    "by": "zambelli",
-    "url": "https://github.com/antoinezambelli/forge",
-    "comments": 175
-  },
-  {
-    "title": "Remove-AI-Watermarks – CLI and library for removing AI watermarks from images",
-    "score": 289,
-    "by": "janalsncm",
-    "url": "https://github.com/wiltodelta/remove-ai-watermarks",
-    "comments": 170
-  },
-  {
-    "title": "Mistral AI acquires Emmi AI",
-    "score": 266,
-    "by": "doener",
-    "url": "https://www.emmi.ai/news/mistral-ai-acquires-emmi-ai",
-    "comments": 80
-  },
-  {
-    "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-    "score": 286,
-    "by": "smooke",
-    "url": "https://openai.com/index/advancing-content-provenance/",
-    "comments": 154
-  },
-  {
-    "title": "Incident Report: Railway Blocked by Google Cloud (Resolved)",
-    "score": 481,
-    "by": "aarondf",
-    "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
-    "comments": 307
-  },
-  {
-    "title": "CopyFail: From Pod to Host",
-    "score": 22,
-    "by": "tptacek",
-    "url": "https://xint.io/blog/copy-fail-pod-to-host",
-    "comments": 2
-  },
-  {
-    "title": "Railway GCP Account Suspension Incident Report",
-    "score": 4,
-    "by": "0xedb",
-    "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "title": "Typewise (YC S22) Is Hiring an AI Growth Engineer (Zurich or Remote)",
+    "score": 1,
+    "by": "janisberneker",
+    "url": "https://www.ycombinator.com/companies/typewise/jobs/HmCzfBK-ai-growth-engineer",
     "comments": 0
   },
   {
-    "title": "I’ve joined Anthropic",
-    "score": 1331,
-    "by": "dmarcos",
-    "url": "https://twitter.com/karpathy/status/2056753169888334312",
-    "comments": 557
+    "title": "OpenAI Is Preparing to File for an IPO Soon",
+    "score": 110,
+    "by": "louiereederson",
+    "url": "https://www.wsj.com/tech/ai/openai-is-preparing-to-file-for-an-ipo-very-soon-0ec95af5",
+    "comments": 248
   },
   {
-    "title": "Growing Neural Cellular Automata",
-    "score": 112,
-    "by": "pulkitsh1234",
-    "url": "https://distill.pub/2020/growing-ca/",
-    "comments": 12
+    "title": "Show HN: I made a tactical map-based WWII submarine simulator (public beta)",
+    "score": 59,
+    "by": "epaga",
+    "url": "https://silentshark.app/alpha/",
+    "comments": 20
   },
   {
-    "title": "Copy Fail, Dirty Frag, and Fragnesia kernel vulnerabilities",
-    "score": 124,
-    "by": "akhuettel",
-    "url": "https://www.gentoo.org/news/2026/05/19/copy-fail-fragnesia-vulnerabilities.html",
-    "comments": 51
+    "title": "Google’s AI is being manipulated. The search giant is quietly fighting back",
+    "score": 318,
+    "by": "tigerlily",
+    "url": "https://www.bbc.com/future/article/20260519-google-tackles-attempts-to-hack-its-ai-results",
+    "comments": 198
   },
   {
-    "title": "Tool mapping 90 companies in the photonics and CPO supply chain",
-    "score": 43,
-    "by": "lboquillon",
-    "url": "https://leonardo-boquillon.com/photonic-cop-supply-chain",
-    "comments": 4
+    "title": "Qian Xuesen: The missile genius America lost and China gained (2025)",
+    "score": 181,
+    "by": "thnaks",
+    "url": "https://www.usni.org/magazines/naval-history/2025/december/missile-genius-america-lost-and-china-gained",
+    "comments": 100
   },
   {
-    "title": "Public have more fear than hope on AI and future of work, study finds",
-    "score": 8,
-    "by": "geox",
-    "url": "https://www.kcl.ac.uk/news/one-in-five-britons-think-ai-will-create-civil-unrest-study-finds",
-    "comments": 2
+    "title": "Intuit to lay off over 3k employees to refocus on AI",
+    "score": 200,
+    "by": "wapasta",
+    "url": "https://techcrunch.com/2026/05/20/intuit-to-lay-off-over-3000-employees-to-refocus-on-ai/",
+    "comments": 150
   },
   {
-    "title": "Show HN: Superlog (YC P26) – Observability that installs itself and fixes bugs",
-    "score": 65,
-    "by": "Magnanten",
-    "url": "https://superlog.sh/",
-    "comments": 44
+    "title": "Learnings from 100K lines of Rust with AI (2025)",
+    "score": 154,
+    "by": "pramodbiligiri",
+    "url": "https://zfhuang99.github.io/rust/claude%20code/codex/contracts/spec-driven%20development/2025/12/01/rust-with-ai.html",
+    "comments": 174
+  },
+  {
+    "title": "Incident Report: May 19, 2026 – GCP Account Suspension",
+    "score": 433,
+    "by": "0xedb",
+    "url": "https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage",
+    "comments": 247
+  },
+  {
+    "title": "Formal Verification Gates for AI Coding Loops",
+    "score": 127,
+    "by": "pyrex41",
+    "url": "https://reubenbrooks.dev/blog/structural-backpressure-beats-smarter-agents/",
+    "comments": 30
   }
 ]
