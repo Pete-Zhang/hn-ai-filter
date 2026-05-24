@@ -1,65 +1,30 @@
 [
   {
-    "title": "Microsoft starts canceling Claude Code licenses",
-    "score": 253,
-    "by": "robertkarl",
-    "url": "https://www.theverge.com/tech/930447/microsoft-claude-code-discontinued-notepad",
-    "comments": 196
+    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
+    "score": 93,
+    "by": "baal80spam",
+    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
+    "comments": 63
   },
   {
-    "title": "Neutron scattering explains why gluten-free pasta falls apart (2025)",
-    "score": 70,
-    "by": "layer8",
-    "url": "https://phys.org/news/2025-09-science-spaghetti-neutron-gluten-free.html",
-    "comments": 21
+    "title": "Making deep learning go brrrr from first principles (2022)",
+    "score": 170,
+    "by": "tosh",
+    "url": "https://horace.io/brrr_intro.html",
+    "comments": 62
   },
   {
-    "title": "CISA tries to contain data leak",
-    "score": 206,
-    "by": "speckx",
-    "url": "https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/",
-    "comments": 50
+    "title": "NeuralNote",
+    "score": 23,
+    "by": "hyperific",
+    "url": "https://github.com/DamRsn/NeuralNote",
+    "comments": 1
   },
   {
-    "title": "1940 Air Terminal Museum Begins Liquidation",
-    "score": 115,
-    "by": "weaponeer",
-    "url": "https://www.1940airterminal.org/news/liquidation-of-simulators",
-    "comments": 29
-  },
-  {
-    "title": "I’m writing again",
-    "score": 140,
-    "by": "dan_hawkins",
-    "url": "https://www.cringely.com/2026/05/21/im-writing-again/",
-    "comments": 36
-  },
-  {
-    "title": "Launch HN: Superset (YC P26) – IDE for the agents era",
-    "score": 94,
-    "by": "avipeltz",
-    "url": "https://github.com/superset-sh/superset",
-    "comments": 118
-  },
-  {
-    "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-    "score": 139,
-    "by": "maxloh",
-    "url": "https://github.com/anomalyco/models.dev",
-    "comments": 25
-  },
-  {
-    "title": "DeepSeek makes the V4 Pro price discount permanent",
-    "score": 383,
-    "by": "Tiberium",
-    "url": "https://api-docs.deepseek.com/quick_start/pricing",
-    "comments": 223
-  },
-  {
-    "title": "Project Hail Mary – Stellar Navigation Chart",
-    "score": 1157,
-    "by": "speleo",
-    "url": "https://valhovey.github.io/gaia-mary/",
-    "comments": 232
+    "title": "Italy moves to Airbus A330 tankers",
+    "score": 256,
+    "by": "embedding-shape",
+    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
+    "comments": 102
   }
 ]
