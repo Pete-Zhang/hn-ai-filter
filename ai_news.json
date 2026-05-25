@@ -1,30 +1,37 @@
 [
   {
-    "title": "Air France and Airbus found guilty of manslaughter over 2009 plane crash",
-    "score": 93,
-    "by": "baal80spam",
-    "url": "https://www.bbc.com/news/articles/czd2qmdvmq6o",
-    "comments": 63
+    "title": "Notes about reading messages with the Python email packages",
+    "score": 21,
+    "by": "ankitg12",
+    "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
+    "comments": 0
   },
   {
-    "title": "Making deep learning go brrrr from first principles (2022)",
-    "score": 170,
-    "by": "tosh",
-    "url": "https://horace.io/brrr_intro.html",
-    "comments": 62
-  },
-  {
-    "title": "NeuralNote",
-    "score": 23,
-    "by": "hyperific",
-    "url": "https://github.com/DamRsn/NeuralNote",
+    "title": "AI errno(2) values",
+    "score": 7,
+    "by": "zdw",
+    "url": "https://www.netmeister.org/blog/ai-errno.html",
     "comments": 1
   },
   {
-    "title": "Italy moves to Airbus A330 tankers",
-    "score": 256,
-    "by": "embedding-shape",
-    "url": "https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift",
-    "comments": 102
+    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+    "score": 246,
+    "by": "wek",
+    "url": "https://arxiv.org/abs/2605.06445",
+    "comments": 142
+  },
+  {
+    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+    "score": 400,
+    "by": "intelkishan",
+    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
+    "comments": 420
+  },
+  {
+    "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
+    "score": 1,
+    "by": "rayruiwang",
+    "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
+    "comments": 0
   }
 ]
