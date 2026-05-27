@@ -1,37 +1,72 @@
 [
   {
-    "title": "Notes about reading messages with the Python email packages",
-    "score": 21,
-    "by": "ankitg12",
-    "url": "https://utcc.utoronto.ca/~cks/space/blog/python/EmailPackagesNotes",
-    "comments": 0
+    "title": "I'm Tired of Talking to AI",
+    "score": 104,
+    "by": "theorchid",
+    "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
+    "comments": 66
   },
   {
-    "title": "AI errno(2) values",
-    "score": 7,
-    "by": "zdw",
-    "url": "https://www.netmeister.org/blog/ai-errno.html",
-    "comments": 1
+    "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
+    "score": 69,
+    "by": "ylk",
+    "url": "https://badhost.org/",
+    "comments": 25
   },
   {
-    "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-    "score": 246,
-    "by": "wek",
-    "url": "https://arxiv.org/abs/2605.06445",
-    "comments": 142
+    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
+    "score": 87,
+    "by": "arps18",
+    "url": "https://arps18.github.io/posts/claude-code-mastery/",
+    "comments": 68
   },
   {
-    "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-    "score": 400,
-    "by": "intelkishan",
-    "url": "https://epoch.ai/data-insights/ai-chip-component-cost-shares",
-    "comments": 420
+    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
+    "score": 92,
+    "by": "fchishtie",
+    "url": "https://www.minicor.com/",
+    "comments": 56
   },
   {
-    "title": "Flick (YC F25) Is Hiring Front End Engineer to Build Figma for AI Filmmaking",
-    "score": 1,
-    "by": "rayruiwang",
-    "url": "https://www.ycombinator.com/companies/flick/jobs/Tdu6FH6-senior-frontend-engineer",
-    "comments": 0
+    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
+    "score": 36,
+    "by": "craigmccaskill",
+    "url": "https://github.com/craigmccaskill/posthorn",
+    "comments": 31
+  },
+  {
+    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+    "score": 951,
+    "by": "thm",
+    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
+    "comments": 440
+  },
+  {
+    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
+    "score": 296,
+    "by": "GodelNumbering",
+    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
+    "comments": 317
+  },
+  {
+    "title": "Using AI to write better code more slowly",
+    "score": 1184,
+    "by": "signa11",
+    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
+    "comments": 436
+  },
+  {
+    "title": "Liverpool and Manchester Railway",
+    "score": 29,
+    "by": "daverol",
+    "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
+    "comments": 12
+  },
+  {
+    "title": "The Structural Barriers to AI Lawyers",
+    "score": 47,
+    "by": "benbreen",
+    "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
+    "comments": 63
   }
 ]
