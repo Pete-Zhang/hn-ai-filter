@@ -1,72 +1,79 @@
 [
   {
-    "title": "I'm Tired of Talking to AI",
-    "score": 104,
-    "by": "theorchid",
-    "url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-    "comments": 66
+    "title": "YouTube to automatically label AI-generated videos",
+    "score": 941,
+    "by": "nopg",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "comments": 569
   },
   {
-    "title": "BadHost – CVE-2026-48710: Starlette Host-Header Auth Bypass",
-    "score": 69,
-    "by": "ylk",
-    "url": "https://badhost.org/",
-    "comments": 25
+    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+    "score": 83,
+    "by": "kunalsin9h",
+    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
+    "comments": 28
   },
   {
-    "title": "Claude Code as a Daily Driver: Claude.md, Skills, Subagents, Plugins, and MCPs",
-    "score": 87,
-    "by": "arps18",
-    "url": "https://arps18.github.io/posts/claude-code-mastery/",
-    "comments": 68
+    "title": "I think Anthropic and OpenAI have found product-market fit",
+    "score": 900,
+    "by": "simonw",
+    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
+    "comments": 1018
   },
   {
-    "title": "Launch HN: Minicor (YC P26) – Windows desktop automations at scale",
-    "score": 92,
-    "by": "fchishtie",
-    "url": "https://www.minicor.com/",
-    "comments": 56
+    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+    "score": 34,
+    "by": "teleforce",
+    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+    "comments": 7
   },
   {
-    "title": "Show HN: Posthorn, self-hosted mail without the mail server",
-    "score": 36,
-    "by": "craigmccaskill",
-    "url": "https://github.com/craigmccaskill/posthorn",
-    "comments": 31
+    "title": "AI sticker shock hits corporate America",
+    "score": 20,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
+    "comments": 0
   },
   {
-    "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-    "score": 951,
-    "by": "thm",
-    "url": "https://www.reuters.com/business/spain-blocks-prediction-markets-polymarket-kalshi-over-lack-gambling-licences-2026-05-26/",
-    "comments": 440
+    "title": "Rust (and Slint) on a Jailbroken Kindle",
+    "score": 173,
+    "by": "homarp",
+    "url": "https://sverre.me/blog/rust-on-kindle/",
+    "comments": 24
   },
   {
-    "title": "Outsourcing plus local AI will soon become more economical vs. frontier labs",
-    "score": 296,
-    "by": "GodelNumbering",
-    "url": "https://www.signalbloom.ai/posts/outsourcing-plus-localai-will-soon-become-more-economical-vs-frontier-labs/",
-    "comments": 317
+    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
+    "score": 895,
+    "by": "HelloUsername",
+    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
+    "comments": 431
   },
   {
-    "title": "Using AI to write better code more slowly",
-    "score": 1184,
-    "by": "signa11",
-    "url": "https://nolanlawson.com/2026/05/25/using-ai-to-write-better-code-more-slowly/",
-    "comments": 436
+    "title": "RamAIn (YC W26) Is Hiring",
+    "score": 1,
+    "by": "svee",
+    "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
+    "comments": 0
   },
   {
-    "title": "Liverpool and Manchester Railway",
-    "score": 29,
-    "by": "daverol",
-    "url": "https://en.wikipedia.org/wiki/Liverpool_and_Manchester_Railway",
-    "comments": 12
+    "title": "Tech CEOs are apparently suffering from AI psychosis",
+    "score": 656,
+    "by": "IAmGraydon",
+    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
+    "comments": 325
   },
   {
-    "title": "The Structural Barriers to AI Lawyers",
-    "score": 47,
-    "by": "benbreen",
-    "url": "https://www.diffuseai.pub/p/the-structural-barriers-to-ai-lawyers",
-    "comments": 63
+    "title": "Show HN: Open-Source AI Racing Harness",
+    "score": 37,
+    "by": "danAtElodin",
+    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "comments": 4
+  },
+  {
+    "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
+    "score": 98,
+    "by": "nathanstitt",
+    "url": "https://tinycld.org/",
+    "comments": 33
   }
 ]
