@@ -1,79 +1,86 @@
 [
   {
-    "title": "YouTube to automatically label AI-generated videos",
-    "score": 941,
-    "by": "nopg",
-    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "comments": 569
+    "title": "Claude Opus 4.8",
+    "score": 1564,
+    "by": "craigmart",
+    "url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "comments": 1230
   },
   {
-    "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-    "score": 83,
-    "by": "kunalsin9h",
-    "url": "https://iisc.ac.in/a-eureka-machine-that-thinks-like-nature-and-explores-what-ai-cannot/",
-    "comments": 28
+    "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
+    "score": 17,
+    "by": "steveharing1",
+    "url": "https://firethering.com/hell-grind-ai-film-cannes-premiere-higgsfield/",
+    "comments": 6
   },
   {
-    "title": "I think Anthropic and OpenAI have found product-market fit",
-    "score": 900,
-    "by": "simonw",
-    "url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "comments": 1018
-  },
-  {
-    "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-    "score": 34,
-    "by": "teleforce",
-    "url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-    "comments": 7
-  },
-  {
-    "title": "AI sticker shock hits corporate America",
-    "score": 20,
-    "by": "1vuio0pswjnm7",
-    "url": "https://www.axios.com/2026/05/28/ai-spending-roi-enterprise-costs",
-    "comments": 0
-  },
-  {
-    "title": "Rust (and Slint) on a Jailbroken Kindle",
-    "score": 173,
-    "by": "homarp",
-    "url": "https://sverre.me/blog/rust-on-kindle/",
-    "comments": 24
-  },
-  {
-    "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-    "score": 895,
-    "by": "HelloUsername",
-    "url": "https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/",
-    "comments": 431
-  },
-  {
-    "title": "RamAIn (YC W26) Is Hiring",
-    "score": 1,
-    "by": "svee",
-    "url": "https://www.ycombinator.com/companies/ramain/jobs/hqvmyKN-founding-gtm-engineer",
-    "comments": 0
-  },
-  {
-    "title": "Tech CEOs are apparently suffering from AI psychosis",
-    "score": 656,
-    "by": "IAmGraydon",
-    "url": "https://techcrunch.com/2026/05/27/tech-ceos-are-apparently-suffering-from-ai-psychosis/",
-    "comments": 325
-  },
-  {
-    "title": "Show HN: Open-Source AI Racing Harness",
-    "score": 37,
-    "by": "danAtElodin",
-    "url": "https://www.elodin.systems/post/elodin-ai-grand-prix-race-sim-harness",
+    "title": "Is This Sustainable?",
+    "score": 6,
+    "by": "ColinEberhardt",
+    "url": "https://jamiehurst.co.uk/2026-05-24_ai-sustainable",
     "comments": 4
   },
   {
-    "title": "Show HN: Open-source Workspace (mail,docs,spreadsheet,drive) web/iOS",
-    "score": 98,
-    "by": "nathanstitt",
-    "url": "https://tinycld.org/",
-    "comments": 33
+    "title": "Claude Code – Everything You Can Configure That the Docs Don't Tell You",
+    "score": 131,
+    "by": "ankitg12",
+    "url": "https://buildingbetter.tech/p/i-read-the-claude-code-source-code",
+    "comments": 28
+  },
+  {
+    "title": "Orchestrating AI code review at scale",
+    "score": 21,
+    "by": "pramodbiligiri",
+    "url": "https://blog.cloudflare.com/ai-code-review/",
+    "comments": 8
+  },
+  {
+    "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+    "score": 332,
+    "by": "Wirbelwind",
+    "url": "https://llmgame.scalex.dev",
+    "comments": 135
+  },
+  {
+    "title": "SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",
+    "score": 219,
+    "by": "drewda",
+    "url": "https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/",
+    "comments": 113
+  },
+  {
+    "title": "Show HN: Ktx – Open-source executable context layer for data agents",
+    "score": 77,
+    "by": "lucamrtl",
+    "url": "https://github.com/Kaelio/ktx",
+    "comments": 17
+  },
+  {
+    "title": "Windows 95 contained a workaround for a SimCity 2000 memory bug",
+    "score": 3,
+    "by": "cgeier",
+    "url": "https://maketecheasier.com/when-microsoft-was-developing-windows-95-developers-discovered-that-simcity-had-a-severe-memory-bug-that-caused-it-to-crash-on-the-new-operating-system-but-instead-of-forcing-the-game-studio/",
+    "comments": 2
+  },
+  {
+    "title": "YouTube to automatically label AI-generated videos",
+    "score": 1291,
+    "by": "nopg",
+    "url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "comments": 790
+  },
+  {
+    "title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "score": 348,
+    "by": "meetpateltech",
+    "url": "https://www.anthropic.com/news/series-h",
+    "comments": 368
+  },
+  {
+    "title": "Using Tailscale with an OrbStack VM on macOS",
+    "score": 72,
+    "by": "highpost",
+    "url": "https://github.com/highpost/tailscale-macos-vm",
+    "comments": 18
   }
 ]
