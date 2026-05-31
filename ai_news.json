@@ -1,72 +1,37 @@
 [
   {
-    "title": "Algebraic Effects for the Rest of Us",
-    "score": 54,
-    "by": "satvikpendem",
-    "url": "https://overreacted.io/algebraic-effects-for-the-rest-of-us/",
-    "comments": 27
+    "title": "Domain expertise has always been the real moat",
+    "score": 589,
+    "by": "aaronbrethorst",
+    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
+    "comments": 350
   },
   {
-    "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-    "score": 3,
-    "by": "baud147258",
-    "url": "https://www.deadcarl.com/p/the-kaiser-and-a-mediocre-man-theory",
-    "comments": 0
+    "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
+    "score": 27,
+    "by": "marekkowalczyk",
+    "url": "https://github.com/marekkowalczyk/breathe-cli",
+    "comments": 4
   },
   {
-    "title": "Notes from the Mistral AI Now Summit",
-    "score": 375,
-    "by": "vnglst",
-    "url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "comments": 153
+    "title": "OpenRouter raises $113M Series B",
+    "score": 418,
+    "by": "freeCandy",
+    "url": "https://openrouter.ai/announcements/series-b",
+    "comments": 200
   },
   {
-    "title": "Shift will clean homes for free to train future robots",
-    "score": 142,
-    "by": "evilsimon",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/939765/ai-training-data-startup-shift-free-cleaning",
-    "comments": 190
+    "title": "Navier-Stokes fluid simulation explained with Godot game engine",
+    "score": 224,
+    "by": "myzek",
+    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
+    "comments": 26
   },
   {
-    "title": "Liquid AI reveals 8B-A1B MoE trained on 38T",
-    "score": 187,
-    "by": "simjnd",
-    "url": "https://www.liquid.ai/blog/lfm2-5-8b-a1b",
-    "comments": 73
-  },
-  {
-    "title": "Is AI causing a repeat of frontend’s lost decade?",
-    "score": 349,
-    "by": "xyzal",
-    "url": "https://mastrojs.github.io/blog/2026-05-23-is-AI-causing-a-repeat-of-frontends-lost-decade/",
-    "comments": 295
-  },
-  {
-    "title": "Ho-scale slot car racing in the Santa Cruz Mountains",
-    "score": 6,
-    "by": "HoldOnAMinute",
-    "url": "https://stewartraceway.org/",
-    "comments": 1
-  },
-  {
-    "title": "CAPTCHAs can still detect AI agents",
-    "score": 74,
-    "by": "timshell",
-    "url": "https://research.roundtable.ai/captchas-detect-ai/",
-    "comments": 59
-  },
-  {
-    "title": "Claude Opus 4.8",
-    "score": 1734,
-    "by": "craigmart",
-    "url": "https://www.anthropic.com/news/claude-opus-4-8",
-    "comments": 1350
-  },
-  {
-    "title": "Expertise in the age of AI",
-    "score": 113,
-    "by": "brilee",
-    "url": "https://www.moderndescartes.com/essays/ai_and_expertise/",
-    "comments": 101
+    "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
+    "score": 43,
+    "by": "ashconway",
+    "url": "https://openenvelope.org/docs/schema/",
+    "comments": 5
   }
 ]
