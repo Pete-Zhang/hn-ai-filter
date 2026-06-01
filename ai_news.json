@@ -1,37 +1,65 @@
 [
   {
+    "title": "When AI Crosses the Line: The Matplotlib Incident",
+    "score": 63,
+    "by": "sigmazero",
+    "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
+    "comments": 38
+  },
+  {
+    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
+    "score": 421,
+    "by": "modinfo",
+    "url": "https://prismml.com/news/bonsai-image-4b",
+    "comments": 177
+  },
+  {
+    "title": "ChatGPT for Google Sheets exfiltrates workbooks",
+    "score": 261,
+    "by": "hackerBanana",
+    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
+    "comments": 97
+  },
+  {
+    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
+    "score": 384,
+    "by": "Eridanus2",
+    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
+    "comments": 772
+  },
+  {
+    "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
+    "score": 39,
+    "by": "adm4",
+    "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
+    "comments": 10
+  },
+  {
+    "title": "What if remote working, not AI, is to blame for weak junior hiring?",
+    "score": 214,
+    "by": "uxhacker",
+    "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
+    "comments": 292
+  },
+  {
+    "title": "The Speed of Prototyping in the Age of AI",
+    "score": 179,
+    "by": "mooreds",
+    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
+    "comments": 91
+  },
+  {
+    "title": "Odysseus – self-hosted AI workspace",
+    "score": 189,
+    "by": "Dzheky",
+    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
+    "comments": 88
+  },
+  {
     "title": "Domain expertise has always been the real moat",
-    "score": 589,
+    "score": 843,
     "by": "aaronbrethorst",
     "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "comments": 350
-  },
-  {
-    "title": "Show HN: Breathe CLI – Paced resonance breathing in the macOS terminal",
-    "score": 27,
-    "by": "marekkowalczyk",
-    "url": "https://github.com/marekkowalczyk/breathe-cli",
-    "comments": 4
-  },
-  {
-    "title": "OpenRouter raises $113M Series B",
-    "score": 418,
-    "by": "freeCandy",
-    "url": "https://openrouter.ai/announcements/series-b",
-    "comments": 200
-  },
-  {
-    "title": "Navier-Stokes fluid simulation explained with Godot game engine",
-    "score": 224,
-    "by": "myzek",
-    "url": "https://myzopotamia.dev/navier-stokes-fluid-simulation-explained-with-godot",
-    "comments": 26
-  },
-  {
-    "title": "Show HN: Open Envelope – an open schema for defining AI agent teams",
-    "score": 43,
-    "by": "ashconway",
-    "url": "https://openenvelope.org/docs/schema/",
-    "comments": 5
+    "comments": 533
   }
 ]
