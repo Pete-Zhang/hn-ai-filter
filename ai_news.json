@@ -1,65 +1,135 @@
 [
   {
-    "title": "When AI Crosses the Line: The Matplotlib Incident",
-    "score": 63,
-    "by": "sigmazero",
-    "url": "https://members.sigmazero.cc/posts/when-ai-crosses-159174096?postId=when-ai-crosses-159174096",
-    "comments": 38
+    "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+    "score": 118,
+    "by": "semanser",
+    "url": "https://blog.adafruit.com/",
+    "comments": 41
   },
   {
-    "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-    "score": 421,
-    "by": "modinfo",
-    "url": "https://prismml.com/news/bonsai-image-4b",
-    "comments": 177
+    "title": "The newest Instagram “exploit” is the goofiest I've seen",
+    "score": 1887,
+    "by": "ssiddharth",
+    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "comments": 427
   },
   {
-    "title": "ChatGPT for Google Sheets exfiltrates workbooks",
-    "score": 261,
-    "by": "hackerBanana",
-    "url": "https://www.promptarmor.com/resources/gpt-for-google-sheets-data-exfiltration",
-    "comments": 97
+    "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+    "score": 425,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.economist.com/finance-and-economics/2026/06/01/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+    "comments": 738
   },
   {
-    "title": "United Airlines 767 returns to Newark after Bluetooth name sparks alert",
-    "score": 384,
-    "by": "Eridanus2",
-    "url": "https://simpleflying.com/united-airlines-767-returns-newark-bluetooth-name-alert/",
-    "comments": 772
+    "title": "Chipotlai Max",
+    "score": 257,
+    "by": "nigelgutzmann",
+    "url": "https://github.com/cyberpapiii/chipotlai-max",
+    "comments": 39
   },
   {
-    "title": "Rubin Tracks Skyscraper-Size Asteroids and Failed Supernovas",
-    "score": 39,
-    "by": "adm4",
-    "url": "https://www.quantamagazine.org/rubin-tracks-skyscraper-size-asteroids-failed-supernovas-and-interstellar-visitors-20260515/",
-    "comments": 10
+    "title": "OpenAI frontier models and Codex are now available on AWS",
+    "score": 290,
+    "by": "typpo",
+    "url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
+    "comments": 101
   },
   {
-    "title": "What if remote working, not AI, is to blame for weak junior hiring?",
-    "score": 214,
-    "by": "uxhacker",
-    "url": "https://www.ft.com/content/2205e2d0-50dc-4e80-9bf7-78d0272276c0",
-    "comments": 292
+    "title": "How is Groq raising more money?",
+    "score": 119,
+    "by": "hasheddan",
+    "url": "https://www.zach.be/p/how-the-hell-is-groq-raising-more",
+    "comments": 53
   },
   {
-    "title": "The Speed of Prototyping in the Age of AI",
-    "score": 179,
-    "by": "mooreds",
-    "url": "https://darylcecile.net/notes/speed-of-prototyping-age-of-ai",
-    "comments": 91
+    "title": "AI Agent Guidelines for CS336 at Stanford",
+    "score": 435,
+    "by": "prakashqwerty",
+    "url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
+    "comments": 140
   },
   {
-    "title": "Odysseus – self-hosted AI workspace",
-    "score": 189,
-    "by": "Dzheky",
-    "url": "https://github.com/pewdiepie-archdaemon/odysseus",
-    "comments": 88
+    "title": "Strace-ui, Bonsai_term, and the TUI renaissance",
+    "score": 65,
+    "by": "matt_d",
+    "url": "https://blog.janestreet.com/strace-ui-bonsai-term-and-the-tui-renaissance/",
+    "comments": 42
   },
   {
-    "title": "Domain expertise has always been the real moat",
-    "score": 843,
-    "by": "aaronbrethorst",
-    "url": "https://www.brethorsting.com/blog/2026/05/domain-expertise-has-always-been-the-real-moat/",
-    "comments": 533
+    "title": "Launch HN: Expanse (YC P26) – Unlock Wasted GPU Capacity",
+    "score": 85,
+    "by": "ismaeel_bashir",
+    "url": "",
+    "comments": 25
+  },
+  {
+    "title": "Ask HN: Who is hiring? (June 2026)",
+    "score": 201,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 281
+  },
+  {
+    "title": "Alphabet announces $80B equity capital raise to expand AI infra and compute",
+    "score": 210,
+    "by": "gregschlom",
+    "url": "https://abc.xyz/investor/news/news-details/2026/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa/default.aspx",
+    "comments": 192
+  },
+  {
+    "title": "Florida sues OpenAI and Sam Altman over AI risks",
+    "score": 244,
+    "by": "cyunker",
+    "url": "https://www.politico.com/news/2026/06/01/openai-hit-with-florida-lawsuit-00944215",
+    "comments": 181
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (June 2026)",
+    "score": 126,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 364
+  },
+  {
+    "title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "score": 501,
+    "by": "surprisetalk",
+    "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "comments": 411
+  },
+  {
+    "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+    "score": 586,
+    "by": "speckx",
+    "url": "https://torrentfreak.com/the-pirate-bay-remains-resilient-20-years-after-the-raid/",
+    "comments": 286
+  },
+  {
+    "title": "Nvidia RTX Spark",
+    "score": 397,
+    "by": "shenli3514",
+    "url": "https://www.nvidia.com/en-us/products/rtx-spark/",
+    "comments": 390
+  },
+  {
+    "title": "Handmade Hawaiian Islands Map",
+    "score": 65,
+    "by": "bovermyer",
+    "url": "https://www.notesfromtheroad.com/roam/hawaiian-islands-map.html",
+    "comments": 21
+  },
+  {
+    "title": "Anyone seen a CC- serial prefix on legacy networking hardware?",
+    "score": 56,
+    "by": "Throwaway_sys",
+    "url": "",
+    "comments": 27
+  },
+  {
+    "title": "Show HN: DepsGuard – One command to harden NPM/pnpm/yarn/bun/uv configs",
+    "score": 33,
+    "by": "eranation",
+    "url": "https://github.com/arnica/depsguard",
+    "comments": 2
   }
 ]
