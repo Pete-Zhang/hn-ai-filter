@@ -1,79 +1,72 @@
 [
   {
-    "title": "Piramidal (YC W24) – Software Engineers – NYC Onsite",
-    "score": 1,
-    "by": "dsacellarius",
+    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+    "score": 104,
+    "by": "XzetaU8",
+    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
+    "comments": 70
+  },
+  {
+    "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+    "score": 56,
+    "by": "BrunoBernardino",
+    "url": "https://uruky.com/?il=en",
+    "comments": 32
+  },
+  {
+    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+    "score": 344,
+    "by": "littlexsparkee",
+    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
+    "comments": 258
+  },
+  {
+    "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
+    "score": 20,
+    "by": "syumei",
+    "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
+    "comments": 9
+  },
+  {
+    "title": "The ways we contain Claude across products",
+    "score": 136,
+    "by": "jbredeche",
+    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
+    "comments": 67
+  },
+  {
+    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
+    "score": 497,
+    "by": "pdyc",
+    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
+    "comments": 618
+  },
+  {
+    "title": "Mathematicians issue warning as AI rapidly gains ground",
+    "score": 245,
+    "by": "pseudolus",
+    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
+    "comments": 281
+  },
+  {
+    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
+    "score": 69,
+    "by": "shalinshah",
     "url": "",
-    "comments": 0
+    "comments": 61
   },
   {
-    "title": "MAI-Code-1-Flash",
-    "score": 491,
-    "by": "EvanZhouDev",
-    "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "comments": 219
+    "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
+    "score": 44,
+    "by": "zaydmulani",
+    "url": "https://github.com/zaydmulani09/mnemo",
+    "comments": 18
   },
   {
-    "title": "AI outperforms law professors in Stanford Law study",
-    "score": 297,
-    "by": "berlianta",
-    "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "comments": 248
-  },
-  {
-    "title": "DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
-    "score": 33,
-    "by": "sohkamyung",
-    "url": "https://spectrum.ieee.org/shadow-walker-biped-humanoid-robot",
-    "comments": 10
-  },
-  {
-    "title": "U of T researchers demonstrate AI worm could target any online device",
-    "score": 67,
-    "by": "shscs911",
-    "url": "https://www.utoronto.ca/news/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
-    "comments": 16
-  },
-  {
-    "title": "Gmail thinks I'm stupid, so I left",
-    "score": 1034,
-    "by": "speckx",
-    "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "comments": 683
-  },
-  {
-    "title": "Open Repair Data Standard",
-    "score": 138,
-    "by": "cassepipe",
-    "url": "https://openrepair.org/open-data/open-standard/",
-    "comments": 11
-  },
-  {
-    "title": "Trump signs downsized AI order after weeks of reversals",
-    "score": 218,
-    "by": "_alternator_",
-    "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-    "comments": 159
-  },
-  {
-    "title": "Show HN: Phive, a Gomoku-like game to play with friends or solo",
-    "score": 12,
-    "by": "0xCA1EB",
-    "url": "https://phive.app",
-    "comments": 7
-  },
-  {
-    "title": "The newest Instagram “exploit” is the goofiest I've seen",
-    "score": 2156,
-    "by": "ssiddharth",
-    "url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "comments": 474
-  },
-  {
-    "title": "Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
-    "score": 655,
-    "by": "semanser",
-    "url": "https://blog.adafruit.com/",
-    "comments": 268
+    "title": "How turkey hacked the hair-transplant industry",
+    "score": 119,
+    "by": "joozio",
+    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+    "comments": 181
   }
 ]
