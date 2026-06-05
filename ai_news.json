@@ -1,72 +1,72 @@
 [
   {
-    "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-    "score": 104,
-    "by": "XzetaU8",
-    "url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
-    "comments": 70
+    "title": "Meta enables ADB on deprecated Portal devices [video]",
+    "score": 235,
+    "by": "jenders",
+    "url": "https://fb.watch/HxPu0fSyeH/",
+    "comments": 84
   },
   {
-    "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
-    "score": 56,
-    "by": "BrunoBernardino",
-    "url": "https://uruky.com/?il=en",
-    "comments": 32
+    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+    "score": 441,
+    "by": "binyu",
+    "url": "https://github.com/anthropics/defending-code-reference-harness",
+    "comments": 124
+  },
+  {
+    "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
+    "score": 11,
+    "by": "sunshine-o",
+    "url": "",
+    "comments": 11
+  },
+  {
+    "title": "Open Code Review – An AI-powered code review CLI tool",
+    "score": 191,
+    "by": "geoffbp",
+    "url": "https://github.com/alibaba/open-code-review",
+    "comments": 57
+  },
+  {
+    "title": "Go Experiments Explained",
+    "score": 46,
+    "by": "ingve",
+    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
+    "comments": 12
+  },
+  {
+    "title": "Samurai City",
+    "score": 173,
+    "by": "zdw",
+    "url": "https://worksinprogress.co/issue/samurai-city/",
+    "comments": 35
+  },
+  {
+    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+    "score": 463,
+    "by": "meetpateltech",
+    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+    "comments": 622
+  },
+  {
+    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+    "score": 137,
+    "by": "Cider9986",
+    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+    "comments": 107
   },
   {
     "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "score": 344,
+    "score": 778,
     "by": "littlexsparkee",
     "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-    "comments": 258
+    "comments": 740
   },
   {
-    "title": "Claude Code and Codex Can Have Real-Time Conversation via Git",
-    "score": 20,
-    "by": "syumei",
-    "url": "https://medium.com/@Koukyosyumei/claude-code-and-codex-can-have-real-time-conversation-via-git-f95b696c1c05",
-    "comments": 9
-  },
-  {
-    "title": "The ways we contain Claude across products",
-    "score": 136,
-    "by": "jbredeche",
-    "url": "https://www.anthropic.com/engineering/how-we-contain-claude",
-    "comments": 67
-  },
-  {
-    "title": "Uber's $1,500/month AI limit is a useful signal for AI tool pricing",
-    "score": 497,
-    "by": "pdyc",
-    "url": "https://simonwillison.net/2026/Jun/3/uber-caps-usage/",
-    "comments": 618
-  },
-  {
-    "title": "Mathematicians issue warning as AI rapidly gains ground",
-    "score": 245,
-    "by": "pseudolus",
-    "url": "https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground",
-    "comments": 281
-  },
-  {
-    "title": "Launch HN: Hyper (YC P26) – Company brain to power agentic development",
-    "score": 69,
-    "by": "shalinshah",
-    "url": "",
-    "comments": 61
-  },
-  {
-    "title": "Show HN: Mnemo – local-first AI memory layer for any LLM (Rust, SQLite,petgraph)",
-    "score": 44,
-    "by": "zaydmulani",
-    "url": "https://github.com/zaydmulani09/mnemo",
-    "comments": 18
-  },
-  {
-    "title": "How turkey hacked the hair-transplant industry",
-    "score": 119,
-    "by": "joozio",
-    "url": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "comments": 181
+    "title": "3D-printed book turns its own G-code into raised lettering",
+    "score": 82,
+    "by": "surprisetalk",
+    "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
+    "comments": 29
   }
 ]
