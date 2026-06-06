@@ -1,72 +1,93 @@
 [
   {
-    "title": "Meta enables ADB on deprecated Portal devices [video]",
-    "score": 235,
-    "by": "jenders",
-    "url": "https://fb.watch/HxPu0fSyeH/",
-    "comments": 84
+    "title": "The intracies of modern camera lens repair (2024)",
+    "score": 170,
+    "by": "transistor-man",
+    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
+    "comments": 59
   },
   {
-    "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-    "score": 441,
-    "by": "binyu",
-    "url": "https://github.com/anthropics/defending-code-reference-harness",
-    "comments": 124
+    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "score": 451,
+    "by": "maltalex",
+    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "comments": 151
   },
   {
-    "title": "Ask HN: Is the web for machines (/llm.txt) the one we wished we had as humans?",
-    "score": 11,
-    "by": "sunshine-o",
+    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+    "score": 395,
+    "by": "janpot",
+    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+    "comments": 250
+  },
+  {
+    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "score": 335,
+    "by": "andrehacker",
     "url": "",
-    "comments": 11
+    "comments": 634
   },
   {
-    "title": "Open Code Review – An AI-powered code review CLI tool",
-    "score": 191,
-    "by": "geoffbp",
-    "url": "https://github.com/alibaba/open-code-review",
-    "comments": 57
+    "title": "The back cover of C++: The Language raises questions not answered by front cover",
+    "score": 95,
+    "by": "paulmooreparks",
+    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
+    "comments": 28
   },
   {
-    "title": "Go Experiments Explained",
-    "score": 46,
-    "by": "ingve",
-    "url": "https://www.alexedwards.net/blog/go-experiments-explained",
-    "comments": 12
+    "title": "Did Claude increase bugs in rsync?",
+    "score": 414,
+    "by": "logicprog",
+    "url": "https://alexispurslane.github.io/rsync-analysis/",
+    "comments": 430
   },
   {
-    "title": "Samurai City",
-    "score": 173,
-    "by": "zdw",
-    "url": "https://worksinprogress.co/issue/samurai-city/",
-    "comments": 35
+    "title": "Ask HN: Why is the HN crowd so anti-AI?",
+    "score": 158,
+    "by": "Ekami",
+    "url": "",
+    "comments": 272
   },
   {
-    "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-    "score": 463,
-    "by": "meetpateltech",
-    "url": "https://www.anthropic.com/institute/recursive-self-improvement",
-    "comments": 622
+    "title": "Transformers are inherently succinct",
+    "score": 122,
+    "by": "brandonb",
+    "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
+    "comments": 36
   },
   {
-    "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-    "score": 137,
+    "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
+    "score": 75,
+    "by": "permute",
+    "url": "https://github.com/schildep/verified-polygon-intersection",
+    "comments": 15
+  },
+  {
+    "title": "South Korean forums will need to scan every images with AI censorship tools",
+    "score": 244,
     "by": "Cider9986",
     "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "comments": 107
+    "comments": 145
   },
   {
-    "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-    "score": 778,
-    "by": "littlexsparkee",
-    "url": "https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html",
-    "comments": 740
+    "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+    "score": 51,
+    "by": "guanming0717",
+    "url": "",
+    "comments": 15
   },
   {
-    "title": "3D-printed book turns its own G-code into raised lettering",
-    "score": 82,
-    "by": "surprisetalk",
-    "url": "https://www.designboom.com/design/3d-printed-book-manual-darius-ou-benson-chong/",
-    "comments": 29
+    "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
+    "score": 129,
+    "by": "zdkaster",
+    "url": "https://github.com/zdk/lowfat",
+    "comments": 66
+  },
+  {
+    "title": "Inside FAISS: Billion-Scale Similarity Search",
+    "score": 60,
+    "by": "tohms",
+    "url": "https://fremaconsulting.ch/blog/faiss",
+    "comments": 5
   }
 ]
