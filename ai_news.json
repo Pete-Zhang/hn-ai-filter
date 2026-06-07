@@ -1,93 +1,72 @@
 [
   {
-    "title": "The intracies of modern camera lens repair (2024)",
-    "score": 170,
-    "by": "transistor-man",
-    "url": "https://salvagedcircuitry.com/sigma-45mm.html",
-    "comments": 59
+    "title": "I design with Claude more than Figma now",
+    "score": 164,
+    "by": "MrBuddyCasino",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "comments": 132
   },
   {
-    "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-    "score": 451,
-    "by": "maltalex",
-    "url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
-    "comments": 151
+    "title": "Public Domain Image Archive",
+    "score": 126,
+    "by": "davidbarker",
+    "url": "https://pdimagearchive.org/",
+    "comments": 18
   },
   {
-    "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-    "score": 395,
-    "by": "janpot",
-    "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
-    "comments": 250
+    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+    "score": 601,
+    "by": "speckx",
+    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
+    "comments": 212
+  },
+  {
+    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
+    "score": 247,
+    "by": "toephu2",
+    "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
+    "comments": 831
+  },
+  {
+    "title": "Show HN: Free animated icon library for Vue",
+    "score": 31,
+    "by": "evolabs",
+    "url": "https://respeak-io.github.io/lucide-motion-vue/",
+    "comments": 6
   },
   {
     "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "score": 335,
+    "score": 624,
     "by": "andrehacker",
     "url": "",
-    "comments": 634
+    "comments": 1014
   },
   {
-    "title": "The back cover of C++: The Language raises questions not answered by front cover",
-    "score": 95,
-    "by": "paulmooreparks",
-    "url": "https://devblogs.microsoft.com/oldnewthing/20260605-01/?p=112391",
-    "comments": 28
+    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
+    "score": 166,
+    "by": "uonr",
+    "url": "https://uonr.github.io/poincake/",
+    "comments": 29
   },
   {
-    "title": "Did Claude increase bugs in rsync?",
-    "score": 414,
-    "by": "logicprog",
-    "url": "https://alexispurslane.github.io/rsync-analysis/",
-    "comments": 430
+    "title": "Human-Like Neural Nets by Catapulting",
+    "score": 39,
+    "by": "telotortium",
+    "url": "https://gwern.net/llm-catapult",
+    "comments": 10
   },
   {
-    "title": "Ask HN: Why is the HN crowd so anti-AI?",
-    "score": 158,
-    "by": "Ekami",
-    "url": "",
-    "comments": 272
+    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
+    "score": 1,
+    "by": "chitianhao",
+    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "comments": 0
   },
   {
-    "title": "Transformers are inherently succinct",
-    "score": 122,
-    "by": "brandonb",
-    "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
-    "comments": 36
-  },
-  {
-    "title": "Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",
-    "score": 75,
-    "by": "permute",
-    "url": "https://github.com/schildep/verified-polygon-intersection",
-    "comments": 15
-  },
-  {
-    "title": "South Korean forums will need to scan every images with AI censorship tools",
-    "score": 244,
-    "by": "Cider9986",
-    "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
-    "comments": 145
-  },
-  {
-    "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
-    "score": 51,
-    "by": "guanming0717",
-    "url": "",
-    "comments": 15
-  },
-  {
-    "title": "Show HN: Lowfat – pluggable CLI filter that saved 91.8% of my LLM tokens",
-    "score": 129,
-    "by": "zdkaster",
-    "url": "https://github.com/zdk/lowfat",
-    "comments": 66
-  },
-  {
-    "title": "Inside FAISS: Billion-Scale Similarity Search",
-    "score": 60,
-    "by": "tohms",
-    "url": "https://fremaconsulting.ch/blog/faiss",
-    "comments": 5
+    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
+    "score": 523,
+    "by": "MilnerRoute",
+    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
+    "comments": 399
   }
 ]
