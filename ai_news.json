@@ -1,72 +1,58 @@
 [
   {
-    "title": "I design with Claude more than Figma now",
-    "score": 164,
-    "by": "MrBuddyCasino",
-    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
-    "comments": 132
+    "title": "The Smallest Brain You Can Build: A Perceptron in Python",
+    "score": 217,
+    "by": "DevarshRanpara",
+    "url": "https://ranpara.net/posts/perceptron-explained-from-scratch/",
+    "comments": 39
   },
   {
-    "title": "Public Domain Image Archive",
-    "score": 126,
-    "by": "davidbarker",
-    "url": "https://pdimagearchive.org/",
-    "comments": 18
-  },
-  {
-    "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-    "score": 601,
-    "by": "speckx",
-    "url": "https://this.weekinsecurity.com/meta-confirms-thousands-of-instagram-accounts-were-hacked-by-abusing-its-ai-chatbot/",
-    "comments": 212
-  },
-  {
-    "title": "Google to pay SpaceX $920M a month for compute capacity at xAI data centers",
-    "score": 247,
-    "by": "toephu2",
-    "url": "https://www.cnbc.com/2026/06/05/google-to-pay-spacex-920-million-a-month-for-xai-compute-capacity.html",
-    "comments": 831
-  },
-  {
-    "title": "Show HN: Free animated icon library for Vue",
-    "score": 31,
-    "by": "evolabs",
-    "url": "https://respeak-io.github.io/lucide-motion-vue/",
-    "comments": 6
-  },
-  {
-    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
-    "score": 624,
-    "by": "andrehacker",
-    "url": "",
-    "comments": 1014
-  },
-  {
-    "title": "Show HN: Infinite canvas notes in the non-Euclidean Poincaré disk",
-    "score": 166,
-    "by": "uonr",
-    "url": "https://uonr.github.io/poincake/",
-    "comments": 29
-  },
-  {
-    "title": "Human-Like Neural Nets by Catapulting",
-    "score": 39,
-    "by": "telotortium",
-    "url": "https://gwern.net/llm-catapult",
-    "comments": 10
-  },
-  {
-    "title": "Mbodi AI (YC P25) Is Hiring Founding Machine Learning Engineer (Robotics)",
-    "score": 1,
-    "by": "chitianhao",
-    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs/WYAcNkX-founding-machine-learning-engineer",
+    "title": "Config Files That Run Code: Supply Chain Security Blindspot",
+    "score": 11,
+    "by": "signa11",
+    "url": "https://safedep.io/config-files-that-run-code/",
     "comments": 0
   },
   {
-    "title": "Pentagon raised threat of Israeli spying on U.S. to highest level, sources say",
-    "score": 523,
-    "by": "MilnerRoute",
-    "url": "https://www.nbcnews.com/politics/national-security/pentagon-raised-threat-israeli-spying-us-highest-level-sources-say-rcna348565",
-    "comments": 399
+    "title": "Show HN: I Derived a Pancake",
+    "score": 257,
+    "by": "bkazez",
+    "url": "https://www.absurdlyoptimized.com/recipes/pancakes/",
+    "comments": 102
+  },
+  {
+    "title": "Show HN: Lathe – Use LLMs to learn a new domain, not skip past it",
+    "score": 334,
+    "by": "devenjarvis",
+    "url": "https://github.com/devenjarvis/lathe",
+    "comments": 61
+  },
+  {
+    "title": "Texas grid flags risks as data centers, crypto sites fail voltage tests",
+    "score": 119,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.reuters.com/business/energy/texas-grid-flags-risks-data-centers-crypto-sites-fail-voltage-tests-2026-06-05/",
+    "comments": 83
+  },
+  {
+    "title": "I design with Claude more than Figma now",
+    "score": 291,
+    "by": "MrBuddyCasino",
+    "url": "https://blog.janestreet.com/i-design-with-claude-code-more-than-figma-now-index/",
+    "comments": 252
+  },
+  {
+    "title": "Anthropic, please ship an official Claude Desktop for Linux",
+    "score": 506,
+    "by": "predkambrij",
+    "url": "https://github.com/anthropics/claude-code/issues/65697",
+    "comments": 283
+  },
+  {
+    "title": "Ask HN: What was your \"oh shit\" moment with GenAI?",
+    "score": 705,
+    "by": "andrehacker",
+    "url": "",
+    "comments": 1087
   }
 ]
