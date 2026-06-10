@@ -1,72 +1,107 @@
 [
   {
+    "title": "macOS Container Machines",
+    "score": 838,
+    "by": "timsneath",
+    "url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "comments": 305
+  },
+  {
+    "title": "Claude Fable 5",
+    "score": 2294,
+    "by": "Philpax",
+    "url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "comments": 1785
+  },
+  {
+    "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
+    "score": 112,
+    "by": "TomAnthony",
+    "url": "",
+    "comments": 50
+  },
+  {
+    "title": "Rich Sutton on AI creativity and discovery",
+    "score": 136,
+    "by": "yimby",
+    "url": "https://twitter.com/RichardSSutton/status/2061216087744946656",
+    "comments": 69
+  },
+  {
+    "title": "German ruling declares Google liable for false answers in AI Overviews",
+    "score": 633,
+    "by": "ahlCVA",
+    "url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "comments": 363
+  },
+  {
+    "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
+    "score": 235,
+    "by": "ag2718",
+    "url": "https://aarushgupta.io/posts/kan-fpga/",
+    "comments": 35
+  },
+  {
+    "title": "If Claude Fable stops helping you, you'll never know",
+    "score": 855,
+    "by": "mips_avatar",
+    "url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "comments": 415
+  },
+  {
+    "title": "Show HN: macOS menu bar gauges for your Claude Code quota",
+    "score": 4,
+    "by": "grzracz",
+    "url": "https://github.com/grzegorz-raczek-unit8/claude-quota",
+    "comments": 5
+  },
+  {
+    "title": "Lies we tell ourselves about email addresses",
+    "score": 130,
+    "by": "theanonymousone",
+    "url": "https://gitpush--force.com/commits/2026/06/lies-we-tell-ourselves-about-email/",
+    "comments": 123
+  },
+  {
+    "title": "CEOs who think AI replaces their employees are just bad CEOs",
+    "score": 704,
+    "by": "speckx",
+    "url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
+    "comments": 254
+  },
+  {
+    "title": "Launch HN: Transload (YC P26) – Measuring freight items with CCTV",
+    "score": 49,
+    "by": "nils_spatial",
+    "url": "",
+    "comments": 16
+  },
+  {
+    "title": "Show HN: Gravity – Interactive solar-system simulator, from Newton to Einstein",
+    "score": 185,
+    "by": "qunabu",
+    "url": "https://qunabu.github.io/Gravity/",
+    "comments": 44
+  },
+  {
+    "title": "Initial impressions of Claude Fable 5",
+    "score": 12,
+    "by": "mfiguiere",
+    "url": "https://simonwillison.net/2026/Jun/9/claude-fable-5/",
+    "comments": 1
+  },
+  {
+    "title": "Show HN: GentleOS – A pair of hobby OSes for vintage 32-bit and 16-bit PCs",
+    "score": 113,
+    "by": "luke8086",
+    "url": "https://github.com/luke8086/gentleos32",
+    "comments": 97
+  },
+  {
     "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-    "score": 186,
+    "score": 540,
     "by": "raffael_de",
     "url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-    "comments": 80
-  },
-  {
-    "title": "Apple reveals new AI architecture built around Google Gemini models",
-    "score": 610,
-    "by": "unclefuzzy",
-    "url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
-    "comments": 462
-  },
-  {
-    "title": "Siri AI",
-    "score": 592,
-    "by": "0xedb",
-    "url": "https://www.apple.com/apple-intelligence/",
-    "comments": 547
-  },
-  {
-    "title": "xAI is looking more like a datacentre REIT than a frontier lab",
-    "score": 577,
-    "by": "martinald",
-    "url": "https://martinalderson.com/posts/xais-new-rental-business/",
-    "comments": 450
-  },
-  {
-    "title": "Apple Core AI Framework",
-    "score": 307,
-    "by": "hmokiguess",
-    "url": "https://developer.apple.com/documentation/coreai/",
-    "comments": 79
-  },
-  {
-    "title": "Show HN: Gitdot – A better GitHub. Open-source, written in Rust",
-    "score": 266,
-    "by": "baepaul",
-    "url": "https://gitdot.io/",
-    "comments": 245
-  },
-  {
-    "title": "Ask HN: What are tools you have made for yourself since the advent of AI?",
-    "score": 312,
-    "by": "aryamaan",
-    "url": "",
-    "comments": 516
-  },
-  {
-    "title": "AI is slowing down",
-    "score": 574,
-    "by": "crescit_eundo",
-    "url": "https://www.wheresyoured.at/ai-is-slowing-down/",
-    "comments": 604
-  },
-  {
-    "title": "Apple bets cheaper AI will woo small developers",
-    "score": 69,
-    "by": "jbernardo95",
-    "url": "https://techcrunch.com/2026/06/08/apple-bets-cheaper-ai-will-woo-small-developers/",
-    "comments": 29
-  },
-  {
-    "title": "Launch HN: Intuned (YC S22) – Build and run reliable browser automations as code",
-    "score": 108,
-    "by": "fkilaiwi",
-    "url": "https://intunedhq.com",
-    "comments": 48
+    "comments": 186
   }
 ]
