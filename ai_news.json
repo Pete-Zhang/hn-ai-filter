@@ -1,65 +1,58 @@
 [
   {
-    "title": "Honda Civics and the Evil Valet",
-    "score": 282,
-    "by": "librick",
-    "url": "https://juniperspring.org/posts/honda-evil-valet/",
-    "comments": 50
+    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+    "score": 56,
+    "by": "martiano",
+    "url": "https://github.com/themartiano/luz",
+    "comments": 16
   },
   {
-    "title": "Making Claude a Chemist",
-    "score": 47,
-    "by": "gmays",
-    "url": "https://www.anthropic.com/research/making-claude-a-chemist",
-    "comments": 39
+    "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
+    "score": 5,
+    "by": "speckx",
+    "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
+    "comments": 0
   },
   {
-    "title": "Amazon CEO's talks with U.S. officials triggered crackdown on Anthropic models",
-    "score": 693,
-    "by": "ls612",
-    "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578?st=Yct6gx&reflink=desktopwebshare_permalink",
-    "comments": 509
+    "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
+    "score": 87,
+    "by": "zdw",
+    "url": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+    "comments": 80
   },
   {
-    "title": "AI coding at home without going broke",
-    "score": 298,
-    "by": "sbochins",
-    "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "comments": 240
+    "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
+    "score": 56,
+    "by": "joebig",
+    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
+    "comments": 31
   },
   {
-    "title": "Police officer investigated for using AI to 'create evidence' in multiple cases",
-    "score": 327,
-    "by": "austinallegro",
-    "url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-    "comments": 158
+    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
+    "score": 185,
+    "by": "AG342",
+    "url": "https://traceapp.info",
+    "comments": 66
   },
   {
-    "title": "Ancient genome duplications laid the foundations of complex brains",
-    "score": 35,
-    "by": "hhs",
-    "url": "https://www.ox.ac.uk/news/2026-06-09-ancient-genome-duplications-laid-the-foundations-of-complex-brains",
-    "comments": 3
+    "title": "Chaosnet (1981)",
+    "score": 95,
+    "by": "RGBCube",
+    "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
+    "comments": 12
   },
   {
-    "title": "AI OSS tool repo goes archived over night after raising $7.3M Seed",
-    "score": 261,
-    "by": "hek2sch",
-    "url": "https://github.com/tensorzero/tensorzero",
-    "comments": 163
+    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
+    "score": 383,
+    "by": "iliashad",
+    "url": "",
+    "comments": 101
   },
   {
-    "title": "Show HN: I am building a map of people who lived in the Roman Empire",
-    "score": 177,
-    "by": "metiscus",
-    "url": "https://new.roman-names.com/",
-    "comments": 42
-  },
-  {
-    "title": "Show HN: Paca – Lightweight Jira alternative for human-AI collaboration",
-    "score": 154,
-    "by": "pikann22",
-    "url": "https://github.com/Paca-AI/paca",
-    "comments": 55
+    "title": "Not everyone is using AI for everything",
+    "score": 478,
+    "by": "yegg",
+    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "comments": 512
   }
 ]
