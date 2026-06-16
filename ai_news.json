@@ -1,58 +1,72 @@
 [
   {
-    "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-    "score": 56,
-    "by": "martiano",
-    "url": "https://github.com/themartiano/luz",
-    "comments": 16
+    "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
+    "score": 1098,
+    "by": "cloudking",
+    "url": "",
+    "comments": 474
   },
   {
-    "title": "India, UAE partner on AI sovereignty to bypass Google, Microsoft",
-    "score": 5,
-    "by": "speckx",
-    "url": "https://restofworld.org/2026/india-uae-g42-cerebras-ai-sovereignty/",
-    "comments": 0
-  },
-  {
-    "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
-    "score": 87,
-    "by": "zdw",
-    "url": "https://tokyopaladin.substack.com/p/foreign-business-owners-are-scrambling",
+    "title": "Feds freaked over Fable 5 after simple 'fix this code' prompt, not jailbreak",
+    "score": 146,
+    "by": "_tk_",
+    "url": "https://www.theregister.com/security/2026/06/15/feds-freaked-over-fable-5-after-simple-fix-this-code-prompt-not-jailbreak-says-researcher/5255827",
     "comments": 80
   },
   {
-    "title": "A short history of Cerro Torre, the most controversial mountain (2012)",
-    "score": 56,
-    "by": "joebig",
-    "url": "https://www.markhorrell.com/blog/2012/a-short-history-of-cerro-torre/",
-    "comments": 31
+    "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
+    "score": 896,
+    "by": "tinywind",
+    "url": "https://tinywind.io",
+    "comments": 161
   },
   {
-    "title": "Show HN: Trace – Offline Mac meeting transcripts you can flag mid-call",
-    "score": 185,
-    "by": "AG342",
-    "url": "https://traceapp.info",
-    "comments": 66
+    "title": "My Homelab AI Dev Platform",
+    "score": 326,
+    "by": "rsgm",
+    "url": "https://rsgm.dev/post/ai-dev-platform/",
+    "comments": 54
   },
   {
-    "title": "Chaosnet (1981)",
-    "score": 95,
-    "by": "RGBCube",
-    "url": "https://tumbleweed.nu/r/lm-3/uv/amber.html",
-    "comments": 12
+    "title": "SpaceX to buy Cursor AI coding agent operator Anysphere for $60B",
+    "score": 117,
+    "by": "itsmarcelg",
+    "url": "https://www.reuters.com/legal/transactional/spacex-buy-anysphere-60-billion-2026-06-16/",
+    "comments": 70
   },
   {
-    "title": "I indexed 669 GB of my GoPro videos using my M1 Max computer and local ML models",
-    "score": 383,
-    "by": "iliashad",
+    "title": "Why I email complete strangers",
+    "score": 172,
+    "by": "karakoram",
+    "url": "https://www.goodinternetmagazine.com/why-i-email-complete-strangers/",
+    "comments": 78
+  },
+  {
+    "title": "Claude Corps",
+    "score": 145,
+    "by": "Mustan",
+    "url": "https://www.anthropic.com/news/claude-corps",
+    "comments": 99
+  },
+  {
+    "title": "Launch HN: Drafted (YC P26) – Models for residential architecture",
+    "score": 55,
+    "by": "PrimalNick",
     "url": "",
-    "comments": 101
+    "comments": 59
   },
   {
-    "title": "Not everyone is using AI for everything",
-    "score": 478,
-    "by": "yegg",
-    "url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "comments": 512
+    "title": "Show HN: Fata – Spaced repetition to fight skill rot from AI coding",
+    "score": 103,
+    "by": "djoume",
+    "url": "https://fata.dev",
+    "comments": 51
+  },
+  {
+    "title": "Show HN: Veterinarian turned founder, AI lawn diagnosis",
+    "score": 66,
+    "by": "andrewbr",
+    "url": "https://grassdx.com/",
+    "comments": 55
   }
 ]
