@@ -1,72 +1,86 @@
 [
   {
-    "title": "The Australian Government to Require SMS/MMS Sender ID Registraion",
-    "score": 112,
-    "by": "anitil",
-    "url": "https://www.acma.gov.au/sms-sender-id-register",
-    "comments": 63
-  },
-  {
-    "title": "Launch HN: Adam (YC W25) – Open-Source AI CAD",
-    "score": 188,
-    "by": "zachdive",
-    "url": "https://github.com/Adam-CAD/CADAM",
+    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+    "score": 204,
+    "by": "philonoist",
+    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "comments": 87
   },
   {
-    "title": "AI Compute Extensions (ACE) Specification",
-    "score": 41,
-    "by": "matt_d",
-    "url": "https://x86ecosystem.org/resource/ai-compute-extensions-ace-specification/",
-    "comments": 18
+    "title": "Zen and the Art of Machine Learning Research",
+    "score": 87,
+    "by": "jxmorris12",
+    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
+    "comments": 27
   },
   {
-    "title": "Show HN: An 8-bit live gamecast for baseball",
-    "score": 235,
-    "by": "brownrout",
-    "url": "https://ribbie.tv/watch",
-    "comments": 121
+    "title": "The AirPods Effect",
+    "score": 134,
+    "by": "herbertl",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "comments": 264
   },
   {
-    "title": "Trellis AI (YC W24)  hiring a product lead to build agents for healthcare access",
+    "title": "How Japan's railways stayed one while splitting apart",
+    "score": 112,
+    "by": "ddrmaxgt37",
+    "url": "https://arun.is/blog/jr-logo/",
+    "comments": 88
+  },
+  {
+    "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
+    "score": 60,
+    "by": "mfornet",
+    "url": "https://github.com/cajal-technologies/talos",
+    "comments": 8
+  },
+  {
+    "title": "Building a robotics research setup that lives next to my desk",
+    "score": 88,
+    "by": "mplappert",
+    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
+    "comments": 28
+  },
+  {
+    "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
     "score": 1,
-    "by": "macklinkachorn",
-    "url": "https://www.ycombinator.com/companies/trellis-ai/jobs/Cg94htp-product-lead",
+    "by": "thedogeye",
+    "url": "https://www.flexport.com/company/careers/",
     "comments": 0
   },
   {
-    "title": "The founder's playbook: Building an AI-native startup",
-    "score": 233,
-    "by": "e2e4",
-    "url": "https://claude.com/blog/the-founders-playbook",
-    "comments": 160
+    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
+    "score": 121,
+    "by": "okwasniewski",
+    "url": "https://tester.army",
+    "comments": 56
   },
   {
-    "title": "Show HN: Spin Lab",
-    "score": 36,
-    "by": "srijanshukla18",
-    "url": "https://srijanshukla.com/artifacts/spin-lab/",
-    "comments": 23
+    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
+    "score": 177,
+    "by": "realmofthemad",
+    "url": "https://gerrymandle.cc/",
+    "comments": 71
   },
   {
-    "title": "ChatGPT's image generator can be manipulated to produce violent, sexual content",
-    "score": 104,
-    "by": "dijksterhuis",
-    "url": "https://mindgard.ai/blog/chatgpt-spontaneously-generated-violent-images-from-a-viral-prompt",
-    "comments": 146
+    "title": "Noam Shazeer Joins OpenAI",
+    "score": 335,
+    "by": "lukasgross",
+    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
+    "comments": 328
   },
   {
-    "title": "The hacker sent by Anthropic to calm the government's nerves about AI safety",
-    "score": 78,
-    "by": "Brajeshwar",
-    "url": "https://www.wsj.com/tech/ai/anthropic-mythos-safety-nicholas-carlini-20bceaa3",
-    "comments": 79
+    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
+    "score": 444,
+    "by": "frou_dh",
+    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
+    "comments": 256
   },
   {
-    "title": "Abandoned and Little-Known Airfields",
-    "score": 149,
-    "by": "wizardforhire",
-    "url": "https://airfields-freeman.com/",
-    "comments": 54
+    "title": "The founder of Craigslist has given away half a billion dollars",
+    "score": 372,
+    "by": "Tomte",
+    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
+    "comments": 279
   }
 ]
