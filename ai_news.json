@@ -1,86 +1,107 @@
 [
   {
+    "title": "Data Compression Explained (2012)",
+    "score": 129,
+    "by": "mtdewcmu",
+    "url": "https://mattmahoney.net/dc/dce.html",
+    "comments": 17
+  },
+  {
+    "title": "Hyundai buys Boston Dynamics",
+    "score": 833,
+    "by": "ck2",
+    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "comments": 363
+  },
+  {
+    "title": "Norway imposes near ban on AI in elementary school",
+    "score": 674,
+    "by": "ilreb",
+    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
+    "comments": 472
+  },
+  {
+    "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
+    "score": 30,
+    "by": "ohjeez",
+    "url": "https://ironicsans.ghost.io/the-color-strike/",
+    "comments": 5
+  },
+  {
     "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "score": 204,
+    "score": 596,
     "by": "philonoist",
     "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "comments": 87
+    "comments": 369
   },
   {
     "title": "Zen and the Art of Machine Learning Research",
-    "score": 87,
+    "score": 261,
     "by": "jxmorris12",
     "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-    "comments": 27
-  },
-  {
-    "title": "The AirPods Effect",
-    "score": 134,
-    "by": "herbertl",
-    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "comments": 264
-  },
-  {
-    "title": "How Japan's railways stayed one while splitting apart",
-    "score": 112,
-    "by": "ddrmaxgt37",
-    "url": "https://arun.is/blog/jr-logo/",
-    "comments": 88
-  },
-  {
-    "title": "Show HN: Talos – Open-source WASM interpreter for Lean",
-    "score": 60,
-    "by": "mfornet",
-    "url": "https://github.com/cajal-technologies/talos",
-    "comments": 8
+    "comments": 92
   },
   {
     "title": "Building a robotics research setup that lives next to my desk",
-    "score": 88,
+    "score": 150,
     "by": "mplappert",
     "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "comments": 28
+    "comments": 52
   },
   {
-    "title": "Flexport (YC W14) Is Hiring in Indonesia, India, and Thailand",
-    "score": 1,
-    "by": "thedogeye",
-    "url": "https://www.flexport.com/company/careers/",
-    "comments": 0
+    "title": "Digital Printing of Arabic: explaining the problem",
+    "score": 56,
+    "by": "a_t48",
+    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
+    "comments": 27
   },
   {
-    "title": "Launch HN: TesterArmy (YC P26) – Agents that test web and mobile apps",
-    "score": 121,
-    "by": "okwasniewski",
-    "url": "https://tester.army",
-    "comments": 56
+    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
+    "score": 125,
+    "by": "rakeda",
+    "url": "https://metiq.space",
+    "comments": 34
+  },
+  {
+    "title": "Big Banana Car",
+    "score": 156,
+    "by": "Bender",
+    "url": "https://bigbananacar.com/",
+    "comments": 79
+  },
+  {
+    "title": "The AirPods Effect",
+    "score": 413,
+    "by": "herbertl",
+    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
+    "comments": 722
+  },
+  {
+    "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
+    "score": 23,
+    "by": "adrianhon",
+    "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
+    "comments": 4
+  },
+  {
+    "title": "How Japan's railways stayed one while splitting apart",
+    "score": 183,
+    "by": "ddrmaxgt37",
+    "url": "https://arun.is/blog/jr-logo/",
+    "comments": 138
+  },
+  {
+    "title": "A new bill takes aim at government pressure to silence lawful online speech",
+    "score": 279,
+    "by": "hn_acker",
+    "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+    "comments": 122
   },
   {
     "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "score": 177,
+    "score": 212,
     "by": "realmofthemad",
     "url": "https://gerrymandle.cc/",
-    "comments": 71
-  },
-  {
-    "title": "Noam Shazeer Joins OpenAI",
-    "score": 335,
-    "by": "lukasgross",
-    "url": "https://twitter.com/NoamShazeer/status/2067400851438932297",
-    "comments": 328
-  },
-  {
-    "title": "Emacs 31 is around the corner: The changes I'm daily driving",
-    "score": 444,
-    "by": "frou_dh",
-    "url": "https://www.rahuljuliato.com/posts/emacs-31-around-the-corner",
-    "comments": 256
-  },
-  {
-    "title": "The founder of Craigslist has given away half a billion dollars",
-    "score": 372,
-    "by": "Tomte",
-    "url": "https://www.independent.co.uk/us/money/craigslist-multimillionaire-craig-newmark-b2980681.html",
-    "comments": 279
+    "comments": 78
   }
 ]
