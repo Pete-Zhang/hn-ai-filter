@@ -1,107 +1,72 @@
 [
   {
-    "title": "Data Compression Explained (2012)",
-    "score": 129,
-    "by": "mtdewcmu",
-    "url": "https://mattmahoney.net/dc/dce.html",
-    "comments": 17
+    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
+    "score": 314,
+    "by": "Cider9986",
+    "url": "https://github.com/mysk-research/loupe",
+    "comments": 119
   },
   {
-    "title": "Hyundai buys Boston Dynamics",
-    "score": 833,
-    "by": "ck2",
-    "url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
-    "comments": 363
+    "title": "Slow breathing modulates brain function and risk behavior",
+    "score": 220,
+    "by": "croes",
+    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "comments": 55
   },
   {
-    "title": "Norway imposes near ban on AI in elementary school",
-    "score": 674,
-    "by": "ilreb",
-    "url": "https://www.reuters.com/technology/norway-imposes-near-ban-ai-elementary-school-2026-06-19/",
-    "comments": 472
+    "title": "Building reliable agentic AI systems",
+    "score": 109,
+    "by": "sarangk90",
+    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
+    "comments": 23
   },
   {
-    "title": "A 1969 camera operators' strike created Upstairs Downstairs multiverse",
-    "score": 30,
-    "by": "ohjeez",
-    "url": "https://ironicsans.ghost.io/the-color-strike/",
-    "comments": 5
+    "title": "Temporary Cloudflare accounts for AI agents",
+    "score": 214,
+    "by": "farhadhf",
+    "url": "https://blog.cloudflare.com/temporary-accounts/",
+    "comments": 114
   },
   {
-    "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-    "score": 596,
-    "by": "philonoist",
-    "url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "comments": 369
+    "title": "Your brain was never designed for this much bad news",
+    "score": 217,
+    "by": "colinprince",
+    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "comments": 163
   },
   {
-    "title": "Zen and the Art of Machine Learning Research",
-    "score": 261,
-    "by": "jxmorris12",
-    "url": "https://blog.jxmo.io/p/zen-and-the-art-of-machine-learning",
-    "comments": 92
+    "title": "When I reject AI code even if it works",
+    "score": 192,
+    "by": "vnbrs",
+    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
+    "comments": 109
   },
   {
-    "title": "Building a robotics research setup that lives next to my desk",
-    "score": 150,
-    "by": "mplappert",
-    "url": "https://dfdxlabs.com/research/2026/robotics-setup/",
-    "comments": 52
+    "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
+    "score": 68,
+    "by": "rbanffy",
+    "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
+    "comments": 20
   },
   {
-    "title": "Digital Printing of Arabic: explaining the problem",
-    "score": 56,
-    "by": "a_t48",
-    "url": "https://digitalorientalist.com/2017/08/21/digital-printing-of-arabic-explaining-the-problem/",
-    "comments": 27
+    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
+    "score": 83,
+    "by": "dk189",
+    "url": "https://www.argusred.com/cli",
+    "comments": 37
   },
   {
-    "title": "Show HN: Metiq: a real time 3D globe for 100 public datasets",
-    "score": 125,
-    "by": "rakeda",
-    "url": "https://metiq.space",
-    "comments": 34
+    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
+    "score": 117,
+    "by": "car",
+    "url": "https://bootimus.com",
+    "comments": 38
   },
   {
-    "title": "Big Banana Car",
-    "score": 156,
-    "by": "Bender",
-    "url": "https://bigbananacar.com/",
-    "comments": 79
-  },
-  {
-    "title": "The AirPods Effect",
-    "score": 413,
-    "by": "herbertl",
-    "url": "https://www.theescapenewsletter.com/p/the-airpods-effect",
-    "comments": 722
-  },
-  {
-    "title": "Meet Nikolai Evreinov, the 19th century Nathan Fielder",
-    "score": 23,
-    "by": "adrianhon",
-    "url": "https://mssv.net/2026/06/16/meet-nikolai-evreinov-the-19th-century-nathan-fielder/",
-    "comments": 4
-  },
-  {
-    "title": "How Japan's railways stayed one while splitting apart",
-    "score": 183,
-    "by": "ddrmaxgt37",
-    "url": "https://arun.is/blog/jr-logo/",
-    "comments": 138
-  },
-  {
-    "title": "A new bill takes aim at government pressure to silence lawful online speech",
-    "score": 279,
-    "by": "hn_acker",
-    "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
-    "comments": 122
-  },
-  {
-    "title": "Show HN: Gerrymandle - Daily puzzle game where you redraw electoral districts",
-    "score": 212,
-    "by": "realmofthemad",
-    "url": "https://gerrymandle.cc/",
-    "comments": 78
+    "title": "The 100k Whys of AI",
+    "score": 113,
+    "by": "surprisetalk",
+    "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
+    "comments": 66
   }
 ]
