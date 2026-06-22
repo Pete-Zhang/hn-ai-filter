@@ -1,72 +1,58 @@
 [
   {
-    "title": "Loupe – A iOS app that raises awareness about what native apps can see",
-    "score": 314,
-    "by": "Cider9986",
-    "url": "https://github.com/mysk-research/loupe",
-    "comments": 119
+    "title": "Munich 1991: The Roots of the Current AI Boom",
+    "score": 133,
+    "by": "tosh",
+    "url": "https://people.idsia.ch/~juergen/ai-boom-roots-munich-1991.html",
+    "comments": 52
   },
   {
-    "title": "Slow breathing modulates brain function and risk behavior",
-    "score": 220,
-    "by": "croes",
-    "url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "comments": 55
+    "title": "Apertus – Open Foundation Model for Sovereign AI",
+    "score": 454,
+    "by": "T-A",
+    "url": "https://apertvs.ai/",
+    "comments": 152
   },
   {
-    "title": "Building reliable agentic AI systems",
-    "score": 109,
-    "by": "sarangk90",
-    "url": "https://martinfowler.com/articles/reliable-llm-bayer.html",
-    "comments": 23
+    "title": "Identity verification on Claude",
+    "score": 813,
+    "by": "bathory",
+    "url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
+    "comments": 681
   },
   {
-    "title": "Temporary Cloudflare accounts for AI agents",
-    "score": 214,
-    "by": "farhadhf",
-    "url": "https://blog.cloudflare.com/temporary-accounts/",
-    "comments": 114
+    "title": "Danish privacy activist Lars Andersen raided by police",
+    "score": 316,
+    "by": "I_am_tiberius",
+    "url": "https://twitter.com/LarsAnders1620/status/2068208864747540516#m",
+    "comments": 270
   },
   {
-    "title": "Your brain was never designed for this much bad news",
-    "score": 217,
-    "by": "colinprince",
-    "url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "comments": 163
+    "title": "JSON-LD explained for personal websites",
+    "score": 240,
+    "by": "ethanhawksley",
+    "url": "https://hawksley.dev/blog/json-ld-explained-for-personal-websites/",
+    "comments": 76
   },
   {
-    "title": "When I reject AI code even if it works",
-    "score": 192,
-    "by": "vnbrs",
-    "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works/",
-    "comments": 109
+    "title": "Show HN: Recall – Local project memory for Claude Code",
+    "score": 120,
+    "by": "mateenah",
+    "url": "https://github.com/raiyanyahya/recall",
+    "comments": 72
   },
   {
-    "title": "Semiconductor Lifeline Keeps Fighter Jets in the Air",
-    "score": 68,
-    "by": "rbanffy",
-    "url": "https://spectrum.ieee.org/phoenix-semiconductors-legacychips-oems",
-    "comments": 20
+    "title": "Show HN: KeyGhost – Keyboard app launcher for macOS",
+    "score": 5,
+    "by": "3stacks",
+    "url": "https://keyghost.dev/",
+    "comments": 0
   },
   {
-    "title": "Show HN: We post-trained a model that pen tests instead of refusing",
-    "score": 83,
-    "by": "dk189",
-    "url": "https://www.argusred.com/cli",
-    "comments": 37
-  },
-  {
-    "title": "Bootimus – A Self-Contained PXE and HTTP Boot Server",
-    "score": 117,
-    "by": "car",
-    "url": "https://bootimus.com",
-    "comments": 38
-  },
-  {
-    "title": "The 100k Whys of AI",
-    "score": 113,
-    "by": "surprisetalk",
-    "url": "https://lcamtuf.substack.com/p/the-100000-whys-of-ai",
-    "comments": 66
+    "title": "Becoming a dad changes men's brains",
+    "score": 7,
+    "by": "momentmaker",
+    "url": "https://www.scientificamerican.com/article/how-becoming-a-dad-changes-mens-brains/",
+    "comments": 4
   }
 ]
