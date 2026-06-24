@@ -1,86 +1,58 @@
 [
   {
-    "title": "The new HTTP QUERY method explained",
-    "score": 138,
-    "by": "CommonGuy",
-    "url": "https://kreya.app/blog/new-http-query-method-explained/",
-    "comments": 80
+    "title": "Why eval startups fail (2025)",
+    "score": 24,
+    "by": "jxmorris12",
+    "url": "https://thomasliao.com/eval-startups",
+    "comments": 23
   },
   {
-    "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-    "score": 326,
-    "by": "Vaslo",
-    "url": "https://www.wsj.com/business/media/polymarket-social-media-bets-prediction-market-441cdeb5?st=HhTZY2",
-    "comments": 247
-  },
-  {
-    "title": "In praise of memcached",
-    "score": 171,
-    "by": "j03b",
-    "url": "https://jchri.st/blog/in-praise-of-memcached/",
-    "comments": 64
-  },
-  {
-    "title": "OpenAI DayBreak – GPT-5.5-Cyber",
-    "score": 113,
-    "by": "AaronO",
-    "url": "https://openai.com/index/daybreak-securing-the-world/",
-    "comments": 62
-  },
-  {
-    "title": "Show HN: Neural Particle Automata",
-    "score": 15,
-    "by": "esychology",
-    "url": "https://selforg-npa.github.io/",
-    "comments": 2
-  },
-  {
-    "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-    "score": 297,
-    "by": "DSemba",
-    "url": "https://hustvl.github.io/Moebius/",
-    "comments": 71
-  },
-  {
-    "title": "Canada plans 'nuclear renaissance' with up to 10 reactors built by 2040",
-    "score": 493,
-    "by": "geox",
-    "url": "https://www.cbc.ca/news/politics/federal-nuclear-strategy-9.7244509",
-    "comments": 335
-  },
-  {
-    "title": "Show HN: A pure ARM64 Assembly web server, now on Linux with CGI for no reason",
-    "score": 26,
-    "by": "imtomt",
-    "url": "https://github.com/imtomt/ymawky/tree/linux",
-    "comments": 6
-  },
-  {
-    "title": "AI Built a Nuke and Still Lost",
-    "score": 66,
-    "by": "kensai",
-    "url": "https://www.lwilko.com/blog/i-gave-an-ai-a-civilization",
+    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
+    "score": 397,
+    "by": "DominikPeters",
+    "url": "https://tikz.dev/editor/",
     "comments": 72
   },
   {
-    "title": "Show HN: Pagecast – Publish Markdown/HTML Reports to Cloudflare Pages",
-    "score": 51,
-    "by": "amaldavid",
-    "url": "https://github.com/Amal-David/pagecast",
-    "comments": 14
+    "title": "How to burst the AI bubble: Strike at its roots",
+    "score": 9,
+    "by": "0nce",
+    "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
+    "comments": 2
   },
   {
-    "title": "The text in Claude Code’s “Extended Thinking” output",
-    "score": 306,
-    "by": "0o_MrPatrick_o0",
-    "url": "https://patrickmccanna.net/the-text-in-claude-codes-extended-thinking-output-is-not-authentic/",
-    "comments": 213
+    "title": "The Low-Tech AI of Elden Ring",
+    "score": 148,
+    "by": "g0xA52A2A",
+    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
+    "comments": 88
   },
   {
-    "title": "Show HN: CleverCrow: give tokens to your favorite projects",
-    "score": 51,
-    "by": "zhubert",
-    "url": "https://clevercrow.io",
-    "comments": 78
+    "title": "Show HN: RLM-based local debugger for AI agent traces",
+    "score": 19,
+    "by": "mikepollard_dev",
+    "url": "https://github.com/context-labs/halo",
+    "comments": 7
+  },
+  {
+    "title": "Show HN: FastUbu – An Ultrafast Video Archive",
+    "score": 39,
+    "by": "lukeigel",
+    "url": "https://fastubu.com/",
+    "comments": 4
+  },
+  {
+    "title": "Apple is going to raise device prices, but when?",
+    "score": 106,
+    "by": "tosh",
+    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
+    "comments": 82
+  },
+  {
+    "title": "AI's Affordability Crisis",
+    "score": 289,
+    "by": "ilreb",
+    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
+    "comments": 379
   }
 ]
