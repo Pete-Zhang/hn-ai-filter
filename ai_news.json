@@ -1,58 +1,86 @@
 [
   {
+    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+    "score": 435,
+    "by": "htrp",
+    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+    "comments": 765
+  },
+  {
+    "title": "OpenAI unveils its first custom chip, built by Broadcom",
+    "score": 708,
+    "by": "jamdesk",
+    "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "comments": 398
+  },
+  {
+    "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+    "score": 85,
+    "by": "chobeat",
+    "url": "https://utaw.tech/news/wikipedia-recognition",
+    "comments": 83
+  },
+  {
+    "title": "Markdy: Like Mermaid Diagrams, but for Motion",
+    "score": 70,
+    "by": "surprisetalk",
+    "url": "https://markdy.com",
+    "comments": 25
+  },
+  {
+    "title": "Qualcomm to Acquire Modular",
+    "score": 201,
+    "by": "timmyd",
+    "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+    "comments": 71
+  },
+  {
+    "title": "RubyLLM: A Ruby framework for all major AI providers",
+    "score": 392,
+    "by": "doener",
+    "url": "https://rubyllm.com/",
+    "comments": 68
+  },
+  {
+    "title": "PR spam today looks like email spam in the early 2000s",
+    "score": 227,
+    "by": "dakshgupta",
+    "url": "https://www.greptile.com/blog/prs-on-openclaw",
+    "comments": 135
+  },
+  {
+    "title": "Aisle Discovers 6 New CVEs in Curl, Including the Oldest Issue Ever Reported",
+    "score": 15,
+    "by": "ragebol",
+    "url": "https://aisle.com/blog/aisle-discovers-6-new-cves-in-curl-including-the-oldest-issue-ever-reported",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: Write SaaS apps where users control where their data is stored",
+    "score": 50,
+    "by": "WolfOliver",
+    "url": "https://github.com/wolfoo2931/linkedrecords/",
+    "comments": 25
+  },
+  {
+    "title": "Show HN: Brain Frog – Can you be random enough for 11 lines of JavaScript?",
+    "score": 39,
+    "by": "AlexanderZ",
+    "url": "https://brainfrog.lol",
+    "comments": 28
+  },
+  {
+    "title": "Show HN: Wordit – Change One Letter, Keep the Chain Going",
+    "score": 28,
+    "by": "atum47",
+    "url": "https://victorribeiro.com/wordit/",
+    "comments": 15
+  },
+  {
     "title": "Why eval startups fail (2025)",
-    "score": 24,
+    "score": 104,
     "by": "jxmorris12",
     "url": "https://thomasliao.com/eval-startups",
-    "comments": 23
-  },
-  {
-    "title": "Show HN: TikZ Editor – WYSIWYG editor for figures in LaTeX",
-    "score": 397,
-    "by": "DominikPeters",
-    "url": "https://tikz.dev/editor/",
-    "comments": 72
-  },
-  {
-    "title": "How to burst the AI bubble: Strike at its roots",
-    "score": 9,
-    "by": "0nce",
-    "url": "https://arstechnica.com/gadgets/2026/06/how-to-burst-the-ai-bubble-strike-at-its-roots/",
-    "comments": 2
-  },
-  {
-    "title": "The Low-Tech AI of Elden Ring",
-    "score": 148,
-    "by": "g0xA52A2A",
-    "url": "https://nega.tv/posts/low-tech-ai-of-elden-ring.html",
-    "comments": 88
-  },
-  {
-    "title": "Show HN: RLM-based local debugger for AI agent traces",
-    "score": 19,
-    "by": "mikepollard_dev",
-    "url": "https://github.com/context-labs/halo",
-    "comments": 7
-  },
-  {
-    "title": "Show HN: FastUbu – An Ultrafast Video Archive",
-    "score": 39,
-    "by": "lukeigel",
-    "url": "https://fastubu.com/",
-    "comments": 4
-  },
-  {
-    "title": "Apple is going to raise device prices, but when?",
-    "score": 106,
-    "by": "tosh",
-    "url": "https://daringfireball.net/linked/2026/06/22/apple-device-prices-when",
-    "comments": 82
-  },
-  {
-    "title": "AI's Affordability Crisis",
-    "score": 289,
-    "by": "ilreb",
-    "url": "https://blog.dshr.org/2026/06/ais-affordability-crisis.html",
-    "comments": 379
+    "comments": 54
   }
 ]
