@@ -1,86 +1,79 @@
 [
   {
-    "title": "An entire Herculaneum scroll has been read for the first time",
-    "score": 1320,
-    "by": "verditelabs",
-    "url": "https://scrollprize.org/firstscroll",
-    "comments": 280
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "score": 1004,
+    "by": "minimaxir",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "comments": 627
   },
   {
-    "title": "What happened after 2k people tried to hack my AI assistant",
-    "score": 172,
-    "by": "cuchoi",
-    "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "comments": 63
+    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
+    "score": 434,
+    "by": "bobrenjc93",
+    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "comments": 495
   },
   {
-    "title": "Doing a masters while working in Spain",
-    "score": 49,
-    "by": "MHard",
-    "url": "https://jan-herlyn.com/blog/doing-a-masters-while-working/",
-    "comments": 33
+    "title": "AI in mathematics is forcing big questions",
+    "score": 125,
+    "by": "rbanffy",
+    "url": "https://spectrum.ieee.org/ai-in-mathematics",
+    "comments": 94
   },
   {
-    "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion",
-    "score": 285,
-    "by": "engomez",
-    "url": "https://github.com/inkeep/open-knowledge",
-    "comments": 139
-  },
-  {
-    "title": "Apple raises prices of MacBooks, iPads",
-    "score": 733,
-    "by": "virgildotcodes",
-    "url": "https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/",
-    "comments": 1053
-  },
-  {
-    "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
-    "score": 271,
-    "by": "scrlk",
-    "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
-    "comments": 267
-  },
-  {
-    "title": "Political bias in AI: Where the AI models stand",
-    "score": 147,
-    "by": "mektrik",
-    "url": "https://trakkr.ai/bias",
-    "comments": 258
-  },
-  {
-    "title": "Besimple AI (YC P25) Is Hiring",
-    "score": 1,
-    "by": "yzhong94",
-    "url": "https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data",
-    "comments": 0
-  },
-  {
-    "title": "Advanced Nintendo Entertainment System (ANES) – NES Modded to Use 2 PPUs",
-    "score": 115,
-    "by": "zdw",
-    "url": "https://github.com/decrazyo/anes",
-    "comments": 34
-  },
-  {
-    "title": "The annotated PyTorch training loop",
+    "title": "Show HN: Hacker News on a train station-style flip board",
     "score": 70,
-    "by": "smaddrellmander",
-    "url": "https://idlemachines.co.uk/essays/pytorch-training-loop",
+    "by": "PaybackTony",
+    "url": "https://popflame.quickish.space/hn-flipboard/",
     "comments": 15
   },
   {
-    "title": "Show HN: Turn native language audio into flashcards and shadowing practice",
-    "score": 83,
-    "by": "alder",
-    "url": "https://lingochunk.com/try",
-    "comments": 33
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "score": 59,
+    "by": "signa11",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "comments": 9
   },
   {
-    "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-    "score": 761,
-    "by": "htrp",
-    "url": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
-    "comments": 1244
+    "title": "Ultrasound imaging of the brain",
+    "score": 283,
+    "by": "rossant",
+    "url": "https://alephneuro.com/blog/ultrasound-brain",
+    "comments": 114
+  },
+  {
+    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
+    "score": 167,
+    "by": "adchurch",
+    "url": "https://github.com/workweave/router",
+    "comments": 97
+  },
+  {
+    "title": "An entire Herculaneum scroll has been read for the first time",
+    "score": 1653,
+    "by": "verditelabs",
+    "url": "https://scrollprize.org/firstscroll",
+    "comments": 362
+  },
+  {
+    "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
+    "score": 22,
+    "by": "leschak",
+    "url": "https://github.com/neospe/autofit2",
+    "comments": 2
+  },
+  {
+    "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
+    "score": 25,
+    "by": "stoicstoic",
+    "url": "https://www.agent-kits.com",
+    "comments": 0
+  },
+  {
+    "title": "OpenAI leans toward waiting until next year for IPO",
+    "score": 167,
+    "by": "mfiguiere",
+    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
+    "comments": 141
   }
 ]
