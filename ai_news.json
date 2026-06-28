@@ -1,79 +1,93 @@
 [
   {
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "score": 1004,
-    "by": "minimaxir",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "comments": 627
+    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
+    "score": 127,
+    "by": "jackpriceburns",
+    "url": "https://decomp-academy.dev",
+    "comments": 44
   },
   {
-    "title": "U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations",
-    "score": 434,
-    "by": "bobrenjc93",
-    "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "comments": 495
+    "title": "AI learns the “dark art” of RFIC design",
+    "score": 232,
+    "by": "Brajeshwar",
+    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+    "comments": 152
   },
   {
-    "title": "AI in mathematics is forcing big questions",
-    "score": 125,
-    "by": "rbanffy",
-    "url": "https://spectrum.ieee.org/ai-in-mathematics",
-    "comments": 94
+    "title": "The best response to AI slop and online noise is from Robin Williams",
+    "score": 230,
+    "by": "herbertl",
+    "url": "https://jayacunzo.com/blog/your-move-chief",
+    "comments": 129
   },
   {
-    "title": "Show HN: Hacker News on a train station-style flip board",
-    "score": 70,
-    "by": "PaybackTony",
-    "url": "https://popflame.quickish.space/hn-flipboard/",
-    "comments": 15
+    "title": "Reducing tick density along recreational trails in Ottawa, Canada",
+    "score": 201,
+    "by": "bushwart",
+    "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
+    "comments": 110
   },
   {
-    "title": "Anatomy of a Failed (Nation-State?) Attack",
-    "score": 59,
-    "by": "signa11",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "comments": 9
+    "title": "Asian AI startups launch Mythos-like models",
+    "score": 234,
+    "by": "bogdiyan",
+    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+    "comments": 175
   },
   {
-    "title": "Ultrasound imaging of the brain",
-    "score": 283,
-    "by": "rossant",
-    "url": "https://alephneuro.com/blog/ultrasound-brain",
-    "comments": 114
+    "title": "What Ozempic does to the gut-brain axis",
+    "score": 160,
+    "by": "randycupertino",
+    "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
+    "comments": 372
   },
   {
-    "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-    "score": 167,
-    "by": "adchurch",
-    "url": "https://github.com/workweave/router",
-    "comments": 97
-  },
-  {
-    "title": "An entire Herculaneum scroll has been read for the first time",
-    "score": 1653,
-    "by": "verditelabs",
-    "url": "https://scrollprize.org/firstscroll",
-    "comments": 362
-  },
-  {
-    "title": "Show HN: Autofit2 – End-to-end pipeline for multilingual text classification",
-    "score": 22,
-    "by": "leschak",
-    "url": "https://github.com/neospe/autofit2",
-    "comments": 2
-  },
-  {
-    "title": "AgentKits – 60 production-ready AI agent blueprints with guardrails",
-    "score": 25,
-    "by": "stoicstoic",
-    "url": "https://www.agent-kits.com",
+    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
+    "score": 24,
+    "by": "Jimmc414",
+    "url": "https://arxiv.org/abs/2606.22283",
     "comments": 0
   },
   {
-    "title": "OpenAI leans toward waiting until next year for IPO",
-    "score": 167,
-    "by": "mfiguiere",
-    "url": "https://www.nytimes.com/2026/06/25/technology/openai-ipo-artificial-intelligence.html",
-    "comments": 141
+    "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
+    "score": 108,
+    "by": "kageroumado",
+    "url": "https://github.com/kageroumado/adrafinil",
+    "comments": 71
+  },
+  {
+    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
+    "score": 1112,
+    "by": "minimaxir",
+    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "comments": 725
+  },
+  {
+    "title": "Running a software jam in a world of slop",
+    "score": 54,
+    "by": "foxmoss",
+    "url": "https://foxmoss.com/blog/radish/",
+    "comments": 11
+  },
+  {
+    "title": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
+    "score": 7,
+    "by": "dlowe-net",
+    "url": "https://metaspec.dev/#",
+    "comments": 0
+  },
+  {
+    "title": "Anatomy of a Failed (Nation-State?) Attack",
+    "score": 144,
+    "by": "signa11",
+    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
+    "comments": 26
+  },
+  {
+    "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
+    "score": 69,
+    "by": "PhilipDaineko",
+    "url": "",
+    "comments": 39
   }
 ]
