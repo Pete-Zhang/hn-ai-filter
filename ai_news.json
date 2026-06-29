@@ -1,93 +1,86 @@
 [
   {
-    "title": "Show HN: Decomp Academy – Learn to decompile GameCube games into matching C",
-    "score": 127,
-    "by": "jackpriceburns",
-    "url": "https://decomp-academy.dev",
-    "comments": 44
+    "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No – 88",
+    "score": 587,
+    "by": "sambellll",
+    "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+    "comments": 250
   },
   {
-    "title": "AI learns the “dark art” of RFIC design",
-    "score": 232,
-    "by": "Brajeshwar",
-    "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-    "comments": 152
+    "title": "GLM 5.2 beats Claude in our benchmarks",
+    "score": 914,
+    "by": "jms703",
+    "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "comments": 420
   },
   {
-    "title": "The best response to AI slop and online noise is from Robin Williams",
-    "score": 230,
-    "by": "herbertl",
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "comments": 129
+    "title": "I used Claude Code to get a second opinion on my MRI",
+    "score": 471,
+    "by": "engmarketer",
+    "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "comments": 603
   },
   {
-    "title": "Reducing tick density along recreational trails in Ottawa, Canada",
-    "score": 201,
-    "by": "bushwart",
-    "url": "https://www.sciencedirect.com/science/article/pii/S1877959X26000476",
-    "comments": 110
+    "title": "Professor denounces mass AI fraud on an exam at Brown",
+    "score": 441,
+    "by": "geox",
+    "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+    "comments": 583
   },
   {
-    "title": "Asian AI startups launch Mythos-like models",
-    "score": 234,
-    "by": "bogdiyan",
-    "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
-    "comments": 175
+    "title": "Daisugi, the Japanese technique of growing trees out of other trees (2020)",
+    "score": 149,
+    "by": "MaysonL",
+    "url": "https://www.openculture.com/2020/10/daisugi.html",
+    "comments": 47
   },
   {
-    "title": "What Ozempic does to the gut-brain axis",
-    "score": 160,
-    "by": "randycupertino",
-    "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
-    "comments": 372
+    "title": "Librepods: AirPods liberated",
+    "score": 418,
+    "by": "rbanffy",
+    "url": "https://github.com/librepods-org/librepods",
+    "comments": 149
   },
   {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "score": 24,
-    "by": "Jimmc414",
-    "url": "https://arxiv.org/abs/2606.22283",
-    "comments": 0
+    "title": "A way to exclude sensitive files issue still open for OpenAI Codex",
+    "score": 215,
+    "by": "pikseladam",
+    "url": "https://github.com/openai/codex/issues/2847",
+    "comments": 134
   },
   {
-    "title": "Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work",
-    "score": 108,
-    "by": "kageroumado",
-    "url": "https://github.com/kageroumado/adrafinil",
-    "comments": 71
+    "title": "Model Training as Code",
+    "score": 169,
+    "by": "peterBlue75",
+    "url": "https://aleph-alpha.com/en/blog/model-training-as-code/",
+    "comments": 22
   },
   {
-    "title": "Previewing GPT‑5.6 Sol: a next-generation model",
-    "score": 1112,
-    "by": "minimaxir",
-    "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "comments": 725
+    "title": "My main Android phone is now 99% Google free",
+    "score": 25,
+    "by": "nosky",
+    "url": "https://simondalvai.org/blog/google-free-android/",
+    "comments": 15
   },
   {
-    "title": "Running a software jam in a world of slop",
-    "score": 54,
-    "by": "foxmoss",
-    "url": "https://foxmoss.com/blog/radish/",
-    "comments": 11
+    "title": "Anthropic CEO: Open-Source AI is getting dangerous",
+    "score": 14,
+    "by": "therein",
+    "url": "https://xcancel.com/coinbureau/status/2071330294452666695",
+    "comments": 9
   },
   {
-    "title": "Show HN: Metaspec: The DpANS3R Common Lisp Spec in S-Expr and HTML Format",
-    "score": 7,
-    "by": "dlowe-net",
-    "url": "https://metaspec.dev/#",
-    "comments": 0
+    "title": "Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",
+    "score": 53,
+    "by": "kamaludu",
+    "url": "https://github.com/kamaludu/bash4llm/",
+    "comments": 16
   },
   {
-    "title": "Anatomy of a Failed (Nation-State?) Attack",
-    "score": 144,
-    "by": "signa11",
-    "url": "https://grack.com/blog/2026/06/25/dissecting-a-failed-nation-state-attack/",
-    "comments": 26
-  },
-  {
-    "title": "Everyone feared AI taking over; the real danger is AI serving just the few",
-    "score": 69,
-    "by": "PhilipDaineko",
-    "url": "",
-    "comments": 39
+    "title": "Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch",
+    "score": 50,
+    "by": "vforno",
+    "url": "https://github.com/JustVugg/nanoeuler",
+    "comments": 16
   }
 ]
