@@ -1,23 +1,72 @@
 [
   {
-    "title": ".self: A new top-level domain designed to support self-hosting",
-    "score": 530,
-    "by": "HumanCCF",
-    "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
-    "comments": 308
+    "title": "Claude Code is steganographically marking requests",
+    "score": 2110,
+    "by": "kirushik",
+    "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+    "comments": 612
   },
   {
-    "title": "Apple Neural Engine: Architecture, Programming, and Performance",
-    "score": 181,
-    "by": "Jimmc414",
-    "url": "https://arxiv.org/abs/2606.22283",
-    "comments": 24
+    "title": "Claude Sonnet 5",
+    "score": 1148,
+    "by": "marinesebastian",
+    "url": "https://www.anthropic.com/news/claude-sonnet-5",
+    "comments": 680
   },
   {
-    "title": "Working With AI: A concrete example",
-    "score": 163,
-    "by": "comma_at",
-    "url": "https://htmx.org/essays/working-with-ai/",
-    "comments": 56
+    "title": "I Don't Maintain My Homelab",
+    "score": 27,
+    "by": "surprisetalk",
+    "url": "https://cleberg.net/blog/homelab-maintenance.html",
+    "comments": 23
+  },
+  {
+    "title": "Godot will no longer accept AI-authored code contributions",
+    "score": 217,
+    "by": "pjmlp",
+    "url": "https://www.pcgamer.com/gaming-industry/open-source-game-engine-godot-will-no-longer-accept-ai-authored-code-contributions-we-cant-trust-heavy-users-of-ai-to-understand-their-code-enough-to-fix-it/",
+    "comments": 133
+  },
+  {
+    "title": "Claude Science",
+    "score": 503,
+    "by": "lebovic",
+    "url": "https://claude.com/product/claude-science",
+    "comments": 148
+  },
+  {
+    "title": "Dexter (YC F24) Is Hiring a Founding Engineer in Berlin",
+    "score": 1,
+    "by": "garriguv",
+    "url": "",
+    "comments": 0
+  },
+  {
+    "title": "Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5",
+    "score": 729,
+    "by": "Pragmata",
+    "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+    "comments": 420
+  },
+  {
+    "title": "From brain waves to words: a new path to communication without surgery",
+    "score": 166,
+    "by": "alok-g",
+    "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1",
+    "comments": 83
+  },
+  {
+    "title": "Show HN: My 13-year-old built an ant colony tracker",
+    "score": 65,
+    "by": "abelgvidal",
+    "url": "https://formicarium.es",
+    "comments": 44
+  },
+  {
+    "title": "How employment changes when firms adopt generative AI",
+    "score": 46,
+    "by": "nreece",
+    "url": "https://ramp.com/data/ai-jobs-impact",
+    "comments": 39
   }
 ]
