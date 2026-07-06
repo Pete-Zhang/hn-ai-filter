@@ -1,51 +1,107 @@
 [
   {
-    "title": "Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",
-    "score": 73,
-    "by": "mhb",
-    "url": "https://www.youtube.com/watch?v=DyIQkqBXhS0",
-    "comments": 7
+    "title": "Real-time map of Great Britain's rail network",
+    "score": 142,
+    "by": "scrlk",
+    "url": "https://www.map.signalbox.io",
+    "comments": 56
   },
   {
-    "title": "Record-breaking solo rower Kelsey Pfendler arrives in Hawaii",
-    "score": 49,
-    "by": "MaysonL",
-    "url": "https://www.hawaiinewsnow.com/2026/07/04/record-breaking-solo-rower-kelsey-pfendler-arrives-hawaii/",
-    "comments": 5
+    "title": "GPT-5.6 Sol Ultra will be in Codex",
+    "score": 320,
+    "by": "mfiguiere",
+    "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
+    "comments": 268
   },
   {
-    "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-    "score": 46,
-    "by": "ognyankulev",
-    "url": "https://simonwillison.net/2026/Jul/5/sqlite-utils-fable/",
-    "comments": 52
+    "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+    "score": 190,
+    "by": "homegamesjoseph",
+    "url": "https://homegames.io",
+    "comments": 48
   },
   {
-    "title": "Mouse: Precision Editing Tools for AI Coding Agents",
-    "score": 32,
-    "by": "handfuloflight",
-    "url": "https://hic-ai.com",
-    "comments": 37
+    "title": "Does code cleanliness affect coding agents? A controlled minimal-pair study",
+    "score": 149,
+    "by": "softwaredoug",
+    "url": "https://arxiv.org/abs/2605.20049",
+    "comments": 78
   },
   {
-    "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
-    "score": 23,
-    "by": "logickkk1",
-    "url": "https://arxiv.org/abs/2606.26967",
-    "comments": 1
-  },
-  {
-    "title": "Reading Minds with Ultrasound: Less-Invasive Technique for Brain's Intentions (2021)",
-    "score": 5,
-    "by": "mgh2",
-    "url": "https://www.caltech.edu/about/news/reading-minds-with-ultrasound-a-less-invasive-technique-to-decode-the-brains-intentions",
+    "title": "Show HN: Paint the Earth on a live, interactive globe (collaborative art.)",
+    "score": 6,
+    "by": "earth-tattoo",
+    "url": "https://earth.tattoo",
     "comments": 2
   },
   {
-    "title": "Neural Render Proxies for Interactive and Differentiable Lighting",
-    "score": 59,
-    "by": "tobr",
-    "url": "https://studios.disneyresearch.com/2026/07/01/neural-render-proxies-for-interactive-and-differentiable-lighting/",
-    "comments": 12
+    "title": "Zuckerberg says AI agent development going slower than expected",
+    "score": 262,
+    "by": "cwwc",
+    "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02/",
+    "comments": 444
+  },
+  {
+    "title": "C programmers commit fresh crimes against readability",
+    "score": 5,
+    "by": "Bender",
+    "url": "https://www.theregister.com/offbeat/2026/07/05/c-programmers-commit-fresh-crimes-against-readability/5265981",
+    "comments": 0
+  },
+  {
+    "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+    "score": 190,
+    "by": "jfil",
+    "url": "https://tekstien-marginaalien-keskus.aalto.fi/residenssi/heikki/blog/004-december-2/",
+    "comments": 39
+  },
+  {
+    "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+    "score": 167,
+    "by": "jonahbard",
+    "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+    "comments": 104
+  },
+  {
+    "title": "Delta flight hit by firework while landing at Midway Airport on Fourth of July",
+    "score": 136,
+    "by": "randycupertino",
+    "url": "https://www.nbcchicago.com/news/local/delta-flight-hit-by-firework-while-landing-at-midway-airport-on-fourth-of-july/3957451/",
+    "comments": 248
+  },
+  {
+    "title": "When AI Costs More Than the Engineer",
+    "score": 107,
+    "by": "kiyanwang",
+    "url": "https://tomtunguz.com/ai-spend-breakeven-2029/",
+    "comments": 94
+  },
+  {
+    "title": "The Hitchhiker's Guide to Agentic AI",
+    "score": 3,
+    "by": "jonbaer",
+    "url": "https://arxiv.org/abs/2606.24937",
+    "comments": 0
+  },
+  {
+    "title": "Solar rail could become common in Europe after successful trial in Switzerland",
+    "score": 88,
+    "by": "neilfrndes",
+    "url": "https://www.euronews.com/2026/07/05/italy-could-be-the-next-country-to-build-a-solar-railway-after-switzerlands-successful-tri",
+    "comments": 99
+  },
+  {
+    "title": "Show HN: Osint tool that finds exposed files on domains",
+    "score": 41,
+    "by": "PatchRequest",
+    "url": "https://search.cerast-intelligence.com/",
+    "comments": 15
+  },
+  {
+    "title": "Defeat air-gapped systems by exfiltrating data using Apple Find My network",
+    "score": 5,
+    "by": "austinallegro",
+    "url": "https://github.com/HouzuoGuo/hzgl-air-bridge",
+    "comments": 1
   }
 ]
