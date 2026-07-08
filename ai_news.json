@@ -1,72 +1,93 @@
 [
   {
-    "title": "GLM 5.2 and the coming AI margin collapse",
-    "score": 450,
-    "by": "martinald",
-    "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
-    "comments": 273
+    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
+    "score": 189,
+    "by": "ColinEberhardt",
+    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+    "comments": 72
   },
   {
-    "title": "Small AI Models Gain Traction In places with unreliable networks",
-    "score": 156,
-    "by": "sscaryterry",
-    "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
-    "comments": 53
+    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
+    "score": 216,
+    "by": "miniBill",
+    "url": "https://kb.cert.org/vuls/id/213560",
+    "comments": 66
   },
   {
-    "title": "In Praise of Observational Evidence",
-    "score": 21,
-    "by": "fi-le",
-    "url": "https://asteriskmag.com/issues/14/in-praise-of-observational-evidence",
-    "comments": 1
+    "title": "Chat Control 1.0 and 2.0 Explained",
+    "score": 658,
+    "by": "gasull",
+    "url": "https://fightchatcontrol.eu/chat-control-overview",
+    "comments": 259
   },
   {
-    "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
-    "score": 341,
-    "by": "LabsLucas",
-    "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
-    "comments": 228
+    "title": "Show HN: Davit, a Apple Containers UI",
+    "score": 309,
+    "by": "xinit",
+    "url": "https://davit.app",
+    "comments": 74
   },
   {
-    "title": "Show HN: Fast, native Mac file manager (filters, fuzzy find, 9 MB, no Electron)",
+    "title": "Geosql: A Claude/Codex skill for geospatial data",
+    "score": 4,
+    "by": "rzk",
+    "url": "https://github.com/dekart-xyz/geosql",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
+    "score": 161,
+    "by": "segmenta",
+    "url": "https://github.com/rowboatlabs/rowboat",
+    "comments": 48
+  },
+  {
+    "title": "IEEE Rolls Out Large Language Models Training Course",
+    "score": 74,
+    "by": "JeanKage",
+    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
+    "comments": 10
+  },
+  {
+    "title": "We're extending access to Fable 5 on all paid plans through July 12",
+    "score": 191,
+    "by": "minimaxir",
+    "url": "https://twitter.com/claudeai/status/2074548242386178258",
+    "comments": 207
+  },
+  {
+    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
+    "score": 107,
+    "by": "duha",
+    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
+    "comments": 12
+  },
+  {
+    "title": "Reform UK leader 'in real trouble' against Count Binface",
+    "score": 16,
+    "by": "jjgreen",
+    "url": "https://www.mirror.co.uk/news/uk-news/nigel-farage-resigns-clacton-live-37401478",
+    "comments": 9
+  },
+  {
+    "title": "Out of the Armchair",
     "score": 6,
-    "by": "whimbyte",
-    "url": "https://whimfiles.com",
-    "comments": 2
+    "by": "Thevet",
+    "url": "https://literaryreview.co.uk/out-of-the-armchair",
+    "comments": 0
   },
   {
-    "title": "OfficeCLI: Office suite for AI agents to read and edit Microsoft Office files",
-    "score": 185,
-    "by": "maxloh",
-    "url": "https://github.com/iOfficeAI/OfficeCLI",
+    "title": "Automating AI Away",
+    "score": 117,
+    "by": "gritzko",
+    "url": "https://replicated.live/blog/away",
     "comments": 55
   },
   {
-    "title": "NSA and IETF: Fairness",
-    "score": 114,
-    "by": "WatchDog",
-    "url": "https://blog.cr.yp.to/20260706-fairness.html",
-    "comments": 93
-  },
-  {
-    "title": "Show HN: Pulpie – Models for Cleaning the Web",
-    "score": 91,
-    "by": "snyy",
-    "url": "https://usefeyn.com/blog/pulpie-pareto-optimal-models-for-cleaning-the-web/",
-    "comments": 25
-  },
-  {
-    "title": "Taiganet.com, Home of the WS4000 Simulator",
-    "score": 23,
-    "by": "Aloha",
-    "url": "https://www.taiganet.com/",
-    "comments": 3
-  },
-  {
-    "title": "Giving a domain a hill to climb: benchmarking as data activation",
-    "score": 11,
-    "by": "galsapir",
-    "url": "https://sparsethought.com/2026/07/03/benchmarking-as-data-activation/",
-    "comments": 6
+    "title": "Show HN: Free Mermaid Diagram Editor",
+    "score": 35,
+    "by": "ghosts_",
+    "url": "https://moxiedocs.com/mermaid-diagram-editor",
+    "comments": 9
   }
 ]
