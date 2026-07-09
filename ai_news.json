@@ -1,93 +1,58 @@
 [
   {
-    "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-    "score": 189,
-    "by": "ColinEberhardt",
-    "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
-    "comments": 72
+    "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+    "score": 875,
+    "by": "djoldman",
+    "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "comments": 166
   },
   {
-    "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-    "score": 216,
-    "by": "miniBill",
-    "url": "https://kb.cert.org/vuls/id/213560",
-    "comments": 66
+    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
+    "score": 289,
+    "by": "chenglong-hn",
+    "url": "https://microsoft.github.io/flint-chart/#/",
+    "comments": 112
   },
   {
-    "title": "Chat Control 1.0 and 2.0 Explained",
-    "score": 658,
-    "by": "gasull",
-    "url": "https://fightchatcontrol.eu/chat-control-overview",
-    "comments": 259
+    "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
+    "score": 182,
+    "by": "madebymagnolia",
+    "url": "https://www.yamanote.fun/",
+    "comments": 38
   },
   {
-    "title": "Show HN: Davit, a Apple Containers UI",
-    "score": 309,
-    "by": "xinit",
-    "url": "https://davit.app",
-    "comments": 74
+    "title": "3D Airplane tracker on Mercator map",
+    "score": 19,
+    "by": "Lawyer24",
+    "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
+    "comments": 3
+  },
+  {
+    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
+    "score": 80,
+    "by": "ethanlipson",
+    "url": "https://mira-wm.com/",
+    "comments": 14
+  },
+  {
+    "title": "Show HN: Follow London Trains in 3D",
+    "score": 143,
+    "by": "mgranados",
+    "url": "https://ride.nexttrain.london/",
+    "comments": 58
+  },
+  {
+    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
+    "score": 22,
+    "by": "jarodrh",
+    "url": "https://github.com/Rodiun/frugon",
+    "comments": 6
   },
   {
     "title": "Geosql: A Claude/Codex skill for geospatial data",
-    "score": 4,
+    "score": 130,
     "by": "rzk",
     "url": "https://github.com/dekart-xyz/geosql",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Rowboat – Open-source, local-first alternative to Claude Desktop",
-    "score": 161,
-    "by": "segmenta",
-    "url": "https://github.com/rowboatlabs/rowboat",
-    "comments": 48
-  },
-  {
-    "title": "IEEE Rolls Out Large Language Models Training Course",
-    "score": 74,
-    "by": "JeanKage",
-    "url": "https://spectrum.ieee.org/large-language-models-ieee-course",
-    "comments": 10
-  },
-  {
-    "title": "We're extending access to Fable 5 on all paid plans through July 12",
-    "score": 191,
-    "by": "minimaxir",
-    "url": "https://twitter.com/claudeai/status/2074548242386178258",
-    "comments": 207
-  },
-  {
-    "title": "AI Meets Cryptography 1: What AI Found in Cloudflare's Circl",
-    "score": 107,
-    "by": "duha",
-    "url": "https://blog.zksecurity.xyz/posts/circl-bugs/",
-    "comments": 12
-  },
-  {
-    "title": "Reform UK leader 'in real trouble' against Count Binface",
-    "score": 16,
-    "by": "jjgreen",
-    "url": "https://www.mirror.co.uk/news/uk-news/nigel-farage-resigns-clacton-live-37401478",
-    "comments": 9
-  },
-  {
-    "title": "Out of the Armchair",
-    "score": 6,
-    "by": "Thevet",
-    "url": "https://literaryreview.co.uk/out-of-the-armchair",
-    "comments": 0
-  },
-  {
-    "title": "Automating AI Away",
-    "score": 117,
-    "by": "gritzko",
-    "url": "https://replicated.live/blog/away",
-    "comments": 55
-  },
-  {
-    "title": "Show HN: Free Mermaid Diagram Editor",
-    "score": 35,
-    "by": "ghosts_",
-    "url": "https://moxiedocs.com/mermaid-diagram-editor",
-    "comments": 9
+    "comments": 14
   }
 ]
