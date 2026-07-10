@@ -1,58 +1,114 @@
 [
   {
+    "title": "GPT-5.6",
+    "score": 1305,
+    "by": "logickkk1",
+    "url": "https://openai.com/index/gpt-5-6/",
+    "comments": 919
+  },
+  {
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "score": 698,
+    "by": "vforno",
+    "url": "https://github.com/JustVugg/colibri",
+    "comments": 168
+  },
+  {
+    "title": "Train sim created by just one person is being called the best ever made",
+    "score": 622,
+    "by": "oumua_don17",
+    "url": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+    "comments": 231
+  },
+  {
+    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
+    "score": 80,
+    "by": "tosh",
+    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
+    "comments": 100
+  },
+  {
+    "title": "AI-generated videos to maximally drive a target brain region",
+    "score": 66,
+    "by": "smusamashah",
+    "url": "https://nevo-project.epfl.ch/",
+    "comments": 62
+  },
+  {
+    "title": "Launch HN: Context.dev (YC S26) – API to get structured data from any website",
+    "score": 97,
+    "by": "TheYahiaBakour",
+    "url": "https://www.context.dev",
+    "comments": 68
+  },
+  {
+    "title": "Muse Spark 1.1",
+    "score": 376,
+    "by": "ot",
+    "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api/",
+    "comments": 188
+  },
+  {
+    "title": "Building a real-time AI tutor for 5-year-olds",
+    "score": 90,
+    "by": "catalinvoss",
+    "url": "https://www.ello.com/blog/teaching-a-child-in-1000-ms",
+    "comments": 161
+  },
+  {
+    "title": "Girls just wanna have fast MPMC queues with bounded waiting",
+    "score": 175,
+    "by": "EvgeniyZh",
+    "url": "https://nahla.dev/blog/waitfree_queue/",
+    "comments": 34
+  },
+  {
     "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-    "score": 875,
+    "score": 1325,
     "by": "djoldman",
     "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+    "comments": 278
+  },
+  {
+    "title": "AI content is everywhere on social media, especially LinkedIn",
+    "score": 219,
+    "by": "mukmuk",
+    "url": "https://www.pangram.com/blog/ai-in-your-feed",
+    "comments": 195
+  },
+  {
+    "title": "What's slowing down the AI buildout",
+    "score": 73,
+    "by": "droidjj",
+    "url": "https://www.worksinprogress.news/p/ai-is-bottlenecked-by-the-grid",
     "comments": 166
   },
   {
-    "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-    "score": 289,
-    "by": "chenglong-hn",
-    "url": "https://microsoft.github.io/flint-chart/#/",
-    "comments": 112
+    "title": "ChatGPT Work",
+    "score": 339,
+    "by": "Tiberium",
+    "url": "https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+    "comments": 173
   },
   {
-    "title": "Show HN: Yamanote.fun – A complete soundscape for Tokyo's Yamanote line",
-    "score": 182,
-    "by": "madebymagnolia",
-    "url": "https://www.yamanote.fun/",
-    "comments": 38
+    "title": "Show HN: I mapped 8.5M research papers into an interactive atlas",
+    "score": 74,
+    "by": "leonickson",
+    "url": "https://tomesphere.com/atlas",
+    "comments": 22
   },
   {
-    "title": "3D Airplane tracker on Mercator map",
-    "score": 19,
-    "by": "Lawyer24",
-    "url": "https://github.com/jamalrfordii-arch/Vanguard-Map",
-    "comments": 3
+    "title": "DeepSeek aims to make its own AI chip",
+    "score": 60,
+    "by": "FinnLobsien",
+    "url": "https://www.proactiveinvestors.com/companies/news/1095178/deepseek-makes-pivot-that-should-put-silicon-valley-on-high-alert-1095178.html",
+    "comments": 7
   },
   {
-    "title": "MIRA: Multiplayer Interactive World Models Trained on Rocket League",
-    "score": 80,
-    "by": "ethanlipson",
-    "url": "https://mira-wm.com/",
-    "comments": 14
-  },
-  {
-    "title": "Show HN: Follow London Trains in 3D",
-    "score": 143,
-    "by": "mgranados",
-    "url": "https://ride.nexttrain.london/",
-    "comments": 58
-  },
-  {
-    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-    "score": 22,
-    "by": "jarodrh",
-    "url": "https://github.com/Rodiun/frugon",
-    "comments": 6
-  },
-  {
-    "title": "Geosql: A Claude/Codex skill for geospatial data",
-    "score": 130,
-    "by": "rzk",
-    "url": "https://github.com/dekart-xyz/geosql",
-    "comments": 14
+    "title": "Meta reuses old RAM in new servers with custom bridge chip",
+    "score": 313,
+    "by": "ihsw",
+    "url": "https://www.theregister.com/systems/2026/06/29/zuck-saves-meta-bucks-by-reusing-memory-from-old-servers-with-a-custom-cxl-asic/5263483",
+    "comments": 224
   }
 ]
