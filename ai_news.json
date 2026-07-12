@@ -1,93 +1,86 @@
 [
   {
-    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-    "score": 1040,
-    "by": "stock_toaster",
-    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-    "comments": 528
-  },
-  {
-    "title": "AI 2040: Plan A",
-    "score": 258,
-    "by": "kschaul",
-    "url": "https://ai-2040.com/",
-    "comments": 263
-  },
-  {
-    "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-    "score": 450,
-    "by": "scrlk",
-    "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-    "comments": 363
-  },
-  {
-    "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-    "score": 187,
-    "by": "simonebrunozzi",
-    "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
-    "comments": 145
-  },
-  {
-    "title": "Companies are scrambling to curtail soaring AI costs",
-    "score": 21,
-    "by": "nlpnerd",
-    "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-    "comments": 7
-  },
-  {
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "score": 852,
-    "by": "vforno",
-    "url": "https://github.com/JustVugg/colibri",
-    "comments": 211
-  },
-  {
-    "title": "Show HN: Wyrm – Solve algebra by touch, built on an open-source soundness engine",
-    "score": 74,
-    "by": "dicroce",
-    "url": "https://github.com/dicroce/wyrm_math",
-    "comments": 14
-  },
-  {
-    "title": "Show HN: Reverse-engineering web apps into agent tools",
-    "score": 82,
-    "by": "pancomplex",
-    "url": "",
-    "comments": 34
-  },
-  {
-    "title": "Show HN: Frugon – Find which LLM calls a cheaper model could handle (local, MIT)",
-    "score": 59,
-    "by": "jarodrh",
-    "url": "https://github.com/Rodiun/frugon",
-    "comments": 10
-  },
-  {
-    "title": "GPT-5.6",
-    "score": 1523,
-    "by": "logickkk1",
-    "url": "https://openai.com/index/gpt-5-6/",
-    "comments": 1085
-  },
-  {
-    "title": "How the terrorist group Boko Haram uses frontier AI",
-    "score": 205,
-    "by": "imustachyou",
-    "url": "https://casp.ac/reports/ai-enabled-terrorism",
-    "comments": 172
-  },
-  {
-    "title": "Show HN: Reviving my 2001 college band with AI",
-    "score": 53,
-    "by": "jacobgraf",
-    "url": "https://www.fadingmaize.com",
+    "title": "Mesh LLM: distributed AI computing on iroh",
+    "score": 257,
+    "by": "tionis",
+    "url": "https://www.iroh.computer/blog/mesh-llm",
     "comments": 58
   },
   {
-    "title": "Apple Silicon Exec Explains Mac Mini AI Demand and On-Device Future",
-    "score": 203,
-    "by": "tosh",
-    "url": "https://www.macrumors.com/2026/07/06/apple-silicon-exec-explains-mac-mini-ai-demand/",
-    "comments": 292
+    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+    "score": 269,
+    "by": "theMackabu",
+    "url": "https://antjs.org",
+    "comments": 115
+  },
+  {
+    "title": "Modern decor may be straining people's brains",
+    "score": 188,
+    "by": "downwithdisease",
+    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
+    "comments": 194
+  },
+  {
+    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
+    "score": 89,
+    "by": "nradov",
+    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
+    "comments": 139
+  },
+  {
+    "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
+    "score": 4,
+    "by": "NaOH",
+    "url": "https://jude-doyle.ghost.io/untitled-21/",
+    "comments": 0
+  },
+  {
+    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
+    "score": 57,
+    "by": "marzukia",
+    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
+    "comments": 24
+  },
+  {
+    "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
+    "score": 77,
+    "by": "lukas9",
+    "url": "https://nagylukas.github.io/orbit.html",
+    "comments": 19
+  },
+  {
+    "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+    "score": 31,
+    "by": "tejusarora",
+    "url": "https://github.com/sqlsure/sqlsure",
+    "comments": 6
+  },
+  {
+    "title": "Female US rower completes historic solo journey from California to Hawaii",
+    "score": 293,
+    "by": "speckx",
+    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+    "comments": 100
+  },
+  {
+    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+    "score": 899,
+    "by": "vforno",
+    "url": "https://github.com/JustVugg/colibri",
+    "comments": 230
+  },
+  {
+    "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
+    "score": 19,
+    "by": "mrhustlex",
+    "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
+    "comments": 0
+  },
+  {
+    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
+    "score": 276,
+    "by": "jhoho",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "comments": 129
   }
 ]
