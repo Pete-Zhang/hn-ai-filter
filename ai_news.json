@@ -1,86 +1,86 @@
 [
   {
-    "title": "Mesh LLM: distributed AI computing on iroh",
-    "score": 257,
-    "by": "tionis",
-    "url": "https://www.iroh.computer/blog/mesh-llm",
+    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
+    "score": 72,
+    "by": "coinfused",
+    "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+    "comments": 48
+  },
+  {
+    "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
+    "score": 19,
+    "by": "XzetaU8",
+    "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
+    "comments": 1
+  },
+  {
+    "title": "Berkshire's $397B Bet Against an Overheated Market",
+    "score": 46,
+    "by": "emsidisii",
+    "url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
+    "comments": 27
+  },
+  {
+    "title": "Ask HN: Add flag for AI-generated articles",
+    "score": 708,
+    "by": "levkk",
+    "url": "",
+    "comments": 318
+  },
+  {
+    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
+    "score": 212,
+    "by": "brryant",
+    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
+    "comments": 89
+  },
+  {
+    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+    "score": 603,
+    "by": "systima",
+    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+    "comments": 325
+  },
+  {
+    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
+    "score": 477,
+    "by": "jhoho",
+    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
+    "comments": 173
+  },
+  {
+    "title": "I Learned to Read Again",
+    "score": 156,
+    "by": "georgex7",
+    "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
     "comments": 58
   },
   {
-    "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
-    "score": 269,
-    "by": "theMackabu",
-    "url": "https://antjs.org",
-    "comments": 115
+    "title": "Against Usefulness",
+    "score": 110,
+    "by": "supo",
+    "url": "https://www.motivenotes.ai/p/against-usefulness",
+    "comments": 33
   },
   {
-    "title": "Modern decor may be straining people's brains",
-    "score": 188,
-    "by": "downwithdisease",
-    "url": "https://studyfinds.com/modern-decor-may-be-straining-peoples-brains/",
-    "comments": 194
-  },
-  {
-    "title": "Under federal rule, colleges must leave grads better off or lose financial aid",
-    "score": 89,
-    "by": "nradov",
-    "url": "https://www.npr.org/2026/06/30/nx-s1-5835631/turner-camhi-do-no-harm-college-loans",
-    "comments": 139
-  },
-  {
-    "title": "Sixteen Failed Attempts to Write a Eulogy for My Father (2024)",
+    "title": "Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte",
     "score": 4,
-    "by": "NaOH",
-    "url": "https://jude-doyle.ghost.io/untitled-21/",
-    "comments": 0
+    "by": "refrigerator-12",
+    "url": "https://loot-raiders.vercel.app",
+    "comments": 1
   },
   {
-    "title": "Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio",
-    "score": 57,
-    "by": "marzukia",
-    "url": "https://mrzk.io/posts/qmlx-maximising-ai-psychosis-minmaxing-mac-studio/",
-    "comments": 24
+    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
+    "score": 35,
+    "by": "rawsh",
+    "url": "https://nanduruganesh.github.io/flash-msa/",
+    "comments": 5
   },
   {
-    "title": "Show HN: Orbit – AR satellite tracker, watch 15k+ objects",
-    "score": 77,
-    "by": "lukas9",
-    "url": "https://nagylukas.github.io/orbit.html",
-    "comments": 19
-  },
-  {
-    "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-    "score": 31,
-    "by": "tejusarora",
-    "url": "https://github.com/sqlsure/sqlsure",
-    "comments": 6
-  },
-  {
-    "title": "Female US rower completes historic solo journey from California to Hawaii",
-    "score": 293,
-    "by": "speckx",
-    "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
-    "comments": 100
-  },
-  {
-    "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-    "score": 899,
-    "by": "vforno",
-    "url": "https://github.com/JustVugg/colibri",
-    "comments": 230
-  },
-  {
-    "title": "I built TradingSpy: local, privacy-first AI trading assistant(First Open Source)",
-    "score": 19,
-    "by": "mrhustlex",
-    "url": "https://github.com/mrhustlex/TradingSpy-TradingAgentService",
-    "comments": 0
-  },
-  {
-    "title": "What xAI's Grok Build CLI Actually Sends to xAI",
-    "score": 276,
-    "by": "jhoho",
-    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "comments": 129
+    "title": "The One-Step Trap (In AI Research)",
+    "score": 49,
+    "by": "jxmorris12",
+    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
+    "comments": 10
   }
 ]
