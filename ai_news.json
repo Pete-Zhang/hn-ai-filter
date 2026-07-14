@@ -1,86 +1,79 @@
 [
   {
-    "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-    "score": 72,
-    "by": "coinfused",
-    "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
-    "comments": 48
+    "title": "Australian energy retailers must provide three hours of free daytime electricity",
+    "score": 92,
+    "by": "i2oc",
+    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
+    "comments": 114
   },
   {
-    "title": "Frieve Vinyl Explained – Microscopic stylus/groove physics simulation",
-    "score": 19,
-    "by": "XzetaU8",
-    "url": "https://frieve-a.github.io/sound_toolbox/vinyl_explained/vinyl_explained.html",
-    "comments": 1
+    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+    "score": 39,
+    "by": "BaudouinVH",
+    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
+    "comments": 2
   },
   {
-    "title": "Berkshire's $397B Bet Against an Overheated Market",
-    "score": 46,
-    "by": "emsidisii",
-    "url": "https://www.disruptionbanking.com/2026/07/13/inside-berkshires-397-billion-bet-against-an-overheated-market/",
-    "comments": 27
+    "title": "Show HN: I implemented a neural network in SQL",
+    "score": 96,
+    "by": "alxmrs",
+    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
+    "comments": 18
   },
   {
-    "title": "Ask HN: Add flag for AI-generated articles",
-    "score": 708,
-    "by": "levkk",
-    "url": "",
-    "comments": 318
+    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+    "score": 536,
+    "by": "get-inscribe",
+    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+    "comments": 212
   },
   {
-    "title": "Migrating a production AI agent to GPT-5.6: 2.2x faster, 27% cheaper",
-    "score": 212,
-    "by": "brryant",
-    "url": "https://ploy.ai/blog/migrating-a-production-ai-agent-to-gpt-5-6",
-    "comments": 89
+    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
+    "score": 88,
+    "by": "jbwinters",
+    "url": "https://github.com/jbwinters/jacquard-lang",
+    "comments": 47
   },
   {
-    "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-    "score": 603,
-    "by": "systima",
-    "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
-    "comments": 325
+    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
+    "score": 59,
+    "by": "softwaredoug",
+    "url": "https://arxiv.org/abs/2607.01418",
+    "comments": 37
   },
   {
-    "title": "What xAI's Grok build CLI sends to xAI: A wire-level analysis",
-    "score": 477,
-    "by": "jhoho",
-    "url": "https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547",
-    "comments": 173
+    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
+    "score": 37,
+    "by": "detkin",
+    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
+    "comments": 31
   },
   {
-    "title": "I Learned to Read Again",
-    "score": 156,
-    "by": "georgex7",
-    "url": "https://substack.magazinenongrata.com/p/how-i-learned-to-read-again",
-    "comments": 58
-  },
-  {
-    "title": "Against Usefulness",
-    "score": 110,
-    "by": "supo",
-    "url": "https://www.motivenotes.ai/p/against-usefulness",
-    "comments": 33
-  },
-  {
-    "title": "Show HN: Loot Raiders – an ARC Raiders-inspired inventory game in Svelte",
-    "score": 4,
-    "by": "refrigerator-12",
-    "url": "https://loot-raiders.vercel.app",
-    "comments": 1
-  },
-  {
-    "title": "Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels",
-    "score": 35,
-    "by": "rawsh",
-    "url": "https://nanduruganesh.github.io/flash-msa/",
-    "comments": 5
-  },
-  {
-    "title": "The One-Step Trap (In AI Research)",
+    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
     "score": 49,
-    "by": "jxmorris12",
-    "url": "http://incompleteideas.net/IncIdeas/OneStepTrap.html",
-    "comments": 10
+    "by": "griffinli",
+    "url": "https://hackney.app/",
+    "comments": 43
+  },
+  {
+    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
+    "score": 6,
+    "by": "adamgold7",
+    "url": "https://agent-benchmarks.com/software-factory/",
+    "comments": 4
+  },
+  {
+    "title": "Show HN: YouTube Guitar Tab Parser",
+    "score": 101,
+    "by": "neogenix",
+    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
+    "comments": 63
+  },
+  {
+    "title": "Telegram's t.me domain has been suspended",
+    "score": 319,
+    "by": "Tiberium",
+    "url": "https://www.whois.com/whois/t.me",
+    "comments": 233
   }
 ]
