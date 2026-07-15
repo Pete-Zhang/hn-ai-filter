@@ -1,79 +1,93 @@
 [
   {
-    "title": "Australian energy retailers must provide three hours of free daytime electricity",
-    "score": 92,
+    "title": "Jurassic Park computers in excruciating detail",
+    "score": 443,
+    "by": "vinhnx",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "comments": 107
+  },
+  {
+    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
+    "score": 594,
+    "by": "xenova",
+    "url": "https://prismml.com/news/bonsai-27b",
+    "comments": 210
+  },
+  {
+    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
+    "score": 151,
+    "by": "jervant",
+    "url": "https://tailscale.com/security-bulletins",
+    "comments": 78
+  },
+  {
+    "title": "I tricked Claude into leaking your deepest, darkest secrets",
+    "score": 297,
+    "by": "macleginn",
+    "url": "https://www.ayush.digital/blog/the-memory-heist",
+    "comments": 133
+  },
+  {
+    "title": "How to stop Claude from saying load-bearing",
+    "score": 527,
+    "by": "shintoist",
+    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+    "comments": 557
+  },
+  {
+    "title": "The largest available Minecraft world, totalling 15 TB",
+    "score": 222,
+    "by": "_____k",
+    "url": "https://2b2t.place/1million",
+    "comments": 71
+  },
+  {
+    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
+    "score": 97,
+    "by": "kevinjosethomas",
+    "url": "https://www.benjamin-bai.com/projects/lemario",
+    "comments": 13
+  },
+  {
+    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
+    "score": 77,
+    "by": "laalshaitaan",
+    "url": "https://agnost.ai",
+    "comments": 40
+  },
+  {
+    "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
+    "score": 237,
+    "by": "julesrms",
+    "url": "https://github.com/juggler-ai/juggler",
+    "comments": 105
+  },
+  {
+    "title": "Are we offloading too much of our thinking to AI?",
+    "score": 471,
+    "by": "yenniejun111",
+    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
+    "comments": 431
+  },
+  {
+    "title": "Australian energy retailers must offer three hours of free daytime electricity",
+    "score": 274,
     "by": "i2oc",
     "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "comments": 114
+    "comments": 376
+  },
+  {
+    "title": "Demis Hassabis has a plan to harness AI safely",
+    "score": 146,
+    "by": "asiergoni",
+    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
+    "comments": 194
   },
   {
     "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "score": 39,
+    "score": 206,
     "by": "BaudouinVH",
     "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: I implemented a neural network in SQL",
-    "score": 96,
-    "by": "alxmrs",
-    "url": "https://github.com/xqlsystems/xarray-sql/blob/claude/xarray-sql-mnist-demo/benchmarks/nn.py",
-    "comments": 18
-  },
-  {
-    "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-    "score": 536,
-    "by": "get-inscribe",
-    "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
-    "comments": 212
-  },
-  {
-    "title": "Show HN: Jacquard, a programming language for AI-written, human-reviewed code",
-    "score": 88,
-    "by": "jbwinters",
-    "url": "https://github.com/jbwinters/jacquard-lang",
-    "comments": 47
-  },
-  {
-    "title": "A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-    "score": 59,
-    "by": "softwaredoug",
-    "url": "https://arxiv.org/abs/2607.01418",
-    "comments": 37
-  },
-  {
-    "title": "Show HN: Sx 2.0 – Share AI skills with your team through a Dropbox folder",
-    "score": 37,
-    "by": "detkin",
-    "url": "https://sleuth-io.github.io/sx/2026/07/10/your-dropbox-is-now-a-skill-server.html",
-    "comments": 31
-  },
-  {
-    "title": "Show HN: Hackney – Compare Uber, Lyft, Waymo, and Robotaxi Prices",
-    "score": 49,
-    "by": "griffinli",
-    "url": "https://hackney.app/",
-    "comments": 43
-  },
-  {
-    "title": "Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-    "score": 6,
-    "by": "adamgold7",
-    "url": "https://agent-benchmarks.com/software-factory/",
-    "comments": 4
-  },
-  {
-    "title": "Show HN: YouTube Guitar Tab Parser",
-    "score": 101,
-    "by": "neogenix",
-    "url": "https://github.com/marcelpanse/youtube-guitar-tab-parser",
-    "comments": 63
-  },
-  {
-    "title": "Telegram's t.me domain has been suspended",
-    "score": 319,
-    "by": "Tiberium",
-    "url": "https://www.whois.com/whois/t.me",
-    "comments": 233
+    "comments": 22
   }
 ]
