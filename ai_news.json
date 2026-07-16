@@ -1,93 +1,58 @@
 [
   {
-    "title": "Jurassic Park computers in excruciating detail",
-    "score": 443,
-    "by": "vinhnx",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "comments": 107
-  },
-  {
-    "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-    "score": 594,
-    "by": "xenova",
-    "url": "https://prismml.com/news/bonsai-27b",
-    "comments": 210
-  },
-  {
-    "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-    "score": 151,
-    "by": "jervant",
-    "url": "https://tailscale.com/security-bulletins",
-    "comments": 78
-  },
-  {
-    "title": "I tricked Claude into leaking your deepest, darkest secrets",
-    "score": 297,
-    "by": "macleginn",
-    "url": "https://www.ayush.digital/blog/the-memory-heist",
-    "comments": 133
-  },
-  {
-    "title": "How to stop Claude from saying load-bearing",
-    "score": 527,
-    "by": "shintoist",
-    "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
-    "comments": 557
-  },
-  {
-    "title": "The largest available Minecraft world, totalling 15 TB",
-    "score": 222,
-    "by": "_____k",
-    "url": "https://2b2t.place/1million",
+    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "score": 199,
+    "by": "bilsbie",
+    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
     "comments": 71
   },
   {
-    "title": "LeMario: Training a JEPA World Model on Super Mario Bros",
-    "score": 97,
-    "by": "kevinjosethomas",
-    "url": "https://www.benjamin-bai.com/projects/lemario",
-    "comments": 13
+    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
+    "score": 67,
+    "by": "LAC-Tech",
+    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
+    "comments": 41
   },
   {
-    "title": "Launch HN: Agnost AI (YC S26) – Extract user feedback from agent conversations",
-    "score": 77,
-    "by": "laalshaitaan",
-    "url": "https://agnost.ai",
-    "comments": 40
+    "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
+    "score": 37,
+    "by": "nkov47",
+    "url": "https://coasty.ai/docs",
+    "comments": 12
   },
   {
-    "title": "Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE",
-    "score": 237,
-    "by": "julesrms",
-    "url": "https://github.com/juggler-ai/juggler",
-    "comments": 105
+    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
+    "score": 123,
+    "by": "benswerd",
+    "url": "https://brainless.swerdlow.dev",
+    "comments": 24
   },
   {
-    "title": "Are we offloading too much of our thinking to AI?",
-    "score": 471,
-    "by": "yenniejun111",
-    "url": "https://www.artfish.ai/p/offloading-thinking-to-ai",
-    "comments": 431
-  },
-  {
-    "title": "Australian energy retailers must offer three hours of free daytime electricity",
-    "score": 274,
-    "by": "i2oc",
-    "url": "https://lenergy.com.au/free-daytime-electricity-is-coming-heres-how-it-actually-works/",
-    "comments": 376
-  },
-  {
-    "title": "Demis Hassabis has a plan to harness AI safely",
+    "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
     "score": 146,
-    "by": "asiergoni",
-    "url": "https://twitter.com/demishassabis/status/2076957440109625718",
-    "comments": 194
+    "by": "nonadhocproblem",
+    "url": "https://github.com/welcome-to-the-sunny-side/misa77",
+    "comments": 43
   },
   {
-    "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-    "score": 206,
-    "by": "BaudouinVH",
-    "url": "https://www.bbc.com/news/articles/cg53l737v1qo",
-    "comments": 22
+    "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
+    "score": 36,
+    "by": "tfeayush",
+    "url": "https://github.com/1ay1/agentty",
+    "comments": 6
+  },
+  {
+    "title": "Briar is in maintenance mode",
+    "score": 162,
+    "by": "ristello",
+    "url": "https://briarproject.org/news/2026-maintenance-mode/",
+    "comments": 99
+  },
+  {
+    "title": "Jurassic Park computers in excruciating detail",
+    "score": 893,
+    "by": "vinhnx",
+    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+    "comments": 235
   }
 ]
