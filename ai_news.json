@@ -1,58 +1,72 @@
 [
   {
-    "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+    "title": "EEG shows brain can simultaneous encode two speech streams",
+    "score": 87,
+    "by": "giuliomagnifico",
+    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+    "comments": 48
+  },
+  {
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "score": 1626,
+    "by": "vincent_s",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "comments": 961
+  },
+  {
+    "title": "LM Studio Bionic: the AI agent for open models",
+    "score": 251,
+    "by": "minimaxir",
+    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+    "comments": 88
+  },
+  {
+    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
+    "score": 271,
+    "by": "hershyb_",
+    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+    "comments": 369
+  },
+  {
+    "title": "In Praise of Exhaustive Destructuring",
+    "score": 18,
+    "by": "avandecreme",
+    "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
+    "comments": 5
+  },
+  {
+    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
     "score": 199,
-    "by": "bilsbie",
-    "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
-    "comments": 71
+    "by": "uneven9434",
+    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
+    "comments": 142
   },
   {
-    "title": "The Tokio/Rayon Trap and Why Async/Await Fails Concurrency",
-    "score": 67,
-    "by": "LAC-Tech",
-    "url": "https://pmbanugo.me/blog/why-async-await-complect-concurrency",
-    "comments": 41
+    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
+    "score": 135,
+    "by": "zhinit",
+    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
+    "comments": 63
   },
   {
-    "title": "Launch HN: Coasty (YC S26) – An API for computer-use agents",
-    "score": 37,
-    "by": "nkov47",
-    "url": "https://coasty.ai/docs",
-    "comments": 12
+    "title": "UIUC AI Teaching Assistant",
+    "score": 17,
+    "by": "teleforce",
+    "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+    "comments": 0
   },
   {
-    "title": "Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-    "score": 123,
-    "by": "benswerd",
-    "url": "https://brainless.swerdlow.dev",
-    "comments": 24
+    "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
+    "score": 117,
+    "by": "_samt_",
+    "url": "https://github.com/samyeyo/clx",
+    "comments": 20
   },
   {
-    "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-    "score": 146,
-    "by": "nonadhocproblem",
-    "url": "https://github.com/welcome-to-the-sunny-side/misa77",
-    "comments": 43
-  },
-  {
-    "title": "Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary",
-    "score": 36,
-    "by": "tfeayush",
-    "url": "https://github.com/1ay1/agentty",
-    "comments": 6
-  },
-  {
-    "title": "Briar is in maintenance mode",
-    "score": 162,
-    "by": "ristello",
-    "url": "https://briarproject.org/news/2026-maintenance-mode/",
-    "comments": 99
-  },
-  {
-    "title": "Jurassic Park computers in excruciating detail",
-    "score": 893,
-    "by": "vinhnx",
-    "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
-    "comments": 235
+    "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
+    "score": 39,
+    "by": "XiaHua",
+    "url": "",
+    "comments": 19
   }
 ]
