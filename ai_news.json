@@ -1,72 +1,79 @@
 [
   {
-    "title": "EEG shows brain can simultaneous encode two speech streams",
-    "score": 87,
-    "by": "giuliomagnifico",
-    "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
-    "comments": 48
+    "title": "Thanks HN for 15 years of support and helping me find my life's work",
+    "score": 575,
+    "by": "nicholasjbs",
+    "url": "",
+    "comments": 57
   },
   {
-    "title": "Kimi K3: Open Frontier Intelligence",
-    "score": 1626,
-    "by": "vincent_s",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "comments": 961
-  },
-  {
-    "title": "LM Studio Bionic: the AI agent for open models",
-    "score": 251,
-    "by": "minimaxir",
-    "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-    "comments": 88
-  },
-  {
-    "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-    "score": 271,
-    "by": "hershyb_",
-    "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-    "comments": 369
-  },
-  {
-    "title": "In Praise of Exhaustive Destructuring",
-    "score": 18,
-    "by": "avandecreme",
-    "url": "https://antoine.vandecreme.net/blog/exhaustive-destructuring-praise/",
-    "comments": 5
-  },
-  {
-    "title": "Detecting LLM-Generated Texts with “Classical” Machine Learning",
-    "score": 199,
-    "by": "uneven9434",
-    "url": "https://blog.lyc8503.net/en/post/llm-classifier/",
-    "comments": 142
-  },
-  {
-    "title": "How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM",
-    "score": 135,
-    "by": "zhinit",
-    "url": "https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model",
-    "comments": 63
-  },
-  {
-    "title": "UIUC AI Teaching Assistant",
-    "score": 17,
-    "by": "teleforce",
-    "url": "https://github.com/Center-for-AI-Innovation/ai-teaching-assistant-uiuc",
+    "title": "In-toto: A framework to secure the integrity of software supply chains",
+    "score": 19,
+    "by": "Erenay09",
+    "url": "https://in-toto.io/",
     "comments": 0
   },
   {
-    "title": "Show HN: Clx – Compile Lua to Native Executables Through C++20",
-    "score": 117,
-    "by": "_samt_",
-    "url": "https://github.com/samyeyo/clx",
-    "comments": 20
+    "title": "Painting the sides of railroad rails white to reduce derailment",
+    "score": 93,
+    "by": "zdw",
+    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+    "comments": 47
   },
   {
-    "title": "Launch HN: Traceforce (YC S26) – Company-wide security monitoring for AI apps",
-    "score": 39,
-    "by": "XiaHua",
-    "url": "",
-    "comments": 19
+    "title": "The state of open source AI",
+    "score": 436,
+    "by": "rellem",
+    "url": "https://stateofopensource.ai/",
+    "comments": 313
+  },
+  {
+    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+    "score": 505,
+    "by": "gnabgib",
+    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+    "comments": 324
+  },
+  {
+    "title": "Kimi K3: Open Frontier Intelligence",
+    "score": 2026,
+    "by": "vincent_s",
+    "url": "https://www.kimi.com/blog/kimi-k3",
+    "comments": 1179
+  },
+  {
+    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
+    "score": 174,
+    "by": "hmm37",
+    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
+    "comments": 97
+  },
+  {
+    "title": "Workspaces – Explore the workspaces of modern creators",
+    "score": 85,
+    "by": "ryangilbert",
+    "url": "https://workspaces.xyz/",
+    "comments": 65
+  },
+  {
+    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
+    "score": 94,
+    "by": "duha",
+    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
+    "comments": 6
+  },
+  {
+    "title": "Claude Code(Fable) refused my slow down instruction",
+    "score": 20,
+    "by": "qusaisuwan",
+    "url": "https://qusaisuwan.github.io/cc-incident/index.html",
+    "comments": 8
+  },
+  {
+    "title": "Apple targets dozens of OpenAI employees with legal letters",
+    "score": 393,
+    "by": "merksittich",
+    "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
+    "comments": 339
   }
 ]
