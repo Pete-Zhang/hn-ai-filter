@@ -1,79 +1,51 @@
 [
   {
-    "title": "Thanks HN for 15 years of support and helping me find my life's work",
-    "score": 575,
-    "by": "nicholasjbs",
-    "url": "",
-    "comments": 57
+    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+    "score": 12,
+    "by": "TZubiri",
+    "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
+    "comments": 26
   },
   {
-    "title": "In-toto: A framework to secure the integrity of software supply chains",
-    "score": 19,
-    "by": "Erenay09",
-    "url": "https://in-toto.io/",
-    "comments": 0
+    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+    "score": 232,
+    "by": "ykev",
+    "url": "https://ykdojo.github.io/claude-controls-mac/",
+    "comments": 158
   },
   {
-    "title": "Painting the sides of railroad rails white to reduce derailment",
-    "score": 93,
-    "by": "zdw",
-    "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
-    "comments": 47
-  },
-  {
-    "title": "The state of open source AI",
-    "score": 436,
-    "by": "rellem",
-    "url": "https://stateofopensource.ai/",
-    "comments": 313
-  },
-  {
-    "title": "Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-    "score": 505,
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "score": 469,
     "by": "gnabgib",
-    "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-    "comments": 324
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "comments": 206
   },
   {
-    "title": "Kimi K3: Open Frontier Intelligence",
-    "score": 2026,
-    "by": "vincent_s",
-    "url": "https://www.kimi.com/blog/kimi-k3",
-    "comments": 1179
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "score": 207,
+    "by": "subset",
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
+    "comments": 78
   },
   {
-    "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-    "score": 174,
-    "by": "hmm37",
-    "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-    "comments": 97
+    "title": "IceCream – Never use print() to debug again",
+    "score": 21,
+    "by": "gregsadetsky",
+    "url": "https://github.com/gruns/icecream",
+    "comments": 5
   },
   {
-    "title": "Workspaces – Explore the workspaces of modern creators",
-    "score": 85,
-    "by": "ryangilbert",
-    "url": "https://workspaces.xyz/",
-    "comments": 65
+    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
+    "score": 84,
+    "by": "drdator",
+    "url": "https://q3edit.com",
+    "comments": 24
   },
   {
-    "title": "AI Meets Cryptography 2: What AI Found in OpenVM's ZkVM",
-    "score": 94,
-    "by": "duha",
-    "url": "https://blog.zksecurity.xyz/posts/openvm-bugs/",
-    "comments": 6
-  },
-  {
-    "title": "Claude Code(Fable) refused my slow down instruction",
-    "score": 20,
-    "by": "qusaisuwan",
-    "url": "https://qusaisuwan.github.io/cc-incident/index.html",
-    "comments": 8
-  },
-  {
-    "title": "Apple targets dozens of OpenAI employees with legal letters",
-    "score": 393,
-    "by": "merksittich",
-    "url": "https://www.ft.com/content/1b8c9d52-88a9-426b-ba47-f1811f859166",
-    "comments": 339
+    "title": "What AI did to stackoverflow in a graph",
+    "score": 409,
+    "by": "secretslol",
+    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
+    "comments": 498
   }
 ]
