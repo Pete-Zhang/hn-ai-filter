@@ -1,51 +1,72 @@
 [
   {
-    "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-    "score": 12,
-    "by": "TZubiri",
-    "url": "https://training.perforce.com/learn/courses/535/p4-helix-core-user-basic",
-    "comments": 26
+    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+    "score": 2370,
+    "by": "section33",
+    "url": "",
+    "comments": 255
   },
   {
-    "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-    "score": 232,
-    "by": "ykev",
-    "url": "https://ykdojo.github.io/claude-controls-mac/",
-    "comments": 158
+    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
+    "score": 47,
+    "by": "isaacfrond",
+    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
+    "comments": 34
   },
   {
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-    "score": 469,
-    "by": "gnabgib",
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "comments": 206
+    "title": "Claude Code uses Bun written in Rust now",
+    "score": 531,
+    "by": "tosh",
+    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+    "comments": 706
   },
   {
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "score": 207,
-    "by": "subset",
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
-    "comments": 78
-  },
-  {
-    "title": "IceCream – Never use print() to debug again",
-    "score": 21,
-    "by": "gregsadetsky",
-    "url": "https://github.com/gruns/icecream",
-    "comments": 5
-  },
-  {
-    "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-    "score": 84,
-    "by": "drdator",
-    "url": "https://q3edit.com",
+    "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+    "score": 42,
+    "by": "rbanffy",
+    "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
     "comments": 24
   },
   {
-    "title": "What AI did to stackoverflow in a graph",
-    "score": 409,
-    "by": "secretslol",
-    "url": "https://data.stackexchange.com/stackoverflow/query/1953768#graph",
-    "comments": 498
+    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
+    "score": 424,
+    "by": "loubbrad",
+    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+    "comments": 255
+  },
+  {
+    "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
+    "score": 102,
+    "by": "cube00",
+    "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
+    "comments": 70
+  },
+  {
+    "title": "Talk: The Art of Braiding Algorithms",
+    "score": 44,
+    "by": "surprisetalk",
+    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+    "comments": 1
+  },
+  {
+    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+    "score": 345,
+    "by": "AmazingTurtle",
+    "url": "https://github.com/openai/codex/pull/33972/files",
+    "comments": 159
+  },
+  {
+    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
+    "score": 262,
+    "by": "serialx",
+    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
+    "comments": 107
+  },
+  {
+    "title": "AI advice made people less accurate but more confident – sudy",
+    "score": 339,
+    "by": "rbanffy",
+    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
+    "comments": 190
   }
 ]
