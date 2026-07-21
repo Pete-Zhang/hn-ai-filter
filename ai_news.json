@@ -1,72 +1,72 @@
 [
   {
-    "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-    "score": 2370,
-    "by": "section33",
+    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+    "score": 80,
+    "by": "ilreb",
+    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
+    "comments": 48
+  },
+  {
+    "title": "Who's afraid of Chinese models?",
+    "score": 654,
+    "by": "mfiguiere",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "comments": 461
+  },
+  {
+    "title": "A Koi Pond Mosaic Made from 10 Pounds of 3D Printer Waste",
+    "score": 36,
+    "by": "sudo_cowsay",
+    "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+    "comments": 31
+  },
+  {
+    "title": "Launch HN: Bloomy (YC S26) – AI-powered mastery learning for K-12",
+    "score": 89,
+    "by": "alexsouthmayd",
     "url": "",
-    "comments": 255
+    "comments": 88
   },
   {
-    "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-    "score": 47,
-    "by": "isaacfrond",
-    "url": "https://www.labrujulaverde.com/en/2026/07/sealed-tomb-of-a-high-official-or-priest-filled-with-paintings-and-inscriptions-discovered-on-luxors-west-bank/",
-    "comments": 34
+    "title": "China’s open-weights AI strategy is winning",
+    "score": 1115,
+    "by": "benwerd",
+    "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+    "comments": 843
   },
   {
-    "title": "Claude Code uses Bun written in Rust now",
-    "score": 531,
-    "by": "tosh",
-    "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
-    "comments": 706
+    "title": "My two year old taught me constraint solving",
+    "score": 78,
+    "by": "bambataa",
+    "url": "https://thecomputersciencebook.com/posts/how-my-2yo-taught-me-constraint-solving/",
+    "comments": 27
   },
   {
-    "title": "Self-Powered Trailers Promise Leaner Freight Runs",
-    "score": 42,
-    "by": "rbanffy",
-    "url": "https://spectrum.ieee.org/self-powered-trailers-freight-decarbonization",
-    "comments": 24
+    "title": "How we measured AI writing across arXiv, and where the measurement breaks",
+    "score": 225,
+    "by": "dopamine_daddy",
+    "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+    "comments": 155
   },
   {
-    "title": "Claude Fable produced a counterexample to the Jacobian Conjecture",
-    "score": 424,
-    "by": "loubbrad",
-    "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
-    "comments": 255
+    "title": "Airport Simulator",
+    "score": 798,
+    "by": "apunen",
+    "url": "https://airport.apunen.com/",
+    "comments": 154
   },
   {
-    "title": "How proprietary formats have become Microsoft’s main tool for lock-in",
-    "score": 102,
-    "by": "cube00",
-    "url": "https://blog.documentfoundation.org/blog/2026/07/17/microsofts-main-tool-for-lock-in/",
-    "comments": 70
+    "title": "Firefox 153 available with support for Vulkan video decoding, JPEG-XL",
+    "score": 273,
+    "by": "DemiGuru",
+    "url": "https://www.phoronix.com/news/Firefox-153-Downloads",
+    "comments": 65
   },
   {
-    "title": "Talk: The Art of Braiding Algorithms",
-    "score": 44,
-    "by": "surprisetalk",
-    "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
-    "comments": 1
-  },
-  {
-    "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
-    "score": 345,
-    "by": "AmazingTurtle",
-    "url": "https://github.com/openai/codex/pull/33972/files",
-    "comments": 159
-  },
-  {
-    "title": "Moonshot AI suspends new subscriptions due to Kimi K3 demand",
-    "score": 262,
-    "by": "serialx",
-    "url": "https://twitter.com/kimi_moonshot/status/2078855608565207130",
-    "comments": 107
-  },
-  {
-    "title": "AI advice made people less accurate but more confident – sudy",
-    "score": 339,
-    "by": "rbanffy",
-    "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study",
-    "comments": 190
+    "title": "Mythologizing AI makes it more likely that we’ll fail to operate it well (2023)",
+    "score": 72,
+    "by": "simonebrunozzi",
+    "url": "https://www.newyorker.com/science/annals-of-artificial-intelligence/there-is-no-ai",
+    "comments": 112
   }
 ]
