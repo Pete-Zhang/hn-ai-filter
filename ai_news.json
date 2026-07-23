@@ -1,100 +1,79 @@
 [
   {
+    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+    "score": 889,
+    "by": "gmays",
+    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+    "comments": 511
+  },
+  {
+    "title": "Quality non-fiction books are the antithesis of AI slop",
+    "score": 367,
+    "by": "benbreen",
+    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+    "comments": 123
+  },
+  {
+    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
+    "score": 16,
+    "by": "xgpyc2qp",
+    "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+    "score": 848,
+    "by": "starfallg",
+    "url": "https://bento.page/slides/",
+    "comments": 188
+  },
+  {
+    "title": "Are AI labs pelicanmaxxing?",
+    "score": 542,
+    "by": "dcastm",
+    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
+    "comments": 209
+  },
+  {
+    "title": "So Reddit has decided that plain HTML is unsafe",
+    "score": 474,
+    "by": "montroser",
+    "url": "https://www.cole-k.com/2026/07/21/reddit/",
+    "comments": 479
+  },
+  {
+    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
+    "score": 138,
+    "by": "HenryNdubuaku",
+    "url": "https://github.com/cactus-compute/cactus-hybrid",
+    "comments": 25
+  },
+  {
+    "title": "Fairphone 6 wide camera experimental Linux support",
+    "score": 125,
+    "by": "helonaut",
+    "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
+    "comments": 33
+  },
+  {
+    "title": "Businesses with ugly AI menu redesigns",
+    "score": 304,
+    "by": "speckx",
+    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
+    "comments": 205
+  },
+  {
+    "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+    "score": 53,
+    "by": "adeelraza",
+    "url": "https://unlayer.com",
+    "comments": 34
+  },
+  {
     "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "score": 1178,
+    "score": 1580,
     "by": "mfiguiere",
     "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "comments": 814
-  },
-  {
-    "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-    "score": 640,
-    "by": "piotrgrabowski",
-    "url": "https://fireworks.ai/blog/kimik3-fable",
-    "comments": 348
-  },
-  {
-    "title": "Advertise in ChatGPT",
-    "score": 777,
-    "by": "montecarl",
-    "url": "https://ads.openai.com/",
-    "comments": 571
-  },
-  {
-    "title": "Judge approves $1.5B Anthropic settlement for pirated books used to train Claude",
-    "score": 375,
-    "by": "BeetleB",
-    "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
-    "comments": 312
-  },
-  {
-    "title": "Show HN: A new kind of FPS aim trainer",
-    "score": 51,
-    "by": "pmazumder",
-    "url": "https://openaim.pramit.gg/",
-    "comments": 27
-  },
-  {
-    "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-    "score": 200,
-    "by": "hershyb_",
-    "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-    "comments": 74
-  },
-  {
-    "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-    "score": 321,
-    "by": "ryanmerket",
-    "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-    "comments": 274
-  },
-  {
-    "title": "Show HN: Justif – Knuth-Plass justification and microtypography for the web",
-    "score": 160,
-    "by": "lyall",
-    "url": "https://justif.lyall.co/",
-    "comments": 28
-  },
-  {
-    "title": "Microsoft strikes 'multibillion-dollar' deal with French AI firm Mistral",
-    "score": 9,
-    "by": "taubek",
-    "url": "https://www.france24.com/en/france/20260721-microsoft-strikes-multi-billion-dollar-deal-to-expand-france-ai-firm-mistral",
-    "comments": 0
-  },
-  {
-    "title": "Recreating the math behind the first stealth aircraft",
-    "score": 58,
-    "by": "pmazumder",
-    "url": "https://www.pramit.gg/post/remaking-echo-1-stealth-physics",
-    "comments": 27
-  },
-  {
-    "title": "Bloomy (YC S26) is hiring a founding engineer",
-    "score": 1,
-    "by": "alexsouthmayd",
-    "url": "",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: A self-running space economy SIM in Rust and Bevy",
-    "score": 101,
-    "by": "kalcode",
-    "url": "https://github.com/Kalcode/spaceprojectsim",
-    "comments": 28
-  },
-  {
-    "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-    "score": 555,
-    "by": "ilreb",
-    "url": "https://qwen.ai/blog?id=qwen-image-3.0",
-    "comments": 212
-  },
-  {
-    "title": "Apply Tracker, Free AI CV, Cover Letter and Job Tracker",
-    "score": 8,
-    "by": "mirnumbing",
-    "url": "https://www.apply-tracker.com/en",
-    "comments": 0
+    "comments": 1105
   }
 ]
