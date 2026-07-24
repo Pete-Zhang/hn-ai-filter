@@ -1,79 +1,107 @@
 [
   {
-    "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-    "score": 889,
-    "by": "gmays",
-    "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
-    "comments": 511
+    "title": "Writing by hand is good for your brain",
+    "score": 1315,
+    "by": "dwwoelfel",
+    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+    "comments": 593
   },
   {
-    "title": "Quality non-fiction books are the antithesis of AI slop",
-    "score": 367,
-    "by": "benbreen",
-    "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
-    "comments": 123
+    "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+    "score": 940,
+    "by": "theanonymousone",
+    "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+    "comments": 778
   },
   {
-    "title": "ANSI escape injection in MCP servers: Hidden from humans, visible to AI",
-    "score": 16,
-    "by": "xgpyc2qp",
-    "url": "https://brightsec.com/research/detecting-ansi-escape-sequence-injection-in-mcp-servers-with-dast/",
-    "comments": 6
-  },
-  {
-    "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-    "score": 848,
-    "by": "starfallg",
-    "url": "https://bento.page/slides/",
-    "comments": 188
-  },
-  {
-    "title": "Are AI labs pelicanmaxxing?",
-    "score": 542,
-    "by": "dcastm",
-    "url": "https://dylancastillo.co/posts/pelicanmaxxing.html",
-    "comments": 209
-  },
-  {
-    "title": "So Reddit has decided that plain HTML is unsafe",
-    "score": 474,
-    "by": "montroser",
-    "url": "https://www.cole-k.com/2026/07/21/reddit/",
-    "comments": 479
-  },
-  {
-    "title": "Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong",
-    "score": 138,
-    "by": "HenryNdubuaku",
-    "url": "https://github.com/cactus-compute/cactus-hybrid",
-    "comments": 25
-  },
-  {
-    "title": "Fairphone 6 wide camera experimental Linux support",
-    "score": 125,
-    "by": "helonaut",
-    "url": "https://nondescriptpointer.com/articles/fairphone-6-wide-camera-linux/",
-    "comments": 33
-  },
-  {
-    "title": "Businesses with ugly AI menu redesigns",
-    "score": 304,
-    "by": "speckx",
-    "url": "https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/",
-    "comments": 205
-  },
-  {
-    "title": "Launch HN: Unlayer (YC W22) – Add email and document builders to your app",
+    "title": "Claude Cookbook",
     "score": 53,
-    "by": "adeelraza",
-    "url": "https://unlayer.com",
-    "comments": 34
+    "by": "saikatsg",
+    "url": "https://platform.claude.com/cookbook/",
+    "comments": 13
   },
   {
-    "title": "OpenAI and Hugging Face address security incident during model evaluation",
-    "score": 1580,
-    "by": "mfiguiere",
-    "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-    "comments": 1105
+    "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+    "score": 390,
+    "by": "adam_rida",
+    "url": "",
+    "comments": 182
+  },
+  {
+    "title": "Why Software Factories Fail (or: harness engineering is not enough)",
+    "score": 322,
+    "by": "dhorthy",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
+    "comments": 231
+  },
+  {
+    "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+    "score": 247,
+    "by": "r2sk5t",
+    "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+    "comments": 272
+  },
+  {
+    "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+    "score": 158,
+    "by": "harrisontin",
+    "url": "https://github.com/palmier-io/palmier-pro",
+    "comments": 26
+  },
+  {
+    "title": "OpenAI’s accidental attack against Hugging Face is science fiction that happened",
+    "score": 525,
+    "by": "abhisek",
+    "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack/",
+    "comments": 400
+  },
+  {
+    "title": "Launch HN: Screenpipe (YC S26) – Record how you work and turn that into agents",
+    "score": 75,
+    "by": "louis030195",
+    "url": "",
+    "comments": 53
+  },
+  {
+    "title": "The arguments against open source AI are bad",
+    "score": 279,
+    "by": "jjfoooo4",
+    "url": "https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/",
+    "comments": 194
+  },
+  {
+    "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+    "score": 100,
+    "by": "Jonathanfishner",
+    "url": "https://github.com/onecli/onecli",
+    "comments": 30
+  },
+  {
+    "title": "AMD's Instinct MI455X: Aiming for the Sun",
+    "score": 4,
+    "by": "ingve",
+    "url": "https://chipsandcheese.com/p/amds-instinct-mi455x-aiming-for-the",
+    "comments": 0
+  },
+  {
+    "title": "I'm So Tired of \"Is This AI?\"",
+    "score": 4,
+    "by": "moomoy",
+    "url": "https://www.trend-mill.com/p/im-so-tired-of-is-this-ai",
+    "comments": 0
+  },
+  {
+    "title": "AI Companies Are Trying to Hide a Staggering Amount of Debt",
+    "score": 649,
+    "by": "technewssss",
+    "url": "https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet",
+    "comments": 343
+  },
+  {
+    "title": "Show HN: Claude-thermos keeps your Claude session warm for you",
+    "score": 101,
+    "by": "s0ck_r4w",
+    "url": "https://github.com/izeigerman/claude-thermos",
+    "comments": 81
   }
 ]
