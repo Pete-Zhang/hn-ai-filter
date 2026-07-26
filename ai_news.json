@@ -1,93 +1,93 @@
 [
   {
-    "title": "Claude Opus 5",
-    "score": 1546,
-    "by": "alvis",
-    "url": "https://www.anthropic.com/news/claude-opus-5",
-    "comments": 887
+    "title": "GrapheneOS protections against data extraction from locked devices",
+    "score": 65,
+    "by": "Cider9986",
+    "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+    "comments": 30
   },
   {
-    "title": "UK AISI / Caisi Preliminary Assessment of Kimi K3's Cyber Capabilities",
-    "score": 63,
-    "by": "walrus01",
-    "url": "https://www.nist.gov/news-events/news/2026/07/uk-aisi-caisi-preliminary-assessment-kimi-k3s-cyber-capabilities",
-    "comments": 15
+    "title": "The new rules of context engineering for Claude 5 generation models",
+    "score": 327,
+    "by": "mellosouls",
+    "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
+    "comments": 216
   },
   {
-    "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
-    "score": 180,
-    "by": "eliotho",
-    "url": "https://globaloilnetwork.staffinganalytics.io/",
-    "comments": 86
+    "title": "Show HN: I mapped every US golf course",
+    "score": 128,
+    "by": "rickmf",
+    "url": "https://golfcoursebrowser.com/",
+    "comments": 68
   },
   {
-    "title": "PartialString – A finite-difference time-domain physical modelling synthesiser",
-    "score": 17,
-    "by": "shmeano",
-    "url": "https://differentinstruments.com/",
-    "comments": 3
+    "title": "DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+    "score": 149,
+    "by": "oliculipolicula",
+    "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+    "comments": 102
   },
   {
-    "title": "Firefox Containers Preview",
-    "score": 336,
-    "by": "twapi",
-    "url": "https://blog.mozilla.org/en/firefox/firefox-containers-preview/",
-    "comments": 97
+    "title": "Cloudflare's new AI traffic options for customers",
+    "score": 121,
+    "by": "alphabetatango",
+    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
+    "comments": 95
   },
   {
-    "title": "Half-Life 2 running natively on HaikuOS",
-    "score": 302,
-    "by": "m0do1",
-    "url": "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18",
-    "comments": 55
+    "title": "Rethinking Legal Education in the AI Era",
+    "score": 75,
+    "by": "jjwiseman",
+    "url": "https://www.law.uchicago.edu/news/ai-strategy-statement",
+    "comments": 37
   },
   {
-    "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-    "score": 606,
-    "by": "louiereederson",
-    "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-    "comments": 265
+    "title": "Clinical failure rates over the decades: yikes",
+    "score": 102,
+    "by": "EA-3167",
+    "url": "https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes",
+    "comments": 79
   },
   {
-    "title": "IRGC claims it destroyed Amazon's Bahrain data center",
-    "score": 296,
-    "by": "thisislife2",
-    "url": "https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/",
-    "comments": 357
+    "title": "What is happening to jobs? Separating AI hype from reality",
+    "score": 89,
+    "by": "pod_krad",
+    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
+    "comments": 104
   },
   {
-    "title": "The footprints of every building in NYC",
-    "score": 67,
-    "by": "jonathanmkeegan",
-    "url": "https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/",
-    "comments": 6
+    "title": "Show HN: I made some transistor animations",
+    "score": 183,
+    "by": "stunningllama",
+    "url": "https://brandonli.net/semisim/animations",
+    "comments": 23
   },
   {
-    "title": "Be skeptical of OpenAI's rogue hacker agent story",
-    "score": 488,
-    "by": "rwmj",
-    "url": "https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker",
-    "comments": 281
+    "title": "Show HN: Brolly, a plain-text weather forecast site",
+    "score": 192,
+    "by": "jsax",
+    "url": "https://brolly.sh/forecast/RWFP2qW8",
+    "comments": 66
   },
   {
-    "title": "Claude Cookbook",
-    "score": 312,
-    "by": "saikatsg",
-    "url": "https://platform.claude.com/cookbook/",
-    "comments": 159
+    "title": "Open-weight AI is having its Kubernetes moment",
+    "score": 375,
+    "by": "tknaup",
+    "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+    "comments": 291
   },
   {
-    "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
-    "score": 458,
-    "by": "adam_rida",
+    "title": "Agatha Christie's Disappearance: Amnesia, Suicide, or Despair?",
+    "score": 23,
+    "by": "thunderbong",
+    "url": "https://www.historicmysteries.com/unexplained-mysteries/agatha-christie-disappearance/23136/",
+    "comments": 9
+  },
+  {
+    "title": "Show HN: Writemark, a dependency free web component for inline Markdown editing",
+    "score": 41,
+    "by": "_boffin_",
     "url": "",
-    "comments": 218
-  },
-  {
-    "title": "Writing by hand is good for your brain",
-    "score": 1447,
-    "by": "dwwoelfel",
-    "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-    "comments": 652
+    "comments": 16
   }
 ]
