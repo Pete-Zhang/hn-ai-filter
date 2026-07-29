@@ -1,93 +1,58 @@
 [
   {
-    "title": "Kimi K3 Now Available via Telnyx Inference API",
-    "score": 89,
-    "by": "fionaattelnyx",
-    "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
-    "comments": 42
-  },
-  {
-    "title": "Show HN: Yap – OSS on-device voice dictation for macOS with no model to download",
-    "score": 72,
-    "by": "pancomplex",
-    "url": "https://github.com/FrigadeHQ/yap",
-    "comments": 26
-  },
-  {
-    "title": "Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals",
-    "score": 73,
-    "by": "george_rose25",
-    "url": "https://www.rise-reforming.com",
-    "comments": 31
-  },
-  {
-    "title": "Self-contained highly-portable Python distributions",
-    "score": 146,
-    "by": "jcbhmr",
-    "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
-    "comments": 31
-  },
-  {
-    "title": "Securing Services with Rootless Containers",
-    "score": 99,
-    "by": "speckx",
-    "url": "https://blog.coderspirit.xyz/blog/2026/07/06/securing-services-with-rootless-containers/",
-    "comments": 29
-  },
-  {
-    "title": "Netflix employee fired for sharing personal details in retreat trust exercise",
-    "score": 341,
-    "by": "softwaredoug",
-    "url": "https://nypost.com/2026/07/26/us-news/netflix-exec-goes-ballistic-after-being-fired-for-stunning-trust-exercise-confession-at-retreat-suit/",
-    "comments": 323
-  },
-  {
-    "title": "Exploiting Volvo/Eicher's fleet platform to gain control over all users/vehicles",
-    "score": 159,
-    "by": "EatonZ",
-    "url": "https://eaton-works.com/2026/07/27/my-eicher-hack/",
-    "comments": 52
-  },
-  {
-    "title": "Tell HN: Our paid Claude AI subscription unavailable >1 week and no support",
-    "score": 9,
-    "by": "KellyCriterion",
-    "url": "",
-    "comments": 5
-  },
-  {
-    "title": "Show HN: FeyNoBg – Automatic background removal model and training library",
-    "score": 108,
-    "by": "snyy",
-    "url": "https://usefeyn.com/blog/feynobg/",
-    "comments": 26
-  },
-  {
-    "title": "The Burau representation of the braid group is faithful for n = 4",
-    "score": 31,
-    "by": "wglb",
-    "url": "https://arxiv.org/abs/2607.05283",
-    "comments": 12
-  },
-  {
-    "title": "Modern email can be built from borrowed parts",
+    "title": "More Tailscale tricks for your jailbroken Kindle",
     "score": 188,
-    "by": "andros",
-    "url": "https://en.andros.dev/blog/d7ed8b07/modern-email-can-be-built-from-borrowed-parts/",
-    "comments": 114
+    "by": "Error6571",
+    "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+    "comments": 65
   },
   {
-    "title": "OpenAI's rogue model attack is just the beginning",
-    "score": 26,
-    "by": "radicaldreamer",
-    "url": "https://blog.peterwildeford.com/p/openais-rogue-model-attack-is-just",
-    "comments": 1
+    "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+    "score": 318,
+    "by": "twalichiewicz",
+    "url": "https://github.com/twalichiewicz/HNewhere",
+    "comments": 90
   },
   {
-    "title": "MAI-Cyber-1-Flash inside MDASH",
-    "score": 232,
-    "by": "migmartri",
-    "url": "https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/",
-    "comments": 109
+    "title": "LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences",
+    "score": 191,
+    "by": "ajhai",
+    "url": "https://learnvector.ai/",
+    "comments": 116
+  },
+  {
+    "title": "Una GPS smart watch – Repairable, USB-C charging, developer-friendly",
+    "score": 222,
+    "by": "pimterry",
+    "url": "https://unawatch.com/",
+    "comments": 139
+  },
+  {
+    "title": "ChatGPT claims rogue AI attacked more companies",
+    "score": 15,
+    "by": "osrec",
+    "url": "https://www.bbc.co.uk/news/articles/c2el319vzr3o",
+    "comments": 7
+  },
+  {
+    "title": "Discovering Cryptographic Weaknesses with Claude",
+    "score": 218,
+    "by": "gslin",
+    "url": "https://www.anthropic.com/research/discovering-cryptographic-weaknesses",
+    "comments": 160
+  },
+  {
+    "title": "DMARC has been public since 2012 but most company domains still don't enforce it",
+    "score": 188,
+    "by": "adulion",
+    "url": "https://ciphercue.com/blog/dmarc-enforcement-gap-rua-fragmentation-2026",
+    "comments": 118
+  },
+  {
+    "title": "Show HN: Lean4 Datalog DSL Based on Google Zanzibar for AI Projects",
+    "score": 15,
+    "by": "kbradero",
+    "url": "https://github.com/jagg-ix/zil-lean",
+    "comments": 2
   }
 ]
