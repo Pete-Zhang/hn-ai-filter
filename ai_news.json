@@ -1,79 +1,37 @@
 [
   {
-    "title": "AI's top startups are barely publishing their research",
-    "score": 481,
-    "by": "YeGoblynQueenne",
-    "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-    "comments": 245
+    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
+    "score": 87,
+    "by": "Garbage",
+    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
+    "comments": 88
   },
   {
-    "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-    "score": 806,
-    "by": "gitpusher42",
-    "url": "https://github.com/drumih/turbo-fieldfare",
-    "comments": 284
+    "title": "Show HN: What should the GUI for AI agents look like?",
+    "score": 60,
+    "by": "akbabu",
+    "url": "https://marbleos.com/demo",
+    "comments": 38
   },
   {
-    "title": "The Cold Email",
-    "score": 221,
-    "by": "holman",
-    "url": "https://zachholman.com/posts/cold-email",
-    "comments": 85
+    "title": "GCC steering committee announces AI policy",
+    "score": 298,
+    "by": "arto",
+    "url": "https://lwn.net/Articles/1086041/",
+    "comments": 327
   },
   {
-    "title": "Show HN: CheapFoodMap – A map of good meals under $10",
-    "score": 213,
-    "by": "jaep1",
-    "url": "https://cheapfoodmap.com/",
-    "comments": 194
+    "title": "The AI Aesthetic",
+    "score": 309,
+    "by": "montroser",
+    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+    "comments": 136
   },
   {
-    "title": "Launch HN: Tokenless (YC S26) – Automatic model switching to save money",
-    "score": 62,
-    "by": "rohaga",
-    "url": "https://usetokenless.com/",
-    "comments": 57
-  },
-  {
-    "title": "Refactoring cuisine: how an Iraqi stew sailed to Singapore",
-    "score": 55,
-    "by": "infinitewalk",
-    "url": "https://iza.ac/posts/2026/07/the-journey-of-bamya/",
-    "comments": 22
-  },
-  {
-    "title": "Hunter-gatherers introduced fish to a mountain lake 7000 years ago",
-    "score": 146,
-    "by": "stevenwoo",
-    "url": "https://www.newscientist.com/article/2580119-hunter-gatherers-introduced-fish-to-a-mountain-lake-7000-years-ago/",
-    "comments": 111
-  },
-  {
-    "title": "Show HN: A local merge queue for parallel Claude Code agents",
-    "score": 37,
-    "by": "funador",
-    "url": "https://github.com/funador/claude-code-merge-queue",
-    "comments": 12
-  },
-  {
-    "title": "GPT-5.6 vs. Claude Fable 5 for Physical AI, which performs best?",
-    "score": 96,
-    "by": "mbauman",
-    "url": "https://juliahub.com/blog/frontier-models-physical-ai-evaluation",
-    "comments": 20
-  },
-  {
-    "title": "Document-borne AI worms can self-propagate through Copilot for Word",
-    "score": 368,
-    "by": "Canopy9560",
-    "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
-    "comments": 282
-  },
-  {
-    "title": "Sam Altman is now talking to the White House about decelerating AI",
-    "score": 13,
-    "by": "abhishekdev",
-    "url": "https://twitter.com/AISafetyMemes/status/2082569026929394008",
-    "comments": 11
+    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
+    "score": 128,
+    "by": "cgorlla",
+    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
+    "comments": 64
   }
 ]
