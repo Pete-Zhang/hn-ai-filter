@@ -1,37 +1,72 @@
 [
   {
+    "title": "AI doesn't generate working products, that's still your job",
+    "score": 33,
+    "by": "smckk",
+    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
+    "comments": 14
+  },
+  {
+    "title": "Flint: A Visualization Language for the AI Era",
+    "score": 120,
+    "by": "vinhnx",
+    "url": "https://microsoft.github.io/flint-chart/",
+    "comments": 37
+  },
+  {
     "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "score": 87,
+    "score": 519,
     "by": "Garbage",
     "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "comments": 88
+    "comments": 532
   },
   {
-    "title": "Show HN: What should the GUI for AI agents look like?",
-    "score": 60,
-    "by": "akbabu",
-    "url": "https://marbleos.com/demo",
-    "comments": 38
+    "title": "Golang proposal: container/: generic collection types",
+    "score": 154,
+    "by": "jabits",
+    "url": "https://github.com/golang/go/issues/80590",
+    "comments": 126
   },
   {
-    "title": "GCC steering committee announces AI policy",
-    "score": 298,
-    "by": "arto",
-    "url": "https://lwn.net/Articles/1086041/",
-    "comments": 327
+    "title": "Tailscale didn't stop the Hugging Face intrusion",
+    "score": 551,
+    "by": "bluehatbrit",
+    "url": "https://tailscale.com/blog/hugging-face-intrusion",
+    "comments": 204
   },
   {
-    "title": "The AI Aesthetic",
-    "score": 309,
-    "by": "montroser",
-    "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
-    "comments": 136
+    "title": "Is AI reasoning right for the wrong reasons?",
+    "score": 162,
+    "by": "retupmoc01",
+    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
+    "comments": 192
   },
   {
-    "title": "Show HN: Distilling DeepSeek into GPT-OSS doesn't transfer censorship. Try it",
-    "score": 128,
-    "by": "cgorlla",
-    "url": "https://www.ctgt.ai/research/distillation-censorship-transfer",
-    "comments": 64
+    "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
+    "score": 43,
+    "by": "sparsesignal",
+    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
+    "comments": 17
+  },
+  {
+    "title": "Using the railway network as a flatbed scanner [video]",
+    "score": 75,
+    "by": "Jimmc414",
+    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
+    "comments": 31
+  },
+  {
+    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
+    "score": 558,
+    "by": "theanonymousone",
+    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
+    "comments": 297
+  },
+  {
+    "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
+    "score": 9,
+    "by": "edgar_ortega",
+    "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
+    "comments": 2
   }
 ]
