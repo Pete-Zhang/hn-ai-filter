@@ -1,72 +1,65 @@
 [
   {
-    "title": "AI doesn't generate working products, that's still your job",
-    "score": 33,
-    "by": "smckk",
-    "url": "https://weeraman.com/the-prototype-isnt-the-product/",
-    "comments": 14
+    "title": "I don't recommend Tailwind CSS",
+    "score": 76,
+    "by": "andros",
+    "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
+    "comments": 65
   },
   {
-    "title": "Flint: A Visualization Language for the AI Era",
-    "score": 120,
-    "by": "vinhnx",
-    "url": "https://microsoft.github.io/flint-chart/",
-    "comments": 37
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "score": 298,
+    "by": "foxtrot8672",
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "comments": 273
   },
   {
-    "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-    "score": 519,
-    "by": "Garbage",
-    "url": "https://blog.google/security/chrome-stronger-with-every-update/",
-    "comments": 532
+    "title": "Explorative modeling: Train on the best of K guesses",
+    "score": 102,
+    "by": "DSemba",
+    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
+    "comments": 25
   },
   {
-    "title": "Golang proposal: container/: generic collection types",
-    "score": 154,
-    "by": "jabits",
-    "url": "https://github.com/golang/go/issues/80590",
-    "comments": 126
+    "title": "Drug reverses autism-like brain changes in adult mice within hours",
+    "score": 26,
+    "by": "gmays",
+    "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
+    "comments": 7
   },
   {
-    "title": "Tailscale didn't stop the Hugging Face intrusion",
-    "score": 551,
-    "by": "bluehatbrit",
-    "url": "https://tailscale.com/blog/hugging-face-intrusion",
-    "comments": 204
+    "title": "AI opens new era in cognitive studies of wild primates",
+    "score": 20,
+    "by": "hhs",
+    "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
+    "comments": 5
   },
   {
-    "title": "Is AI reasoning right for the wrong reasons?",
-    "score": 162,
-    "by": "retupmoc01",
-    "url": "https://www.quantamagazine.org/is-ai-reasoning-right-for-the-wrong-reasons-20260731/",
-    "comments": 192
+    "title": "P[drive failure]: how reliable is your NAS?",
+    "score": 11,
+    "by": "nosolace",
+    "url": "https://khz.ac/low-voltage/drive-failure.html",
+    "comments": 7
   },
   {
-    "title": "The first transatlantic telegraph cable was a bold, beautiful failure (2019)",
-    "score": 43,
-    "by": "sparsesignal",
-    "url": "https://spectrum.ieee.org/the-first-transatlantic-telegraph-cable-was-a-bold-beautiful-failure",
-    "comments": 17
+    "title": "The Burau representation of the braid group is faithful for n = 4",
+    "score": 50,
+    "by": "wglb",
+    "url": "https://arxiv.org/abs/2607.05283",
+    "comments": 18
   },
   {
-    "title": "Using the railway network as a flatbed scanner [video]",
-    "score": 75,
-    "by": "Jimmc414",
-    "url": "https://media.ccc.de/v/emf2026-74-1-using-the-railway-network-as-a-flatbed-scanner",
-    "comments": 31
+    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
+    "score": 56,
+    "by": "TheWiggles",
+    "url": "https://kaisel.dev/",
+    "comments": 8
   },
   {
-    "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-    "score": 558,
-    "by": "theanonymousone",
-    "url": "https://artificialanalysis.ai/models/deepseek-v4-flash",
-    "comments": 297
-  },
-  {
-    "title": "When Internal Memory Fails: A No-Solder Wii U Recovery",
-    "score": 9,
-    "by": "edgar_ortega",
-    "url": "https://smolnero.com/posts/when-internal-memory-fails-a-no-solder-wii-u-recovery",
-    "comments": 2
+    "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
+    "score": 10,
+    "by": "aaronbrethorst",
+    "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
+    "comments": 8
   }
 ]
