@@ -1,65 +1,51 @@
 [
   {
-    "title": "I don't recommend Tailwind CSS",
-    "score": 76,
-    "by": "andros",
-    "url": "https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/",
-    "comments": 65
+    "title": "Bonsai: Janestreet's UI Library",
+    "score": 62,
+    "by": "KolmogorovComp",
+    "url": "https://github.com/janestreet/bonsai",
+    "comments": 17
   },
   {
-    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-    "score": 298,
-    "by": "foxtrot8672",
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-    "comments": 273
+    "title": "Train Simulator Controller",
+    "score": 13,
+    "by": "austinallegro",
+    "url": "https://z80.me/blog/tsc-2026-july/",
+    "comments": 1
   },
   {
-    "title": "Explorative modeling: Train on the best of K guesses",
-    "score": 102,
-    "by": "DSemba",
-    "url": "https://alexiglad.github.io/blog/2026/explorative_modeling/",
-    "comments": 25
-  },
-  {
-    "title": "Drug reverses autism-like brain changes in adult mice within hours",
-    "score": 26,
-    "by": "gmays",
-    "url": "https://www.uclahealth.org/news/release/drug-reverses-autism-like-brain-changes-adult-mice-within",
+    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+    "score": 7,
+    "by": "mohamed_am83",
+    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
     "comments": 7
   },
   {
-    "title": "AI opens new era in cognitive studies of wild primates",
-    "score": 20,
-    "by": "hhs",
-    "url": "https://news.emory.edu/features/2026/07/ai-opens-new-era-cognitive-studies-wild-primates",
-    "comments": 5
+    "title": "The AI Productivity Gap",
+    "score": 57,
+    "by": "kiyanwang",
+    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "comments": 58
   },
   {
-    "title": "P[drive failure]: how reliable is your NAS?",
-    "score": 11,
-    "by": "nosolace",
-    "url": "https://khz.ac/low-voltage/drive-failure.html",
-    "comments": 7
+    "title": "AI migrated legacy COBOL programs to Java, bugs included",
+    "score": 69,
+    "by": "felineflock",
+    "url": "https://arxiv.org/abs/2607.28271",
+    "comments": 57
   },
   {
-    "title": "The Burau representation of the braid group is faithful for n = 4",
-    "score": 50,
-    "by": "wglb",
-    "url": "https://arxiv.org/abs/2607.05283",
-    "comments": 18
+    "title": "EU enforces labeling AI generated content",
+    "score": 9,
+    "by": "nucatus",
+    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
+    "comments": 2
   },
   {
-    "title": "Kaisel – Routes as Values. Dart 3 Native Router for Flutter",
-    "score": 56,
-    "by": "TheWiggles",
-    "url": "https://kaisel.dev/",
-    "comments": 8
-  },
-  {
-    "title": "The Greenhouse and the Lens: Two Modes of Agentic AI Work",
-    "score": 10,
-    "by": "aaronbrethorst",
-    "url": "https://www.brethorsting.com/blog/2026/08/the-greenhouse-and-the-lens-two-modes-of-agentic-ai-work/",
-    "comments": 8
+    "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
+    "score": 141,
+    "by": "thebigship",
+    "url": "https://frogs.vaguespac.es/",
+    "comments": 76
   }
 ]
