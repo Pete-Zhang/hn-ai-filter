@@ -1,51 +1,79 @@
 [
   {
-    "title": "Bonsai: Janestreet's UI Library",
-    "score": 62,
-    "by": "KolmogorovComp",
-    "url": "https://github.com/janestreet/bonsai",
+    "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+    "score": 25,
+    "by": "riffraff",
+    "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
     "comments": 17
   },
   {
-    "title": "Train Simulator Controller",
-    "score": 13,
-    "by": "austinallegro",
-    "url": "https://z80.me/blog/tsc-2026-july/",
-    "comments": 1
+    "title": "That time when I failed the Microsoft interview",
+    "score": 65,
+    "by": "wofo",
+    "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+    "comments": 115
   },
   {
-    "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
-    "score": 7,
-    "by": "mohamed_am83",
-    "url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
-    "comments": 7
-  },
-  {
-    "title": "The AI Productivity Gap",
-    "score": 57,
-    "by": "kiyanwang",
-    "url": "https://bjorg.bjornroche.com/management/ai-productivity-gap/",
+    "title": "There Will Come Soft Rains (1950) [pdf]",
+    "score": 162,
+    "by": "pmg101",
+    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
     "comments": 58
   },
   {
-    "title": "AI migrated legacy COBOL programs to Java, bugs included",
-    "score": 69,
-    "by": "felineflock",
-    "url": "https://arxiv.org/abs/2607.28271",
-    "comments": 57
+    "title": "Ask HN: Who is hiring? (August 2026)",
+    "score": 179,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 169
   },
   {
-    "title": "EU enforces labeling AI generated content",
-    "score": 9,
-    "by": "nucatus",
-    "url": "https://www.euronews.com/my-europe/2026/08/02/ai-generated-label-becomes-mandatory-in-the-eu-for-companies",
-    "comments": 2
+    "title": "Ask HN: Who wants to be hired? (August 2026)",
+    "score": 118,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 283
   },
   {
-    "title": "My personal AI benchmark: “Generate an SVG of a frog with a Habsburg jaw”",
-    "score": 141,
-    "by": "thebigship",
-    "url": "https://frogs.vaguespac.es/",
-    "comments": 76
+    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
+    "score": 72,
+    "by": "BenceRed",
+    "url": "https://hoplite.sh",
+    "comments": 59
+  },
+  {
+    "title": "Bonsai: Janestreet's UI Library",
+    "score": 357,
+    "by": "KolmogorovComp",
+    "url": "https://github.com/janestreet/bonsai",
+    "comments": 147
+  },
+  {
+    "title": "AirLLM 70B inference with single 4GB GPU",
+    "score": 220,
+    "by": "Anon84",
+    "url": "https://github.com/lyogavin/airllm",
+    "comments": 80
+  },
+  {
+    "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
+    "score": 8,
+    "by": "aba_cz",
+    "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
+    "comments": 0
+  },
+  {
+    "title": "What's the largest software project AI can complete on its own?",
+    "score": 89,
+    "by": "yusufozkan",
+    "url": "https://epoch.ai/MirrorCode",
+    "comments": 90
+  },
+  {
+    "title": "Bending Spoons entered definitive agreement to acquire Airtable for $1.28B",
+    "score": 19,
+    "by": "BoorishBears",
+    "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-%241.285-billion",
+    "comments": 7
   }
 ]
