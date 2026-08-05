@@ -1,79 +1,65 @@
 [
   {
-    "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-    "score": 25,
-    "by": "riffraff",
-    "url": "https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal",
-    "comments": 17
+    "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
+    "score": 18,
+    "by": "igortru",
+    "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+    "comments": 9
   },
   {
-    "title": "That time when I failed the Microsoft interview",
-    "score": 65,
-    "by": "wofo",
-    "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
-    "comments": 115
+    "title": "Eight Myths on Software Engineering and GenAI",
+    "score": 215,
+    "by": "tchalla",
+    "url": "https://queue.acm.org/detail.cfm?id=3807963",
+    "comments": 180
+  },
+  {
+    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
+    "score": 247,
+    "by": "bookofjoe",
+    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
+    "comments": 192
   },
   {
     "title": "There Will Come Soft Rains (1950) [pdf]",
-    "score": 162,
+    "score": 387,
     "by": "pmg101",
     "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "comments": 58
+    "comments": 402
   },
   {
-    "title": "Ask HN: Who is hiring? (August 2026)",
-    "score": 179,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 169
+    "title": "An SLM trained on $8 ESP32-S3",
+    "score": 32,
+    "by": "pavelai",
+    "url": "https://github.com/Carloscodix/qapla",
+    "comments": 10
   },
   {
-    "title": "Ask HN: Who wants to be hired? (August 2026)",
-    "score": 118,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 283
+    "title": "Show HN: SIMD Viterbi Decoder in Rust",
+    "score": 47,
+    "by": "brian-armstrong",
+    "url": "https://github.com/brian-armstrong/fec",
+    "comments": 6
   },
   {
-    "title": "Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents",
-    "score": 72,
-    "by": "BenceRed",
-    "url": "https://hoplite.sh",
-    "comments": 59
+    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
+    "score": 99,
+    "by": "doppp",
+    "url": "https://arxiv.org/abs/2602.16763",
+    "comments": 99
   },
   {
-    "title": "Bonsai: Janestreet's UI Library",
-    "score": 357,
-    "by": "KolmogorovComp",
-    "url": "https://github.com/janestreet/bonsai",
-    "comments": 147
+    "title": "Oxide Computer raises $445M (SEC Form D)",
+    "score": 243,
+    "by": "depr",
+    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
+    "comments": 155
   },
   {
-    "title": "AirLLM 70B inference with single 4GB GPU",
-    "score": 220,
-    "by": "Anon84",
-    "url": "https://github.com/lyogavin/airllm",
-    "comments": 80
-  },
-  {
-    "title": "RosaicLabs, Atom RTL, and 32-Tile AMX: Trying to Piece Together a x86 Puzzle",
-    "score": 8,
-    "by": "aba_cz",
-    "url": "https://chipsandcheese.com/p/rosaiclabs-atom-rtl-and-32-tile-amx",
-    "comments": 0
-  },
-  {
-    "title": "What's the largest software project AI can complete on its own?",
-    "score": 89,
-    "by": "yusufozkan",
-    "url": "https://epoch.ai/MirrorCode",
-    "comments": 90
-  },
-  {
-    "title": "Bending Spoons entered definitive agreement to acquire Airtable for $1.28B",
-    "score": 19,
-    "by": "BoorishBears",
-    "url": "https://www.businesswire.com/news/home/20260730994716/en/Bending-Spoons-has-entered-into-a-definitive-agreement-to-acquire-Airtable-for-%241.285-billion",
-    "comments": 7
+    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
+    "score": 367,
+    "by": "thewebguyd",
+    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
+    "comments": 262
   }
 ]
