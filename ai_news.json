@@ -1,65 +1,100 @@
 [
   {
-    "title": "The software group Palantir paid just £2M in corporation tax in the UK in 2024",
-    "score": 18,
-    "by": "igortru",
-    "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
+    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+    "score": 665,
+    "by": "colesantiago",
+    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
+    "comments": 719
+  },
+  {
+    "title": "Born Against, or why hobby programming communities are against LLM usage",
+    "score": 277,
+    "by": "lladnar",
+    "url": "https://blog.fogus.me/llm/born-against.html",
+    "comments": 265
+  },
+  {
+    "title": "Nashville uses eminent domain to block data center near zoo",
+    "score": 237,
+    "by": "mapping365",
+    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
+    "comments": 301
+  },
+  {
+    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+    "score": 58,
+    "by": "shailendraht",
+    "url": "https://www.hyperprobe.co",
+    "comments": 41
+  },
+  {
+    "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
+    "score": 25,
+    "by": "ksec",
+    "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
     "comments": 9
   },
   {
-    "title": "Eight Myths on Software Engineering and GenAI",
-    "score": 215,
-    "by": "tchalla",
-    "url": "https://queue.acm.org/detail.cfm?id=3807963",
-    "comments": 180
+    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
+    "score": 128,
+    "by": "robin_reala",
+    "url": "https://arxiv.org/abs/2510.01395",
+    "comments": 68
   },
   {
-    "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
-    "score": 247,
-    "by": "bookofjoe",
-    "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol/",
-    "comments": 192
+    "title": "The Entropy of a Markov Chain",
+    "score": 131,
+    "by": "surprisetalk",
+    "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
+    "comments": 12
   },
   {
-    "title": "There Will Come Soft Rains (1950) [pdf]",
-    "score": 387,
-    "by": "pmg101",
-    "url": "https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf",
-    "comments": 402
+    "title": "When online commenters detect my art as AI",
+    "score": 44,
+    "by": "Jare",
+    "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
+    "comments": 20
   },
   {
-    "title": "An SLM trained on $8 ESP32-S3",
-    "score": 32,
-    "by": "pavelai",
-    "url": "https://github.com/Carloscodix/qapla",
-    "comments": 10
+    "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
+    "score": 22,
+    "by": "pradiptasarma",
+    "url": "https://github.com/pradipta/wallfacer",
+    "comments": 13
   },
   {
-    "title": "Show HN: SIMD Viterbi Decoder in Rust",
-    "score": 47,
-    "by": "brian-armstrong",
-    "url": "https://github.com/brian-armstrong/fec",
-    "comments": 6
+    "title": "Why Erdős Problems Are Falling to AI",
+    "score": 138,
+    "by": "pseudolus",
+    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
+    "comments": 129
   },
   {
-    "title": "When AI Benchmarks Plateau: A Systematic Study of Benchmark Saturation",
-    "score": 99,
-    "by": "doppp",
-    "url": "https://arxiv.org/abs/2602.16763",
-    "comments": 99
+    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
+    "score": 7,
+    "by": "microtonal",
+    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "comments": 1
   },
   {
-    "title": "Oxide Computer raises $445M (SEC Form D)",
-    "score": 243,
-    "by": "depr",
-    "url": "https://www.sec.gov/Archives/edgar/data/1795071/000179507126000002/xslFormDX01/primary_doc.xml",
-    "comments": 155
+    "title": "Painting with Gaussians",
+    "score": 100,
+    "by": "yogthos",
+    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
+    "comments": 19
   },
   {
-    "title": "Apple says more ex-employees may have taken confidential data to OpenAI",
-    "score": 367,
-    "by": "thewebguyd",
-    "url": "https://techcrunch.com/2026/08/04/apple-says-more-ex-employees-may-have-taken-confidential-data-to-openai/",
-    "comments": 262
+    "title": "Proxmox VE now available for ARM64",
+    "score": 67,
+    "by": "geerlingguy",
+    "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
+    "comments": 20
+  },
+  {
+    "title": "Meta says AI model accessed the internet and hacked another firm",
+    "score": 16,
+    "by": "smarri",
+    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
+    "comments": 8
   }
 ]
