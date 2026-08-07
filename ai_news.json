@@ -1,100 +1,79 @@
 [
   {
-    "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-    "score": 665,
-    "by": "colesantiago",
-    "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-    "comments": 719
+    "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+    "score": 636,
+    "by": "itvision",
+    "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+    "comments": 484
   },
   {
-    "title": "Born Against, or why hobby programming communities are against LLM usage",
-    "score": 277,
-    "by": "lladnar",
-    "url": "https://blog.fogus.me/llm/born-against.html",
-    "comments": 265
+    "title": "GitHub Actions and Pages are experiencing degraded availability",
+    "score": 395,
+    "by": "Footkerchief",
+    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
+    "comments": 315
   },
   {
-    "title": "Nashville uses eminent domain to block data center near zoo",
-    "score": 237,
-    "by": "mapping365",
-    "url": "https://www.costar.com/article/970809918/nashville-council-approves-eminent-domain-action-to-halt-data-center-project",
-    "comments": 301
-  },
-  {
-    "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
-    "score": 58,
-    "by": "shailendraht",
-    "url": "https://www.hyperprobe.co",
-    "comments": 41
-  },
-  {
-    "title": "Decimen Optical Transfer: fountain-coded QR file transfer",
-    "score": 25,
-    "by": "ksec",
-    "url": "https://github.com/bashalarmistalt/decimen-optical-transfer",
-    "comments": 9
-  },
-  {
-    "title": "Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025)",
-    "score": 128,
-    "by": "robin_reala",
-    "url": "https://arxiv.org/abs/2510.01395",
-    "comments": 68
-  },
-  {
-    "title": "The Entropy of a Markov Chain",
-    "score": 131,
-    "by": "surprisetalk",
-    "url": "https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain",
-    "comments": 12
-  },
-  {
-    "title": "When online commenters detect my art as AI",
-    "score": 44,
-    "by": "Jare",
-    "url": "https://www.davidrevoy.com/article1164/when-online-commenters-detect-my-art-as-ai",
-    "comments": 20
-  },
-  {
-    "title": "Show HN: Wallfacer – A terminal session manager for Claude Code, and more",
-    "score": 22,
-    "by": "pradiptasarma",
-    "url": "https://github.com/pradipta/wallfacer",
-    "comments": 13
-  },
-  {
-    "title": "Why Erdős Problems Are Falling to AI",
-    "score": 138,
-    "by": "pseudolus",
-    "url": "https://www.quantamagazine.org/why-the-legendary-erdos-problems-are-falling-to-ai-20260803/",
-    "comments": 129
-  },
-  {
-    "title": "On non-rooted Android 17, ADB uninstall of system apps fails",
-    "score": 7,
-    "by": "microtonal",
-    "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation/issues/1426",
+    "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
+    "score": 12,
+    "by": "purestatelabs",
+    "url": "https://zenodo.org/records/21359923",
     "comments": 1
   },
   {
-    "title": "Painting with Gaussians",
-    "score": 100,
-    "by": "yogthos",
-    "url": "https://yogthos.net/posts/2026-08-03-splat-painter.html",
-    "comments": 19
+    "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
+    "score": 233,
+    "by": "tedsanders",
+    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+    "comments": 174
   },
   {
-    "title": "Proxmox VE now available for ARM64",
-    "score": 67,
-    "by": "geerlingguy",
-    "url": "https://forum.proxmox.com/threads/proxmox-virtual-environment-now-available-for-64-bit-arm-arm64.185527/",
-    "comments": 20
+    "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
+    "score": 204,
+    "by": "willcarkner",
+    "url": "https://provenmetal.com",
+    "comments": 142
   },
   {
-    "title": "Meta says AI model accessed the internet and hacked another firm",
-    "score": 16,
-    "by": "smarri",
-    "url": "https://www.bbc.co.uk/news/articles/cx2kgdnyk2po",
-    "comments": 8
+    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
+    "score": 297,
+    "by": "Wirbelwind",
+    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
+    "comments": 210
+  },
+  {
+    "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
+    "score": 56,
+    "by": "champagnepapi",
+    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
+    "comments": 77
+  },
+  {
+    "title": "Learning to fly FPV drones with AI flight coach",
+    "score": 13,
+    "by": "divyenduz",
+    "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
+    "comments": 7
+  },
+  {
+    "title": "The Sylvester–Gallai Theorem",
+    "score": 32,
+    "by": "surprisetalk",
+    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
+    "comments": 38
+  },
+  {
+    "title": "Software development with AI is starting to feel like cooking steak",
+    "score": 365,
+    "by": "yusyd",
+    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+    "comments": 384
+  },
+  {
+    "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
+    "score": 33,
+    "by": "bhavansig",
+    "url": "https://socket.dev/blog/ai-agent-open-source-malware",
+    "comments": 13
   }
 ]
