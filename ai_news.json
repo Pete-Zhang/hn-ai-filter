@@ -1,79 +1,58 @@
 [
   {
+    "title": "What happens if an entire class of workers loses faith in their careers",
+    "score": 611,
+    "by": "RickJWagner",
+    "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+    "comments": 685
+  },
+  {
+    "title": "Managing AI Coding Costs at Scale",
+    "score": 229,
+    "by": "moonikakiss",
+    "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
+    "comments": 197
+  },
+  {
+    "title": "Oracle bans AI-generated code from OpenJDK",
+    "score": 460,
+    "by": "delduca",
+    "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
+    "comments": 308
+  },
+  {
+    "title": "Mythos social engineering AISI INC-2026-07-28-01",
+    "score": 57,
+    "by": "dnnehgf",
+    "url": "https://web.archive.org/web/20260731053721/http://github.com/ancaferro/myNetwork/pull/3",
+    "comments": 17
+  },
+  {
+    "title": "Show HN: Wyzer Programming Language",
+    "score": 197,
+    "by": "v0id_isgood",
+    "url": "https://github.com/Wyzer-Lang/wyzer",
+    "comments": 107
+  },
+  {
     "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-    "score": 636,
+    "score": 898,
     "by": "itvision",
     "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-    "comments": 484
-  },
-  {
-    "title": "GitHub Actions and Pages are experiencing degraded availability",
-    "score": 395,
-    "by": "Footkerchief",
-    "url": "https://www.githubstatus.com/incidents/qcvjkzcs7j74",
-    "comments": 315
-  },
-  {
-    "title": "Spin audit of SQD/QSCI quantum-chemistry benchmarks on iron–sulfur clusters",
-    "score": 12,
-    "by": "purestatelabs",
-    "url": "https://zenodo.org/records/21359923",
-    "comments": 1
-  },
-  {
-    "title": "Improving GPT‑5.6 Sol in ChatGPT, expanding GPT‑5.6 Luna access for free users",
-    "score": 233,
-    "by": "tedsanders",
-    "url": "https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-    "comments": 174
+    "comments": 680
   },
   {
     "title": "Launch HN: ProvenMetal (YC S26) delivers circuit boards in days instead of weeks",
-    "score": 204,
+    "score": 229,
     "by": "willcarkner",
     "url": "https://provenmetal.com",
-    "comments": 142
+    "comments": 155
   },
   {
-    "title": "Humans missed 1 in 3 threats approving AI agent commands across 40k game runs",
-    "score": 297,
-    "by": "Wirbelwind",
-    "url": "https://scalex.dev/blog/ai-agent-permissions-stats/",
-    "comments": 210
-  },
-  {
-    "title": "New Orleans is testing Carbyne’s AI-powered Emergency Call Triage software",
-    "score": 56,
-    "by": "champagnepapi",
-    "url": "https://www.shreveporttimes.com/story/news/local/louisiana/2026/07/28/is-new-orleans-using-ai-to-answer-911-calls-instead-of-human-dispatchers-impacts-emergencies-crime/91065014007/",
-    "comments": 77
-  },
-  {
-    "title": "Learning to fly FPV drones with AI flight coach",
-    "score": 13,
-    "by": "divyenduz",
-    "url": "https://blog.divyendusingh.com/p/learning-to-fly-fpv-drones-with-ai",
-    "comments": 7
-  },
-  {
-    "title": "The Sylvester–Gallai Theorem",
-    "score": 32,
-    "by": "surprisetalk",
-    "url": "https://www.futilitycloset.com/2026/07/26/the-sylvester-gallai-theorem/",
-    "comments": 38
-  },
-  {
-    "title": "Software development with AI is starting to feel like cooking steak",
-    "score": 365,
-    "by": "yusyd",
-    "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
-    "comments": 384
-  },
-  {
-    "title": "Mythos Attempted to Social Engineer Open Source Maintainer to Merge Malware",
-    "score": 33,
-    "by": "bhavansig",
-    "url": "https://socket.dev/blog/ai-agent-open-source-malware",
-    "comments": 13
+    "title": "Captain Bible Reverse Engineering",
+    "score": 29,
+    "by": "peterkelly",
+    "url": "https://github.com/peterkelly/captain-bible-re",
+    "comments": 2
   }
 ]
