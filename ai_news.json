@@ -1,58 +1,86 @@
 [
   {
-    "title": "Melatonin impairs morning cognition in healthy young adults (2023)",
-    "score": 107,
-    "by": "bohaska",
-    "url": "https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621",
-    "comments": 61
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "score": 171,
+    "by": "etoxin",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "comments": 111
   },
   {
-    "title": "The original URL for this prediction will no longer be available in 11 years (2011)",
-    "score": 132,
-    "by": "doubletwoyou",
-    "url": "http://longbets.org/601/",
-    "comments": 46
+    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+    "score": 76,
+    "by": "MrRowTheBoat",
+    "url": "https://www.whodunnitai.com/",
+    "comments": 22
   },
   {
-    "title": "Fastmail offers EU data region",
-    "score": 401,
-    "by": "groomlake",
-    "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
-    "comments": 201
+    "title": "Auto mode is now the default in Claude Code",
+    "score": 196,
+    "by": "sbehere",
+    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
+    "comments": 182
   },
   {
-    "title": "Message your other Claude Code sessions",
-    "score": 120,
-    "by": "mfiguiere",
-    "url": "https://code.claude.com/docs/en/cross-session-messaging",
-    "comments": 46
+    "title": "Tuxedo No. 2 – Cocktail recipes",
+    "score": 90,
+    "by": "smartmic",
+    "url": "https://tuxedono2.com",
+    "comments": 24
   },
   {
-    "title": "Software Giant SAP Stops Most Travel and Hiring Because of AI's Soaring Cost",
-    "score": 4,
-    "by": "theanonymousone",
-    "url": "https://www.404media.co/software-giant-sap-stops-most-travel-and-hiring-because-of-ais-soaring-cost/",
-    "comments": 0
+    "title": "The Philippines' big offshoring industry is growing despite AI",
+    "score": 47,
+    "by": "nlpnerd",
+    "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+    "comments": 47
+  },
+  {
+    "title": "Everything you do is being recorded",
+    "score": 297,
+    "by": "ike_usawa",
+    "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
+    "comments": 242
+  },
+  {
+    "title": "The tragedy of the commons, AI edition",
+    "score": 122,
+    "by": "simonpure",
+    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
+    "comments": 79
+  },
+  {
+    "title": "The Hacker's Renaissance (2025)",
+    "score": 111,
+    "by": "yu3zhou4",
+    "url": "https://phrack.org/issues/72/19#article",
+    "comments": 81
+  },
+  {
+    "title": "The main way I've seen people turn ideologically crazy (2025)",
+    "score": 118,
+    "by": "mef",
+    "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
+    "comments": 99
+  },
+  {
+    "title": "As AI grips world, the thrill of collecting vintage computers is growing",
+    "score": 14,
+    "by": "geox",
+    "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
+    "comments": 1
   },
   {
     "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "score": 51,
+    "score": 93,
     "by": "Eloissssss",
     "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "comments": 27
+    "comments": 72
   },
   {
-    "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-    "score": 391,
-    "by": "882542F3884314B",
-    "url": "https://simonwillison.net/2026/Aug/7/openai-timeline/",
-    "comments": 371
-  },
-  {
-    "title": "TinySol, a tiny solitaire game for DOS",
-    "score": 54,
-    "by": "skibz",
-    "url": "https://classicbits.net/coding-and-software/my-software/monosol/",
-    "comments": 15
+    "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
+    "score": 51,
+    "by": "eighttrigrams",
+    "url": "https://github.com/eighttrigrams/us-vs-them",
+    "comments": 14
   }
 ]
