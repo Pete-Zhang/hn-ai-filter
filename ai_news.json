@@ -1,86 +1,107 @@
 [
   {
-    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
-    "score": 171,
-    "by": "etoxin",
-    "url": "https://www.docker.com/products/docker-sandboxes/",
-    "comments": 111
+    "title": "As AI eats the web, the internet’s collective memory is disappearing",
+    "score": 240,
+    "by": "awnird",
+    "url": "https://thewalrus.ca/google-search-is-dying/",
+    "comments": 219
   },
   {
-    "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-    "score": 76,
-    "by": "MrRowTheBoat",
-    "url": "https://www.whodunnitai.com/",
-    "comments": 22
+    "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+    "score": 316,
+    "by": "HenryNdubuaku",
+    "url": "https://cactuscompute.com/needle",
+    "comments": 114
   },
   {
-    "title": "Auto mode is now the default in Claude Code",
-    "score": 196,
-    "by": "sbehere",
-    "url": "https://claude.com/blog/auto-mode-default-in-claude-code",
-    "comments": 182
+    "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+    "score": 499,
+    "by": "root-parent",
+    "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+    "comments": 454
   },
   {
-    "title": "Tuxedo No. 2 – Cocktail recipes",
-    "score": 90,
-    "by": "smartmic",
-    "url": "https://tuxedono2.com",
-    "comments": 24
+    "title": "The “mechanical miracle” that ruined Mark Twain’s life",
+    "score": 128,
+    "by": "benbreen",
+    "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+    "comments": 64
   },
   {
-    "title": "The Philippines' big offshoring industry is growing despite AI",
-    "score": 47,
-    "by": "nlpnerd",
-    "url": "https://www.economist.com/asia/2026/08/06/the-philippines-big-offshoring-industry-is-growing-despite-ai",
+    "title": "How Claude marks AI-generated content",
+    "score": 159,
+    "by": "mfiguiere",
+    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
+    "comments": 114
+  },
+  {
+    "title": "Confessions of a Long-Distance Sailor",
+    "score": 109,
+    "by": "AntiRush",
+    "url": "https://arachnoid.com/lutusp/sailbook.html",
+    "comments": 29
+  },
+  {
+    "title": "Tail-call optimization in C is relatively recent (2025)",
+    "score": 146,
+    "by": "prakashqwerty",
+    "url": "https://lwn.net/Articles/1034703/",
+    "comments": 131
+  },
+  {
+    "title": "Learning more about Claude's mathematical capabilities",
+    "score": 190,
+    "by": "tosh",
+    "url": "https://www.anthropic.com/research/riemann-zeta",
+    "comments": 131
+  },
+  {
+    "title": "Exploring Claude/GPT Knowledge Cutoffs and Pre-Training Timelines",
+    "score": 142,
+    "by": "sshh12",
+    "url": "https://blog.sshh.io/p/exploring-claudegpt-knowledge-cutoffs",
+    "comments": 20
+  },
+  {
+    "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+    "score": 75,
+    "by": "erenberke",
+    "url": "https://www.stoaexchange.com",
+    "comments": 50
+  },
+  {
+    "title": "Ask HN: In your experience, what are sound conventions for e-ink UI development?",
+    "score": 182,
+    "by": "BoxOfRain",
+    "url": "",
+    "comments": 59
+  },
+  {
+    "title": "World Train Map – 1247 train routes around the world",
+    "score": 121,
+    "by": "Flightmussy",
+    "url": "https://worldtrainmap.com/",
     "comments": 47
   },
   {
-    "title": "Everything you do is being recorded",
-    "score": 297,
-    "by": "ike_usawa",
-    "url": "https://www.theatlantic.com/technology/2026/05/ai-wearable-surveillance-countermeasures/687203/",
-    "comments": 242
+    "title": "Letter to Governor Abbott on responsible AI infrastructure in Texas",
+    "score": 108,
+    "by": "hackerBanana",
+    "url": "https://openai.com/index/responsible-ai-infrastructure-texas/",
+    "comments": 199
   },
   {
-    "title": "The tragedy of the commons, AI edition",
-    "score": 122,
-    "by": "simonpure",
-    "url": "https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition",
-    "comments": 79
+    "title": "Docker Sandboxes – Disposable, isolated sandboxes for AI agents",
+    "score": 649,
+    "by": "etoxin",
+    "url": "https://www.docker.com/products/docker-sandboxes/",
+    "comments": 364
   },
   {
-    "title": "The Hacker's Renaissance (2025)",
-    "score": 111,
-    "by": "yu3zhou4",
-    "url": "https://phrack.org/issues/72/19#article",
-    "comments": 81
-  },
-  {
-    "title": "The main way I've seen people turn ideologically crazy (2025)",
-    "score": 118,
-    "by": "mef",
-    "url": "https://blog.andymasley.com/p/the-main-way-ive-seen-people-turn",
-    "comments": 99
-  },
-  {
-    "title": "As AI grips world, the thrill of collecting vintage computers is growing",
-    "score": 14,
-    "by": "geox",
-    "url": "https://apnews.com/article/vintage-computers-silicon-valley-technology-apple-history-43d28a08d77cc477cdcd6951315d2f2d",
-    "comments": 1
-  },
-  {
-    "title": "ChatGPT starts blocking direct requests to copy an author's style",
-    "score": 93,
-    "by": "Eloissssss",
-    "url": "https://arstechnica.com/ai/2026/07/chatgpt-stops-cloning-famous-writers-voices-but-may-capture-a-similar-feeling/",
-    "comments": 72
-  },
-  {
-    "title": "Human vs. AI – Diff-based line-level provenance for text under agentic editing",
-    "score": 51,
-    "by": "eighttrigrams",
-    "url": "https://github.com/eighttrigrams/us-vs-them",
-    "comments": 14
+    "title": "Tech leaders say AI means less work – staff say they work up to 90 hours a week",
+    "score": 77,
+    "by": "dijksterhuis",
+    "url": "https://www.bbc.com/news/articles/cvgx4yd1gl2o",
+    "comments": 31
   }
 ]
