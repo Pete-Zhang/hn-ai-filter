@@ -1,58 +1,79 @@
 [
   {
-    "title": "OpenAI’s head of ethics leaves less than a year after joining",
-    "score": 428,
-    "by": "ilamont",
-    "url": "https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0",
-    "comments": 413
+    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
+    "score": 87,
+    "by": "allanrbo",
+    "url": "https://openai.com/codex/",
+    "comments": 28
   },
   {
-    "title": "Show HN: Line9 – A Mermaid rendering engine with its own layout",
-    "score": 68,
-    "by": "jumpalongjim",
-    "url": "https://line9.ai/diagram",
-    "comments": 19
+    "title": "DeepSeek V4 Pro 0813",
+    "score": 911,
+    "by": "explosion-s",
+    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+    "comments": 373
   },
   {
-    "title": "Go is an ideal language for AI-assisted software engineering",
-    "score": 371,
-    "by": "0xedb",
-    "url": "https://developers.googleblog.com/why-go-is-an-ideal-language-for-ai-assisted-software-engineering/",
-    "comments": 424
+    "title": "Grok 4.6",
+    "score": 539,
+    "by": "iLuddite",
+    "url": "https://x.ai/news/grok-4-6",
+    "comments": 485
   },
   {
-    "title": "As AI eats the web, the internet’s collective memory is disappearing",
-    "score": 899,
-    "by": "awnird",
-    "url": "https://thewalrus.ca/google-search-is-dying/",
-    "comments": 907
+    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
+    "score": 135,
+    "by": "advaith08",
+    "url": "https://discoveredmaterials.com/research/",
+    "comments": 28
   },
   {
-    "title": "Crew, a multiplayer workspace for humans and AI agents to work together",
-    "score": 6,
-    "by": "alihammoud21",
-    "url": "https://github.com/JamelHammoud/crew",
-    "comments": 0
+    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
+    "score": 275,
+    "by": "gavinhking",
+    "url": "https://knownagents.com/insights",
+    "comments": 200
   },
   {
-    "title": "How Claude marks AI-generated content",
-    "score": 433,
-    "by": "mfiguiere",
-    "url": "https://support.claude.com/en/articles/16266773-how-claude-marks-ai-generated-content",
-    "comments": 396
+    "title": "Lovable raises $400M Series C",
+    "score": 138,
+    "by": "thoughtpeddler",
+    "url": "https://lovable.dev/blog/series-c",
+    "comments": 143
   },
   {
-    "title": "Launch HN: Keet (YC S24) – An app to create video courses on anything",
-    "score": 45,
-    "by": "zackashen",
-    "url": "https://www.trykeet.com/",
-    "comments": 45
+    "title": "AI is removing the middle class of software engineering?",
+    "score": 870,
+    "by": "florianherrengt",
+    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
+    "comments": 778
   },
   {
-    "title": "Chrome adopts what may be the best protection yet against account takeovers",
-    "score": 6,
-    "by": "joozio",
-    "url": "https://arstechnica.com/security/2026/08/chrome-adopts-what-may-be-the-best-protection-yet-against-account-takeovers/",
-    "comments": 6
+    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+    "score": 288,
+    "by": "adius",
+    "url": "https://woxi.ad-si.com",
+    "comments": 41
+  },
+  {
+    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
+    "score": 29,
+    "by": "danielkimber",
+    "url": "https://www.ballet.dev/",
+    "comments": 10
+  },
+  {
+    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
+    "score": 160,
+    "by": "bookofjoe",
+    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+    "comments": 18
+  },
+  {
+    "title": "Delphi 13 Community Edition Is Now Available",
+    "score": 172,
+    "by": "layer8",
+    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
+    "comments": 129
   }
 ]
