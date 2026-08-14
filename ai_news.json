@@ -1,79 +1,86 @@
 [
   {
-    "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-    "score": 87,
-    "by": "allanrbo",
-    "url": "https://openai.com/codex/",
-    "comments": 28
+    "title": "Gemini 3.7 Flash",
+    "score": 815,
+    "by": "thisisauserid",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "comments": 427
   },
   {
-    "title": "DeepSeek V4 Pro 0813",
-    "score": 911,
-    "by": "explosion-s",
-    "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
-    "comments": 373
+    "title": "DeepSeek Harness developer preview",
+    "score": 652,
+    "by": "bjin",
+    "url": "https://deepseek.com/harness/en/",
+    "comments": 271
   },
   {
-    "title": "Grok 4.6",
-    "score": 539,
-    "by": "iLuddite",
-    "url": "https://x.ai/news/grok-4-6",
-    "comments": 485
+    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
+    "score": 21,
+    "by": "pentestercrab",
+    "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
+    "comments": 3
   },
   {
-    "title": "Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials",
-    "score": 135,
-    "by": "advaith08",
-    "url": "https://discoveredmaterials.com/research/",
-    "comments": 28
+    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
+    "score": 306,
+    "by": "vinayakborkar",
+    "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
+    "comments": 174
   },
   {
-    "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-    "score": 275,
-    "by": "gavinhking",
-    "url": "https://knownagents.com/insights",
-    "comments": 200
+    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
+    "score": 105,
+    "by": "malshe",
+    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
+    "comments": 63
   },
   {
-    "title": "Lovable raises $400M Series C",
-    "score": 138,
-    "by": "thoughtpeddler",
-    "url": "https://lovable.dev/blog/series-c",
-    "comments": 143
+    "title": "Choosing an AI model: one prompt, 11 models, different results",
+    "score": 202,
+    "by": "toddmorey",
+    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
+    "comments": 87
   },
   {
-    "title": "AI is removing the middle class of software engineering?",
-    "score": 870,
-    "by": "florianherrengt",
-    "url": "https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html",
-    "comments": 778
+    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
+    "score": 98,
+    "by": "adi1",
+    "url": "https://www.codewithbullet.com",
+    "comments": 74
   },
   {
-    "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
-    "score": 288,
-    "by": "adius",
-    "url": "https://woxi.ad-si.com",
-    "comments": 41
+    "title": "Text AI watermarks will always be trivial to remove",
+    "score": 121,
+    "by": "pseudolus",
+    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
+    "comments": 133
   },
   {
-    "title": "Show HN: Ballet – Workflow automation that writes integrations against any API",
-    "score": 29,
-    "by": "danielkimber",
-    "url": "https://www.ballet.dev/",
-    "comments": 10
+    "title": "AI At Home Part 1: A Box Of Scraps",
+    "score": 116,
+    "by": "timmmmmmay",
+    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
+    "comments": 54
   },
   {
-    "title": "High-Res Photo Shows Sand-Capped Butte Rising from Mars Plain of Polygons",
-    "score": 160,
-    "by": "bookofjoe",
-    "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
-    "comments": 18
+    "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
+    "score": 7,
+    "by": "nomilk",
+    "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
+    "comments": 0
   },
   {
-    "title": "Delphi 13 Community Edition Is Now Available",
-    "score": 172,
-    "by": "layer8",
-    "url": "https://blogs.embarcadero.com/delphi-13-community-edition-is-now-available/",
-    "comments": 129
+    "title": "Heart aerospace completes first flight of largest electric aircraft",
+    "score": 130,
+    "by": "chha",
+    "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
+    "comments": 130
+  },
+  {
+    "title": "Covert CIA program said to be behind mysterious attacks on Galápagos boats",
+    "score": 7,
+    "by": "u1hcw9nx",
+    "url": "https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/",
+    "comments": 2
   }
 ]
