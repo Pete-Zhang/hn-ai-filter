@@ -1,86 +1,65 @@
 [
   {
-    "title": "Gemini 3.7 Flash",
-    "score": 815,
-    "by": "thisisauserid",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "comments": 427
+    "title": "Google is making private AI practical with homomorphic encryption",
+    "score": 371,
+    "by": "u1hcw9nx",
+    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
+    "comments": 216
   },
   {
-    "title": "DeepSeek Harness developer preview",
-    "score": 652,
-    "by": "bjin",
-    "url": "https://deepseek.com/harness/en/",
-    "comments": 271
+    "title": "AI by Hand",
+    "score": 288,
+    "by": "sans_souse",
+    "url": "https://www.byhand.ai/",
+    "comments": 21
   },
   {
-    "title": "Ruby 4.0 Universal RCE Deserialization Gadget Chain",
-    "score": 21,
-    "by": "pentestercrab",
-    "url": "https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain",
-    "comments": 3
+    "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
+    "score": 8,
+    "by": "epaga",
+    "url": "https://silentshark.app/",
+    "comments": 2
   },
   {
-    "title": "Nine PBS sues Iron Mountain over blocked access to archival data",
-    "score": 306,
-    "by": "vinayakborkar",
-    "url": "https://current.org/2026/08/nine-pbs-sues-iron-mountain-over-blocked-access-to-archival-data/",
-    "comments": 174
+    "title": "Maximizing the value of your Claude Code sessions",
+    "score": 203,
+    "by": "twapi",
+    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+    "comments": 119
   },
   {
-    "title": "How Organizations Use AI: Evidence from ChatGPT [pdf]",
-    "score": 105,
-    "by": "malshe",
-    "url": "https://cdn.openai.com/pdf/how-organizations-use-chatgpt.pdf",
-    "comments": 63
+    "title": "Show HN: Deltix – AI Driven Testing",
+    "score": 26,
+    "by": "oneounceman",
+    "url": "https://app.deltix.ai",
+    "comments": 9
   },
   {
-    "title": "Choosing an AI model: one prompt, 11 models, different results",
-    "score": 202,
-    "by": "toddmorey",
-    "url": "https://www.netlify.com/blog/one-prompt-11-models-very-different-results/",
-    "comments": 87
+    "title": "Show HN: Mole – Deep research agent for your terminal",
+    "score": 69,
+    "by": "lajosdeme",
+    "url": "https://github.com/lajosdeme/mole",
+    "comments": 10
   },
   {
-    "title": "Launch HN: Bullet (YC S26) – A Faster Coding Agent",
-    "score": 98,
-    "by": "adi1",
-    "url": "https://www.codewithbullet.com",
-    "comments": 74
-  },
-  {
-    "title": "Text AI watermarks will always be trivial to remove",
-    "score": 121,
-    "by": "pseudolus",
-    "url": "https://www.seangoedecke.com/text-ai-watermarks/",
-    "comments": 133
-  },
-  {
-    "title": "AI At Home Part 1: A Box Of Scraps",
-    "score": 116,
-    "by": "timmmmmmay",
-    "url": "https://jdagostino.github.io/ai-pt1-box-o-scraps/index.html",
-    "comments": 54
-  },
-  {
-    "title": "Connecticut judge says plaintiff hid messages for AI in court filings",
-    "score": 7,
-    "by": "nomilk",
-    "url": "https://www.reuters.com/legal/litigation/connecticut-judge-says-plaintiff-hid-messages-ai-court-filings-2026-08-13/",
+    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
+    "score": 4,
+    "by": "jnord",
+    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
     "comments": 0
   },
   {
-    "title": "Heart aerospace completes first flight of largest electric aircraft",
-    "score": 130,
-    "by": "chha",
-    "url": "https://www.heartaerospace.com/newsroom/heart-aerospace-completes-first-flight-of-world-s-largest-electric-aircraft",
-    "comments": 130
+    "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
+    "score": 61,
+    "by": "bj-rn",
+    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
+    "comments": 8
   },
   {
-    "title": "Covert CIA program said to be behind mysterious attacks on Galápagos boats",
-    "score": 7,
-    "by": "u1hcw9nx",
-    "url": "https://www.washingtonpost.com/investigations/2026/08/13/covert-cia-program-said-be-behind-mysterious-attacks-galpagos-boats/",
-    "comments": 2
+    "title": "Gemini 3.7 Flash",
+    "score": 951,
+    "by": "thisisauserid",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+    "comments": 483
   }
 ]
