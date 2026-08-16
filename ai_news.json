@@ -1,65 +1,51 @@
 [
   {
-    "title": "Google is making private AI practical with homomorphic encryption",
-    "score": 371,
-    "by": "u1hcw9nx",
-    "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-    "comments": 216
+    "title": "AI in drug discovery – what it is, where we stand and the path forward",
+    "score": 136,
+    "by": "AnodicElegy",
+    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+    "comments": 71
   },
   {
-    "title": "AI by Hand",
-    "score": 288,
-    "by": "sans_souse",
-    "url": "https://www.byhand.ai/",
-    "comments": 21
+    "title": "AI has access to a vastly larger working memory than the human brain",
+    "score": 484,
+    "by": "rzk",
+    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+    "comments": 413
   },
   {
-    "title": "Show HN: Silent Shark – tactical map-based WWII submarine sim",
-    "score": 8,
-    "by": "epaga",
-    "url": "https://silentshark.app/",
+    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+    "score": 31,
+    "by": "Jimmc414",
+    "url": "https://arxiv.org/abs/2608.13122",
+    "comments": 4
+  },
+  {
+    "title": "Program with Paint Brushes, Not Pencils",
+    "score": 9,
+    "by": "skadamat",
+    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
     "comments": 2
   },
   {
-    "title": "Maximizing the value of your Claude Code sessions",
-    "score": 203,
-    "by": "twapi",
-    "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
-    "comments": 119
-  },
-  {
-    "title": "Show HN: Deltix – AI Driven Testing",
-    "score": 26,
-    "by": "oneounceman",
-    "url": "https://app.deltix.ai",
-    "comments": 9
-  },
-  {
-    "title": "Show HN: Mole – Deep research agent for your terminal",
-    "score": 69,
-    "by": "lajosdeme",
-    "url": "https://github.com/lajosdeme/mole",
-    "comments": 10
-  },
-  {
-    "title": "Suspecting court of using AI, man injected prompts in filings to try to win case",
-    "score": 4,
-    "by": "jnord",
-    "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/",
+    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+    "score": 1,
+    "by": "wweissbluth",
+    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
     "comments": 0
   },
   {
-    "title": "AI Model Atlas – visualizing populations of ML models as interconnected 3D graph",
-    "score": 61,
-    "by": "bj-rn",
-    "url": "https://run.cosmograph.app/public/ca9fd1ad-fe83-4238-8b69-b707c633aef0",
-    "comments": 8
+    "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+    "score": 40,
+    "by": "bukershok",
+    "url": "https://github.com/jitpass/jit",
+    "comments": 41
   },
   {
-    "title": "Gemini 3.7 Flash",
-    "score": 951,
-    "by": "thisisauserid",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
-    "comments": 483
+    "title": "Working with AI feels more like leadership than coding",
+    "score": 300,
+    "by": "allenb",
+    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
+    "comments": 189
   }
 ]
