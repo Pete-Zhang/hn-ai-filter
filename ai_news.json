@@ -1,51 +1,79 @@
 [
   {
-    "title": "AI in drug discovery – what it is, where we stand and the path forward",
-    "score": 136,
-    "by": "AnodicElegy",
-    "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-    "comments": 71
+    "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+    "score": 212,
+    "by": "ropbear",
+    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+    "comments": 200
   },
   {
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "score": 484,
-    "by": "rzk",
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "comments": 413
+    "title": "Claude: System Prompts",
+    "score": 642,
+    "by": "tosh",
+    "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+    "comments": 253
   },
   {
-    "title": "AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-    "score": 31,
-    "by": "Jimmc414",
-    "url": "https://arxiv.org/abs/2608.13122",
-    "comments": 4
+    "title": "Rhombus 1.1 is now available",
+    "score": 72,
+    "by": "spdegabrielle",
+    "url": "https://blog.racket-lang.org/2026/08/rhombus-v1.1.html",
+    "comments": 24
   },
   {
-    "title": "Program with Paint Brushes, Not Pencils",
-    "score": 9,
-    "by": "skadamat",
-    "url": "https://blog.pickcode.io/program-with-paint-brushes-not-pencils/",
-    "comments": 2
-  },
-  {
-    "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
-    "score": 1,
-    "by": "wweissbluth",
-    "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
+    "title": "HackEurope 2026: A short rant on AI and hackathons",
+    "score": 5,
+    "by": "mindracer",
+    "url": "https://duti.dev/blog/2026/spr/",
     "comments": 0
   },
   {
-    "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-    "score": 40,
-    "by": "bukershok",
-    "url": "https://github.com/jitpass/jit",
-    "comments": 41
+    "title": "The AI Credit Resale Economy",
+    "score": 277,
+    "by": "mlenhard",
+    "url": "https://vectoral.com/blog/who-are-the-token-brokers",
+    "comments": 113
   },
   {
-    "title": "Working with AI feels more like leadership than coding",
-    "score": 300,
-    "by": "allenb",
-    "url": "https://allen.bargi.org/notes/working-with-ai-feels-like-leadership/",
-    "comments": 189
+    "title": "Red queen hypothesis – A new way forward for self-improving AI",
+    "score": 54,
+    "by": "hardlianotion",
+    "url": "https://www.cst.cam.ac.uk/news/red-queen-hypothesis-new-way-forward-self-improving-ai",
+    "comments": 11
+  },
+  {
+    "title": "Tell HN: Cloudflare silently injects its analytics when you switch nameservers",
+    "score": 478,
+    "by": "stagas",
+    "url": "",
+    "comments": 126
+  },
+  {
+    "title": "Nvidia dramatically reduces amount of OpenAI infra financing it may guarantee",
+    "score": 204,
+    "by": "root-parent",
+    "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14/",
+    "comments": 96
+  },
+  {
+    "title": "Show HN: A public AI whose memory is shared across all users",
+    "score": 70,
+    "by": "adjohu",
+    "url": "https://wildstatic.com/",
+    "comments": 64
+  },
+  {
+    "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+    "score": 393,
+    "by": "Alifatisk",
+    "url": "https://scholar.google.com/scholar?q=%22kidney+disappointment%22",
+    "comments": 136
+  },
+  {
+    "title": "Archie G. Norcross' Maine Forest Fire Maps (1918–22)",
+    "score": 27,
+    "by": "samclemens",
+    "url": "https://publicdomainreview.org/collection/maine-forest-fire-maps/",
+    "comments": 3
   }
 ]
