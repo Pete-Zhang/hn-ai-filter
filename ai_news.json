@@ -1,107 +1,51 @@
 [
   {
-    "title": "Fairphone 6 and PostmarketOS working main camera",
-    "score": 172,
-    "by": "pizzaiolo",
-    "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-    "comments": 41
+    "title": "AI usage patterns in software teams",
+    "score": 131,
+    "by": "giuliomagnifico",
+    "url": "https://linear.app/data",
+    "comments": 67
   },
   {
-    "title": "AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira",
-    "score": 365,
-    "by": "galnagli",
-    "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-    "comments": 141
+    "title": "Show HN: Automatically detect and patch walking-dead states in Sierra games",
+    "score": 47,
+    "by": "wkfauna",
+    "url": "https://github.com/katiahayati/lucasartsifier/",
+    "comments": 20
   },
   {
-    "title": "Israel creates fake think tank in likely attempt to dupe AI chatbots",
-    "score": 439,
-    "by": "DeepLogin",
-    "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
-    "comments": 284
+    "title": "Claude writing a macOS driver for my obscure HP printer built only for Windows",
+    "score": 189,
+    "by": "porridgeraisin",
+    "url": "https://twitter.com/kuberwastaken/status/2089377982536388964",
+    "comments": 152
   },
   {
-    "title": "An update on leaving Gmail for Fastmail",
-    "score": 211,
-    "by": "neogodless",
-    "url": "https://moddedbear.com/an-update-on-leaving-gmail-for-fastmail/",
-    "comments": 133
+    "title": "Launch HN: machine0 (YC S26) – Persistent CPU and GPU VMs from the CLI",
+    "score": 74,
+    "by": "bwm",
+    "url": "https://machine0.io",
+    "comments": 42
   },
   {
-    "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-    "score": 337,
-    "by": "plurby",
-    "url": "https://blog.roboflow.com/openai-gpt-5-6/",
-    "comments": 161
+    "title": "Claude Code May–August 2026 weekly limits promotion",
+    "score": 273,
+    "by": "tyre",
+    "url": "https://support.claude.com/en/articles/15910845-claude-code-may-august-2026-weekly-limits-promotion",
+    "comments": 246
   },
   {
-    "title": "AI;DR (AI; Didn't Read)",
-    "score": 846,
-    "by": "mooreds",
-    "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-    "comments": 521
+    "title": "Using the railway network as a flatbed scanner",
+    "score": 427,
+    "by": "otherayden",
+    "url": "https://philo.gay/linecam/",
+    "comments": 69
   },
   {
-    "title": "How to disable or avoid intrusive AI",
-    "score": 294,
-    "by": "ColinWright",
-    "url": "https://www.librarian.net/notoai/",
-    "comments": 174
-  },
-  {
-    "title": "Repair Cafe – Fix Your Broken Items",
-    "score": 96,
-    "by": "rglover",
-    "url": "https://www.repaircafe.org/",
-    "comments": 15
-  },
-  {
-    "title": "Launch HN: Speko (YC S26) – OpenRouter for Voice AI",
-    "score": 101,
-    "by": "abdik",
-    "url": "https://speko.ai/",
-    "comments": 58
-  },
-  {
-    "title": "Expert Witness to ChatGPT: \"Show how 3M is 0 percent at fault\"",
-    "score": 41,
-    "by": "kristjansson",
-    "url": "https://www.404media.co/show-how-3m-is-0-at-fault-expert-witness-used-chatgpt-to-write-report-defending-company-in-deadly-explosion-lawsuit/",
-    "comments": 17
-  },
-  {
-    "title": "A simple fix for LLM tail latency",
-    "score": 48,
-    "by": "oskrim",
-    "url": "https://engineering.myhoai.com/posts/a-simple-fix-for-llm-tail-latency/",
-    "comments": 17
-  },
-  {
-    "title": "On AI regulation and messaging",
-    "score": 241,
-    "by": "jacquesm",
-    "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
-    "comments": 510
-  },
-  {
-    "title": "My friends all hate AI; I just joined an AI startup",
-    "score": 44,
-    "by": "eamag",
-    "url": "https://www.fast.ai/posts/2026-08-18-returning-to-AI/",
-    "comments": 124
-  },
-  {
-    "title": "Google wins bankruptcy auction for Spirit Airlines emails, chats, documents",
-    "score": 71,
-    "by": "sgustard",
-    "url": "https://www.axios.com/2026/08/17/google-spirit-airlines-bankruptcy",
-    "comments": 28
-  },
-  {
-    "title": "Anthropic's ‘watermark’ text adulteration in Claude is a perversion of writing",
-    "score": 786,
-    "by": "ropbear",
-    "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
-    "comments": 693
+    "title": "Norway should buy OpenAI",
+    "score": 234,
+    "by": "alexeigannon",
+    "url": "https://www.onethousandmeans.com/p/norway-should-buy-openai",
+    "comments": 249
   }
 ]
