@@ -1,86 +1,51 @@
 [
   {
-    "title": "Malicious Rust crate Arrayref runs a build-time payload",
-    "score": 482,
-    "by": "abhisek",
-    "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
-    "comments": 410
-  },
-  {
-    "title": "Launch HN: Vendo (YC S26) – Let users build features on top of your product",
-    "score": 34,
-    "by": "yousefh409",
-    "url": "https://github.com/runvendo/vendo",
-    "comments": 19
-  },
-  {
-    "title": "Show HN: Huzzah – a novel approach to coding with AI",
+    "title": "AI boosted homework scores, then exam scores dropped: study",
     "score": 298,
-    "by": "danielvaughn",
-    "url": "https://www.danielvaughn.dev/posts/huzzah/",
-    "comments": 157
+    "by": "dash2",
+    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+    "comments": 313
   },
   {
-    "title": "Show HN: Argentic – An L402 Lightning toll booth for AI scraping agents",
-    "score": 7,
-    "by": "Ag0146",
-    "url": "https://Argentic.network",
-    "comments": 3
+    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
+    "score": 256,
+    "by": "aakil",
+    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
+    "comments": 176
   },
   {
-    "title": "Captain Zilog",
-    "score": 48,
-    "by": "rbanffy",
-    "url": "https://www.zilog.com/captain_zilog/",
-    "comments": 6
+    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
+    "score": 84,
+    "by": "gmays",
+    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
+    "comments": 32
   },
   {
-    "title": "Vomit: Clean up Claude 5's token output with a separate LLM",
-    "score": 246,
-    "by": "Bluestein",
-    "url": "https://github.com/zachahn/vomit",
-    "comments": 243
+    "title": "I'm becoming AI-blind",
+    "score": 350,
+    "by": "rcymerys",
+    "url": "https://cymerys.com/w/im-becoming-ai-blind",
+    "comments": 350
   },
   {
-    "title": "Anti-AI fonts are useless and harmful",
-    "score": 156,
-    "by": "speckx",
-    "url": "https://blog.yaros.ae/anti-ai-fonts-are-useless-and-harmful/",
-    "comments": 111
+    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
+    "score": 66,
+    "by": "dariusmonsef",
+    "url": "https://ozbrain.com",
+    "comments": 39
   },
   {
     "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "score": 303,
+    "score": 559,
     "by": "Cider9986",
     "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "comments": 220
+    "comments": 854
   },
   {
-    "title": "Hacking with Claude on a $27 smart watch",
-    "score": 94,
-    "by": "speckx",
-    "url": "https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html",
-    "comments": 53
-  },
-  {
-    "title": "Young Americans increasingly fear AI will take their jobs",
-    "score": 10,
-    "by": "01-_-",
-    "url": "https://www.pewresearch.org/short-reads/2026/08/18/young-adults-in-the-us-are-increasingly-wary-of-ai-concerned-it-will-take-jobs/",
-    "comments": 3
-  },
-  {
-    "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-    "score": 552,
-    "by": "simedw",
-    "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
-    "comments": 113
-  },
-  {
-    "title": "Early-life stress leaves a 'scar' inside brain cells",
-    "score": 34,
-    "by": "gmays",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "comments": 9
+    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
+    "score": 87,
+    "by": "rhgraysonii",
+    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
+    "comments": 18
   }
 ]
