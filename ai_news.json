@@ -1,51 +1,23 @@
 [
   {
-    "title": "AI boosted homework scores, then exam scores dropped: study",
-    "score": 298,
-    "by": "dash2",
-    "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
-    "comments": 313
+    "title": "How a Texas student blew the whistle on a rogue AI hacking attempt",
+    "score": 153,
+    "by": "olalonde",
+    "url": "https://www.reuters.com/world/how-texas-student-blew-whistle-rogue-ai-hacking-attempt-2026-08-20/",
+    "comments": 51
   },
   {
-    "title": "Claudette: Make Claude stop talking like a BuzzFeed article",
-    "score": 256,
-    "by": "aakil",
-    "url": "https://github.com/adnanakil/nobuzz/blob/main/README.md",
-    "comments": 176
+    "title": "A week of using Codex more than Claude",
+    "score": 188,
+    "by": "speckx",
+    "url": "https://allaboutcoding.ghinda.com/a-week-of-using-codex-more-than-claude/",
+    "comments": 208
   },
   {
-    "title": "Early-life stress leaves a 'scar' inside brain cells in mice",
-    "score": 84,
-    "by": "gmays",
-    "url": "https://medicine.washu.edu/news/how-early-life-stress-leaves-a-scar-inside-brain-cells/",
-    "comments": 32
-  },
-  {
-    "title": "I'm becoming AI-blind",
-    "score": 350,
-    "by": "rcymerys",
-    "url": "https://cymerys.com/w/im-becoming-ai-blind",
-    "comments": 350
-  },
-  {
-    "title": "Show HN: OzBrain, a shared brain for knowledge between agents and your team",
-    "score": 66,
-    "by": "dariusmonsef",
-    "url": "https://ozbrain.com",
-    "comments": 39
-  },
-  {
-    "title": "AI companies destroy physical books – let's scan rare books before it's too late",
-    "score": 559,
-    "by": "Cider9986",
-    "url": "https://annas-archive.gl/blog/physical-destruction.html",
-    "comments": 854
-  },
-  {
-    "title": "Show HN: Shoehorn – Quantize any model down to run on your machine",
-    "score": 87,
-    "by": "rhgraysonii",
-    "url": "https://notactuallytreyanastasio.github.io/shoehorn/",
-    "comments": 18
+    "title": "Steve French (SMB3/CIFSFS Linux kernel maintainer) has died",
+    "score": 4,
+    "by": "starkparker",
+    "url": "https://www.phoronix.com/news/SMB3-CIFS-Maintainer-Change",
+    "comments": 0
   }
 ]
