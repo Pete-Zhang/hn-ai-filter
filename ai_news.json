@@ -1,93 +1,58 @@
 [
   {
-    "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-    "score": 30,
-    "by": "dabinat",
-    "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
-    "comments": 6
+    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+    "score": 433,
+    "by": "K7PJP",
+    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
+    "comments": 117
   },
   {
-    "title": "Anthropic Claude and API service outages",
-    "score": 41,
-    "by": "vikrantrathore",
-    "url": "https://status.claude.com/uptime",
-    "comments": 38
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "score": 693,
+    "by": "ComputerGuru",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "comments": 285
   },
   {
-    "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-    "score": 477,
-    "by": "naves",
-    "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
-    "comments": 426
+    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
+    "score": 40,
+    "by": "Dramatize",
+    "url": "https://github.com/dragthelake/ambient-context",
+    "comments": 14
   },
   {
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "score": 133,
-    "by": "pantelisk",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "comments": 24
+    "title": "Training AI to Paint with Code",
+    "score": 82,
+    "by": "Tiberium",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "comments": 9
   },
   {
-    "title": "New EU-wide product repair rules come into force",
-    "score": 81,
-    "by": "austinallegro",
-    "url": "https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/",
-    "comments": 21
-  },
-  {
-    "title": "Google Workspace thinks my domain is an email provider (2025)",
-    "score": 288,
-    "by": "el1s7",
-    "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
-    "comments": 88
-  },
-  {
-    "title": "How Complex Systems Fail (1998)",
-    "score": 307,
-    "by": "shortcrct",
-    "url": "https://how.complexsystems.fail/",
-    "comments": 72
-  },
-  {
-    "title": "AI Chip Architectures",
-    "score": 72,
-    "by": "Finbarr",
-    "url": "https://www.jepeake.com/ai-chip-architectures",
-    "comments": 27
-  },
-  {
-    "title": "LLM Tool Failures: Only 3 Root Causes – Value, Condition, Intent",
-    "score": 6,
-    "by": "offaxis",
-    "url": "https://github.com/Jang-woo-AnnaSoft/execution-state-preflight/blob/main/who-fills-in-the-form.md",
-    "comments": 1
-  },
-  {
-    "title": "Explain it to me like I'm ten",
-    "score": 131,
-    "by": "bookofjoe",
-    "url": "https://timharford.com/2026/08/explain-it-to-me-like-im-ten/",
-    "comments": 48
-  },
-  {
-    "title": "Why is Anthropic's public writing style so unlike Claude's?",
-    "score": 7,
-    "by": "zdw",
-    "url": "https://cmart.blog/claude-writing/",
+    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "score": 1,
+    "by": "adawg4",
+    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
     "comments": 0
   },
   {
-    "title": "Rural Village in Spain Is Welcoming Digital Nomads with Open Arms",
-    "score": 91,
-    "by": "simonebrunozzi",
-    "url": "https://www.cntraveler.com/story/this-rural-village-in-spain-is-welcoming-digital-nomads-with-open-arms",
-    "comments": 89
+    "title": "IPFS Maintainers Winding Down",
+    "score": 343,
+    "by": "iand",
+    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+    "comments": 172
   },
   {
-    "title": "AI and Infrastructure Engineering",
-    "score": 66,
-    "by": "0megion",
-    "url": "https://omegion.dev/2026/08/ai-and-infrastructure-engineering/",
-    "comments": 30
+    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
+    "score": 320,
+    "by": "tosh",
+    "url": "https://developers.openai.com/api/docs/pricing",
+    "comments": 305
+  },
+  {
+    "title": "I built a low-latency AI companion that plays Skyrim with me",
+    "score": 356,
+    "by": "pantelisk",
+    "url": "https://pantel.is/projects/ai-gaming-companion/",
+    "comments": 70
   }
 ]
