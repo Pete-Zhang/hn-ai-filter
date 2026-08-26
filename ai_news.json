@@ -1,58 +1,86 @@
 [
   {
-    "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-    "score": 433,
-    "by": "K7PJP",
-    "url": "https://developer.apple.com/news/?id=1ptvdtcm",
-    "comments": 117
+    "title": "OpenAI Jalapeño: Better than Nvidia Blackwell",
+    "score": 464,
+    "by": "bmulholland",
+    "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+    "comments": 300
   },
   {
-    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-    "score": 693,
-    "by": "ComputerGuru",
-    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
-    "comments": 285
+    "title": "Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others",
+    "score": 77,
+    "by": "zdw",
+    "url": "https://github.com/runetes/maiao",
+    "comments": 43
   },
   {
-    "title": "Show HN: Screen memory without screenshots, just text to Markdown",
-    "score": 40,
-    "by": "Dramatize",
-    "url": "https://github.com/dragthelake/ambient-context",
-    "comments": 14
+    "title": "Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM",
+    "score": 91,
+    "by": "swimmingbrain",
+    "url": "https://github.com/swimmingbrain/texbrain",
+    "comments": 20
   },
   {
-    "title": "Training AI to Paint with Code",
-    "score": 82,
-    "by": "Tiberium",
-    "url": "https://surya.website/rling-qwen-to-paint-with-code",
-    "comments": 9
+    "title": "Disrupting a new covert influence campaign from Russia",
+    "score": 23,
+    "by": "sam_lowry_",
+    "url": "https://openai.com/index/disrupting-malicious-uses-of-ai-influence-campaign-russia/",
+    "comments": 5
   },
   {
-    "title": "Autostep (YC P26) Is Hiring AI/Fullstack Engineers and a Chief of Staff",
+    "title": "Show HN: I made a Raspberry with Qwen my local car AI",
+    "score": 135,
+    "by": "petruspennanen",
+    "url": "https://github.com/ThinkOffApp/CarWatch",
+    "comments": 37
+  },
+  {
+    "title": "Show HN: LatticeDB – Like SQLite but for graph databases",
+    "score": 151,
+    "by": "smiths1999",
+    "url": "https://github.com/jeffhajewski/latticedb",
+    "comments": 39
+  },
+  {
+    "title": "Dolly Parton has died",
+    "score": 1438,
+    "by": "helsinkiandrew",
+    "url": "https://www.theguardian.com/music/2026/aug/25/dolly-parton-country-singer-dead",
+    "comments": 220
+  },
+  {
+    "title": "Clara (YC P26) is hiring a growth engineer to bring AI doctors to market",
     "score": 1,
-    "by": "adawg4",
-    "url": "https://app.dover.com/Autostep/careers/e9510e3b-a854-4e48-9e5d-c89796acaed4",
+    "by": "gfavvas",
+    "url": "https://www.ycombinator.com/companies/clara-2/jobs/8snci6k-founding-full-stack-growth-engineer",
     "comments": 0
   },
   {
-    "title": "IPFS Maintainers Winding Down",
-    "score": 343,
-    "by": "iand",
-    "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
-    "comments": 172
+    "title": "I miss the old Claude Code",
+    "score": 21,
+    "by": "akras14",
+    "url": "https://alexkras.com/focus-is-the-main-feature-why-i-miss-the-old-claude-code/",
+    "comments": 2
   },
   {
-    "title": "OpenAI: GPT 5.6 Sol price reduction (until at least Nov 21)",
-    "score": 320,
-    "by": "tosh",
-    "url": "https://developers.openai.com/api/docs/pricing",
-    "comments": 305
+    "title": "Training AI to Paint with Code",
+    "score": 206,
+    "by": "Tiberium",
+    "url": "https://surya.website/rling-qwen-to-paint-with-code",
+    "comments": 24
   },
   {
-    "title": "I built a low-latency AI companion that plays Skyrim with me",
-    "score": 356,
-    "by": "pantelisk",
-    "url": "https://pantel.is/projects/ai-gaming-companion/",
-    "comments": 70
+    "title": "Show HN: I built self-hosted deployment automation tool for Windows and IIS",
+    "score": 29,
+    "by": "dt3ft",
+    "url": "https://fdeploy.com/",
+    "comments": 18
+  },
+  {
+    "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+    "score": 846,
+    "by": "ComputerGuru",
+    "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+    "comments": 427
   }
 ]
