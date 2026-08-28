@@ -1,114 +1,51 @@
 [
   {
-    "title": "507 Mechanical Movements",
-    "score": 324,
-    "by": "helloplanets",
-    "url": "https://507movements.com/",
-    "comments": 46
+    "title": "U.S. sanctions against the A/I Collective",
+    "score": 335,
+    "by": "exiguus",
+    "url": "https://www.inventati.org/",
+    "comments": 304
   },
   {
-    "title": "Bild AI (YC W25) is hiring product and AI engineers",
-    "score": 1,
-    "by": "rooppal",
-    "url": "https://www.bild.ai/jobs",
+    "title": "GLM-5.3 is now open-weight",
+    "score": 395,
+    "by": "jeudesprits",
+    "url": "https://huggingface.co/zai-org/GLM-5.3",
+    "comments": 141
+  },
+  {
+    "title": "The Analytical AI Handbook",
+    "score": 10,
+    "by": "sethkim",
+    "url": "https://handbook.sutro.sh",
     "comments": 0
   },
   {
-    "title": "I measured what my Claude.md, skills and hooks are worth",
-    "score": 6,
-    "by": "smartwordworld",
-    "url": "https://github.com/jameskomo/config-drift-checker",
-    "comments": 1
+    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
+    "score": 329,
+    "by": "miniBill",
+    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
+    "comments": 111
   },
   {
-    "title": "Launch HN: Salem Robotics (YC S26) – Software for industrial inspection robots",
-    "score": 26,
-    "by": "Salem_robotics",
-    "url": "",
-    "comments": 16
+    "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
+    "score": 62,
+    "by": "IbrahimF96",
+    "url": "https://subsmith.app",
+    "comments": 47
   },
   {
-    "title": "The turbulent AI era is here",
-    "score": 63,
-    "by": "nanna",
-    "url": "https://www.gatesnotes.com/work/make-ai-work-for-everyone/reader/a-turbulent-ai-era-and-critical-choices-to-make?WT.mc_id=20260826_ai-overture-2026-med-med",
-    "comments": 309
-  },
-  {
-    "title": "Nvidia agrees to acquire Hugging Face for $13B",
-    "score": 1739,
-    "by": "mfiguiere",
-    "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-    "comments": 810
-  },
-  {
-    "title": "Show HN: The load-bearing vocabulary of Claude",
+    "title": "I used AWS cognito for a startup. I wouldn't do it again",
     "score": 155,
-    "by": "Labo333",
-    "url": "https://louisabraham.github.io/load-bearing/",
-    "comments": 79
+    "by": "speckx",
+    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
+    "comments": 115
   },
   {
-    "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
-    "score": 85,
-    "by": "vinni2",
-    "url": "https://www.bbc.com/news/articles/cz6zwgg9y8go",
-    "comments": 42
-  },
-  {
-    "title": "Show HN: My Claude quota ran out in 10 minutes, so I made a tool to find out why",
-    "score": 44,
-    "by": "sachinneravath",
-    "url": "https://github.com/kelviq/tare",
-    "comments": 35
-  },
-  {
-    "title": "MIT's Ad Hoc Committee on AI Use in Teaching, Learning, and Research Training",
-    "score": 78,
-    "by": "pbui",
-    "url": "https://aiandeducation.mit.edu/report/",
-    "comments": 56
-  },
-  {
-    "title": "Humanity has the debate about AI consciousness backwards",
-    "score": 42,
-    "by": "semiquaver",
-    "url": "https://economist.com/by-invitation/2026/08/20/humanity-has-the-debate-about-ai-consciousness-backwards",
-    "comments": 118
-  },
-  {
-    "title": "Show HN: A lightweight, stateless database for agent memory",
-    "score": 11,
-    "by": "anuptalwalkar",
-    "url": "https://polign.com/blog-edge-agent-memory",
-    "comments": 5
-  },
-  {
-    "title": "Nvidia projects $673B in sales as AI demand widens",
-    "score": 90,
-    "by": "kuuuzya",
-    "url": "https://forgeeks.net/nvidia-673-billion-ai-growth-forecast/",
-    "comments": 77
-  },
-  {
-    "title": "CMS with AI, Not AI CMS: Wagtail 8.0's New API",
-    "score": 12,
-    "by": "ThibWeb",
-    "url": "https://wagtail.org/blog/cms-with-ai-not-ai-cms-wagtail-80s-new-api/",
-    "comments": 6
-  },
-  {
-    "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-    "score": 897,
-    "by": "GrumpySciGuy",
-    "url": "https://github.com/SenteLabsAI/OpenExecutive",
-    "comments": 611
-  },
-  {
-    "title": "First patient to undergo live AI-assisted brain surgery has tumor removed",
-    "score": 8,
-    "by": "DGAP",
-    "url": "https://www.bbc.com/news/articles/cjwg5n7y68xo",
-    "comments": 0
+    "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
+    "score": 35,
+    "by": "root-parent",
+    "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
+    "comments": 39
   }
 ]
