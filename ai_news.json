@@ -1,51 +1,37 @@
 [
   {
     "title": "U.S. sanctions against the A/I Collective",
-    "score": 335,
+    "score": 638,
     "by": "exiguus",
     "url": "https://www.inventati.org/",
-    "comments": 304
+    "comments": 636
+  },
+  {
+    "title": "StemDeck, a free, open-source and local AI stem separator",
+    "score": 141,
+    "by": "thclpr",
+    "url": "https://github.com/stemdeckapp/stemdeck",
+    "comments": 32
   },
   {
     "title": "GLM-5.3 is now open-weight",
-    "score": 395,
+    "score": 732,
     "by": "jeudesprits",
     "url": "https://huggingface.co/zai-org/GLM-5.3",
-    "comments": 141
+    "comments": 244
   },
   {
-    "title": "The Analytical AI Handbook",
-    "score": 10,
-    "by": "sethkim",
-    "url": "https://handbook.sutro.sh",
-    "comments": 0
+    "title": "Show HN: Sesame - a local-first, open-source password manager",
+    "score": 53,
+    "by": "d0mkaaa",
+    "url": "https://usesesame.app/",
+    "comments": 73
   },
   {
-    "title": "Luanti removed from Google Play due to baseless AI copyright notice",
-    "score": 329,
-    "by": "miniBill",
-    "url": "https://blog.luanti.org/2026/08/27/luanti-dmca-tracer-ai/",
-    "comments": 111
-  },
-  {
-    "title": "Show HN: SubSmith – Turn your own videos into language-learning material",
-    "score": 62,
-    "by": "IbrahimF96",
-    "url": "https://subsmith.app",
-    "comments": 47
-  },
-  {
-    "title": "I used AWS cognito for a startup. I wouldn't do it again",
-    "score": 155,
-    "by": "speckx",
-    "url": "https://joshkaramuth.com/blog/aws-cognito-authentication-startup-nightmare/",
-    "comments": 115
-  },
-  {
-    "title": "Nvidia Insists It Can Keep Printing Money to Fund the AI Boom",
-    "score": 35,
-    "by": "root-parent",
-    "url": "https://www.wsj.com/tech/ai/nvidia-insists-it-can-keep-printing-money-to-fund-the-ai-boom-195e7d5e",
-    "comments": 39
+    "title": "Identifying fake cosmetics using AI",
+    "score": 56,
+    "by": "wgrover",
+    "url": "https://groverlab.org/hnbfpr/2026-08-26-ai-counterfeit-cosmetics.html",
+    "comments": 22
   }
 ]
