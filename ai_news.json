@@ -1,65 +1,65 @@
 [
   {
-    "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-    "score": 46,
-    "by": "sparsesignal",
-    "url": "https://github.com/anthropics/claude-code/issues/66504",
-    "comments": 24
+    "title": "ChatGPT Work Tool and Skill Reference",
+    "score": 63,
+    "by": "ijidak",
+    "url": "https://codex-tool-reference.simonw.chatgpt.site/",
+    "comments": 35
   },
   {
-    "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-    "score": 122,
-    "by": "joebig",
-    "url": "https://arxiv.org/abs/1804.07389",
-    "comments": 29
+    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+    "score": 7,
+    "by": "kstonekuan",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "comments": 0
   },
   {
-    "title": "The turbulent AI era is here. The choices we make now are critical",
-    "score": 20,
-    "by": "maayank",
-    "url": "https://www.gatesnotes.com/home/home-page-topic/reader/a-turbulent-ai-era-and-critical-choices-to-make",
+    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+    "score": 3,
+    "by": "kushagrchitkar",
+    "url": "https://usealmanac.com/",
+    "comments": 0
+  },
+  {
+    "title": "Breaking Claude Code Opus 5 Auto Mode",
+    "score": 258,
+    "by": "Recursing",
+    "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+    "comments": 81
+  },
+  {
+    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
+    "score": 51,
+    "by": "giuliomagnifico",
+    "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
+    "comments": 34
+  },
+  {
+    "title": "P99 0 ms* autocomplete for 240M domain names",
+    "score": 194,
+    "by": "dbalatero",
+    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+    "comments": 73
+  },
+  {
+    "title": "Understanding ChatGPT Work",
+    "score": 281,
+    "by": "gmays",
+    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+    "comments": 151
+  },
+  {
+    "title": "ChatGPT to face tougher regulation in the EU",
+    "score": 8,
+    "by": "dataking",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
     "comments": 3
   },
   {
-    "title": "Nancy Grace Roman Space Telescope",
-    "score": 230,
-    "by": "JumpCrisscross",
-    "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-    "comments": 85
-  },
-  {
-    "title": "Fair Work Commission condemns 'plain wrong' AI legal advice",
-    "score": 35,
-    "by": "martyvis",
-    "url": "https://www.abc.net.au/news/2026-08-29/fair-work-commission-condemns-ai-legal-advice/107089766",
-    "comments": 11
-  },
-  {
-    "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-    "score": 337,
-    "by": "DeepLogin",
-    "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-    "comments": 206
-  },
-  {
-    "title": "Open Oscar Server: open-source server compatible with AIM and ICQ clients",
-    "score": 49,
-    "by": "gregsadetsky",
-    "url": "https://github.com/mk6i/open-oscar-server",
-    "comments": 18
-  },
-  {
-    "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-    "score": 413,
-    "by": "gpi",
-    "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-    "comments": 101
-  },
-  {
-    "title": "StemDeck, a free, open-source and local AI stem separator",
-    "score": 229,
-    "by": "thclpr",
-    "url": "https://github.com/stemdeckapp/stemdeck",
-    "comments": 61
+    "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
+    "score": 9,
+    "by": "jc_811",
+    "url": "",
+    "comments": 8
   }
 ]
