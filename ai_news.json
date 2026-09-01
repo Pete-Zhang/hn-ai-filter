@@ -1,65 +1,72 @@
 [
   {
+    "title": "American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career",
+    "score": 117,
+    "by": "NaOH",
+    "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+    "comments": 42
+  },
+  {
+    "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+    "score": 477,
+    "by": "matthewsinclair",
+    "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+    "comments": 65
+  },
+  {
+    "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+    "score": 344,
+    "by": "keithcarolus",
+    "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+    "comments": 50
+  },
+  {
+    "title": "Apple caught off guard by AI demand for Mac Mini and Mac Studio",
+    "score": 433,
+    "by": "thm",
+    "url": "https://www.macrumors.com/2026/08/30/apple-unexpected-mac-mini-and-studio-demand/",
+    "comments": 491
+  },
+  {
+    "title": "Smartphone LED detects hidden cameras with AI",
+    "score": 233,
+    "by": "geox",
+    "url": "https://www.chosun.com/english/industry-en/2026/08/30/SBFXUIJQYZEARKP5T4FBAY25HQ/",
+    "comments": 69
+  },
+  {
     "title": "ChatGPT Work Tool and Skill Reference",
-    "score": 63,
+    "score": 230,
     "by": "ijidak",
     "url": "https://codex-tool-reference.simonw.chatgpt.site/",
-    "comments": 35
-  },
-  {
-    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
-    "score": 7,
-    "by": "kstonekuan",
-    "url": "https://github.com/Hebbian-Robotics/hflow",
-    "comments": 0
-  },
-  {
-    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
-    "score": 3,
-    "by": "kushagrchitkar",
-    "url": "https://usealmanac.com/",
-    "comments": 0
+    "comments": 56
   },
   {
     "title": "Breaking Claude Code Opus 5 Auto Mode",
-    "score": 258,
+    "score": 376,
     "by": "Recursing",
     "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
-    "comments": 81
+    "comments": 116
   },
   {
-    "title": "Study: Blue light impairs the eye's ability to distinguish fine detail most",
-    "score": 51,
-    "by": "giuliomagnifico",
-    "url": "https://research.uga.edu/news/blue-light-has-a-surprising-effect-on-your-eyes-study-finds/",
-    "comments": 34
+    "title": "Launch HN: Almanac (YC S26) – AI that knows your company",
+    "score": 56,
+    "by": "kushagrchitkar",
+    "url": "https://usealmanac.com/",
+    "comments": 47
   },
   {
-    "title": "P99 0 ms* autocomplete for 240M domain names",
-    "score": 194,
-    "by": "dbalatero",
-    "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
-    "comments": 73
+    "title": "Show HN: We built the smallest dual-band aircraft tracker",
+    "score": 88,
+    "by": "CoolNamesAllTkn",
+    "url": "https://pantsforbirds.com/the-worlds-smallest-dual-band-ads-b-receiver-module/",
+    "comments": 22
   },
   {
-    "title": "Understanding ChatGPT Work",
-    "score": 281,
-    "by": "gmays",
-    "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-    "comments": 151
-  },
-  {
-    "title": "ChatGPT to face tougher regulation in the EU",
-    "score": 8,
-    "by": "dataking",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986682/openai-chatgpt-eu-dsa",
-    "comments": 3
-  },
-  {
-    "title": "Ask HN: What would happen if your company stopped using all AI tomorrow?",
-    "score": 9,
-    "by": "jc_811",
-    "url": "",
-    "comments": 8
+    "title": "Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines",
+    "score": 44,
+    "by": "kstonekuan",
+    "url": "https://github.com/Hebbian-Robotics/hflow",
+    "comments": 12
   }
 ]
