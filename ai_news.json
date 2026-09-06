@@ -1,86 +1,58 @@
 [
   {
-    "title": "Discovery of a new OpenAI agent message board",
-    "score": 1750,
-    "by": "moultano",
-    "url": "https://collusion.wiki/",
-    "comments": 1345
-  },
-  {
-    "title": "AI handles incidents, engineers lose touch with their systems",
-    "score": 166,
-    "by": "sylvainkalache",
-    "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
-    "comments": 155
-  },
-  {
-    "title": "Can AI design circuit boards yet?",
-    "score": 272,
-    "by": "iopapa",
-    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
-    "comments": 166
-  },
-  {
-    "title": "Portal by Spotify cut my Claude Code token usage by 90%",
-    "score": 155,
-    "by": "cebert",
-    "url": "https://engineering.atspotify.com/2026/9/portal-by-spotify-cut-my-claude-code-token-usage-by-90",
-    "comments": 68
-  },
-  {
-    "title": "GPT-6 Astra in code review: Gains, privacy, and cost",
-    "score": 53,
-    "by": "cebert",
-    "url": "https://www.coderabbit.ai/blog/gpt-6-astra-code-review-evaluation",
-    "comments": 40
-  },
-  {
-    "title": "Ask HN: Resources to get good at soldering?",
-    "score": 145,
-    "by": "tosmatos",
-    "url": "",
-    "comments": 80
-  },
-  {
-    "title": "Show HN: Open-Source eInk Bike Computer",
-    "score": 296,
-    "by": "stingrae",
-    "url": "https://opentrailpaper.com",
-    "comments": 102
-  },
-  {
-    "title": "Show HN: TERMy – A fast terminal assistant that does not use LLMs",
-    "score": 143,
-    "by": "gioscarab",
-    "url": "https://github.com/gioblu/NPC-Forge/blob/main/docs/development.md",
-    "comments": 38
-  },
-  {
-    "title": "Government Rails Site Hit Hours After CVE Patch",
-    "score": 98,
-    "by": "rietta",
-    "url": "https://rietta.com/blog/ruby-on-rails-cve-exploited-hours-after-patch/",
+    "title": "AI, Tools and Transformation",
+    "score": 76,
+    "by": "firexcy",
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
     "comments": 31
   },
   {
+    "title": "Discovery of a new OpenAI agent message board",
+    "score": 2197,
+    "by": "moultano",
+    "url": "https://collusion.wiki/",
+    "comments": 1552
+  },
+  {
+    "title": "Chrome again exempts Google from user site data settings",
+    "score": 440,
+    "by": "ExMachina73",
+    "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+    "comments": 66
+  },
+  {
+    "title": "Visualizing Rust's Vtables: How dyn Trait Works In Memory",
+    "score": 180,
+    "by": "torutofu",
+    "url": "https://sofiabelen.github.io/projects/visualizing-rusts-vtables-how-dyn-trait-works-in-memory/",
+    "comments": 38
+  },
+  {
+    "title": "Can AI design circuit boards yet?",
+    "score": 408,
+    "by": "iopapa",
+    "url": "https://eebench.org/blog/can-ai-design-circuit-boards-yet/",
+    "comments": 225
+  },
+  {
+    "title": "Ask HN: Resources to get good at soldering?",
+    "score": 260,
+    "by": "tosmatos",
+    "url": "",
+    "comments": 161
+  },
+  {
+    "title": "Show HN: Open-Source eInk Bike Computer",
+    "score": 398,
+    "by": "stingrae",
+    "url": "https://opentrailpaper.com",
+    "comments": 126
+  },
+  {
     "title": "GPT-6 Astra",
-    "score": 2180,
+    "score": 2235,
     "by": "kibae",
     "url": "https://openai.com/index/gpt-6-astra/",
-    "comments": 2005
-  },
-  {
-    "title": "Praearcturus gigas: giant scorpion from Lower Devonian (Lochkovian) of Britain",
-    "score": 17,
-    "by": "bryanrasmussen",
-    "url": "https://onlinelibrary.wiley.com/doi/10.1111/pala.70064",
-    "comments": 14
-  },
-  {
-    "title": "Show HN: Moadim.io – A scheduler for agents",
-    "score": 26,
-    "by": "tupe12334",
-    "url": "https://moadim.io/",
-    "comments": 11
+    "comments": 2047
   }
 ]
