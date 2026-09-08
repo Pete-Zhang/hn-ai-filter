@@ -1,58 +1,58 @@
 [
   {
-    "title": "De-Brainrot Vacations",
-    "score": 112,
-    "by": "DanielVZ",
-    "url": "https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/",
-    "comments": 26
+    "title": "There's a new \"Google Jail\" for independent wikis",
+    "score": 242,
+    "by": "pizzaiolo",
+    "url": "https://weirdgloop.org/blog/google-jail",
+    "comments": 87
   },
   {
-    "title": "Splash-free urinals for global sustainability and accessibility",
-    "score": 58,
-    "by": "u1hcw9nx",
-    "url": "https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false",
-    "comments": 28
+    "title": "Mistral raises €3B",
+    "score": 586,
+    "by": "kuberwastaken",
+    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
+    "comments": 415
   },
   {
-    "title": "Smartphone makers don't bother to comply with EU repairability requirements",
-    "score": 98,
-    "by": "mdp2021",
-    "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
-    "comments": 39
-  },
-  {
-    "title": "Ask HN: Fable hacked my piano, can I release the results?",
-    "score": 198,
-    "by": "jmpman",
-    "url": "",
-    "comments": 118
-  },
-  {
-    "title": "Show HN: I made a word building game supporting anagrams and one handed use",
-    "score": 22,
-    "by": "busymom0",
-    "url": "",
-    "comments": 3
-  },
-  {
-    "title": "The jobs apocalypse is postponed. An AI jobs boom is here",
-    "score": 6,
-    "by": "MrBuddyCasino",
-    "url": "https://www.economist.com/finance-and-economics/2026/09/04/the-jobs-apocalypse-is-postponed-an-ai-jobs-boom-is-here",
+    "title": "End-to-end infrastructure for training and inferencing open weight models",
+    "score": 20,
+    "by": "Bluestein",
+    "url": "https://docs.appliedcompute.com",
     "comments": 1
   },
   {
-    "title": "Show HN: Engrim – A universal, local-first SQLite memory engine for AI CLIs",
-    "score": 58,
-    "by": "timgordontg",
-    "url": "https://github.com/timgordontg/engrim",
-    "comments": 22
+    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
+    "score": 55,
+    "by": "Re-Tails",
+    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
+    "comments": 39
   },
   {
-    "title": "Research acceleration: The view inside OpenAI",
-    "score": 191,
-    "by": "iamsyr",
-    "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-    "comments": 153
+    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
+    "score": 43,
+    "by": "RohanAdwankar",
+    "url": "https://rohanadwankar.github.io/posts/platforms.html",
+    "comments": 8
+  },
+  {
+    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+    "score": 220,
+    "by": "signa11",
+    "url": "https://arxiv.org/abs/2607.24888",
+    "comments": 48
+  },
+  {
+    "title": "Show HN: Jigsaw Haiku",
+    "score": 105,
+    "by": "windowshopping",
+    "url": "https://jigsawhaiku.com/",
+    "comments": 29
+  },
+  {
+    "title": "Show HN: Interactive Tree of Life",
+    "score": 97,
+    "by": "Lucent",
+    "url": "https://ptree.org/",
+    "comments": 23
   }
 ]
