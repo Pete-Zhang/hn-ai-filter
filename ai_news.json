@@ -1,58 +1,44 @@
 [
   {
-    "title": "There's a new \"Google Jail\" for independent wikis",
-    "score": 242,
-    "by": "pizzaiolo",
-    "url": "https://weirdgloop.org/blog/google-jail",
-    "comments": 87
+    "title": "How An AI math breakthrough ignited a controversy",
+    "score": 120,
+    "by": "pseudolus",
+    "url": "https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy",
+    "comments": 111
   },
   {
-    "title": "Mistral raises €3B",
-    "score": 586,
-    "by": "kuberwastaken",
-    "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/",
-    "comments": 415
+    "title": "Muse – Meta’s personal AI agent",
+    "score": 551,
+    "by": "yks",
+    "url": "https://ai.meta.com/muse/",
+    "comments": 604
   },
   {
-    "title": "End-to-end infrastructure for training and inferencing open weight models",
-    "score": 20,
-    "by": "Bluestein",
-    "url": "https://docs.appliedcompute.com",
-    "comments": 1
+    "title": "Tension wood: A 'muscle' that can both bend and straighten plants",
+    "score": 131,
+    "by": "mdp2021",
+    "url": "https://phys.org/news/2026-09-trees-muscle-posture-newly-role.html",
+    "comments": 34
   },
   {
-    "title": "Arm Mali G2-Ultra NX GPU: desktop-class mobile gameplay with AI-native graphics",
-    "score": 55,
-    "by": "Re-Tails",
-    "url": "https://newsroom.arm.com/blog/arm-mali-g2-ultra-nx-ai-native-mobile-graphics",
-    "comments": 39
+    "title": "“Tweet” and the bird logo apparently enter the public domain",
+    "score": 133,
+    "by": "progval",
+    "url": "https://blog.ericgoldman.org/archives/2026/09/tweet-and-the-bird-logo-apparently-enter-the-public-domain-but-x-maintains-its-grip-on-the-twitter-mark-for-now-x-v-project-bluebird.htm",
+    "comments": 83
   },
   {
-    "title": "The VMs Powering Mobile Agents (Instinct, Claude Code)",
-    "score": 43,
-    "by": "RohanAdwankar",
-    "url": "https://rohanadwankar.github.io/posts/platforms.html",
-    "comments": 8
+    "title": "Tao: Open math problems being non-renewably mined by AI",
+    "score": 395,
+    "by": "_alternator_",
+    "url": "https://mathstodon.xyz/@tao/117237320796901560",
+    "comments": 349
   },
   {
-    "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-    "score": 220,
-    "by": "signa11",
-    "url": "https://arxiv.org/abs/2607.24888",
-    "comments": 48
-  },
-  {
-    "title": "Show HN: Jigsaw Haiku",
-    "score": 105,
-    "by": "windowshopping",
-    "url": "https://jigsawhaiku.com/",
-    "comments": 29
-  },
-  {
-    "title": "Show HN: Interactive Tree of Life",
-    "score": 97,
-    "by": "Lucent",
-    "url": "https://ptree.org/",
-    "comments": 23
+    "title": "ChatGPT Images 2.5",
+    "score": 354,
+    "by": "vertigoruntime",
+    "url": "https://openai.com/index/introducing-chatgpt-images-2-5/",
+    "comments": 428
   }
 ]
