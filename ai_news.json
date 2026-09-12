@@ -1,79 +1,86 @@
 [
   {
-    "title": "The Waymo effect: how AI is quietly making research less collaborative",
-    "score": 78,
-    "by": "JohnHammersley",
-    "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
-    "comments": 51
+    "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+    "score": 111,
+    "by": "zdw",
+    "url": "https://eiln.github.io/posts/ane.html",
+    "comments": 13
   },
   {
-    "title": "Claude is no longer available for minors",
-    "score": 122,
-    "by": "Muhammad523",
-    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
-    "comments": 154
+    "title": "A misalignment of AI in mathematics",
+    "score": 982,
+    "by": "meredydd",
+    "url": "https://mathandai.org/",
+    "comments": 933
   },
   {
-    "title": "OpenAI Agents API",
-    "score": 280,
-    "by": "aquir",
-    "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
-    "comments": 157
+    "title": "A Design Space Exploration of Async/Await",
+    "score": 311,
+    "by": "wcrichton",
+    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+    "comments": 80
   },
   {
-    "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-    "score": 827,
-    "by": "pred_",
-    "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
-    "comments": 762
-  },
-  {
-    "title": "Detecting and countering misuse of AI: September 2026",
-    "score": 145,
-    "by": "garo-pro",
-    "url": "https://www.anthropic.com/threat-intelligence-report-september-2026",
-    "comments": 209
-  },
-  {
-    "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
-    "score": 114,
-    "by": "jonifico",
-    "url": "https://system76.com/workstations/thelio-mira-ai",
-    "comments": 108
-  },
-  {
-    "title": "Astra for Coding: Why Are We Doing This Again?",
-    "score": 377,
-    "by": "manojbajaj95",
-    "url": "https://lucumr.pocoo.org/2026/9/7/astra-why/",
-    "comments": 272
-  },
-  {
-    "title": "Moonshot serves Claude instead of Kimi and collects exchanges for model training",
-    "score": 4,
-    "by": "MrBuddyCasino",
-    "url": "https://twitter.com/DavidAgranovich/status/2098168522862215449",
+    "title": "Crypto farm in Mexican mountains puts spotlight on cartel funding",
+    "score": 6,
+    "by": "JumpCrisscross",
+    "url": "https://www.reuters.com/world/americas/hidden-crypto-farm-mexican-mountains-puts-spotlight-cartel-funding-2026-09-12/",
     "comments": 0
   },
   {
-    "title": "Show HN: Vertumnus – printable posters of farmers' market produce seasonality",
-    "score": 44,
-    "by": "perspectivezoom",
-    "url": "https://vertumnus.fyi",
-    "comments": 15
+    "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+    "score": 757,
+    "by": "chao-",
+    "url": "https://www.rubyhack.ai/",
+    "comments": 421
   },
   {
-    "title": "AI Is Breaking This Thing We Call Trust",
-    "score": 93,
-    "by": "matheusml",
-    "url": "https://terriblesoftware.org/2026/09/10/ai-is-breaking-this-thing-we-call-trust/",
-    "comments": 32
+    "title": "Resistance Training Prescription for Muscle Function, Hypertrophy in Health",
+    "score": 24,
+    "by": "ultral",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12965823/",
+    "comments": 8
   },
   {
-    "title": "Compute-efficient pretraining and scaling to trillion-parameter models",
-    "score": 116,
-    "by": "ronfriedhaber",
-    "url": "https://magic.dev/blog/pretraining#",
-    "comments": 62
+    "title": "Detailed report on the use of solar geoengineering",
+    "score": 14,
+    "by": "coloneltcb",
+    "url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
+    "comments": 4
+  },
+  {
+    "title": "Claude is only available to people over 18 years",
+    "score": 652,
+    "by": "Muhammad523",
+    "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+    "comments": 629
+  },
+  {
+    "title": "AI Is Powerful Enough to Crack Our Hardest Math Problems–and Kill Us All",
+    "score": 13,
+    "by": "diogenes_atx",
+    "url": "https://www.wsj.com/tech/ai/ai-math-millennium-prize-safety-openai-anthropic-05179825",
+    "comments": 17
+  },
+  {
+    "title": "Zep AI (YC W24) Is Hiring a Head of Forward Deployed Engineering",
+    "score": 1,
+    "by": "roseway4",
+    "url": "https://www.getzep.com/careers/",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Godot and Rust based multiplexer (terminal panes and more)",
+    "score": 88,
+    "by": "1nv1n",
+    "url": "https://github.com/godot-pty/gpty",
+    "comments": 46
+  },
+  {
+    "title": "CIA Releases President's Daily Briefs in Commemoration of 9/11",
+    "score": 141,
+    "by": "stmw",
+    "url": "https://www.cia.gov/stories/story/cia-releases-presidents-daily-briefs-in-commemoration-of-the-25th-anniversary-of-9-11/",
+    "comments": 69
   }
 ]
