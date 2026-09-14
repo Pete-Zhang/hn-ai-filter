@@ -1,79 +1,100 @@
 [
   {
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "score": 335,
-    "by": "jonifico",
-    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "comments": 391
+    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+    "score": 136,
+    "by": "tosh",
+    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
+    "comments": 56
   },
   {
-    "title": "Nvidia is the central bank of AI",
-    "score": 510,
-    "by": "tolugenius",
-    "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
-    "comments": 358
+    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
+    "score": 9,
+    "by": "bookofjoe",
+    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
+    "comments": 1
   },
   {
-    "title": "Everyone should slow down AI development except for me",
-    "score": 586,
-    "by": "xena",
-    "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
-    "comments": 347
+    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
+    "score": 77,
+    "by": "callbacked",
+    "url": "https://github.com/callbacked/kinesis",
+    "comments": 24
   },
   {
-    "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-    "score": 176,
-    "by": "eiln",
-    "url": "https://eiln.github.io/posts/ane-dma.html",
-    "comments": 28
+    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
+    "score": 8,
+    "by": "tkgally",
+    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
+    "comments": 0
   },
   {
-    "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-    "score": 561,
-    "by": "datakan",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
-    "comments": 432
+    "title": "Temporal raises $550M at a $12.55B valuation",
+    "score": 40,
+    "by": "gk1",
+    "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
+    "comments": 20
   },
   {
-    "title": "AgentsDock: An IDE designed for agentic AI research",
-    "score": 70,
-    "by": "ZihuiGeorgia",
-    "url": "https://agentsdock.net/",
-    "comments": 29
+    "title": "The case against JPEG XL",
+    "score": 226,
+    "by": "contact9879",
+    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
+    "comments": 292
   },
   {
-    "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-    "score": 248,
-    "by": "theanonymousone",
-    "url": "https://withspecific.com/benchmarks/real-swe",
-    "comments": 138
+    "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
+    "score": 6,
+    "by": "petrenk0n",
+    "url": "https://triangllabs.ai/otis",
+    "comments": 0
   },
   {
-    "title": "I fixed a tractor using John Deere's self-repair service. Farmers aren't sold",
-    "score": 130,
-    "by": "sbulaev",
-    "url": "https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/",
-    "comments": 142
+    "title": "Big AI sets out its terms for regulatory capture",
+    "score": 67,
+    "by": "joebuckwilliams",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
+    "comments": 26
   },
   {
-    "title": "A Design Space Exploration of Async/Await",
-    "score": 444,
-    "by": "wcrichton",
-    "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
-    "comments": 129
+    "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
+    "score": 90,
+    "by": "gregnavis",
+    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+    "comments": 116
   },
   {
-    "title": "A misalignment of AI in mathematics",
-    "score": 1199,
-    "by": "meredydd",
-    "url": "https://mathandai.org/",
-    "comments": 1185
+    "title": "\"I asked ChatGPT to critique my book and gave it almost no context\"",
+    "score": 3,
+    "by": "YvesMarieStrang",
+    "url": "https://uthiopia.com/chatgpt-literary-critic/",
+    "comments": 1
   },
   {
-    "title": "The worst spam emails: iLands AI agent hustle",
-    "score": 114,
-    "by": "ColinWright",
-    "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
-    "comments": 55
+    "title": "My Health Insurance Denied My Cancer Treatment. I Emailed the CEO",
+    "score": 3,
+    "by": "mooreds",
+    "url": "https://www.vanityfair.com/story/healthcare-cancer-treatment-essay",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Authorize MCP tool calls without giving agents the credentials",
+    "score": 3,
+    "by": "b4timer",
+    "url": "https://github.com/keydrisLabs/mcp-auth-keydris-template",
+    "comments": 1
+  },
+  {
+    "title": "Open-source AI and open models reading list",
+    "score": 138,
+    "by": "simonpure",
+    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+    "comments": 25
+  },
+  {
+    "title": "Ask HN: Are 80s high school hobby programmers overwhelmingly pro-AI?",
+    "score": 5,
+    "by": "amichail",
+    "url": "",
+    "comments": 10
   }
 ]
