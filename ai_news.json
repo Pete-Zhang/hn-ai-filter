@@ -1,100 +1,58 @@
 [
   {
-    "title": "Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
-    "score": 136,
-    "by": "tosh",
-    "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude/",
-    "comments": 56
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "score": 232,
+    "by": "choult",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "comments": 214
   },
   {
-    "title": "Largest known Roman mosaic, beneath Baths of Trajan, opens to the public",
-    "score": 9,
-    "by": "bookofjoe",
-    "url": "https://www.theartnewspaper.com/2026/09/14/largest-roman-mosaic-opens-to-the-public",
-    "comments": 1
+    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
+    "score": 23,
+    "by": "myth_drannon",
+    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
+    "comments": 5
   },
   {
-    "title": "Show HN: Kinesis – Control your Mac with the Meta Neural Band",
-    "score": 77,
-    "by": "callbacked",
-    "url": "https://github.com/callbacked/kinesis",
-    "comments": 24
-  },
-  {
-    "title": "Show HN: Pelican-bicycle alternatives (updated for 2026)",
-    "score": 8,
-    "by": "tkgally",
-    "url": "https://gally.net/temp/20260914pelican-alternatives/index.html",
-    "comments": 0
-  },
-  {
-    "title": "Temporal raises $550M at a $12.55B valuation",
-    "score": 40,
-    "by": "gk1",
-    "url": "https://temporal.io/blog/temporal-raises-usd550m-series-e-at-usd12-55b-valuation-ai",
-    "comments": 20
-  },
-  {
-    "title": "The case against JPEG XL",
-    "score": 226,
-    "by": "contact9879",
-    "url": "https://giannirosato.com/blog/post/case-against-jxl/",
-    "comments": 292
-  },
-  {
-    "title": "Show HN: I built Otis, a minimal AI agent that runs local models out of the box",
-    "score": 6,
-    "by": "petrenk0n",
-    "url": "https://triangllabs.ai/otis",
-    "comments": 0
-  },
-  {
-    "title": "Big AI sets out its terms for regulatory capture",
-    "score": 67,
-    "by": "joebuckwilliams",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/big-ai-sets-out-its-terms-for-regulatory-capture-and-calls-it-pace-the-frontier/5296067",
-    "comments": 26
-  },
-  {
-    "title": "What a time to be alive – rouge AI agents attack RubyGems.org",
-    "score": 90,
+    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
+    "score": 486,
     "by": "gregnavis",
     "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "comments": 116
+    "comments": 391
   },
   {
-    "title": "\"I asked ChatGPT to critique my book and gave it almost no context\"",
-    "score": 3,
-    "by": "YvesMarieStrang",
-    "url": "https://uthiopia.com/chatgpt-literary-critic/",
-    "comments": 1
+    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+    "score": 136,
+    "by": "nathannaveen",
+    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+    "comments": 29
   },
   {
-    "title": "My Health Insurance Denied My Cancer Treatment. I Emailed the CEO",
-    "score": 3,
-    "by": "mooreds",
-    "url": "https://www.vanityfair.com/story/healthcare-cancer-treatment-essay",
-    "comments": 0
+    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
+    "score": 107,
+    "by": "guld",
+    "url": "https://pub.sakana.ai/pc-alm/",
+    "comments": 38
   },
   {
-    "title": "Show HN: Authorize MCP tool calls without giving agents the credentials",
-    "score": 3,
-    "by": "b4timer",
-    "url": "https://github.com/keydrisLabs/mcp-auth-keydris-template",
-    "comments": 1
+    "title": "Let's make quality the norm again",
+    "score": 96,
+    "by": "ingve",
+    "url": "https://www.forbrukerradet.no/short-life/",
+    "comments": 111
   },
   {
-    "title": "Open-source AI and open models reading list",
-    "score": 138,
-    "by": "simonpure",
-    "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-    "comments": 25
+    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
+    "score": 187,
+    "by": "throwworhtthrow",
+    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
+    "comments": 110
   },
   {
-    "title": "Ask HN: Are 80s high school hobby programmers overwhelmingly pro-AI?",
-    "score": 5,
-    "by": "amichail",
-    "url": "",
-    "comments": 10
+    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
+    "score": 86,
+    "by": "toebee",
+    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
+    "comments": 29
   }
 ]
