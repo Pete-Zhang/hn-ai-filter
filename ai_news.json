@@ -1,58 +1,79 @@
 [
   {
-    "title": "Suspected sabotage causes major Netherlands rail disruption",
-    "score": 232,
-    "by": "choult",
-    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
-    "comments": 214
+    "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
+    "score": 166,
+    "by": "vertigoruntime",
+    "url": "https://mistral.ai/news/mistral-x-mozilla/",
+    "comments": 46
   },
   {
-    "title": "OpenAI buys smartphone camera maker Glass Imaging for $300M",
-    "score": 23,
-    "by": "myth_drannon",
-    "url": "https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/",
-    "comments": 5
+    "title": "Show HN: I made a flight simulator, except you're just a passenger",
+    "score": 252,
+    "by": "rkotcher",
+    "url": "https://inflightsimulator.com",
+    "comments": 133
   },
   {
-    "title": "OpenAI bots knew about the RubyGems caching vulnerability",
-    "score": 486,
-    "by": "gregnavis",
-    "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
-    "comments": 391
+    "title": "Intelligence per Watt: Measuring Intelligence Efficiency of Local AI",
+    "score": 77,
+    "by": "pythonic_hell",
+    "url": "https://arxiv.org/abs/2511.07885",
+    "comments": 14
   },
   {
-    "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
-    "score": 136,
-    "by": "nathannaveen",
-    "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
-    "comments": 29
-  },
-  {
-    "title": "Backprop Alternative: Augmented Lagrangian Predictive Coding",
-    "score": 107,
-    "by": "guld",
-    "url": "https://pub.sakana.ai/pc-alm/",
-    "comments": 38
+    "title": "Show HN: Capsule – Single-file web apps that save their data into SQLite",
+    "score": 347,
+    "by": "bashtian",
+    "url": "https://withcapsule.app/",
+    "comments": 144
   },
   {
     "title": "Let's make quality the norm again",
-    "score": 96,
+    "score": 424,
     "by": "ingve",
     "url": "https://www.forbrukerradet.no/short-life/",
-    "comments": 111
+    "comments": 438
   },
   {
-    "title": "Ex-FTC boss Khan: break out the handcuffs for AI CEOs, citing 1934 precedent",
-    "score": 187,
-    "by": "throwworhtthrow",
-    "url": "https://www.theregister.com/ai-and-ml/2026/09/14/ex-ftc-boss-khan-urges-uncle-sam-to-break-out-the-handcuffs-for-ai-ceos-citing-1934-precedent/5296325",
-    "comments": 110
+    "title": "Suspected sabotage causes major Netherlands rail disruption",
+    "score": 503,
+    "by": "choult",
+    "url": "https://www.bbc.com/news/articles/c8ly49w9g1edo",
+    "comments": 449
   },
   {
-    "title": "Show HN: Nari Qwen3-TTS and Qwen3-ASR – High accuracy, low latency and cost",
-    "score": 86,
-    "by": "toebee",
-    "url": "https://narilabs.com/blog/nari-labs-leads-coval-voice-ai-benchmarks/",
-    "comments": 29
+    "title": "Uncanny and unappetizing: appetites spoil as AI images take over food menus",
+    "score": 9,
+    "by": "edward",
+    "url": "https://www.theguardian.com/technology/2026/sep/06/ai-food-menu-images",
+    "comments": 2
+  },
+  {
+    "title": "Stay discoverable in search while disallowing AI training",
+    "score": 78,
+    "by": "djfergus",
+    "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+    "comments": 44
+  },
+  {
+    "title": "A single firm is behind OpenAI, Anthropic, and Meta hacking scandals",
+    "score": 633,
+    "by": "yusufozkan",
+    "url": "https://www.effort.news/irregular",
+    "comments": 217
+  },
+  {
+    "title": "Show HN: Pizza Bot – An inbox for AI agents that work in the background",
+    "score": 49,
+    "by": "jd_",
+    "url": "https://github.com/pizza-bot-app/pizza-bot",
+    "comments": 31
+  },
+  {
+    "title": "Cartesian – AI 3D Modeling for Design",
+    "score": 109,
+    "by": "eustoria",
+    "url": "https://www.formas.ai/cartesian",
+    "comments": 78
   }
 ]
