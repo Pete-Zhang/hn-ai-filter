@@ -1,72 +1,72 @@
 [
   {
-    "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-    "score": 305,
-    "by": "emigre",
-    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "comments": 115
+    "title": "AI and the Destruction of the Creative Commons",
+    "score": 107,
+    "by": "rakel_rakel",
+    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+    "comments": 51
+  },
+  {
+    "title": "If AI coding is lowering your code quality, you're not managing quality right",
+    "score": 40,
+    "by": "bucket2015",
+    "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+    "comments": 48
   },
   {
     "title": "AI-generated posters don’t have to be horrible",
-    "score": 267,
+    "score": 1641,
     "by": "ereiamjh",
     "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "comments": 173
+    "comments": 860
   },
   {
-    "title": "How OpenAI Used Its Own LLMs to Design Its Jalapeño Chip",
-    "score": 136,
-    "by": "maxall4",
-    "url": "https://spectrum.ieee.org/llms-for-chip-design",
-    "comments": 94
+    "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
+    "score": 3,
+    "by": "4815162342",
+    "url": "https://sigabrt.dev",
+    "comments": 1
   },
   {
-    "title": "NASA-IBM Lunar Foundation open-Source Geospatial AI Model",
-    "score": 35,
-    "by": "noobplus",
-    "url": "https://newsroom.usra.edu/usra-contributes-planetary-science-expertise-to-nasa-ibm-lunar-foundation-model/",
-    "comments": 4
+    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
+    "score": 173,
+    "by": "latein",
+    "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
+    "comments": 164
   },
   {
-    "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-    "score": 200,
-    "by": "HenryNdubuaku",
-    "url": "https://cactuscompute.com/needle",
-    "comments": 89
+    "title": "Learning another language may be one of the best ways to keep your brain healthy",
+    "score": 97,
+    "by": "nativeit",
+    "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
+    "comments": 88
   },
   {
     "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "score": 119,
-    "by": "Jimmc414",
-    "url": "https://www.newscientist.com/article/2589739-our-brain-evolved-from-two-primitive-nervous-systems-that-merged/",
-    "comments": 66
+    "score": 631,
+    "by": "emigre",
+    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
+    "comments": 247
   },
   {
-    "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-    "score": 674,
-    "by": "datadrivenangel",
-    "url": "https://code.claude.com/docs/en/changelog",
-    "comments": 245
+    "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
+    "score": 82,
+    "by": "frabonacci",
+    "url": "https://github.com/trycua/cua",
+    "comments": 8
   },
   {
-    "title": "Alibaba open-sources AI model that can detect cancer and nearly 150 conditions",
-    "score": 128,
-    "by": "yogthos",
-    "url": "https://www.scmp.com/tech/big-tech/article/3368055/alibaba-open-sources-medical-ai-model-can-detect-cancer-and-nearly-150-conditions",
-    "comments": 16
+    "title": "Can you tell which images are AI-generated?",
+    "score": 92,
+    "by": "hckr78",
+    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
+    "comments": 72
   },
   {
-    "title": "AI chatbots are becoming experts at changing people's minds",
-    "score": 109,
-    "by": "rbanffy",
-    "url": "https://www.science.org/content/article/ai-chatbots-are-becoming-experts-changing-people-s-minds-what-s-their-secret",
-    "comments": 97
-  },
-  {
-    "title": "Mathematicians Build Long-Awaited Graph Sandwich",
-    "score": 79,
-    "by": "ibobev",
-    "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918/",
-    "comments": 19
+    "title": "I think you should almost never use AI to write",
+    "score": 308,
+    "by": "erwald",
+    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
+    "comments": 150
   }
 ]
