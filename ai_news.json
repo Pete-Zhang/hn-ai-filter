@@ -1,72 +1,86 @@
 [
   {
-    "title": "AI and the Destruction of the Creative Commons",
-    "score": 107,
-    "by": "rakel_rakel",
-    "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
-    "comments": 51
+    "title": "M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents",
+    "score": 25,
+    "by": "piotrgrabowski",
+    "url": "https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/",
+    "comments": 6
   },
   {
-    "title": "If AI coding is lowering your code quality, you're not managing quality right",
-    "score": 40,
-    "by": "bucket2015",
-    "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
-    "comments": 48
+    "title": "Ask HN: Is it impossible to disable Siri on macOS 27?",
+    "score": 46,
+    "by": "semidror",
+    "url": "",
+    "comments": 20
   },
   {
-    "title": "AI-generated posters don’t have to be horrible",
-    "score": 1641,
-    "by": "ereiamjh",
-    "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
-    "comments": 860
+    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
+    "score": 195,
+    "by": "volotat",
+    "url": "https://github.com/volotat/mini-AGI/",
+    "comments": 41
   },
   {
-    "title": "Show HN: Sigabrt.dev – cronjob monitor with an SSH TUI",
-    "score": 3,
-    "by": "4815162342",
-    "url": "https://sigabrt.dev",
+    "title": "Show HN: SQLBraid – Write SQL directly in TypeScript without a query-builder DSL",
+    "score": 6,
+    "by": "Clickin",
+    "url": "https://github.com/Clickin/SQLBraid",
     "comments": 1
   },
   {
-    "title": "Spain Orders Blocks on Archive.today and Its Mirrors",
-    "score": 173,
+    "title": "Don't Use AI to Write",
+    "score": 25,
+    "by": "eigenBasis",
+    "url": "https://paulbakker.io/writing/no-ai-for-writing/",
+    "comments": 9
+  },
+  {
+    "title": "Spain orders blocks on Archive.today and its mirrors",
+    "score": 503,
     "by": "latein",
     "url": "https://reclaimthenet.org/spain-blocks-archive-today-and-mirrors",
-    "comments": 164
+    "comments": 398
   },
   {
-    "title": "Learning another language may be one of the best ways to keep your brain healthy",
-    "score": 97,
-    "by": "nativeit",
-    "url": "https://theconversation.com/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy-as-you-age-291951",
-    "comments": 88
+    "title": "Amiga Unix, Again",
+    "score": 128,
+    "by": "doener",
+    "url": "https://amigaux.org/",
+    "comments": 52
   },
   {
-    "title": "Two parallel neural ectoderm progenitors contribute to the developing brain",
-    "score": 631,
-    "by": "emigre",
-    "url": "https://med.stanford.edu/news/all-news/2026/09/two-separate-brains.html",
-    "comments": 247
+    "title": "Show HN: A competition for small neural networks that play strategy games",
+    "score": 93,
+    "by": "codetiger",
+    "url": "https://tinybrains.dev",
+    "comments": 30
   },
   {
-    "title": "Show HN: CUA-S1 – A System One Model for Computer Use",
-    "score": 82,
-    "by": "frabonacci",
-    "url": "https://github.com/trycua/cua",
-    "comments": 8
+    "title": "macOS 27: Workaround to avoid downloading AI models and save storage",
+    "score": 3,
+    "by": "ano-ther",
+    "url": "https://www.reddit.com/r/MacOSBeta/comments/1vlnf13/workaround_to_avoid_downloading_ai_models_and/",
+    "comments": 0
   },
   {
-    "title": "Can you tell which images are AI-generated?",
-    "score": 92,
-    "by": "hckr78",
-    "url": "https://slop-sense.labtoagi.com/games/is-this-image-ai/",
-    "comments": 72
+    "title": "Show HN: Lossless-memory – a personal AI memory that never summarizes",
+    "score": 21,
+    "by": "aru-labs",
+    "url": "https://github.com/aru-labs/lossless-memory",
+    "comments": 9
   },
   {
-    "title": "I think you should almost never use AI to write",
-    "score": 308,
-    "by": "erwald",
-    "url": "https://erichgrunewald.substack.com/p/why-you-should-almost-never-use-ai",
-    "comments": 150
+    "title": "Show HN: Radius – A Meetup.com Alternative",
+    "score": 148,
+    "by": "radius89",
+    "url": "https://radius.to/",
+    "comments": 68
+  },
+  {
+    "title": "AI chatbots give wrong answers to financial queries 'most of the time'",
+    "score": 137,
+    "by": "1vuio0pswjnm7",
+    "url": "https://www.ft.com/content/c0cd359d-df84-4208-a789-ffa864b43666",
+    "comments": 70
   }
 ]
