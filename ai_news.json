@@ -1,93 +1,114 @@
 [
   {
-    "title": "AI Has No Wisdom and Neither Will You",
-    "score": 87,
-    "by": "dimonomid",
-    "url": "https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/",
-    "comments": 84
+    "title": "Claude Code reads AGENTS.md only when telemetry is on",
+    "score": 105,
+    "by": "pszypowicz",
+    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
+    "comments": 35
   },
   {
-    "title": "I said no and Apple said yes",
-    "score": 363,
-    "by": "thatslast",
-    "url": "https://dbushell.com/2026/09/22/apple-intelligence/",
-    "comments": 271
+    "title": "Claude Opus 5.5",
+    "score": 1631,
+    "by": "km144",
+    "url": "https://www.anthropic.com/claude-opus-5-5",
+    "comments": 997
   },
   {
-    "title": "Transformers Explained Visually",
-    "score": 475,
-    "by": "aray07",
-    "url": "https://poloclub.github.io/transformer-explainer/",
-    "comments": 74
+    "title": "What AI-Native Looks Like",
+    "score": 3,
+    "by": "fagnerbrack",
+    "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
+    "comments": 0
   },
   {
-    "title": "Verda (Finland) raises $189M in Series B",
-    "score": 48,
-    "by": "cmrdporcupine",
-    "url": "https://verda.com/blog/what-189m-in-funding-unlocks-for-verda-customers",
-    "comments": 16
+    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
+    "score": 8,
+    "by": "zilue",
+    "url": "https://filmstudio.rxlab.app",
+    "comments": 3
   },
   {
-    "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
-    "score": 268,
-    "by": "julian_digital",
-    "url": "https://linear.app/now/ci-bottleneck-reworked",
-    "comments": 315
+    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
+    "score": 689,
+    "by": "sohkamyung",
+    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+    "comments": 406
   },
   {
-    "title": "Claude Status – Elevated errors for multiple models",
-    "score": 125,
-    "by": "corvad",
-    "url": "https://status.claude.com/incidents/7g1qpkyz5gxh",
+    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
+    "score": 381,
+    "by": "boredjohnny",
+    "url": "https://foxscript.org/",
+    "comments": 209
+  },
+  {
+    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
+    "score": 18,
+    "by": "cdrnsf",
+    "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+    "comments": 7
+  },
+  {
+    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+    "score": 309,
+    "by": "theanonymousone",
+    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
     "comments": 98
   },
   {
-    "title": "Python Workers are now generally available",
-    "score": 243,
-    "by": "torutofu",
-    "url": "https://blog.cloudflare.com/python-workers-ga/",
-    "comments": 39
+    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
+    "score": 729,
+    "by": "devonnull",
+    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
+    "comments": 365
   },
   {
-    "title": "JetBrains Air: A System of Products for Agentic Software Development",
-    "score": 55,
-    "by": "FinnLobsien",
-    "url": "https://blog.jetbrains.com/blog/2026/09/22/introducing-jetbrains-air/",
-    "comments": 47
+    "title": "Unreal Agent",
+    "score": 215,
+    "by": "trollied",
+    "url": "https://unreallabs.ai/blog/unreal-agent/",
+    "comments": 113
   },
   {
-    "title": "Frontier AI on Your Own Hardware",
-    "score": 170,
-    "by": "pretext",
-    "url": "https://timdettmers.com/2026/09/21/dlab-open-source-week/",
-    "comments": 87
+    "title": "How often do you think about the 1893 World's Fair?",
+    "score": 35,
+    "by": "bryanrasmussen",
+    "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
+    "comments": 17
   },
   {
-    "title": "Why does mathmain need an encrypted loader?",
-    "score": 133,
-    "by": "abhisek",
-    "url": "https://safedep.io/mathmain-encrypted-loader/",
-    "comments": 39
+    "title": "OpenAI is well positioned to fast-follow Jev",
+    "score": 301,
+    "by": "JohnBerryman",
+    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
+    "comments": 213
   },
   {
-    "title": "Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences",
-    "score": 57,
-    "by": "giuliomagnifico",
-    "url": "https://norwegianscitechnews.com/2026/09/young-users-ditch-google-for-ai-with-unknown-consequences/",
-    "comments": 93
+    "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
+    "score": 121,
+    "by": "florianstandhar",
+    "url": "https://benchmarkheaven.com/jev-models",
+    "comments": 32
   },
   {
-    "title": "Show HN: Mini-AGI – Dynamic continual learning model trained on 8GB VRAM",
-    "score": 264,
-    "by": "volotat",
-    "url": "https://github.com/volotat/mini-AGI/",
-    "comments": 67
+    "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
+    "score": 27,
+    "by": "grep_it",
+    "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
+    "comments": 2
   },
   {
-    "title": "US halts flights at busy East Coast airports, says fiber line cut",
-    "score": 225,
-    "by": "allanbreyes",
-    "url": "https://www.reuters.com/world/us/faa-halts-some-us-east-coast-flights-due-communication-issues-2026-09-21/",
-    "comments": 132
+    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
+    "score": 177,
+    "by": "mixedbit",
+    "url": "https://droprun.sh/",
+    "comments": 59
+  },
+  {
+    "title": "Show HN: Training a model to identify AI web content from structure alone",
+    "score": 61,
+    "by": "jochenmadler",
+    "url": "https://arxiv.org/abs/2609.15369",
+    "comments": 15
   }
 ]
