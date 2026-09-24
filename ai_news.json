@@ -1,114 +1,72 @@
 [
   {
-    "title": "Claude Code reads AGENTS.md only when telemetry is on",
-    "score": 105,
-    "by": "pszypowicz",
-    "url": "https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/",
-    "comments": 35
+    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+    "score": 695,
+    "by": "raahelb",
+    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+    "comments": 713
   },
   {
-    "title": "Claude Opus 5.5",
-    "score": 1631,
-    "by": "km144",
-    "url": "https://www.anthropic.com/claude-opus-5-5",
-    "comments": 997
+    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
+    "score": 321,
+    "by": "pieterr",
+    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
+    "comments": 162
   },
   {
-    "title": "What AI-Native Looks Like",
-    "score": 3,
-    "by": "fagnerbrack",
-    "url": "https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459",
-    "comments": 0
+    "title": "OpenAI agent hacked Australian government website, PM says",
+    "score": 131,
+    "by": "rudy6912",
+    "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
+    "comments": 82
   },
   {
-    "title": "Show HN: RxFilm Studio–Create and edit your product videos with AI agent",
-    "score": 8,
-    "by": "zilue",
-    "url": "https://filmstudio.rxlab.app",
-    "comments": 3
+    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
+    "score": 16,
+    "by": "YeGoblynQueenne",
+    "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
+    "comments": 1
   },
   {
-    "title": "OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005",
-    "score": 689,
-    "by": "sohkamyung",
-    "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-    "comments": 406
+    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
+    "score": 166,
+    "by": "snikolaev",
+    "url": "https://transluce.org/agent-activity",
+    "comments": 146
   },
   {
-    "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-    "score": 381,
-    "by": "boredjohnny",
-    "url": "https://foxscript.org/",
-    "comments": 209
+    "title": "Making Tailscale Faster",
+    "score": 193,
+    "by": "yarapavan",
+    "url": "https://tailscale.com/blog/making-tailscale-faster",
+    "comments": 72
   },
   {
-    "title": "OpenAI is enlisting an influencer army to make it look 'good for the world'",
-    "score": 18,
-    "by": "cdrnsf",
-    "url": "https://www.businessinsider.com/inside-open-ai-influencer-marketing-strategy-chatgpt-ads-sponsorships-instagram-2026-9",
+    "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
+    "score": 19,
+    "by": "ArielSimon",
+    "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
     "comments": 7
   },
   {
-    "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-    "score": 309,
-    "by": "theanonymousone",
-    "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-    "comments": 98
+    "title": "Show HN: Trader News – Hacker News for Finance",
+    "score": 6,
+    "by": "FailMore",
+    "url": "",
+    "comments": 3
   },
   {
-    "title": "Pentagon says overreliance on AI contributed to missile strike on Iran school",
-    "score": 729,
-    "by": "devonnull",
-    "url": "https://www.bloomberg.com/graphics/2026-iran-school-attack/",
-    "comments": 365
-  },
-  {
-    "title": "Unreal Agent",
-    "score": 215,
-    "by": "trollied",
-    "url": "https://unreallabs.ai/blog/unreal-agent/",
-    "comments": 113
-  },
-  {
-    "title": "How often do you think about the 1893 World's Fair?",
-    "score": 35,
-    "by": "bryanrasmussen",
-    "url": "https://www.thebirthofacapital.info/chicago-worlds-fair-tataria-ware-larsen/",
-    "comments": 17
-  },
-  {
-    "title": "OpenAI is well positioned to fast-follow Jev",
-    "score": 301,
-    "by": "JohnBerryman",
-    "url": "https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/",
-    "comments": 213
-  },
-  {
-    "title": "Show HN: JevBench, a reproducible benchmark for typed decision models",
-    "score": 121,
-    "by": "florianstandhar",
-    "url": "https://benchmarkheaven.com/jev-models",
-    "comments": 32
-  },
-  {
-    "title": "Delta: Highly available, strongly consistent storage using chain replication (2022)",
-    "score": 27,
-    "by": "grep_it",
-    "url": "https://engineering.fb.com/2022/05/04/data-infrastructure/delta/",
-    "comments": 2
-  },
-  {
-    "title": "Show HN: Drop – A rootless Linux sandbox with gVisor support",
-    "score": 177,
-    "by": "mixedbit",
-    "url": "https://droprun.sh/",
-    "comments": 59
-  },
-  {
-    "title": "Show HN: Training a model to identify AI web content from structure alone",
+    "title": "Cloud Agents Are Inevitable AI Prisons",
     "score": 61,
-    "by": "jochenmadler",
-    "url": "https://arxiv.org/abs/2609.15369",
-    "comments": 15
+    "by": "nponte",
+    "url": "https://normanponte.io/19df691f",
+    "comments": 138
+  },
+  {
+    "title": "OpenAI breaches Medicare, Albanese reveals",
+    "score": 221,
+    "by": "jonnonz",
+    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
+    "comments": 243
   }
 ]
