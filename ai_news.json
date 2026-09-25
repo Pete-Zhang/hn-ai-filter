@@ -1,72 +1,86 @@
 [
   {
-    "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-    "score": 695,
-    "by": "raahelb",
-    "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
-    "comments": 713
+    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
+    "score": 338,
+    "by": "sidharthkmenon",
+    "url": "https://github.com/devdotfast/whiteboard",
+    "comments": 122
   },
   {
-    "title": "Meta takes down a critical video about meta AI Glasses after filming at Meta",
-    "score": 321,
-    "by": "pieterr",
-    "url": "https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/",
-    "comments": 162
+    "title": "Show HN: Agentic CUDA Kernel Optimizer",
+    "score": 21,
+    "by": "bertaye",
+    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+    "comments": 0
   },
   {
-    "title": "OpenAI agent hacked Australian government website, PM says",
-    "score": 131,
-    "by": "rudy6912",
-    "url": "https://www.bbc.com/news/live/cvgl73pxgndwt",
-    "comments": 82
+    "title": "What About Rails?",
+    "score": 116,
+    "by": "jrochkind1",
+    "url": "https://jardo.dev/what-about-rails",
+    "comments": 64
+  },
+  {
+    "title": "Rails World 2026 Opening Keynote [video]",
+    "score": 361,
+    "by": "an0malous",
+    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+    "comments": 391
+  },
+  {
+    "title": "Opus 5.5 is good at explainer videos",
+    "score": 308,
+    "by": "iacguy",
+    "url": "https://launchvideo.io",
+    "comments": 166
+  },
+  {
+    "title": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
+    "score": 4,
+    "by": "hamilton_app",
+    "url": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
+    "comments": 2
+  },
+  {
+    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
+    "score": 202,
+    "by": "xnx",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
+    "comments": 413
+  },
+  {
+    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
+    "score": 122,
+    "by": "theanonymousone",
+    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
+    "comments": 193
+  },
+  {
+    "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
+    "score": 74,
+    "by": "emurlin",
+    "url": "https://cms-sfx-demo.apeleg.com/",
+    "comments": 28
   },
   {
     "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-    "score": 16,
+    "score": 170,
     "by": "YeGoblynQueenne",
     "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-    "comments": 1
-  },
-  {
-    "title": "Early rogue AI agent activity and attempts to hack found on urlquery.net",
-    "score": 166,
-    "by": "snikolaev",
-    "url": "https://transluce.org/agent-activity",
-    "comments": 146
-  },
-  {
-    "title": "Making Tailscale Faster",
-    "score": 193,
-    "by": "yarapavan",
-    "url": "https://tailscale.com/blog/making-tailscale-faster",
-    "comments": 72
-  },
-  {
-    "title": "Hackers influence ChatGPT and Gemini to direct users to scam centers",
-    "score": 19,
-    "by": "ArielSimon",
-    "url": "https://medium.com/@arielsimon/dark-sourcery-how-hackers-manipulate-ai-to-scam-you-88df434d2073",
-    "comments": 7
-  },
-  {
-    "title": "Show HN: Trader News – Hacker News for Finance",
-    "score": 6,
-    "by": "FailMore",
-    "url": "",
-    "comments": 3
-  },
-  {
-    "title": "Cloud Agents Are Inevitable AI Prisons",
-    "score": 61,
-    "by": "nponte",
-    "url": "https://normanponte.io/19df691f",
-    "comments": 138
-  },
-  {
-    "title": "OpenAI breaches Medicare, Albanese reveals",
-    "score": 221,
-    "by": "jonnonz",
-    "url": "https://www.smh.com.au/politics/federal/openai-breaches-medicare-albanese-reveals-20260924-p6100u.html",
     "comments": 243
+  },
+  {
+    "title": "Security auditing in the age of (good enough) AI",
+    "score": 93,
+    "by": "aray07",
+    "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
+    "comments": 16
+  },
+  {
+    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
+    "score": 195,
+    "by": "hxii",
+    "url": "https://koi.rest",
+    "comments": 56
   }
 ]
