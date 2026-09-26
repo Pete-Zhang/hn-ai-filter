@@ -1,86 +1,72 @@
 [
   {
-    "title": "Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design",
-    "score": 338,
-    "by": "sidharthkmenon",
-    "url": "https://github.com/devdotfast/whiteboard",
-    "comments": 122
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "score": 531,
+    "by": "specked-citrus",
+    "url": "https://swarmtraces.org/",
+    "comments": 333
   },
   {
-    "title": "Show HN: Agentic CUDA Kernel Optimizer",
+    "title": "One Month Without AI",
+    "score": 78,
+    "by": "saibotk",
+    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
+    "comments": 55
+  },
+  {
+    "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
+    "score": 146,
+    "by": "mlaux",
+    "url": "",
+    "comments": 142
+  },
+  {
+    "title": "From Thin Air to Bootable Images: The Tine Build System",
     "score": 21,
-    "by": "bertaye",
-    "url": "https://github.com/bertaye/agentic-cuda-optimizer",
-    "comments": 0
-  },
-  {
-    "title": "What About Rails?",
-    "score": 116,
-    "by": "jrochkind1",
-    "url": "https://jardo.dev/what-about-rails",
-    "comments": 64
-  },
-  {
-    "title": "Rails World 2026 Opening Keynote [video]",
-    "score": 361,
-    "by": "an0malous",
-    "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-    "comments": 391
-  },
-  {
-    "title": "Opus 5.5 is good at explainer videos",
-    "score": 308,
-    "by": "iacguy",
-    "url": "https://launchvideo.io",
-    "comments": 166
-  },
-  {
-    "title": "Show HN: Hamilton – a no-internet Android health dashboard, named after my dog",
-    "score": 4,
-    "by": "hamilton_app",
-    "url": "https://play.google.com/store/apps/details?id=com.gads.hamilton&hl=en_US",
+    "by": "Levitating",
+    "url": "https://amutable.com/blog/tine-build-system",
     "comments": 2
   },
   {
-    "title": "Google’s Project Suncatcher to put ML infrastructure in space",
-    "score": 202,
-    "by": "xnx",
-    "url": "https://blog.google/innovation-and-ai/models-and-research/google-research/google-project-suncatcher-facts/",
-    "comments": 413
+    "title": "A new world airport and its baggage",
+    "score": 35,
+    "by": "firloop",
+    "url": "https://computer.rip/2026-09-20-denver-baggage.html",
+    "comments": 1
   },
   {
-    "title": "Tutoring company tells parents to save their money and 'use AI instead'",
-    "score": 122,
-    "by": "theanonymousone",
-    "url": "https://www.afr.com/policy/health-and-education/tutoring-company-tell-parents-to-save-their-money-and-use-ai-instead-20260923-p60z0r",
-    "comments": 193
+    "title": "I wrote a ray tracer in Brainfuck",
+    "score": 77,
+    "by": "epestr",
+    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
+    "comments": 19
   },
   {
-    "title": "Show HN: Air-gapped file encryption as self-decrypting HTML page",
-    "score": 74,
-    "by": "emurlin",
-    "url": "https://cms-sfx-demo.apeleg.com/",
-    "comments": 28
+    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
+    "score": 456,
+    "by": "cramer4next",
+    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
+    "comments": 779
   },
   {
-    "title": "'That's so AI ' What gen Alpha's biggest insult tells us",
-    "score": 170,
-    "by": "YeGoblynQueenne",
-    "url": "https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us",
-    "comments": 243
+    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
+    "score": 203,
+    "by": "HotGarbage",
+    "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
+    "comments": 97
   },
   {
-    "title": "Security auditing in the age of (good enough) AI",
-    "score": 93,
-    "by": "aray07",
-    "url": "https://blog.trailofbits.com/2026/09/18/auditing-in-the-age-of-good-enough-ai/",
-    "comments": 16
+    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
+    "score": 125,
+    "by": "sbulaev",
+    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
+    "comments": 120
   },
   {
-    "title": "Show HN: Koi.rest – watch some fish and regain your balance",
-    "score": 195,
-    "by": "hxii",
-    "url": "https://koi.rest",
-    "comments": 56
+    "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
+    "score": 7,
+    "by": "pluc",
+    "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
+    "comments": 3
   }
 ]
