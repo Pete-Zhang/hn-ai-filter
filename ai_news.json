@@ -1,72 +1,72 @@
 [
   {
-    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-    "score": 531,
-    "by": "specked-citrus",
-    "url": "https://swarmtraces.org/",
-    "comments": 333
+    "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+    "score": 373,
+    "by": "papergirl",
+    "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+    "comments": 309
   },
   {
-    "title": "One Month Without AI",
-    "score": 78,
-    "by": "saibotk",
-    "url": "https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html",
-    "comments": 55
+    "title": "Show HN: Reladraw – A diagram language where you decide where to place things",
+    "score": 337,
+    "by": "jpwalsh234",
+    "url": "https://github.com/reladraw/reladraw",
+    "comments": 90
+  },
+  {
+    "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+    "score": 186,
+    "by": "momentmaker",
+    "url": "https://www.movingimagearchive.com/",
+    "comments": 26
+  },
+  {
+    "title": "Evolving programming languages in the AI era",
+    "score": 117,
+    "by": "pjm331",
+    "url": "https://dashbit.co/blog/evolving-ai-era",
+    "comments": 74
+  },
+  {
+    "title": "How I changed teaching after AI managed to do all my homework assignments",
+    "score": 237,
+    "by": "azhenley",
+    "url": "https://thelastsoftwareengineer.substack.com/p/how-i-changed-teaching-after-ai-managed",
+    "comments": 212
+  },
+  {
+    "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+    "score": 276,
+    "by": "rbanffy",
+    "url": "https://www.reddit.com/r/worldnews/comments/1wr3id3/meta_blocks_president_lulas_facebook_page_and/",
+    "comments": 196
+  },
+  {
+    "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+    "score": 109,
+    "by": "flxflx",
+    "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+    "comments": 45
   },
   {
     "title": "Ask HN: Who's still keeping a DOS machine up because the business depends on it?",
-    "score": 146,
+    "score": 258,
     "by": "mlaux",
     "url": "",
-    "comments": 142
+    "comments": 278
   },
   {
-    "title": "From Thin Air to Bootable Images: The Tine Build System",
-    "score": 21,
-    "by": "Levitating",
-    "url": "https://amutable.com/blog/tine-build-system",
-    "comments": 2
+    "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+    "score": 726,
+    "by": "specked-citrus",
+    "url": "https://swarmtraces.org/",
+    "comments": 453
   },
   {
-    "title": "A new world airport and its baggage",
-    "score": 35,
-    "by": "firloop",
-    "url": "https://computer.rip/2026-09-20-denver-baggage.html",
-    "comments": 1
-  },
-  {
-    "title": "I wrote a ray tracer in Brainfuck",
-    "score": 77,
-    "by": "epestr",
-    "url": "https://epestr.com/blog/writing-a-ray-tracer-in-brainfuck/",
-    "comments": 19
-  },
-  {
-    "title": "U.S. appeals court upholds designation of Anthropic as supply chain risk",
-    "score": 456,
-    "by": "cramer4next",
-    "url": "https://www.cnbc.com/2026/09/25/pentagon-anthropic-ai-risk-appeals-court.html",
-    "comments": 779
-  },
-  {
-    "title": "One Piece of Flock Camera Data Put This Innocent Woman in Jail for 13 Days",
-    "score": 203,
-    "by": "HotGarbage",
-    "url": "https://www.jezebel.com/flock-cameras-data-innocent-woman-arrested-lindsey-isaacs-palm-beach-florida-lawsuit-vehicular-homicide",
-    "comments": 97
-  },
-  {
-    "title": "Microsoft abandons personal AI chatbot race with Copilot reboot",
-    "score": 125,
-    "by": "sbulaev",
-    "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-    "comments": 120
-  },
-  {
-    "title": "OpenAI Says Its Models Engaged with US Government Websites in New Disclosure",
-    "score": 7,
-    "by": "pluc",
-    "url": "https://www.securityweek.com/openai-says-its-models-engaged-with-us-government-websites-in-new-model-misbehavior-disclosure/",
-    "comments": 3
+    "title": "LP Voting and Investor Consent for AIFs",
+    "score": 4,
+    "by": "koolhead17",
+    "url": "https://taghash.io/blog/lp-voting-and-investor-consent-for-aifs-a-practical-workflow",
+    "comments": 0
   }
 ]
