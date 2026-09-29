@@ -1,79 +1,72 @@
 [
   {
-    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
-    "score": 24,
-    "by": "jonbaer",
-    "url": "https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/",
-    "comments": 29
+    "title": "AI companies leak data to advertisers [pdf]",
+    "score": 286,
+    "by": "damaru2",
+    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
+    "comments": 94
   },
   {
-    "title": "The problem is not the AI code, but nobody knows anything anymore",
-    "score": 13,
-    "by": "zazuke",
-    "url": "https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/",
-    "comments": 0
-  },
-  {
-    "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-    "score": 217,
-    "by": "davidcollantes",
-    "url": "https://git.mills.io/prologic/parley",
-    "comments": 106
-  },
-  {
-    "title": "Show HN: PaperMono, e-ink fridge magnet shopping list with mobile web page",
-    "score": 67,
-    "by": "seamus_c",
-    "url": "https://github.com/seamusc/papermono-shopping-list",
+    "title": "Without the Hot Air",
+    "score": 41,
+    "by": "0sake_rs",
+    "url": "https://www.withouthotair.com/",
     "comments": 24
   },
   {
-    "title": "What Would a Serious AI Product Look Like?",
-    "score": 19,
-    "by": "lumpa",
-    "url": "https://blog.glyph.im/2026/09/serious-ai-product.html",
-    "comments": 4
-  },
-  {
-    "title": "Nissan's third generation e-POWER powertrain",
-    "score": 132,
-    "by": "mroche",
-    "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
-    "comments": 287
-  },
-  {
-    "title": "Thinking fast and slow in AI: The role of metacognition (2021)",
-    "score": 154,
-    "by": "teleforce",
-    "url": "https://arxiv.org/abs/2110.01834",
-    "comments": 60
-  },
-  {
-    "title": "Imp is a full port of DSPy to the BEAM",
-    "score": 93,
-    "by": "mpweiher",
-    "url": "https://github.com/deepfates/imp",
-    "comments": 9
-  },
-  {
-    "title": "Prompting Claude Opus 5.5",
-    "score": 182,
-    "by": "Michelangelo11",
-    "url": "https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/prompting-claude-opus-5-5",
-    "comments": 201
-  },
-  {
-    "title": "Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
-    "score": 70,
-    "by": "FKJ",
-    "url": "https://earnanhonestdollar.com/bench",
-    "comments": 17
-  },
-  {
-    "title": "OpenAI Pauses Training Its Most Powerful Models After Agents Target Government",
+    "title": "Claude partial outage",
     "score": 10,
-    "by": "chunky1994",
-    "url": "https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government/",
-    "comments": 4
+    "by": "sidcool",
+    "url": "https://status.claude.com/incidents/4xvtc2gnq73l",
+    "comments": 2
+  },
+  {
+    "title": "Unsurprisingly, Meta's new Muse AI agent blatantly ignores users permissions",
+    "score": 9,
+    "by": "dkobia",
+    "url": "https://appleinsider.com/articles/26/09/28/metas-new-ai-agent-blatantly-ignores-users-permissions",
+    "comments": 0
+  },
+  {
+    "title": "Claude Is \"At Capacity\"",
+    "score": 6,
+    "by": "throw03172019",
+    "url": "",
+    "comments": 0
+  },
+  {
+    "title": "12,000-year-old Göbeklitepe burials explain scattered bones",
+    "score": 153,
+    "by": "yusufaytas",
+    "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+    "comments": 42
+  },
+  {
+    "title": "Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+    "score": 540,
+    "by": "firelex",
+    "url": "https://github.com/firelex/jeff",
+    "comments": 205
+  },
+  {
+    "title": "Nvidia wants to put a watchdog chip next to every AI agent",
+    "score": 207,
+    "by": "jonbaer",
+    "url": "https://www.cnbc.com/2026/09/28/nvidia-releases.html",
+    "comments": 272
+  },
+  {
+    "title": "Show HN: HN.watch – Videos of all Hacker News posts",
+    "score": 202,
+    "by": "mrborgen",
+    "url": "https://hn.watch/",
+    "comments": 96
+  },
+  {
+    "title": "It's Time to Investigate the AI Labs",
+    "score": 553,
+    "by": "ibobev",
+    "url": "https://calnewport.com/its-time-to-investigate-the-ai-labs/",
+    "comments": 237
   }
 ]
