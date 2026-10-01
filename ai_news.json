@@ -1,86 +1,79 @@
 [
   {
-    "title": "Pi.dev: You Said No MCP",
-    "score": 308,
+    "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+    "score": 181,
+    "by": "sagacity",
+    "url": "https://github.com/maanHimself/OpenDLSS-NR",
+    "comments": 91
+  },
+  {
+    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
+    "score": 73,
+    "by": "dgellow",
+    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
+    "comments": 29
+  },
+  {
+    "title": "Surprisingly complex waves reveal the brain's inner workings",
+    "score": 226,
+    "by": "ibobev",
+    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+    "comments": 88
+  },
+  {
+    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
+    "score": 178,
+    "by": "anerli",
+    "url": "https://github.com/magnitudedev/magnitude",
+    "comments": 88
+  },
+  {
+    "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
+    "score": 182,
+    "by": "dancablam",
+    "url": "https://ledge.sh",
+    "comments": 83
+  },
+  {
+    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
+    "score": 32,
+    "by": "Anon84",
+    "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
+    "comments": 17
+  },
+  {
+    "title": "Doing a Machine Learning PhD While Working in Japan",
+    "score": 126,
+    "by": "pwim",
+    "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
+    "comments": 41
+  },
+  {
+    "title": "Responsible Release of AI-Generated Mathematics",
+    "score": 108,
+    "by": "aureianimus",
+    "url": "https://agmai.org/general-sep29/",
+    "comments": 154
+  },
+  {
+    "title": "You said no MCP",
+    "score": 651,
     "by": "yarapavan",
     "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "comments": 155
-  },
-  {
-    "title": "Show HN: JBR-001 – An open-source 3D printable desktop robot",
-    "score": 68,
-    "by": "gvuksic",
-    "url": "https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96",
-    "comments": 13
-  },
-  {
-    "title": "Upgrade your desktop: Ubuntu 26.04.1 LTS is now available",
-    "score": 35,
-    "by": "d99kris",
-    "url": "https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts",
-    "comments": 12
-  },
-  {
-    "title": "Floppy Emu Hardware Failure Analysis Results",
-    "score": 25,
-    "by": "zdw",
-    "url": "https://www.bigmessowires.com/2026/09/29/floppy-emu-hardware-failure-analysis-results/",
-    "comments": 5
-  },
-  {
-    "title": "Ask HN: What are you reading?",
-    "score": 358,
-    "by": "dan-bailey",
-    "url": "",
-    "comments": 689
-  },
-  {
-    "title": "Show HN: Using 2D DFT, dithering, etc. to maximize eInk manga image quality",
-    "score": 45,
-    "by": "seam_carver",
-    "url": "https://github.com/ciromattia/kcc",
-    "comments": 10
-  },
-  {
-    "title": "Show HN: NSL – WSL for Linux",
-    "score": 146,
-    "by": "bketelsen",
-    "url": "https://frostyard.github.io/nsl/",
-    "comments": 95
+    "comments": 356
   },
   {
     "title": "Show HN: A working 3D model of an Enigma machine",
-    "score": 78,
+    "score": 101,
     "by": "primitivesuave",
     "url": "https://enigma.design",
-    "comments": 25
+    "comments": 40
   },
   {
-    "title": "Sustainable energy without the hot air (2008)",
-    "score": 146,
-    "by": "0sake_rs",
-    "url": "https://www.withouthotair.com/",
-    "comments": 85
-  },
-  {
-    "title": "Flydubai B38M, first officer under investigation for suspected suicide attempt",
-    "score": 24,
-    "by": "haunter",
-    "url": "https://avherald.com/h?article=5423fa17",
-    "comments": 3
-  },
-  {
-    "title": "Muse.ai gets me kicked off fb marketplace",
-    "score": 4,
-    "by": "zcalvin",
-    "url": "",
-    "comments": 4
-  },
-  {
-    "title": "A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf]",
-    "score": 419,
-    "by": "damaru2",
-    "url": "https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf",
-    "comments": 136
+    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
+    "score": 29,
+    "by": "renjipanicker",
+    "url": "https://github.com/TantrixAuto/yantra",
+    "comments": 15
   }
 ]
