@@ -1,79 +1,58 @@
 [
   {
+    "title": "Ask HN: Who is hiring? (October 2026)",
+    "score": 230,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 224
+  },
+  {
+    "title": "Vote on which of Hacker News' challenges for AI have been met",
+    "score": 175,
+    "by": "stabbles",
+    "url": "https://stoppels.ch/goalposts/",
+    "comments": 211
+  },
+  {
+    "title": "Ask HN: Who wants to be hired? (October 2026)",
+    "score": 117,
+    "by": "whoishiring",
+    "url": "",
+    "comments": 388
+  },
+  {
     "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-    "score": 181,
+    "score": 264,
     "by": "sagacity",
     "url": "https://github.com/maanHimself/OpenDLSS-NR",
-    "comments": 91
+    "comments": 120
   },
   {
-    "title": "FTC is investigating OpenAI, Anthropic and other AI companies over product risks",
-    "score": 73,
-    "by": "dgellow",
-    "url": "https://www.cnbc.com/2026/09/30/ftc-ai-probe-openai-anthropic.html",
-    "comments": 29
+    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
+    "score": 109,
+    "by": "adchurch",
+    "url": "",
+    "comments": 36
   },
   {
-    "title": "Surprisingly complex waves reveal the brain's inner workings",
-    "score": 226,
-    "by": "ibobev",
-    "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
-    "comments": 88
+    "title": "Aweb – Communication for AI Agents",
+    "score": 38,
+    "by": "gurjeet",
+    "url": "https://aweb.ai",
+    "comments": 26
   },
   {
-    "title": "Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents",
-    "score": 178,
-    "by": "anerli",
-    "url": "https://github.com/magnitudedev/magnitude",
-    "comments": 88
+    "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
+    "score": 23,
+    "by": "AnthusAI",
+    "url": "https://anth.us/blog/openai-decisions-api-preview/",
+    "comments": 11
   },
   {
-    "title": "Show HN: Ledge.sh – Runnable Markdown Notes",
-    "score": 182,
-    "by": "dancablam",
-    "url": "https://ledge.sh",
-    "comments": 83
-  },
-  {
-    "title": "An AI sovereign wealth fund isn't progressive – it's techno-imperialism",
-    "score": 32,
-    "by": "Anon84",
-    "url": "https://www.ft.com/content/bc178357-793b-45d8-ae3b-d5929159c243",
-    "comments": 17
-  },
-  {
-    "title": "Doing a Machine Learning PhD While Working in Japan",
-    "score": 126,
-    "by": "pwim",
-    "url": "https://www.tokyodev.com/articles/doing-a-machine-learning-phd-while-working-in-japan",
-    "comments": 41
-  },
-  {
-    "title": "Responsible Release of AI-Generated Mathematics",
-    "score": 108,
-    "by": "aureianimus",
-    "url": "https://agmai.org/general-sep29/",
-    "comments": 154
-  },
-  {
-    "title": "You said no MCP",
-    "score": 651,
-    "by": "yarapavan",
-    "url": "https://earendil.com/posts/you-said-no-mcp/",
-    "comments": 356
-  },
-  {
-    "title": "Show HN: A working 3D model of an Enigma machine",
-    "score": 101,
-    "by": "primitivesuave",
-    "url": "https://enigma.design",
-    "comments": 40
-  },
-  {
-    "title": "Show HN: Yantra – an LALR(1) parser generator for C++",
-    "score": 29,
-    "by": "renjipanicker",
-    "url": "https://github.com/TantrixAuto/yantra",
-    "comments": 15
+    "title": "Show HN: Rhun, an open-source code editor written in assembly",
+    "score": 56,
+    "by": "vladcodes",
+    "url": "https://rhun.app/",
+    "comments": 34
   }
 ]
