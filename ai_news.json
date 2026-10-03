@@ -1,58 +1,51 @@
 [
   {
-    "title": "Ask HN: Who is hiring? (October 2026)",
-    "score": 230,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 224
+    "title": "Show HN: Germany's new sovereign AI model Kolibri",
+    "score": 16,
+    "by": "tejaskumar__",
+    "url": "https://tej.as/blog/aleph-alpha-kolibri",
+    "comments": 5
   },
   {
-    "title": "Vote on which of Hacker News' challenges for AI have been met",
-    "score": 175,
-    "by": "stabbles",
-    "url": "https://stoppels.ch/goalposts/",
-    "comments": 211
+    "title": "Show HN: Offrun – manage every coding agent from one workspace",
+    "score": 14,
+    "by": "arunbhatia",
+    "url": "https://offrun.dev/",
+    "comments": 5
   },
   {
-    "title": "Ask HN: Who wants to be hired? (October 2026)",
-    "score": 117,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 388
+    "title": "With most information hidden, the game Stratego had stumped AI until now",
+    "score": 235,
+    "by": "PaulHoule",
+    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+    "comments": 114
   },
   {
-    "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-    "score": 264,
-    "by": "sagacity",
-    "url": "https://github.com/maanHimself/OpenDLSS-NR",
-    "comments": 120
+    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
+    "score": 298,
+    "by": "alstonite",
+    "url": "https://stillwet.art/",
+    "comments": 95
   },
   {
-    "title": "Show HN: Open-source model routing for coding agents at Astra-level performance",
-    "score": 109,
-    "by": "adchurch",
-    "url": "",
-    "comments": 36
+    "title": "Sites in ChatGPT",
+    "score": 299,
+    "by": "polvi",
+    "url": "https://chatgpt.com/features/sites/",
+    "comments": 276
   },
   {
-    "title": "Aweb – Communication for AI Agents",
-    "score": 38,
-    "by": "gurjeet",
-    "url": "https://aweb.ai",
-    "comments": 26
+    "title": "Venice’s failed war against Constantinople led to the first bond market",
+    "score": 136,
+    "by": "RickJWagner",
+    "url": "https://bigthink.com/books/a-fabulous-debt/",
+    "comments": 39
   },
   {
-    "title": "OpenAI has a LOT of work to do if they think Luna can compete with Jev",
-    "score": 23,
-    "by": "AnthusAI",
-    "url": "https://anth.us/blog/openai-decisions-api-preview/",
-    "comments": 11
-  },
-  {
-    "title": "Show HN: Rhun, an open-source code editor written in assembly",
-    "score": 56,
-    "by": "vladcodes",
-    "url": "https://rhun.app/",
-    "comments": 34
+    "title": "Show HN: Made an open-source Lego AI generator",
+    "score": 121,
+    "by": "antelocnova",
+    "url": "https://github.com/anteloc/ldraw-nova",
+    "comments": 46
   }
 ]
