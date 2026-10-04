@@ -1,51 +1,72 @@
 [
   {
-    "title": "Show HN: Germany's new sovereign AI model Kolibri",
-    "score": 16,
-    "by": "tejaskumar__",
-    "url": "https://tej.as/blog/aleph-alpha-kolibri",
-    "comments": 5
+    "title": "Show HN: AI search for every photo and every frame of video on macOS",
+    "score": 21,
+    "by": "allenleee",
+    "url": "https://github.com/allenv0/SCM",
+    "comments": 9
   },
   {
-    "title": "Show HN: Offrun – manage every coding agent from one workspace",
-    "score": 14,
-    "by": "arunbhatia",
-    "url": "https://offrun.dev/",
-    "comments": 5
+    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
+    "score": 204,
+    "by": "Anon84",
+    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
+    "comments": 302
   },
   {
-    "title": "With most information hidden, the game Stratego had stumped AI until now",
-    "score": 235,
-    "by": "PaulHoule",
-    "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
-    "comments": 114
+    "title": "I quit OpenAI because its culture is broken",
+    "score": 301,
+    "by": "Brajeshwar",
+    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+    "comments": 542
   },
   {
-    "title": "Show HN: Giving Opus 5.5 a simulated paint canvas",
-    "score": 298,
-    "by": "alstonite",
-    "url": "https://stillwet.art/",
-    "comments": 95
+    "title": "In Ukraine, distributed renewables foil Russia's assaults",
+    "score": 137,
+    "by": "JumpCrisscross",
+    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
+    "comments": 130
   },
   {
-    "title": "Sites in ChatGPT",
-    "score": 299,
-    "by": "polvi",
-    "url": "https://chatgpt.com/features/sites/",
-    "comments": 276
+    "title": "What's the Future for Pure Math Research in the Age of AI?",
+    "score": 7,
+    "by": "6bitquant",
+    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
+    "comments": 0
   },
   {
-    "title": "Venice’s failed war against Constantinople led to the first bond market",
-    "score": 136,
-    "by": "RickJWagner",
-    "url": "https://bigthink.com/books/a-fabulous-debt/",
+    "title": "Three AI agents, two countries, and one uneven world wide web",
+    "score": 36,
+    "by": "effects",
+    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
+    "comments": 1
+  },
+  {
+    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
+    "score": 105,
+    "by": "edverma2",
+    "url": "https://pipod.dev/",
     "comments": 39
   },
   {
-    "title": "Show HN: Made an open-source Lego AI generator",
-    "score": 121,
-    "by": "antelocnova",
-    "url": "https://github.com/anteloc/ldraw-nova",
-    "comments": 46
+    "title": "RetailReady (YC W24) Is Hiring",
+    "score": 1,
+    "by": "sarah74",
+    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
+    "comments": 0
+  },
+  {
+    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
+    "score": 70,
+    "by": "Gorsefound",
+    "url": "https://thoreaubasic.com/",
+    "comments": 40
+  },
+  {
+    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
+    "score": 83,
+    "by": "nor-and-or-not",
+    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
+    "comments": 29
   }
 ]
