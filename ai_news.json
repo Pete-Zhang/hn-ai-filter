@@ -1,72 +1,65 @@
 [
   {
-    "title": "Show HN: AI search for every photo and every frame of video on macOS",
-    "score": 21,
-    "by": "allenleee",
-    "url": "https://github.com/allenv0/SCM",
-    "comments": 9
+    "title": "Florida woman arrested for allegedly making threats in an AI chat",
+    "score": 33,
+    "by": "timpera",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
+    "comments": 20
   },
   {
-    "title": "LeCun has \"zero concerns\" about AI wiping out humanity, recent \"rogue\" incidents",
-    "score": 204,
-    "by": "Anon84",
-    "url": "https://fortune.com/2026/10/01/ai-godfather-yann-lecun-has-zero-concerns-about-human-extinction-says-anthropic-ceo-dario-amodei-is-deuded/",
-    "comments": 302
+    "title": "Martian chaos terrain",
+    "score": 44,
+    "by": "tiagod",
+    "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
+    "comments": 7
   },
   {
-    "title": "I quit OpenAI because its culture is broken",
-    "score": 301,
-    "by": "Brajeshwar",
-    "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
-    "comments": 542
+    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
+    "score": 207,
+    "by": "rdmuser",
+    "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+    "comments": 26
   },
   {
-    "title": "In Ukraine, distributed renewables foil Russia's assaults",
-    "score": 137,
-    "by": "JumpCrisscross",
-    "url": "https://energytransition.org/2026/09/in-ukraine-distributed-renewables-foil-russias-assaults/",
-    "comments": 130
+    "title": "ExplainDB: A Database System Built for Understandability",
+    "score": 56,
+    "by": "pykello",
+    "url": "https://github.com/explaindb/explaindb",
+    "comments": 4
   },
   {
-    "title": "What's the Future for Pure Math Research in the Age of AI?",
-    "score": 7,
-    "by": "6bitquant",
-    "url": "https://writings.stephenwolfram.com/2026/09/whats-the-future-for-pure-math-research-in-the-age-of-ai/",
-    "comments": 0
+    "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+    "score": 19,
+    "by": "adityamukho",
+    "url": "https://github.com/project-minigraf/minigraf",
+    "comments": 4
   },
   {
-    "title": "Three AI agents, two countries, and one uneven world wide web",
-    "score": 36,
-    "by": "effects",
-    "url": "https://royapakzad.substack.com/p/multilingual-ai-agents",
-    "comments": 1
+    "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
+    "score": 59,
+    "by": "giuliomagnifico",
+    "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
+    "comments": 22
   },
   {
-    "title": "Show HN: Pi pod – Run your pi coding agent in sandboxes on your own server",
-    "score": 105,
-    "by": "edverma2",
-    "url": "https://pipod.dev/",
+    "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
+    "score": 22,
+    "by": "ptrhvns",
+    "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
     "comments": 39
   },
   {
-    "title": "RetailReady (YC W24) Is Hiring",
-    "score": 1,
-    "by": "sarah74",
-    "url": "https://www.ycombinator.com/companies/retailready/jobs/bFcgIe4-implementations",
-    "comments": 0
+    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
+    "score": 269,
+    "by": "llm_nerd",
+    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+    "comments": 230
   },
   {
-    "title": "Show HN: Thoreau BASIC – What if BASIC hadn't gone out of fashion?",
-    "score": 70,
-    "by": "Gorsefound",
-    "url": "https://thoreaubasic.com/",
-    "comments": 40
-  },
-  {
-    "title": "Show HN: Our space game has a built-in RISC-V emulator that runs Linux",
-    "score": 83,
-    "by": "nor-and-or-not",
-    "url": "https://againstallodds.games/blog/2026/10/03/our-risc-v-emulator-pasriscv/",
-    "comments": 29
+    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
+    "score": 8,
+    "by": "geox",
+    "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
+    "comments": 8
   }
 ]
