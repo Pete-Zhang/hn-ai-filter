@@ -1,65 +1,58 @@
 [
   {
-    "title": "Florida woman arrested for allegedly making threats in an AI chat",
-    "score": 33,
-    "by": "timpera",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1004747/florida-woman-arrested-for-allegedly-making-threats-in-an-ai-chat",
-    "comments": 20
+    "title": "JetBrains reported a net financial loss first time in its tracked history",
+    "score": 279,
+    "by": "thw_9a83c",
+    "url": "https://www.helgilibrary.com/companies/jetbrains",
+    "comments": 278
   },
   {
-    "title": "Martian chaos terrain",
-    "score": 44,
-    "by": "tiagod",
-    "url": "https://en.wikipedia.org/wiki/Martian_chaos_terrain",
-    "comments": 7
+    "title": "Dust: Pretraining Transformers Without Backpropagation",
+    "score": 239,
+    "by": "E-Reverance",
+    "url": "https://qlabs.sh/research/dust",
+    "comments": 62
   },
   {
-    "title": "In the wake of Tippett Studios’ closure, a digital archive appears online",
-    "score": 207,
-    "by": "rdmuser",
-    "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-    "comments": 26
+    "title": "Using A.I. and machine learning to decode communication of sperm whales",
+    "score": 57,
+    "by": "dnetesn",
+    "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
+    "comments": 43
   },
   {
-    "title": "ExplainDB: A Database System Built for Understandability",
-    "score": 56,
-    "by": "pykello",
-    "url": "https://github.com/explaindb/explaindb",
-    "comments": 4
-  },
-  {
-    "title": "Show HN: Minigraf – An embedded, bi-temporal graph database in Rust",
+    "title": "Oracle Triggered the Implosion of the AI Bubble",
     "score": 19,
-    "by": "adityamukho",
-    "url": "https://github.com/project-minigraf/minigraf",
-    "comments": 4
+    "by": "mpweiher",
+    "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
+    "comments": 23
   },
   {
-    "title": "The Philadelphia Inquirer built Scrape, an AI tool to surface hyperlocal news",
-    "score": 59,
-    "by": "giuliomagnifico",
-    "url": "https://www.lenfestinstitute.org/solutions-resources/philadelphia-inquirer-scrape-ai-hyperlocal-news/",
-    "comments": 22
+    "title": "Remote Live vs. Pre-Recorded Exercise Training for Chronic Low Back Pain (RCT)",
+    "score": 7,
+    "by": "chavasorani",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/",
+    "comments": 3
   },
   {
-    "title": "Jonathan Haidt: AI Is the 'Neutron Bomb for Education' [video]",
-    "score": 22,
-    "by": "ptrhvns",
-    "url": "https://www.youtube.com/watch?v=RFTfANuLBF4",
-    "comments": 39
+    "title": "An algorithmic failure beneath the secret ballot",
+    "score": 99,
+    "by": "leecoursey",
+    "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+    "comments": 83
   },
   {
-    "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-    "score": 269,
-    "by": "llm_nerd",
-    "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-    "comments": 230
+    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+    "score": 499,
+    "by": "rdmuser",
+    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+    "comments": 367
   },
   {
-    "title": "People are asking ChatGPT to help them decide how to vote in the midterms",
-    "score": 8,
-    "by": "geox",
-    "url": "https://www.npr.org/2026/10/05/nx-s1-5977852/ai-chatbots-midterm-election",
-    "comments": 8
+    "title": "Linux containers in 500 lines of code (2016)",
+    "score": 132,
+    "by": "mkornaukhov",
+    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
+    "comments": 35
   }
 ]
