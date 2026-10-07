@@ -1,58 +1,100 @@
 [
   {
-    "title": "JetBrains reported a net financial loss first time in its tracked history",
-    "score": 279,
-    "by": "thw_9a83c",
-    "url": "https://www.helgilibrary.com/companies/jetbrains",
-    "comments": 278
+    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+    "score": 169,
+    "by": "sasvari",
+    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+    "comments": 24
   },
   {
-    "title": "Dust: Pretraining Transformers Without Backpropagation",
-    "score": 239,
-    "by": "E-Reverance",
-    "url": "https://qlabs.sh/research/dust",
-    "comments": 62
+    "title": "AI-assisted proof of optimal packing for 11 squares",
+    "score": 13,
+    "by": "bluepeter",
+    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+    "comments": 6
   },
   {
-    "title": "Using A.I. and machine learning to decode communication of sperm whales",
-    "score": 57,
-    "by": "dnetesn",
-    "url": "https://blue-continuum.com/the-man-who-listens-to-whales",
-    "comments": 43
+    "title": "Sharing AI progress in mathematics",
+    "score": 1091,
+    "by": "OfficialTurkey",
+    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+    "comments": 1153
   },
   {
-    "title": "Oracle Triggered the Implosion of the AI Bubble",
-    "score": 19,
-    "by": "mpweiher",
-    "url": "https://medium.com/predict/what-everyone-had-been-waiting-for-and-fearing-oracle-just-triggered-the-implosion-of-the-ai-121e0c8d368e",
-    "comments": 23
+    "title": "Device detection and occupancy monitoring for Airbnb hosts",
+    "score": 6,
+    "by": "mikeodds",
+    "url": "https://www.minut.com/features/occupancy-monitoring",
+    "comments": 13
   },
   {
-    "title": "Remote Live vs. Pre-Recorded Exercise Training for Chronic Low Back Pain (RCT)",
-    "score": 7,
-    "by": "chavasorani",
-    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13619851/",
-    "comments": 3
+    "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
+    "score": 58,
+    "by": "HeavenFox",
+    "url": "https://astrohelm.app/",
+    "comments": 14
   },
   {
-    "title": "An algorithmic failure beneath the secret ballot",
-    "score": 99,
-    "by": "leecoursey",
-    "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
-    "comments": 83
+    "title": "Mistral Large 4",
+    "score": 1936,
+    "by": "Philpax",
+    "url": "https://mistral.ai/news/mistral-large-4/\\",
+    "comments": 1159
   },
   {
-    "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
-    "score": 499,
-    "by": "rdmuser",
-    "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
-    "comments": 367
+    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
+    "score": 420,
+    "by": "IvanK_net",
+    "url": "",
+    "comments": 221
   },
   {
-    "title": "Linux containers in 500 lines of code (2016)",
-    "score": 132,
-    "by": "mkornaukhov",
-    "url": "https://blog.lizzie.io/linux-containers-in-500-loc.html",
-    "comments": 35
+    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+    "score": 48,
+    "by": "ilreb",
+    "url": "https://github.com/nano-muse/nanoMuse",
+    "comments": 10
+  },
+  {
+    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
+    "score": 327,
+    "by": "fsbonetto",
+    "url": "https://github.com/FeSens/openTPU",
+    "comments": 371
+  },
+  {
+    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
+    "score": 249,
+    "by": "zed_labs_dev",
+    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+    "comments": 146
+  },
+  {
+    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
+    "score": 223,
+    "by": "kavourias",
+    "url": "https://penguin-mail.com/",
+    "comments": 151
+  },
+  {
+    "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
+    "score": 80,
+    "by": "password54321",
+    "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
+    "comments": 85
+  },
+  {
+    "title": "Forever Junior: The Skills AI Can't Develop for You",
+    "score": 47,
+    "by": "brugidou",
+    "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
+    "comments": 45
+  },
+  {
+    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
+    "score": 126,
+    "by": "colinprince",
+    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
+    "comments": 42
   }
 ]
