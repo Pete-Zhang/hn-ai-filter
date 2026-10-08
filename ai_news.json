@@ -1,100 +1,58 @@
 [
   {
-    "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-    "score": 169,
-    "by": "sasvari",
-    "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
-    "comments": 24
+    "title": "OpenAI Withdraws 3 Math Papers",
+    "score": 275,
+    "by": "theemathas",
+    "url": "https://github.com/openai/math/blob/main/history.md",
+    "comments": 224
   },
   {
-    "title": "AI-assisted proof of optimal packing for 11 squares",
-    "score": 13,
-    "by": "bluepeter",
-    "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
-    "comments": 6
+    "title": "Claude Haiku 5.5",
+    "score": 971,
+    "by": "sfkgtbor",
+    "url": "https://www.anthropic.com/claude-haiku-5-5",
+    "comments": 453
+  },
+  {
+    "title": "Time Travel in Braid (2015)",
+    "score": 41,
+    "by": "Ariarule",
+    "url": "https://qntm.org/braid",
+    "comments": 11
   },
   {
     "title": "Sharing AI progress in mathematics",
-    "score": 1091,
+    "score": 1302,
     "by": "OfficialTurkey",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "comments": 1153
+    "comments": 1478
   },
   {
-    "title": "Device detection and occupancy monitoring for Airbnb hosts",
-    "score": 6,
-    "by": "mikeodds",
-    "url": "https://www.minut.com/features/occupancy-monitoring",
-    "comments": 13
+    "title": "Why the AI future will be awesome",
+    "score": 7,
+    "by": "samstress",
+    "url": "https://nullpaste.org/raw/t-0Um6AUv_CJ",
+    "comments": 18
   },
   {
-    "title": "Show HN: AstroHelm – Use your phone camera to aim a telescope or telephoto lens",
-    "score": 58,
-    "by": "HeavenFox",
-    "url": "https://astrohelm.app/",
-    "comments": 14
+    "title": "'Neither war nor peace': Palestinians in Gaza on existing amid disease despair",
+    "score": 7,
+    "by": "mo7061",
+    "url": "https://www.theguardian.com/world/2026/oct/07/palestinians-gaza-existing-amid-disease-despair-ruins",
+    "comments": 0
   },
   {
-    "title": "Mistral Large 4",
-    "score": 1936,
-    "by": "Philpax",
-    "url": "https://mistral.ai/news/mistral-large-4/\\",
-    "comments": 1159
+    "title": "Visually impaired people fear smart glasses backlash",
+    "score": 4,
+    "by": "bookofjoe",
+    "url": "https://www.bbc.com/news/articles/cmx2qlz7ney2o",
+    "comments": 1
   },
   {
-    "title": "Tell HN: GitHub refuses to remove cracked copies of my software after a month",
-    "score": 420,
-    "by": "IvanK_net",
-    "url": "",
-    "comments": 221
-  },
-  {
-    "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
-    "score": 48,
-    "by": "ilreb",
-    "url": "https://github.com/nano-muse/nanoMuse",
-    "comments": 10
-  },
-  {
-    "title": "OpenTPU – An open-source AI accelerator, developed by AI",
-    "score": 327,
-    "by": "fsbonetto",
-    "url": "https://github.com/FeSens/openTPU",
-    "comments": 371
-  },
-  {
-    "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-    "score": 249,
-    "by": "zed_labs_dev",
-    "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-    "comments": 146
-  },
-  {
-    "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-    "score": 223,
-    "by": "kavourias",
-    "url": "https://penguin-mail.com/",
-    "comments": 151
-  },
-  {
-    "title": "PS5 Jailbreaks Are Escalating at an Unprecedented Pace",
-    "score": 80,
-    "by": "password54321",
-    "url": "https://www.pushsquare.com/news/2026/10/ps5-jailbreaks-are-escalating-at-an-unprecedented-pace-and-sony-must-be-sweating",
-    "comments": 85
-  },
-  {
-    "title": "Forever Junior: The Skills AI Can't Develop for You",
-    "score": 47,
-    "by": "brugidou",
-    "url": "https://tech.criteo.com/blog/human-skills-ai-cant-develop-junior-engineers/",
-    "comments": 45
-  },
-  {
-    "title": "Hackers obtain counterfeit TLS certificates for Google and other large services",
-    "score": 126,
-    "by": "colinprince",
-    "url": "https://arstechnica.com/security/2026/10/hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services/",
-    "comments": 42
+    "title": "Will AI kill us all",
+    "score": 17,
+    "by": "krenerd",
+    "url": "https://virev.ai/blog/will-ai-kill-us-all",
+    "comments": 32
   }
 ]
