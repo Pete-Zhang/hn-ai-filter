@@ -1,79 +1,79 @@
 [
   {
-    "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-    "score": 204,
+    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+    "score": 80,
+    "by": "rociiu",
+    "url": "https://github.com/rociiu/talorys",
+    "comments": 36
+  },
+  {
+    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+    "score": 357,
+    "by": "simplyalec",
+    "url": "https://carrierexplode.com/",
+    "comments": 44
+  },
+  {
+    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
+    "score": 164,
+    "by": "piratebroadcast",
+    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
+    "comments": 83
+  },
+  {
+    "title": "Typesafe AI raises $870M at $7.5B",
+    "score": 398,
+    "by": "tosh",
+    "url": "https://typesafe.ai/blog/series-ai",
+    "comments": 318
+  },
+  {
+    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
+    "score": 147,
+    "by": "matt_d",
+    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
+    "comments": 40
+  },
+  {
+    "title": "Show HN: Proton Drive for Linux",
+    "score": 101,
+    "by": "khaosdoctor",
+    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
+    "comments": 37
+  },
+  {
+    "title": "Food processing influences metabolism and brain activity",
+    "score": 70,
+    "by": "gmays",
+    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
+    "comments": 66
+  },
+  {
+    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
+    "score": 401,
     "by": "franze",
     "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "comments": 77
+    "comments": 181
   },
   {
-    "title": "Court throws out killer's sentence after judge said he loved AI video of victim",
-    "score": 31,
-    "by": "rbanffy",
-    "url": "https://www.nbcnews.com/news/us-news/sentence-vacated-ai-video-dead-victim-rcna601457",
-    "comments": 17
-  },
-  {
-    "title": "Iranian campaign planted fake articles in real U.S. publications using ChatGPT",
-    "score": 83,
-    "by": "cainxinth",
-    "url": "https://www.washingtonpost.com/technology/2026/10/09/chatgpt-users-iran-planted-ai-generated-articles-us-news-media/",
-    "comments": 60
+    "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
+    "score": 185,
+    "by": "Zambyte",
+    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
+    "comments": 134
   },
   {
     "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "score": 130,
+    "score": 344,
     "by": "trakkstar",
     "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "comments": 64
-  },
-  {
-    "title": "Ask HN: What do you run on a $5 VPS that's worth keeping online 24/7?",
-    "score": 309,
-    "by": "mariocesar",
-    "url": "",
-    "comments": 496
-  },
-  {
-    "title": "OpenAI, the Partition Principle, and Mathematics",
-    "score": 158,
-    "by": "md224",
-    "url": "https://karagila.org/2026/openai-pp/",
-    "comments": 240
-  },
-  {
-    "title": "AI-ready biological data: $1.8B global commitment",
-    "score": 139,
-    "by": "ray__",
-    "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
-    "comments": 20
-  },
-  {
-    "title": "OpenAI withdraws three mathematical results",
-    "score": 356,
-    "by": "sashank_1509",
-    "url": "https://twitter.com/danintheory/status/2108065033070789090",
-    "comments": 593
-  },
-  {
-    "title": "I think I found a planet nobody knew existed. I used Claude Code to find it",
-    "score": 238,
-    "by": "pyduan",
-    "url": "https://www.reddit.com/r/ClaudeAI/s/mbe5IY2LF9",
-    "comments": 119
+    "comments": 214
   },
   {
     "title": "Sharing AI progress in mathematics",
-    "score": 1332,
+    "score": 1346,
     "by": "OfficialTurkey",
     "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "comments": 1512
-  },
-  {
-    "title": "Show HN: Jevman – AI decision models play Pac-Man",
-    "score": 65,
-    "by": "felix089",
-    "url": "https://opper.ai/jevman-benchmark/",
-    "comments": 17
+    "comments": 1526
   }
 ]
