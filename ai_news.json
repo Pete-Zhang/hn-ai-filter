@@ -1,79 +1,72 @@
 [
   {
+    "title": "I paid people to try and follow my README",
+    "score": 139,
+    "by": "edent",
+    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
+    "comments": 81
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "score": 1,
+    "by": "adchurch",
+    "url": "https://jobs.ashbyhq.com/weave-os",
+    "comments": 0
+  },
+  {
+    "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
+    "score": 10,
+    "by": "sinnsro",
+    "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
+    "comments": 2
+  },
+  {
     "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "score": 80,
+    "score": 306,
     "by": "rociiu",
     "url": "https://github.com/rociiu/talorys",
-    "comments": 36
+    "comments": 141
   },
   {
-    "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-    "score": 357,
-    "by": "simplyalec",
-    "url": "https://carrierexplode.com/",
-    "comments": 44
-  },
-  {
-    "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-    "score": 164,
-    "by": "piratebroadcast",
-    "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-    "comments": 83
-  },
-  {
-    "title": "Typesafe AI raises $870M at $7.5B",
-    "score": 398,
-    "by": "tosh",
-    "url": "https://typesafe.ai/blog/series-ai",
-    "comments": 318
-  },
-  {
-    "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-    "score": 147,
-    "by": "matt_d",
-    "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-    "comments": 40
-  },
-  {
-    "title": "Show HN: Proton Drive for Linux",
-    "score": 101,
-    "by": "khaosdoctor",
-    "url": "https://oss.lsantos.dev/proton-drive-linux-fs/",
-    "comments": 37
+    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
+    "score": 210,
+    "by": "smokel",
+    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
+    "comments": 58
   },
   {
     "title": "Food processing influences metabolism and brain activity",
-    "score": 70,
+    "score": 171,
     "by": "gmays",
     "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-    "comments": 66
+    "comments": 137
   },
   {
-    "title": "Show HN: Let your AI agents paint big arrows, boxes and text on your screen",
-    "score": 401,
-    "by": "franze",
-    "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
-    "comments": 181
+    "title": "AI is creating a 'human premium' for art created by people",
+    "score": 56,
+    "by": "colinprince",
+    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+    "comments": 65
   },
   {
-    "title": "Anthropic AI model submits false tip on unsolved Philly murder, police say",
-    "score": 185,
-    "by": "Zambyte",
-    "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-    "comments": 134
+    "title": "Grieving the loss of details",
+    "score": 464,
+    "by": "signa11",
+    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
+    "comments": 380
   },
   {
-    "title": "OpenAI fires three safety researchers for \"mishandling research information\"",
-    "score": 344,
-    "by": "trakkstar",
-    "url": "https://techcrunch.com/2026/10/08/fired-openai-safety-researchers-dispute-misconduct-claims-warn-of-chilling-effect/",
-    "comments": 214
+    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
+    "score": 16,
+    "by": "Bluestein",
+    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
+    "comments": 1
   },
   {
-    "title": "Sharing AI progress in mathematics",
-    "score": 1346,
-    "by": "OfficialTurkey",
-    "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-    "comments": 1526
+    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+    "score": 118,
+    "by": "davikr",
+    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+    "comments": 86
   }
 ]
