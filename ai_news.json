@@ -1,10 +1,38 @@
 [
   {
-    "title": "I paid people to try and follow my README",
-    "score": 139,
-    "by": "edent",
-    "url": "https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/",
-    "comments": 81
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "score": 4,
+    "by": "vishnukool",
+    "url": "",
+    "comments": 0
+  },
+  {
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "score": 4,
+    "by": "surprisetalk",
+    "url": "https://taylor.town/kk-ai-2026",
+    "comments": 0
+  },
+  {
+    "title": "QGIS bans AI assisted contributions",
+    "score": 328,
+    "by": "bwnkl",
+    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+    "comments": 353
+  },
+  {
+    "title": "Deep dive into Azure Maia 300 architecture",
+    "score": 16,
+    "by": "azhenley",
+    "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
+    "comments": 2
+  },
+  {
+    "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
+    "score": 112,
+    "by": "Ixander",
+    "url": "",
+    "comments": 119
   },
   {
     "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
@@ -14,59 +42,17 @@
     "comments": 0
   },
   {
-    "title": "Plumbers, chains, and famous painters: The history of the pipe operator in R",
-    "score": 10,
-    "by": "sinnsro",
-    "url": "http://adolfoalvarez.cl/blog/2021-09-16-plumbers-chains-and-famous-painters-the-history-of-the-pipe-operator-in-r/",
-    "comments": 2
+    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
+    "score": 53,
+    "by": "nephihaha",
+    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+    "comments": 60
   },
   {
-    "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
-    "score": 306,
-    "by": "rociiu",
-    "url": "https://github.com/rociiu/talorys",
-    "comments": 141
-  },
-  {
-    "title": "Mxc: Microsoft Execution Containers version 1.0.0",
-    "score": 210,
-    "by": "smokel",
-    "url": "https://blogs.windows.com/windowsdeveloper/2026/10/07/microsoft-execution-containers-policy-driven-containment-for-ai-agents/",
-    "comments": 58
-  },
-  {
-    "title": "Food processing influences metabolism and brain activity",
-    "score": 171,
-    "by": "gmays",
-    "url": "https://news.vt.edu/articles/2026/10/research_fralinbiomed_upfhutelin.html",
-    "comments": 137
-  },
-  {
-    "title": "AI is creating a 'human premium' for art created by people",
-    "score": 56,
-    "by": "colinprince",
-    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-    "comments": 65
-  },
-  {
-    "title": "Grieving the loss of details",
-    "score": 464,
-    "by": "signa11",
-    "url": "https://purplesyringa.moe/blog/grieving-the-loss-of-details/",
-    "comments": 380
-  },
-  {
-    "title": "Nicolas Cage says he won't work with Amazon again over AI dispute",
-    "score": 16,
-    "by": "Bluestein",
-    "url": "https://www.latimes.com/entertainment-arts/business/story/2026-10-10/nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute",
-    "comments": 1
-  },
-  {
-    "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-    "score": 118,
-    "by": "davikr",
-    "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-    "comments": 86
+    "title": "Why aren't AI companies being charged for hacking?",
+    "score": 264,
+    "by": "ingve",
+    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
+    "comments": 256
   }
 ]
