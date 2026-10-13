@@ -1,58 +1,86 @@
 [
   {
-    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-    "score": 4,
-    "by": "vishnukool",
-    "url": "",
-    "comments": 0
-  },
-  {
-    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "score": 4,
-    "by": "surprisetalk",
-    "url": "https://taylor.town/kk-ai-2026",
-    "comments": 0
-  },
-  {
-    "title": "QGIS bans AI assisted contributions",
-    "score": 328,
-    "by": "bwnkl",
-    "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
-    "comments": 353
-  },
-  {
-    "title": "Deep dive into Azure Maia 300 architecture",
-    "score": 16,
-    "by": "azhenley",
-    "url": "https://azure.microsoft.com/en-us/blog/deep-dive-into-azure-maia-300-architecture/",
-    "comments": 2
-  },
-  {
-    "title": "Ask HN: Do you want a router that has DD-WRT pre-installed?",
-    "score": 112,
-    "by": "Ixander",
-    "url": "",
-    "comments": 119
-  },
-  {
-    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
-    "score": 1,
-    "by": "adchurch",
-    "url": "https://jobs.ashbyhq.com/weave-os",
-    "comments": 0
-  },
-  {
-    "title": "AI less regulated than milk, Microsoft president says in warning over safety",
-    "score": 53,
-    "by": "nephihaha",
-    "url": "https://www.theguardian.com/technology/2026/oct/12/ai-less-regulated-than-milk-microsoft-president-calls-for-tougher-rules",
+    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+    "score": 115,
+    "by": "janpmz",
+    "url": "https://pdftomp3.com/connect-ai/",
     "comments": 60
   },
   {
-    "title": "Why aren't AI companies being charged for hacking?",
-    "score": 264,
-    "by": "ingve",
-    "url": "https://mortoray.com/why-arent-ai-companies-being-charged-for-hacking/",
-    "comments": 256
+    "title": "AI is a tool and using it well takes skill",
+    "score": 535,
+    "by": "layer8",
+    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
+    "comments": 424
+  },
+  {
+    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
+    "score": 119,
+    "by": "nryoo",
+    "url": "https://blog.character.ai/an-update-on-character-ai/",
+    "comments": 57
+  },
+  {
+    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+    "score": 824,
+    "by": "Zeekaas",
+    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+    "comments": 928
+  },
+  {
+    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
+    "score": 20,
+    "by": "ivell",
+    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
+    "comments": 17
+  },
+  {
+    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
+    "score": 281,
+    "by": "hurricanepootis",
+    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+    "comments": 156
+  },
+  {
+    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+    "score": 150,
+    "by": "vishnukool",
+    "url": "",
+    "comments": 104
+  },
+  {
+    "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
+    "score": 219,
+    "by": "mochomocha",
+    "url": "https://www.argmin.net/p/faster-fourier-transforms",
+    "comments": 136
+  },
+  {
+    "title": "AI models can provably hide arbitrary capabilities",
+    "score": 260,
+    "by": "sbulaev",
+    "url": "https://arxiv.org/abs/2610.13928",
+    "comments": 122
+  },
+  {
+    "title": "Sprout Pi Mainboard – A modern, RP2350-powered motherboard for iPods",
+    "score": 8,
+    "by": "esskay",
+    "url": "https://www.crowdsupply.com/certain-things/sprout-pi-mainboard",
+    "comments": 1
+  },
+  {
+    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
+    "score": 206,
+    "by": "surprisetalk",
+    "url": "https://taylor.town/kk-ai-2026",
+    "comments": 81
+  },
+  {
+    "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
+    "score": 112,
+    "by": "SaarthRanka",
+    "url": "https://github.com/SaarthurR/atticus-mac",
+    "comments": 23
   }
 ]
