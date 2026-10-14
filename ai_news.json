@@ -1,86 +1,86 @@
 [
   {
-    "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-    "score": 115,
-    "by": "janpmz",
-    "url": "https://pdftomp3.com/connect-ai/",
-    "comments": 60
+    "title": "TV4 postpones show after AI agent erases edited material",
+    "score": 32,
+    "by": "tobr",
+    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
+    "comments": 14
+  },
+  {
+    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
+    "score": 23,
+    "by": "micstradev",
+    "url": "https://museumofages.org/w/vinci",
+    "comments": 9
+  },
+  {
+    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
+    "score": 14,
+    "by": "EvgeniyZh",
+    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
+    "comments": 3
   },
   {
     "title": "AI is a tool and using it well takes skill",
-    "score": 535,
+    "score": 725,
     "by": "layer8",
     "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "comments": 424
+    "comments": 563
   },
   {
-    "title": "Character.ai has initiated voluntary Chapter 11 bankruptcy",
-    "score": 119,
-    "by": "nryoo",
-    "url": "https://blog.character.ai/an-update-on-character-ai/",
-    "comments": 57
-  },
-  {
-    "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-    "score": 824,
-    "by": "Zeekaas",
-    "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-    "comments": 928
-  },
-  {
-    "title": "Apple's new 'Switch to Safari' campaign details why you should ditch Chrome",
-    "score": 20,
-    "by": "ivell",
-    "url": "https://9to5mac.com/2026/10/12/apples-new-switch-to-safari-campaign-details-why-you-should-ditch-chrome/",
-    "comments": 17
-  },
-  {
-    "title": "Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X",
-    "score": 281,
-    "by": "hurricanepootis",
-    "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-    "comments": 156
-  },
-  {
-    "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-    "score": 150,
-    "by": "vishnukool",
+    "title": "Ask HN: Why do people say \"I built it\" when we should say \"Claude built it\"?",
+    "score": 14,
+    "by": "gonzar79",
     "url": "",
-    "comments": 104
+    "comments": 31
   },
   {
-    "title": "A look at the math that OpenAI claims computes faster Fourier transforms",
-    "score": 219,
-    "by": "mochomocha",
-    "url": "https://www.argmin.net/p/faster-fourier-transforms",
-    "comments": 136
+    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
+    "score": 1,
+    "by": "morraa",
+    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+    "comments": 0
   },
   {
-    "title": "AI models can provably hide arbitrary capabilities",
-    "score": 260,
-    "by": "sbulaev",
-    "url": "https://arxiv.org/abs/2610.13928",
-    "comments": 122
+    "title": "OpenAI engineer arrested in bugging of executive conference room",
+    "score": 607,
+    "by": "forthwall",
+    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
+    "comments": 505
   },
   {
-    "title": "Sprout Pi Mainboard – A modern, RP2350-powered motherboard for iPods",
-    "score": 8,
-    "by": "esskay",
-    "url": "https://www.crowdsupply.com/certain-things/sprout-pi-mainboard",
-    "comments": 1
+    "title": "How to engineer an AI harness for game development",
+    "score": 158,
+    "by": "kkukshtel",
+    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
+    "comments": 79
   },
   {
-    "title": "Kevin Kelly's 2016 AI Predictions, 10 Years Later",
-    "score": 206,
-    "by": "surprisetalk",
-    "url": "https://taylor.town/kk-ai-2026",
-    "comments": 81
+    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
+    "score": 71,
+    "by": "lasu",
+    "url": "https://parsimony.lasu.dev/",
+    "comments": 15
   },
   {
-    "title": "Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p",
-    "score": 112,
-    "by": "SaarthRanka",
-    "url": "https://github.com/SaarthurR/atticus-mac",
-    "comments": 23
+    "title": "Gemini 4 Argon for Robotics",
+    "score": 225,
+    "by": "xnx",
+    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
+    "comments": 51
+  },
+  {
+    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
+    "score": 76,
+    "by": "LargeModGames",
+    "url": "https://github.com/LargeModGames/spotatui",
+    "comments": 16
+  },
+  {
+    "title": "Show HN: Building an LLM from Scratch in TypeScript",
+    "score": 28,
+    "by": "baraa_",
+    "url": "https://book.humanexperiences.io/",
+    "comments": 3
   }
 ]
