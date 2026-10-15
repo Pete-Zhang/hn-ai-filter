@@ -1,86 +1,72 @@
 [
   {
-    "title": "TV4 postpones show after AI agent erases edited material",
-    "score": 32,
-    "by": "tobr",
-    "url": "https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage",
-    "comments": 14
+    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
+    "score": 194,
+    "by": "0xdeafbeef",
+    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
+    "comments": 101
   },
   {
-    "title": "Show HN: A guided 3D Leonardo da Vinci museum, built in code",
-    "score": 23,
-    "by": "micstradev",
-    "url": "https://museumofages.org/w/vinci",
+    "title": "Show HN: Indigene – Native plants for where you stand",
+    "score": 60,
+    "by": "olivierlacan",
+    "url": "https://indigene.app/",
+    "comments": 11
+  },
+  {
+    "title": "Show HN: Ito – Build Terminal UIs in Lua",
+    "score": 42,
+    "by": "cat-whisperer",
+    "url": "https://uji.sh/ito/",
     "comments": 9
   },
   {
-    "title": "AI Laser Locking for Quantum Computers: How QuEra Automates It",
-    "score": 14,
-    "by": "EvgeniyZh",
-    "url": "https://www.quera.com/blog-posts/holding-the-light-teaching-an-ai-to-lock-and-tune-our-quantum-computers-lasers",
-    "comments": 3
+    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
+    "score": 190,
+    "by": "thedracle",
+    "url": "https://petal.live/",
+    "comments": 39
   },
   {
-    "title": "AI is a tool and using it well takes skill",
-    "score": 725,
-    "by": "layer8",
-    "url": "https://yyhh.org/blog/2026/10/ai-is-a-tool/",
-    "comments": 563
-  },
-  {
-    "title": "Ask HN: Why do people say \"I built it\" when we should say \"Claude built it\"?",
-    "score": 14,
-    "by": "gonzar79",
+    "title": "Ask HN: CAD for wood working with LLM support?",
+    "score": 95,
+    "by": "reacharavindh",
     "url": "",
-    "comments": 31
+    "comments": 84
   },
   {
-    "title": "PostEra (YC W20) Is Hiring AI Researchers for Drug Discovery",
-    "score": 1,
-    "by": "morraa",
-    "url": "https://jobs.lever.co/postera/c7d50a36-db0a-4574-bfe4-8700b74a22c0",
+    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
+    "score": 16,
+    "by": "pramodbiligiri",
+    "url": "https://github.com/awslabs/aidlc-workflows",
+    "comments": 14
+  },
+  {
+    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
+    "score": 922,
+    "by": "latexr",
+    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+    "comments": 570
+  },
+  {
+    "title": "Has AI tells",
+    "score": 126,
+    "by": "7777777phil",
+    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
+    "comments": 108
+  },
+  {
+    "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
+    "score": 12,
+    "by": "wondersky",
+    "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
     "comments": 0
   },
   {
-    "title": "OpenAI engineer arrested in bugging of executive conference room",
-    "score": 607,
-    "by": "forthwall",
-    "url": "https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/",
-    "comments": 505
-  },
-  {
-    "title": "How to engineer an AI harness for game development",
-    "score": 158,
-    "by": "kkukshtel",
-    "url": "https://kylekukshtel.com/ai-harness-engineering-game-development-claude-code",
-    "comments": 79
-  },
-  {
-    "title": "Show HN: Parsimony – an open-source benchmark for how much code AI models add",
-    "score": 71,
-    "by": "lasu",
-    "url": "https://parsimony.lasu.dev/",
-    "comments": 15
-  },
-  {
-    "title": "Gemini 4 Argon for Robotics",
-    "score": 225,
-    "by": "xnx",
-    "url": "https://developers.googleblog.com/gemini-4-argon-for-robotics/",
-    "comments": 51
-  },
-  {
-    "title": "Show HN: Spotatui, a Spotify TUI/GUI without web API rate limits",
-    "score": 76,
-    "by": "LargeModGames",
-    "url": "https://github.com/LargeModGames/spotatui",
-    "comments": 16
-  },
-  {
-    "title": "Show HN: Building an LLM from Scratch in TypeScript",
-    "score": 28,
-    "by": "baraa_",
-    "url": "https://book.humanexperiences.io/",
-    "comments": 3
+    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
+    "score": 102,
+    "by": "edpin2000",
+    "url": "https://clova.email/",
+    "comments": 85
   }
 ]
