@@ -1,72 +1,65 @@
 [
   {
-    "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-    "score": 194,
-    "by": "0xdeafbeef",
-    "url": "https://blog.dfb.sh/blog/eap770-root-for-two-zeros/",
-    "comments": 101
+    "title": "Muse Spark Open",
+    "score": 854,
+    "by": "bigwheels",
+    "url": "https://research.meta.ai/blog/muse-spark-open",
+    "comments": 427
   },
   {
-    "title": "Show HN: Indigene – Native plants for where you stand",
-    "score": 60,
-    "by": "olivierlacan",
-    "url": "https://indigene.app/",
-    "comments": 11
+    "title": "Neural networks are clean",
+    "score": 740,
+    "by": "themgt",
+    "url": "https://already-clean.goodfire.com/",
+    "comments": 277
   },
   {
-    "title": "Show HN: Ito – Build Terminal UIs in Lua",
-    "score": 42,
-    "by": "cat-whisperer",
-    "url": "https://uji.sh/ito/",
-    "comments": 9
+    "title": "AI-assisted PCB design for KiCad 10",
+    "score": 18,
+    "by": "ofrzeta",
+    "url": "https://github.com/mixelpixx/Konnect",
+    "comments": 4
   },
   {
-    "title": "Show HN: Petal, open-source CoScreen/ScreenHero finally free",
-    "score": 190,
-    "by": "thedracle",
-    "url": "https://petal.live/",
-    "comments": 39
+    "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+    "score": 79,
+    "by": "rguiscard",
+    "url": "https://github.com/johnrash/bebox",
+    "comments": 25
   },
   {
-    "title": "Ask HN: CAD for wood working with LLM support?",
-    "score": 95,
-    "by": "reacharavindh",
-    "url": "",
-    "comments": 84
+    "title": "Using AI to reverse engineer hardware",
+    "score": 216,
+    "by": "ErenayDev",
+    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
+    "comments": 193
+  },
+  {
+    "title": "E Ink Kaleido 4",
+    "score": 177,
+    "by": "Perroboc",
+    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+    "comments": 105
+  },
+  {
+    "title": "The 8-mile hole in a Hawaii national park that no one can explain",
+    "score": 74,
+    "by": "elsewhen",
+    "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
+    "comments": 46
+  },
+  {
+    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
+    "score": 242,
+    "by": "aaraujo002",
+    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
+    "comments": 195
   },
   {
     "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-    "score": 16,
+    "score": 25,
     "by": "pramodbiligiri",
     "url": "https://github.com/awslabs/aidlc-workflows",
-    "comments": 14
-  },
-  {
-    "title": "Containment and monitoring failures are to blame for AI hacking reports: experts",
-    "score": 922,
-    "by": "latexr",
-    "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
-    "comments": 570
-  },
-  {
-    "title": "Has AI tells",
-    "score": 126,
-    "by": "7777777phil",
-    "url": "https://theconsensus.dev/blog/2026/10/14/has-ai-tells.html?focus=1",
-    "comments": 108
-  },
-  {
-    "title": "Claude Code Desktop Vulnerability: Preview Pane Data Exfiltration",
-    "score": 12,
-    "by": "wondersky",
-    "url": "https://noma.security/noma-labs/sneakpeek-how-the-preview-pane-in-claude-code-desktop-can-exfiltrate-your-data",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: I wrote an email app that accepts only one sender per inbox",
-    "score": 102,
-    "by": "edpin2000",
-    "url": "https://clova.email/",
-    "comments": 85
+    "comments": 19
   }
 ]
