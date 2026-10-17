@@ -1,65 +1,86 @@
 [
   {
-    "title": "Muse Spark Open",
-    "score": 854,
-    "by": "bigwheels",
-    "url": "https://research.meta.ai/blog/muse-spark-open",
-    "comments": 427
+    "title": "Tell HN: Remember to migrate away from .name domain",
+    "score": 62,
+    "by": "nikanj",
+    "url": "",
+    "comments": 31
   },
   {
-    "title": "Neural networks are clean",
-    "score": 740,
-    "by": "themgt",
-    "url": "https://already-clean.goodfire.com/",
-    "comments": 277
+    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+    "score": 302,
+    "by": "Anon84",
+    "url": "https://github.com/cobanov/PS5LM",
+    "comments": 75
   },
   {
-    "title": "AI-assisted PCB design for KiCad 10",
-    "score": 18,
-    "by": "ofrzeta",
-    "url": "https://github.com/mixelpixx/Konnect",
-    "comments": 4
+    "title": "Claude reveals ECDSA curve origins",
+    "score": 897,
+    "by": "ahlCVA",
+    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+    "comments": 335
   },
   {
-    "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
-    "score": 79,
-    "by": "rguiscard",
-    "url": "https://github.com/johnrash/bebox",
-    "comments": 25
+    "title": "Designing more efficient quantum circuits with Claude",
+    "score": 149,
+    "by": "pretext",
+    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+    "comments": 32
   },
   {
-    "title": "Using AI to reverse engineer hardware",
-    "score": 216,
-    "by": "ErenayDev",
-    "url": "https://blogs.gnome.org/uraeus/2026/10/15/aiandreverseengineerhardware/",
-    "comments": 193
+    "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
+    "score": 12,
+    "by": "cloaky233",
+    "url": "https://github.com/CLoaKY233/siltop",
+    "comments": 14
   },
   {
-    "title": "E Ink Kaleido 4",
-    "score": 177,
-    "by": "Perroboc",
-    "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
-    "comments": 105
+    "title": "Nine-Inch Snails",
+    "score": 77,
+    "by": "zdw",
+    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
+    "comments": 36
   },
   {
-    "title": "The 8-mile hole in a Hawaii national park that no one can explain",
-    "score": 74,
-    "by": "elsewhen",
-    "url": "https://www.sfgate.com/national-parks/article/hawaii-volcanoes-park-great-crack-22358849.php",
-    "comments": 46
+    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+    "score": 521,
+    "by": "speckx",
+    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+    "comments": 442
   },
   {
-    "title": "Simons Foundation launches $15M effort to help mathematicians navigate AI era",
-    "score": 242,
-    "by": "aaraujo002",
-    "url": "https://www.simonsfoundation.org/news/simons-foundation-launches-15m-effort-to-help-mathematicians-navigate-ai-era/",
-    "comments": 195
+    "title": "How the Claude Code team does code review",
+    "score": 369,
+    "by": "pretext",
+    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
+    "comments": 336
   },
   {
-    "title": "Aidlc: Adaptive workflow steering rules for AI coding agents",
-    "score": 25,
-    "by": "pramodbiligiri",
-    "url": "https://github.com/awslabs/aidlc-workflows",
-    "comments": 19
+    "title": "Show HN: Gemini 4 Argon plays StarCraft",
+    "score": 226,
+    "by": "__cayenne__",
+    "url": "https://starskirmish.com/bench/v0-2/",
+    "comments": 101
+  },
+  {
+    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
+    "score": 129,
+    "by": "ohjeez",
+    "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
+    "comments": 81
+  },
+  {
+    "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
+    "score": 98,
+    "by": "mtlduo",
+    "url": "https://wonderhop.io/en/",
+    "comments": 80
+  },
+  {
+    "title": "Anthropic assigned highest junk credit rating in June",
+    "score": 263,
+    "by": "JumpCrisscross",
+    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
+    "comments": 81
   }
 ]
