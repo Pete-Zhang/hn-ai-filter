@@ -1,86 +1,51 @@
 [
   {
-    "title": "Tell HN: Remember to migrate away from .name domain",
-    "score": 62,
-    "by": "nikanj",
-    "url": "",
-    "comments": 31
+    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+    "score": 159,
+    "by": "critiquebrowser",
+    "url": "https://sphinx-six-theta.vercel.app/",
+    "comments": 46
   },
   {
-    "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-    "score": 302,
-    "by": "Anon84",
-    "url": "https://github.com/cobanov/PS5LM",
-    "comments": 75
+    "title": "DeepSeek-v4.1-Flash-1017",
+    "score": 887,
+    "by": "theykk",
+    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+    "comments": 666
+  },
+  {
+    "title": "Pele – Mermaid diagrams as themeable SVG",
+    "score": 468,
+    "by": "dchest",
+    "url": "https://pele.run/",
+    "comments": 41
+  },
+  {
+    "title": "Lorenz and Little: How Much Does Your Tail Cost?",
+    "score": 3,
+    "by": "porridgeraisin",
+    "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+    "comments": 0
   },
   {
     "title": "Claude reveals ECDSA curve origins",
-    "score": 897,
+    "score": 1040,
     "by": "ahlCVA",
     "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "comments": 335
+    "comments": 383
   },
   {
-    "title": "Designing more efficient quantum circuits with Claude",
-    "score": 149,
-    "by": "pretext",
-    "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-    "comments": 32
+    "title": "Show HN: Things to Do API",
+    "score": 49,
+    "by": "invalidmonk",
+    "url": "https://thingstodoapi.com/",
+    "comments": 24
   },
   {
-    "title": "Show HN: I got tired of btop not seeing my Mac's chip, so I built siltop",
-    "score": 12,
-    "by": "cloaky233",
-    "url": "https://github.com/CLoaKY233/siltop",
-    "comments": 14
-  },
-  {
-    "title": "Nine-Inch Snails",
-    "score": 77,
-    "by": "zdw",
-    "url": "https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850/",
-    "comments": 36
-  },
-  {
-    "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-    "score": 521,
-    "by": "speckx",
-    "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
-    "comments": 442
-  },
-  {
-    "title": "How the Claude Code team does code review",
-    "score": 369,
-    "by": "pretext",
-    "url": "https://claude.dev/blog/solving-code-review-at-anthropic/",
-    "comments": 336
-  },
-  {
-    "title": "Show HN: Gemini 4 Argon plays StarCraft",
-    "score": 226,
-    "by": "__cayenne__",
-    "url": "https://starskirmish.com/bench/v0-2/",
-    "comments": 101
-  },
-  {
-    "title": "Stolen Renoir paintings found hidden, and damaged, behind cinder block wall",
-    "score": 129,
-    "by": "ohjeez",
-    "url": "https://www.cbsnews.com/news/stolen-renoir-paintings-found-behind-wall-france/",
-    "comments": 81
-  },
-  {
-    "title": "Show HN: Wonderhop – A daily game: guess what most people say, or what none do",
-    "score": 98,
-    "by": "mtlduo",
-    "url": "https://wonderhop.io/en/",
-    "comments": 80
-  },
-  {
-    "title": "Anthropic assigned highest junk credit rating in June",
-    "score": 263,
-    "by": "JumpCrisscross",
-    "url": "https://www.ft.com/content/5a310aee-f555-4266-874c-b1b4db20186d",
-    "comments": 81
+    "title": "Tell HN: Remember to migrate away from .name domain",
+    "score": 155,
+    "by": "nikanj",
+    "url": "",
+    "comments": 96
   }
 ]
