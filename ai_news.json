@@ -1,51 +1,65 @@
 [
   {
-    "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
-    "score": 159,
-    "by": "critiquebrowser",
-    "url": "https://sphinx-six-theta.vercel.app/",
-    "comments": 46
+    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+    "score": 113,
+    "by": "gslin",
+    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+    "comments": 36
   },
   {
-    "title": "DeepSeek-v4.1-Flash-1017",
-    "score": 887,
-    "by": "theykk",
-    "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-    "comments": 666
+    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
+    "score": 15,
+    "by": "murtazayusuf",
+    "url": "https://github.com/kividbio/kividb",
+    "comments": 1
   },
   {
-    "title": "Pele – Mermaid diagrams as themeable SVG",
-    "score": 468,
-    "by": "dchest",
-    "url": "https://pele.run/",
-    "comments": 41
+    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+    "score": 81,
+    "by": "erikkannike",
+    "url": "https://100toolkit.com/blog/deslop-model/",
+    "comments": 62
   },
   {
-    "title": "Lorenz and Little: How Much Does Your Tail Cost?",
-    "score": 3,
-    "by": "porridgeraisin",
-    "url": "https://brooker.co.za/blog/2026/07/29/lorenz-and-little.html",
+    "title": "How to Train Your Robot",
+    "score": 103,
+    "by": "crescit_eundo",
+    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
+    "comments": 32
+  },
+  {
+    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+    "score": 105,
+    "by": "ankitg12",
+    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+    "comments": 69
+  },
+  {
+    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+    "score": 135,
+    "by": "zoozla",
+    "url": "https://github.com/finereli/whatsapp-mcp",
+    "comments": 70
+  },
+  {
+    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
+    "score": 7,
+    "by": "dkobia",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
     "comments": 0
   },
   {
-    "title": "Claude reveals ECDSA curve origins",
-    "score": 1040,
-    "by": "ahlCVA",
-    "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-    "comments": 383
+    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
+    "score": 206,
+    "by": "jsomau",
+    "url": "https://legendofhyrule.com/",
+    "comments": 119
   },
   {
-    "title": "Show HN: Things to Do API",
-    "score": 49,
-    "by": "invalidmonk",
-    "url": "https://thingstodoapi.com/",
-    "comments": 24
-  },
-  {
-    "title": "Tell HN: Remember to migrate away from .name domain",
-    "score": 155,
-    "by": "nikanj",
-    "url": "",
-    "comments": 96
+    "title": "Namecheap just seized and disabled all my domains",
+    "score": 623,
+    "by": "sashk",
+    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
+    "comments": 328
   }
 ]
