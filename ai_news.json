@@ -1,65 +1,51 @@
 [
   {
-    "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-    "score": 113,
-    "by": "gslin",
-    "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
-    "comments": 36
+    "title": "Ukraine claims first drone evacuation of wounded soldier",
+    "score": 345,
+    "by": "yzydserd",
+    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
+    "comments": 254
   },
   {
-    "title": "Show HN: KiviDB, a faster Redis-compatible memory database and vector cache",
-    "score": 15,
-    "by": "murtazayusuf",
-    "url": "https://github.com/kividbio/kividb",
-    "comments": 1
+    "title": "Maxwell: A new kind of model that sits between code and hardware",
+    "score": 103,
+    "by": "laginimaineb",
+    "url": "https://heymaxwell.ai/",
+    "comments": 45
   },
   {
-    "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-    "score": 81,
-    "by": "erikkannike",
-    "url": "https://100toolkit.com/blog/deslop-model/",
+    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
+    "score": 515,
+    "by": "rzk",
+    "url": "",
+    "comments": 634
+  },
+  {
+    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
+    "score": 118,
+    "by": "mendym",
+    "url": "https://github.com/golang/go/issues/82345",
     "comments": 62
   },
   {
-    "title": "How to Train Your Robot",
-    "score": 103,
-    "by": "crescit_eundo",
-    "url": "https://www.construction-physics.com/p/how-to-train-your-robot",
-    "comments": 32
+    "title": "The fire retardant in the seafood chain",
+    "score": 148,
+    "by": "gumby",
+    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
+    "comments": 49
   },
   {
-    "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
-    "score": 105,
-    "by": "ankitg12",
-    "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
-    "comments": 69
+    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
+    "score": 58,
+    "by": "skull8888888",
+    "url": "",
+    "comments": 24
   },
   {
-    "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-    "score": 135,
-    "by": "zoozla",
-    "url": "https://github.com/finereli/whatsapp-mcp",
-    "comments": 70
-  },
-  {
-    "title": "A hacker broke into John Deere and SharkNinja with an army of AI agents",
-    "score": 7,
-    "by": "dkobia",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: The Zelda timeline to catch up before the Ocarina of Time remake",
-    "score": 206,
-    "by": "jsomau",
-    "url": "https://legendofhyrule.com/",
-    "comments": 119
-  },
-  {
-    "title": "Namecheap just seized and disabled all my domains",
-    "score": 623,
-    "by": "sashk",
-    "url": "https://www.reddit.com/r/sysadmin/comments/1x8cycd/namecheap_just_seized_and_disabled_all_my_domains/",
-    "comments": 328
+    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+    "score": 78,
+    "by": "romeo19361",
+    "url": "https://deathplanswitch.com/",
+    "comments": 57
   }
 ]
