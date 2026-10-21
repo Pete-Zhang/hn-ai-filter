@@ -1,51 +1,37 @@
 [
   {
-    "title": "Ukraine claims first drone evacuation of wounded soldier",
-    "score": 345,
-    "by": "yzydserd",
-    "url": "https://www.nbcnews.com/world/ukraine/ukraine-first-drone-evacuation-wounded-soldier-frontlines-hexacopter-rcna604310",
-    "comments": 254
+    "title": "LayerFS: The filesystem for AI coding agents",
+    "score": 9,
+    "by": "l2dy",
+    "url": "https://layerfs.ai/",
+    "comments": 4
   },
   {
-    "title": "Maxwell: A new kind of model that sits between code and hardware",
-    "score": 103,
-    "by": "laginimaineb",
-    "url": "https://heymaxwell.ai/",
-    "comments": 45
+    "title": "Good type against all odds",
+    "score": 150,
+    "by": "firloop",
+    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+    "comments": 13
   },
   {
-    "title": "Ask HN: How to deal with shipping AI-written code you don't understand?",
-    "score": 515,
-    "by": "rzk",
-    "url": "",
-    "comments": 634
+    "title": "Using Claude to reduce the attack surface of code",
+    "score": 83,
+    "by": "dnw",
+    "url": "https://www.anthropic.com/research/attack-surface-reduction",
+    "comments": 50
   },
   {
-    "title": "Go will reject certificate chains containing eight distrusted SPKIs",
-    "score": 118,
-    "by": "mendym",
-    "url": "https://github.com/golang/go/issues/82345",
-    "comments": 62
+    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
+    "score": 284,
+    "by": "dhorthy",
+    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+    "comments": 110
   },
   {
-    "title": "The fire retardant in the seafood chain",
-    "score": 148,
-    "by": "gumby",
-    "url": "https://insideclimatenews.org/news/14102026/ethoxyquin-fire-retardant-in-seafood-chain/",
-    "comments": 49
-  },
-  {
-    "title": "Launch HN: Laminar (YC S24) – RL-trained model that finds errors in agent traces",
-    "score": 58,
-    "by": "skull8888888",
-    "url": "",
-    "comments": 24
-  },
-  {
-    "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
-    "score": 78,
-    "by": "romeo19361",
-    "url": "https://deathplanswitch.com/",
-    "comments": 57
+    "title": "Does Ruby on Rails still make sense?",
+    "score": 65,
+    "by": "dajonker",
+    "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
+    "comments": 67
   }
 ]
