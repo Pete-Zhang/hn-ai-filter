@@ -1,37 +1,79 @@
 [
   {
-    "title": "LayerFS: The filesystem for AI coding agents",
-    "score": 9,
-    "by": "l2dy",
-    "url": "https://layerfs.ai/",
-    "comments": 4
+    "title": "Jailbreaking the Switch 2",
+    "score": 241,
+    "by": "ledoge",
+    "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+    "comments": 74
   },
   {
-    "title": "Good type against all odds",
-    "score": 150,
-    "by": "firloop",
-    "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
-    "comments": 13
+    "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+    "score": 327,
+    "by": "alphax314",
+    "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+    "comments": 100
   },
   {
-    "title": "Using Claude to reduce the attack surface of code",
-    "score": 83,
-    "by": "dnw",
-    "url": "https://www.anthropic.com/research/attack-surface-reduction",
-    "comments": 50
+    "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+    "score": 105,
+    "by": "mrkn1",
+    "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+    "comments": 25
   },
   {
-    "title": "SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful",
-    "score": 284,
-    "by": "dhorthy",
-    "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
-    "comments": 110
+    "title": "Claude Duet",
+    "score": 453,
+    "by": "kuberwastaken",
+    "url": "https://claude.com/product/claude-duet",
+    "comments": 413
   },
   {
-    "title": "Does Ruby on Rails still make sense?",
-    "score": 65,
-    "by": "dajonker",
-    "url": "https://tech.dirkjonker.nl/does-ruby-on-rails-make-sense/",
-    "comments": 67
+    "title": "OpenAI CLI",
+    "score": 168,
+    "by": "armcat",
+    "url": "https://github.com/openai/openai-cli",
+    "comments": 84
+  },
+  {
+    "title": "Meta ordered to pay $25B penalty in New Mexico Cambridge Analytica case",
+    "score": 608,
+    "by": "cbg0",
+    "url": "https://www.cnbc.com/2026/10/21/meta-new-mexico-cambridge-analytica-penalty.html",
+    "comments": 344
+  },
+  {
+    "title": "OpenAI models are coming to Google Cloud",
+    "score": 307,
+    "by": "armcat",
+    "url": "https://openai.com/index/openai-models-google-cloud/",
+    "comments": 131
+  },
+  {
+    "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
+    "score": 93,
+    "by": "kmansm27",
+    "url": "https://github.com/omnara-ai/omnara",
+    "comments": 27
+  },
+  {
+    "title": "Chain of Thought for Humans",
+    "score": 123,
+    "by": "ibobev",
+    "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+    "comments": 59
+  },
+  {
+    "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
+    "score": 63,
+    "by": "simfinii",
+    "url": "https://alterauth.com/",
+    "comments": 28
+  },
+  {
+    "title": "Claude Now Works with Google Docs, Sheets, and Slides",
+    "score": 57,
+    "by": "gmays",
+    "url": "https://claude.com/resources/articles/claude-now-works-in-google-docs-sheets-and-slides",
+    "comments": 7
   }
 ]
