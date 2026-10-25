@@ -1,107 +1,79 @@
 [
   {
-    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-    "score": 947,
-    "by": "Jowsey",
-    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-    "comments": 566
-  },
-  {
-    "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-    "score": 32,
-    "by": "TangerineDream",
-    "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
-    "comments": 1
-  },
-  {
-    "title": "A practical guide to AI image generation, from diffusion to agents",
-    "score": 120,
-    "by": "westsmith",
-    "url": "https://danielball.com/notes/ai_image_generation.html",
-    "comments": 35
-  },
-  {
-    "title": "Dessa: Conversation Model trained only on speech",
-    "score": 408,
-    "by": "dsr12",
-    "url": "https://block.xyz/dessa",
-    "comments": 151
-  },
-  {
-    "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-    "score": 237,
-    "by": "testing22321",
-    "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+    "title": "Cerebras Deploys Trillion-Parameter AI Models",
+    "score": 217,
+    "by": "gmays",
+    "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
     "comments": 68
   },
   {
-    "title": "The Chalk and the Airplane",
-    "score": 9,
-    "by": "paulorlando",
-    "url": "https://unintendedconsequenc.es/chalk-and-the-airplane/",
-    "comments": 0
+    "title": "Rewriting a Commercial Engine in Jai",
+    "score": 45,
+    "by": "frading",
+    "url": "https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch",
+    "comments": 31
   },
   {
-    "title": "Air Purifiers as White Noise Machines",
-    "score": 145,
-    "by": "luu",
-    "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
-    "comments": 132
+    "title": "Nikon photography contest winner loses title after scientists spot signs of AI",
+    "score": 31,
+    "by": "thunderbong",
+    "url": "https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html",
+    "comments": 4
   },
   {
-    "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-    "score": 95,
-    "by": "eiopa",
-    "url": "https://corgi.computer/",
-    "comments": 25
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "score": 394,
+    "by": "gnabgib",
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "comments": 408
   },
   {
-    "title": "Rise of collagen-eating microbes may help explain gaps in the fossil record",
-    "score": 57,
-    "by": "gmays",
-    "url": "https://www.cam.ac.uk/research/news/rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
-    "comments": 7
+    "title": "Neural chip decodes interactions between brain regions",
+    "score": 112,
+    "by": "giuliomagnifico",
+    "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+    "comments": 44
+  },
+  {
+    "title": "In Rainbows",
+    "score": 28,
+    "by": "surprisetalk",
+    "url": "https://hitogata.neocities.org/Rainbows",
+    "comments": 8
+  },
+  {
+    "title": "A practical guide to AI image generation, from diffusion to agents",
+    "score": 276,
+    "by": "westsmith",
+    "url": "https://danielball.com/notes/ai_image_generation.html",
+    "comments": 90
+  },
+  {
+    "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+    "score": 1067,
+    "by": "Jowsey",
+    "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+    "comments": 663
+  },
+  {
+    "title": "Why is AI generated language so hard to understand?",
+    "score": 209,
+    "by": "canjobear",
+    "url": "https://arxiv.org/abs/2610.29162",
+    "comments": 175
+  },
+  {
+    "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+    "score": 48,
+    "by": "tokepi",
+    "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+    "comments": 36
   },
   {
     "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-    "score": 628,
+    "score": 644,
     "by": "alphax314",
     "url": "https://simedw.com/2026/10/21/world-model-terminal/",
-    "comments": 186
-  },
-  {
-    "title": "A Cocktail Party in the Street: An Interview with Alan Stillman (2010)",
-    "score": 8,
-    "by": "NaOH",
-    "url": "https://www.ediblegeography.com/a-cocktail-party-in-the-street-an-interview-with-alan-stillman/",
-    "comments": 1
-  },
-  {
-    "title": "Telstra ends Australia's long RCS wait",
-    "score": 5,
-    "by": "cisc",
-    "url": "https://itwire.com/it-industry-news/telecoms-and-nbn/telstra-ends-australias-long-rcs-wait-android-from-16-november-iphone-after-decembers-ios-update",
-    "comments": 1
-  },
-  {
-    "title": "That AI Temptation",
-    "score": 7,
-    "by": "robin_reala",
-    "url": "https://www.tbray.org/ongoing/When/202x/2026/10/19/The-AI-Temptation",
-    "comments": 2
-  },
-  {
-    "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-    "score": 109,
-    "by": "amichail",
-    "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-    "comments": 23
-  },
-  {
-    "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-    "score": 48,
-    "by": "ibobev",
-    "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
-    "comments": 9
+    "comments": 192
   }
 ]
