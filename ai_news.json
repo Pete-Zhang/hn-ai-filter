@@ -1,58 +1,65 @@
 [
   {
-    "title": "Birdwatching rewires the brain and slows cognitive decline",
-    "score": 243,
-    "by": "cisc",
-    "url": "https://www.bbc.com/future/article/20261019-birdwatching-rewires-the-brain-and-slows-cognitive-decline",
-    "comments": 106
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "score": 115,
+    "by": "rbanffy",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "comments": 56
   },
   {
-    "title": "Brown student maps the hidden global labor powering AI",
-    "score": 23,
-    "by": "cdrnsf",
-    "url": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
-    "comments": 11
+    "title": "AI promised less work. I've never worked more",
+    "score": 200,
+    "by": "oorestisime",
+    "url": "https://oioannou.com/blog/ai-promised-less-work/",
+    "comments": 182
   },
   {
-    "title": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git",
-    "score": 60,
-    "by": "lumbroso",
-    "url": "https://adrs.systems",
-    "comments": 34
+    "title": "The Mythical Man-Month in the Age of AI",
+    "score": 270,
+    "by": "ilreb",
+    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+    "comments": 182
   },
   {
-    "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
-    "score": 382,
-    "by": "minimaxir",
-    "url": "https://minimaxir.com/2026/10/cheap-llms/",
-    "comments": 388
+    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+    "score": 152,
+    "by": "wondersky",
+    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+    "comments": 52
   },
   {
-    "title": "Making the Buddha Head from Merv Whole Again",
-    "score": 62,
-    "by": "laybak",
-    "url": "https://www.getty.edu/news/buddha-head-of-merv-turkmenistan-conservation/",
+    "title": "Kauldron: Modular, scalable library to train ML models",
+    "score": 4,
+    "by": "nateb2022",
+    "url": "https://github.com/google-research/kauldron",
     "comments": 1
   },
   {
-    "title": "AI didn't cause the tech jobs bust, but it explains why there's no recovery",
-    "score": 66,
-    "by": "hacker_v_s",
-    "url": "https://vithushansylvester.com/writing/the-real-impact-of-ai-on-tech-jobs",
-    "comments": 27
+    "title": "Blaise Pascal invented fixed route public transport (2024)",
+    "score": 302,
+    "by": "skadamat",
+    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
+    "comments": 157
   },
   {
-    "title": "R/opensource bans AI-made and AI-focused projects and non-English speakers",
-    "score": 9,
-    "by": "NordStreamYacht",
-    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/reddits-r-opensource-bans-ai-made-and-ai-focused-projects-also-bans-non-english-speakers-sweeping-new-rules-spark-backlash-over-linux-kernel-contributions-and-solo-developers",
-    "comments": 8
+    "title": "GPT-6.1 Terra",
+    "score": 606,
+    "by": "meetpateltech",
+    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+    "comments": 386
   },
   {
-    "title": "Show HN: Freehire, open-source search 3M+ tech jobs from company career boards",
-    "score": 25,
-    "by": "i_strelov",
-    "url": "https://freehire.me/",
-    "comments": 3
+    "title": "Show HN: Encarta 95 Web",
+    "score": 82,
+    "by": "gitgud",
+    "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
+    "comments": 45
+  },
+  {
+    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+    "score": 152,
+    "by": "pancomplex",
+    "url": "https://github.com/FrigadeHQ/hob",
+    "comments": 35
   }
 ]
