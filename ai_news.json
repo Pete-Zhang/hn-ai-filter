@@ -1,65 +1,65 @@
 [
   {
-    "title": "Wikipedia's Cleanup of AI-Generated Content",
-    "score": 115,
-    "by": "rbanffy",
-    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
+    "score": 90,
+    "by": "danso",
+    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+    "comments": 98
+  },
+  {
+    "title": "Two high-speed trains collide near Toledo, Spain",
+    "score": 104,
+    "by": "evilmonkey19",
+    "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
     "comments": 56
   },
   {
-    "title": "AI promised less work. I've never worked more",
-    "score": 200,
-    "by": "oorestisime",
-    "url": "https://oioannou.com/blog/ai-promised-less-work/",
-    "comments": 182
+    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+    "score": 436,
+    "by": "Luc",
+    "url": "https://www.brangus.io/survival-llm",
+    "comments": 166
   },
   {
-    "title": "The Mythical Man-Month in the Age of AI",
-    "score": 270,
-    "by": "ilreb",
-    "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
-    "comments": 182
+    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
+    "score": 26,
+    "by": "HelloUsername",
+    "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
+    "comments": 11
   },
   {
-    "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-    "score": 152,
-    "by": "wondersky",
-    "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-    "comments": 52
+    "title": "Tailscale SSH: Investigation and remediation update",
+    "score": 330,
+    "by": "figmert",
+    "url": "https://tailscale.com/ssh-investigation-update",
+    "comments": 173
   },
   {
-    "title": "Kauldron: Modular, scalable library to train ML models",
-    "score": 4,
-    "by": "nateb2022",
-    "url": "https://github.com/google-research/kauldron",
-    "comments": 1
+    "title": "Early progress on accelerating drug development with Claude",
+    "score": 276,
+    "by": "dataking",
+    "url": "https://www.anthropic.com/research/early-progress-drug-development",
+    "comments": 264
   },
   {
-    "title": "Blaise Pascal invented fixed route public transport (2024)",
-    "score": 302,
-    "by": "skadamat",
-    "url": "https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html",
-    "comments": 157
+    "title": "Hex Raises $100M",
+    "score": 76,
+    "by": "tomwphillips",
+    "url": "https://hex.tech/blog/hex-new-era/",
+    "comments": 57
   },
   {
-    "title": "GPT-6.1 Terra",
-    "score": 606,
-    "by": "meetpateltech",
-    "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
-    "comments": 386
+    "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
+    "score": 34,
+    "by": "tom2026hn",
+    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
+    "comments": 14
   },
   {
-    "title": "Show HN: Encarta 95 Web",
-    "score": 82,
-    "by": "gitgud",
-    "url": "https://benwinding.github.io/encarta_95_web/#/article/Art",
-    "comments": 45
-  },
-  {
-    "title": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
-    "score": 152,
-    "by": "pancomplex",
-    "url": "https://github.com/FrigadeHQ/hob",
-    "comments": 35
+    "title": "Wikipedia's Cleanup of AI-Generated Content",
+    "score": 487,
+    "by": "rbanffy",
+    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+    "comments": 222
   }
 ]
