@@ -1,65 +1,72 @@
 [
   {
-    "title": "Kentucky man becomes the first humanist granted religious exemption from AI",
-    "score": 90,
-    "by": "danso",
-    "url": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
-    "comments": 98
+    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+    "score": 82,
+    "by": "882542F3884314B",
+    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
+    "comments": 34
   },
   {
-    "title": "Two high-speed trains collide near Toledo, Spain",
-    "score": 104,
-    "by": "evilmonkey19",
-    "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
-    "comments": 56
+    "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
+    "score": 24,
+    "by": "wglb",
+    "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
+    "comments": 6
   },
   {
-    "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-    "score": 436,
-    "by": "Luc",
-    "url": "https://www.brangus.io/survival-llm",
-    "comments": 166
+    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
+    "score": 176,
+    "by": "austinallegro",
+    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
+    "comments": 29
   },
   {
-    "title": "Valve Responds to Developers Fearing AI Slop and Clones",
-    "score": 26,
-    "by": "HelloUsername",
-    "url": "https://www.invenglobal.com/articles/27761/valve-responds-to-developers-fearing-ai-slop-and-clones",
-    "comments": 11
+    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
+    "score": 33,
+    "by": "pseudolus",
+    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+    "comments": 18
   },
   {
-    "title": "Tailscale SSH: Investigation and remediation update",
-    "score": 330,
-    "by": "figmert",
-    "url": "https://tailscale.com/ssh-investigation-update",
-    "comments": 173
+    "title": "OpenAI's agents talked to each other through the CPU Cache",
+    "score": 291,
+    "by": "limbicsystem",
+    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
+    "comments": 204
   },
   {
-    "title": "Early progress on accelerating drug development with Claude",
-    "score": 276,
-    "by": "dataking",
-    "url": "https://www.anthropic.com/research/early-progress-drug-development",
-    "comments": 264
+    "title": "Claude Code regularly sends each background agent’s transcript to its model",
+    "score": 502,
+    "by": "NikZaal",
+    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+    "comments": 204
   },
   {
-    "title": "Hex Raises $100M",
-    "score": 76,
-    "by": "tomwphillips",
-    "url": "https://hex.tech/blog/hex-new-era/",
-    "comments": 57
+    "title": "Nixpkgs for the Front End Impaired",
+    "score": 85,
+    "by": "surprisetalk",
+    "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
+    "comments": 17
   },
   {
-    "title": "Microsoft and Epic Games Suddenly Agree That AI Is Theft",
-    "score": 34,
-    "by": "tom2026hn",
-    "url": "https://kotaku.com/now-that-the-shoe-is-on-the-other-foot-microsoft-and-epic-games-suddenly-agree-that-ai-is-theft-2000749316",
-    "comments": 14
+    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+    "score": 248,
+    "by": "landonxi",
+    "url": "https://surgehq.ai/blog/dayjob-tax",
+    "comments": 159
   },
   {
-    "title": "Wikipedia's Cleanup of AI-Generated Content",
-    "score": 487,
-    "by": "rbanffy",
-    "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
-    "comments": 222
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "score": 68,
+    "by": "acossta",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
+    "comments": 3
+  },
+  {
+    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+    "score": 75,
+    "by": "denismenace",
+    "url": "https://slidebyside.com/",
+    "comments": 32
   }
 ]
