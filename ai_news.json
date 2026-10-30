@@ -1,72 +1,86 @@
 [
   {
-    "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-    "score": 82,
-    "by": "882542F3884314B",
-    "url": "https://dreamgroup.com/blog/chained-php2shell-exploit-roots-25-servers",
-    "comments": 34
+    "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+    "score": 68,
+    "by": "_chall",
+    "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+    "comments": 282
   },
   {
-    "title": "Southern Africa's first known stenciled rock art found hiding in plain sight",
-    "score": 24,
-    "by": "wglb",
-    "url": "https://phys.org/news/2026-10-southern-africa-stenciled-art-plain.html",
-    "comments": 6
+    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
+    "score": 254,
+    "by": "DeepLogin",
+    "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
+    "comments": 167
   },
   {
-    "title": "Forging a Microsoft Edge Full Chain with Logic Bugs Only",
-    "score": 176,
-    "by": "austinallegro",
-    "url": "https://blog.orange.tw/posts/2026-10-the-last-proof-of-human-craft-browser-full-chain/",
-    "comments": 29
-  },
-  {
-    "title": "I Used AI to Fake a Scientific Paper. Here's What Happened",
-    "score": 33,
-    "by": "pseudolus",
-    "url": "https://spectrum.ieee.org/ai-generated-scientific-papers",
+    "title": "American views of higher ed decline, once again",
+    "score": 25,
+    "by": "surprisetalk",
+    "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
     "comments": 18
   },
   {
-    "title": "OpenAI's agents talked to each other through the CPU Cache",
-    "score": 291,
-    "by": "limbicsystem",
-    "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache/",
-    "comments": 204
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "score": 344,
+    "by": "sandslash",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "comments": 141
   },
   {
-    "title": "Claude Code regularly sends each background agent’s transcript to its model",
-    "score": 502,
-    "by": "NikZaal",
-    "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
-    "comments": 204
+    "title": "Show HN: I Turned DOOM into a Transformer",
+    "score": 118,
+    "by": "falperc",
+    "url": "https://github.com/mottopanikeiku/doomformer",
+    "comments": 35
   },
   {
-    "title": "Nixpkgs for the Front End Impaired",
-    "score": 85,
-    "by": "surprisetalk",
-    "url": "https://fzakaria.com/2026/10/12/nixpkgs-for-the-frontend-impaired",
-    "comments": 17
+    "title": "Neal Stephenson on AI and What Comes Next [video]",
+    "score": 6,
+    "by": "justin66",
+    "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
+    "comments": 0
   },
   {
-    "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
-    "score": 248,
-    "by": "landonxi",
-    "url": "https://surgehq.ai/blog/dayjob-tax",
-    "comments": 159
-  },
-  {
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "score": 68,
-    "by": "acossta",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "comments": 3
-  },
-  {
-    "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
     "score": 75,
-    "by": "denismenace",
-    "url": "https://slidebyside.com/",
-    "comments": 32
+    "by": "shong0504",
+    "url": "",
+    "comments": 27
+  },
+  {
+    "title": "What we know so far about Spain train crash",
+    "score": 233,
+    "by": "ZeljkoS",
+    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+    "comments": 419
+  },
+  {
+    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+    "score": 137,
+    "by": "simonebrunozzi",
+    "url": "https://journal.animationstudies.org/article/id/66/",
+    "comments": 36
+  },
+  {
+    "title": "Pico CSS is no longer maintained",
+    "score": 173,
+    "by": "henrid",
+    "url": "https://github.com/picocss/pico/discussions/754",
+    "comments": 84
+  },
+  {
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
+    "score": 3,
+    "by": "taubek",
+    "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
+    "comments": 0
+  },
+  {
+    "title": "Zombie stats: Where the numbers AI quotes come from",
+    "score": 172,
+    "by": "mektrik",
+    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
+    "comments": 68
   }
 ]
