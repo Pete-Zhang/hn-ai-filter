@@ -1,86 +1,86 @@
 [
   {
+    "title": "Serbia just elected the world's brainiest parliament",
+    "score": 454,
+    "by": "input_sh",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "comments": 273
+  },
+  {
+    "title": "We Took over ChatGPT Accounts",
+    "score": 102,
+    "by": "armcat",
+    "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+    "comments": 45
+  },
+  {
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "score": 98,
+    "by": "datascientist",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "comments": 23
+  },
+  {
+    "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+    "score": 38,
+    "by": "healsdata",
+    "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+    "comments": 5
+  },
+  {
+    "title": "Tell HN: Scribd Breached",
+    "score": 269,
+    "by": "x______________",
+    "url": "",
+    "comments": 103
+  },
+  {
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "score": 68,
+    "score": 928,
     "by": "_chall",
     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-    "comments": 282
+    "comments": 537
   },
   {
-    "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-    "score": 254,
-    "by": "DeepLogin",
-    "url": "https://progressives.house.gov/2026/10/reps-casar-waters-lead-democratic-resolution-opposing-a-i-bubble-bailout-for-big-tech-commit-to-protecting-american-people-instead",
-    "comments": 167
+    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
+    "score": 230,
+    "by": "taubek",
+    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
+    "comments": 280
   },
   {
-    "title": "American views of higher ed decline, once again",
-    "score": 25,
-    "by": "surprisetalk",
-    "url": "https://bryanalexander.org/horizon-scanning/american-views-of-higher-ed-decline-once-again/",
-    "comments": 18
+    "title": "Building an AI-native engineering org",
+    "score": 169,
+    "by": "sgondala_ycapp",
+    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
+    "comments": 185
   },
   {
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "score": 344,
-    "by": "sandslash",
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "comments": 141
+    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+    "score": 337,
+    "by": "apress",
+    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+    "comments": 203
   },
   {
-    "title": "Show HN: I Turned DOOM into a Transformer",
-    "score": 118,
-    "by": "falperc",
-    "url": "https://github.com/mottopanikeiku/doomformer",
+    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
+    "score": 237,
+    "by": "acossta",
+    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
     "comments": 35
   },
   {
-    "title": "Neal Stephenson on AI and What Comes Next [video]",
-    "score": 6,
-    "by": "justin66",
-    "url": "https://www.youtube.com/watch?v=Ii-aeW5pHPQ",
-    "comments": 0
+    "title": "We ran AI agent swarms in Minecraft and Mindustry",
+    "score": 404,
+    "by": "sandslash",
+    "url": "https://labs.ycombinator.com/projects/games/index.html",
+    "comments": 167
   },
   {
-    "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-    "score": 75,
-    "by": "shong0504",
-    "url": "",
-    "comments": 27
-  },
-  {
-    "title": "What we know so far about Spain train crash",
-    "score": 233,
-    "by": "ZeljkoS",
-    "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
-    "comments": 419
-  },
-  {
-    "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
-    "score": 137,
-    "by": "simonebrunozzi",
-    "url": "https://journal.animationstudies.org/article/id/66/",
-    "comments": 36
-  },
-  {
-    "title": "Pico CSS is no longer maintained",
-    "score": 173,
-    "by": "henrid",
-    "url": "https://github.com/picocss/pico/discussions/754",
-    "comments": 84
-  },
-  {
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite 98% of the company's code",
-    "score": 3,
-    "by": "taubek",
-    "url": "https://www.tomshardware.com/tech-industry/big-tech/cisco-gives-27-year-old-engineer-unlimited-ai-tokens-to-rewrite-98-percent-of-the-companys-legacy-code-in-24-months-president-plucks-former-startup-founder-telling-him-to-go-nuts",
-    "comments": 0
-  },
-  {
-    "title": "Zombie stats: Where the numbers AI quotes come from",
-    "score": 172,
-    "by": "mektrik",
-    "url": "https://trakkr.ai/trakkr-research/zombie-stats",
-    "comments": 68
+    "title": "AI isn't replacing SREs, it's deskilling them",
+    "score": 614,
+    "by": "dorianniemiec",
+    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+    "comments": 459
   }
 ]
