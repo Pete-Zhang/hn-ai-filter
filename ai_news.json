@@ -1,86 +1,135 @@
 [
   {
-    "title": "Serbia just elected the world's brainiest parliament",
-    "score": 454,
-    "by": "input_sh",
-    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
-    "comments": 273
+    "title": "Norway makes shithouses great again",
+    "score": 502,
+    "by": "giuliomagnifico",
+    "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+    "comments": 265
   },
   {
-    "title": "We Took over ChatGPT Accounts",
-    "score": 102,
+    "title": "Domain hacks with unusual Unicode characters (2018)",
+    "score": 30,
+    "by": "n_plus_1_acc",
+    "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+    "comments": 24
+  },
+  {
+    "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+    "score": 20,
+    "by": "entryleveljobsc",
+    "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+    "comments": 3
+  },
+  {
+    "title": "Show HN: Point your camera at a landscape to learn about its geology",
+    "score": 49,
+    "by": "headsupernova",
+    "url": "https://outcrop.rocks/",
+    "comments": 8
+  },
+  {
+    "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+    "score": 124,
+    "by": "hapax_legomena",
+    "url": "https://arxiv.org/abs/2409.02292",
+    "comments": 66
+  },
+  {
+    "title": "The AI cost of JavaScript frameworks",
+    "score": 167,
+    "by": "luu",
+    "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+    "comments": 112
+  },
+  {
+    "title": "Understanding Email Encryption",
+    "score": 56,
+    "by": "nmjenkins",
+    "url": "https://www.fastmail.com/blog/email-encryption/",
+    "comments": 12
+  },
+  {
+    "title": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]",
+    "score": 95,
+    "by": "surprisetalk",
+    "url": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+    "comments": 79
+  },
+  {
+    "title": "Do the math: How we took over ChatGPT accounts",
+    "score": 350,
     "by": "armcat",
     "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
-    "comments": 45
+    "comments": 171
   },
   {
-    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
-    "score": 98,
-    "by": "datascientist",
-    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
-    "comments": 23
-  },
-  {
-    "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
-    "score": 38,
-    "by": "healsdata",
-    "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+    "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+    "score": 39,
+    "by": "latexr",
+    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
     "comments": 5
   },
   {
-    "title": "Tell HN: Scribd Breached",
-    "score": 269,
-    "by": "x______________",
-    "url": "",
-    "comments": 103
+    "title": "The question we should all be asking about AI",
+    "score": 11,
+    "by": "heresie-dabord",
+    "url": "https://www.cnn.com/2026/10/30/business/ai-stocks-bonds-debt",
+    "comments": 10
+  },
+  {
+    "title": "ChatGPT and Codex usage limits merging",
+    "score": 191,
+    "by": "Zariel",
+    "url": "https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits",
+    "comments": 135
+  },
+  {
+    "title": "Anthropic blocks users for anything touching training larger models",
+    "score": 411,
+    "by": "pretext",
+    "url": "https://twitter.com/jiahaoshao1/status/2116475922190922088",
+    "comments": 229
+  },
+  {
+    "title": "Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards",
+    "score": 41,
+    "by": "creack",
+    "url": "https://bbrouter.com/bbrouter/ben-eater-sap-1",
+    "comments": 8
+  },
+  {
+    "title": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura",
+    "score": 208,
+    "by": "datascientist",
+    "url": "https://thedataexchange.media/leo-de-moura-lean-aws/",
+    "comments": 50
+  },
+  {
+    "title": "Show HN: A language model that lives in a boot sector",
+    "score": 87,
+    "by": "kerlenton",
+    "url": "https://github.com/kerlenton/bootgpt",
+    "comments": 5
+  },
+  {
+    "title": "AI text watermarking and quality loss",
+    "score": 60,
+    "by": "danielfoster",
+    "url": "https://blog.keyvan.net/p/ai-text-watermarking-and-quality",
+    "comments": 12
+  },
+  {
+    "title": "Serbia just elected the world's brainiest parliament",
+    "score": 873,
+    "by": "input_sh",
+    "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+    "comments": 488
   },
   {
     "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-    "score": 928,
+    "score": 981,
     "by": "_chall",
     "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
-    "comments": 537
-  },
-  {
-    "title": "Cisco gives engineer unlimited AI tokens to rewrite legacy code",
-    "score": 230,
-    "by": "taubek",
-    "url": "https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/",
-    "comments": 280
-  },
-  {
-    "title": "Building an AI-native engineering org",
-    "score": 169,
-    "by": "sgondala_ycapp",
-    "url": "https://twitter.com/sgondala2/status/2115832070274723875",
-    "comments": 185
-  },
-  {
-    "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
-    "score": 337,
-    "by": "apress",
-    "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
-    "comments": 203
-  },
-  {
-    "title": "Sleep framework: A new way for LLMs to retain knowledge in continual learning",
-    "score": 237,
-    "by": "acossta",
-    "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning/",
-    "comments": 35
-  },
-  {
-    "title": "We ran AI agent swarms in Minecraft and Mindustry",
-    "score": 404,
-    "by": "sandslash",
-    "url": "https://labs.ycombinator.com/projects/games/index.html",
-    "comments": 167
-  },
-  {
-    "title": "AI isn't replacing SREs, it's deskilling them",
-    "score": 614,
-    "by": "dorianniemiec",
-    "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
-    "comments": 459
+    "comments": 549
   }
 ]
