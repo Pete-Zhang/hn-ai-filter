@@ -1,86 +1,114 @@
 [
   {
-    "title": "Just a little AI resistance, as a treat",
-    "score": 111,
-    "by": "mooreds",
-    "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
-    "comments": 73
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "score": 467,
+    "by": "pseudolus",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "comments": 322
   },
   {
-    "title": "Octomind – open-source AI harness that saves your tokens, static rust",
-    "score": 19,
-    "by": "donk8r",
-    "url": "https://github.com/Muvon/octomind",
-    "comments": 8
-  },
-  {
-    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "score": 83,
-    "by": "bookofjoe",
-    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-    "comments": 17
-  },
-  {
-    "title": "The AI Bubble Monitor",
-    "score": 16,
-    "by": "mooreds",
-    "url": "https://cepr.net/publications/ai-bubble-monitor/",
-    "comments": 4
+    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
+    "score": 349,
+    "by": "jameslk",
+    "url": "",
+    "comments": 96
   },
   {
     "title": "Jailbreaking my car's navigation system just so I can change the time",
-    "score": 5,
+    "score": 903,
     "by": "xx_ns",
     "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-    "comments": 0
+    "comments": 340
   },
   {
-    "title": "OpenAI seems to be silently re-enabling model training on Codex chats",
+    "title": "Jaron Lanier on parallels between AI and social media",
+    "score": 30,
+    "by": "musha68k",
+    "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+    "comments": 1
+  },
+  {
+    "title": "Ask HN: What's your current AI agentic setup?",
     "score": 20,
-    "by": "user052919",
+    "by": "eggbrain",
     "url": "",
+    "comments": 8
+  },
+  {
+    "title": "Pierre Computer is being acquired by OpenAI",
+    "score": 16,
+    "by": "itunpredictable",
+    "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
+    "comments": 6
+  },
+  {
+    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
+    "score": 410,
+    "by": "dsalzman",
+    "url": "https://hackertv.org",
+    "comments": 76
+  },
+  {
+    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+    "score": 519,
+    "by": "bookofjoe",
+    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+    "comments": 221
+  },
+  {
+    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
+    "score": 103,
+    "by": "passkey1510",
+    "url": "https://uncracked.city",
+    "comments": 51
+  },
+  {
+    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
+    "score": 7,
+    "by": "karakoram",
+    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
     "comments": 3
   },
   {
-    "title": "Show HN: Bema: Work messaging built for humans",
-    "score": 16,
-    "by": "ben_d",
-    "url": "https://getbema.app/",
-    "comments": 16
+    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
+    "score": 249,
+    "by": "alkyon",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
+    "comments": 204
   },
   {
-    "title": "Show HN: Subvocal – Talk to your computer without making noise",
-    "score": 784,
-    "by": "aarushyadav",
-    "url": "",
-    "comments": 364
+    "title": "How I use AI (Oct 2026)",
+    "score": 231,
+    "by": "citelao",
+    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
+    "comments": 263
   },
   {
-    "title": "Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app",
-    "score": 158,
-    "by": "wuweiweiwu",
-    "url": "https://momentic.ai/",
-    "comments": 106
+    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+    "score": 1433,
+    "by": "sidgarimella",
+    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+    "comments": 467
   },
   {
-    "title": "Ask HN: Who is hiring? (November 2026)",
-    "score": 235,
-    "by": "whoishiring",
-    "url": "",
-    "comments": 202
+    "title": "There is no posttraining data commons",
+    "score": 103,
+    "by": "lukasschwab",
+    "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
+    "comments": 25
   },
   {
-    "title": "Egoless Mathematics in the AI Era",
-    "score": 178,
-    "by": "smilelamp",
-    "url": "https://terrytao.wordpress.com/2026/11/02/egoless-mathematics-in-the-ai-era/",
-    "comments": 144
+    "title": "GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains",
+    "score": 3,
+    "by": "gadflyinyoureye",
+    "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
+    "comments": 0
   },
   {
-    "title": "Scaling Git at OpenAI",
-    "score": 252,
-    "by": "makeramen",
-    "url": "https://openai.com/index/scaling-git-at-openai/",
-    "comments": 172
+    "title": "We're training a Figma-fluent editing model",
+    "score": 139,
+    "by": "gmays",
+    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
+    "comments": 59
   }
 ]
