@@ -1,114 +1,65 @@
 [
   {
-    "title": "AI is forcing us to pay off 40 years of technical debt",
-    "score": 467,
-    "by": "pseudolus",
-    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
-    "comments": 322
+    "title": "MCP Explained",
+    "score": 95,
+    "by": "rwilinski",
+    "url": "https://mcp-explained.com/",
+    "comments": 41
   },
   {
-    "title": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)",
-    "score": 349,
-    "by": "jameslk",
-    "url": "",
-    "comments": 96
+    "title": "Baidu released ERNIE 5.5 Flash Base",
+    "score": 128,
+    "by": "pretext",
+    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+    "comments": 73
   },
   {
-    "title": "Jailbreaking my car's navigation system just so I can change the time",
-    "score": 903,
-    "by": "xx_ns",
-    "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
-    "comments": 340
-  },
-  {
-    "title": "Jaron Lanier on parallels between AI and social media",
-    "score": 30,
-    "by": "musha68k",
-    "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+    "title": "An intuition for how neural nets can understand text",
+    "score": 9,
+    "by": "luisvalerio",
+    "url": "https://info.zairai.ai/neurons-understanding-text",
     "comments": 1
   },
   {
     "title": "Ask HN: What's your current AI agentic setup?",
-    "score": 20,
+    "score": 459,
     "by": "eggbrain",
     "url": "",
-    "comments": 8
+    "comments": 554
   },
   {
-    "title": "Pierre Computer is being acquired by OpenAI",
-    "score": 16,
+    "title": "AI is forcing us to pay off 40 years of technical debt",
+    "score": 1233,
+    "by": "pseudolus",
+    "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+    "comments": 721
+  },
+  {
+    "title": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s",
+    "score": 167,
+    "by": "peter_d_sherman",
+    "url": "https://www.qualcomm.com/data-center/products/cloud-ai-100-ultra",
+    "comments": 62
+  },
+  {
+    "title": "Launch HN: Kino AI (YC S23) – AI media manager and video editor",
+    "score": 93,
+    "by": "lukeigel",
+    "url": "",
+    "comments": 34
+  },
+  {
+    "title": "OpenAI to acquire Pierre Computer Company",
+    "score": 259,
     "by": "itunpredictable",
-    "url": "https://twitter.com/pierrecomputer/status/2117999036175188183",
-    "comments": 6
+    "url": "https://openai.com/index/openai-to-acquire-pierre/",
+    "comments": 87
   },
   {
-    "title": "Show HN: HackerTV – HN's most-recommended Youtube videos as 24/7 TV channels",
-    "score": 410,
-    "by": "dsalzman",
-    "url": "https://hackertv.org",
-    "comments": 76
-  },
-  {
-    "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-    "score": 519,
-    "by": "bookofjoe",
-    "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-    "comments": 221
-  },
-  {
-    "title": "Show HN: Uncracked City, detective game where you question LLM suspects that lie",
-    "score": 103,
-    "by": "passkey1510",
-    "url": "https://uncracked.city",
-    "comments": 51
-  },
-  {
-    "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens",
-    "score": 7,
-    "by": "karakoram",
-    "url": "https://techcrunch.com/2026/11/02/y-combinators-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens/",
-    "comments": 3
-  },
-  {
-    "title": "Geoffrey Hinton: it might turn out we were better off without AI",
-    "score": 249,
-    "by": "alkyon",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/03/ai-godfather-geoffrey-hinton-better-off-without-ai",
-    "comments": 204
-  },
-  {
-    "title": "How I use AI (Oct 2026)",
-    "score": 231,
-    "by": "citelao",
-    "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026/",
-    "comments": 263
-  },
-  {
-    "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-    "score": 1433,
-    "by": "sidgarimella",
-    "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
-    "comments": 467
-  },
-  {
-    "title": "There is no posttraining data commons",
-    "score": 103,
-    "by": "lukasschwab",
-    "url": "https://openathena.ai/blog/there-is-no-posttraining-data-commons/",
-    "comments": 25
-  },
-  {
-    "title": "GDPx: Measuring Frontier Model Capabilities Across the Most Valuable Domains",
-    "score": 3,
-    "by": "gadflyinyoureye",
-    "url": "https://newsletter.semianalysis.com/p/gdpx-measuring-frontier-model-capabilities",
-    "comments": 0
-  },
-  {
-    "title": "We're training a Figma-fluent editing model",
-    "score": 139,
-    "by": "gmays",
-    "url": "https://www.figma.com/blog/training-a-figma-fluent-editing-model/",
-    "comments": 59
+    "title": "Future Maintenance of Mbed TLS",
+    "score": 64,
+    "by": "jonesjohnson",
+    "url": "https://lists.trustedfirmware.org/archives/list/mbed-tls@lists.trustedfirmware.org/thread/YPIGCB7WN6GCHOGEGKOJXUYAP7OK527W/",
+    "comments": 19
   }
 ]
