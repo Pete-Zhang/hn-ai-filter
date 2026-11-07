@@ -1,93 +1,65 @@
 [
   {
-    "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-    "score": 11,
-    "by": "pseudolus",
-    "url": "https://www.faa.gov/newsroom/trumps-transportation-secretary-sean-p-duffy-begins-retiring-decades-old-floppy-disks-air",
-    "comments": 3
+    "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5",
+    "score": 19,
+    "by": "zaiev",
+    "url": "https://github.com/hyphatech/spindle",
+    "comments": 5
+  },
+  {
+    "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+    "score": 363,
+    "by": "ChrisArchitect",
+    "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+    "comments": 294
+  },
+  {
+    "title": "Restaurant Delivery Payment-Skimming Campaign",
+    "score": 143,
+    "by": "fiej",
+    "url": "https://www.infohawk.com/news/2026-11-05-scamwich-restaurant-skimming",
+    "comments": 74
   },
   {
     "title": "Claude Code sends your email address to websites",
-    "score": 1399,
+    "score": 1579,
     "by": "motoroco",
     "url": "https://github.com/anthropics/claude-code/issues/107757",
-    "comments": 439
+    "comments": 506
   },
   {
-    "title": "University libraries are being swarmed by AI bots, putting public access at risk",
-    "score": 40,
-    "by": "blakesterz",
-    "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
-    "comments": 17
+    "title": "AI is dramatically accelerating AI research",
+    "score": 337,
+    "by": "yurivish",
+    "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+    "comments": 305
   },
   {
-    "title": "MS Paint Remote Code Execution Vulnerability",
-    "score": 637,
-    "by": "kuberwastaken",
-    "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
-    "comments": 241
-  },
-  {
-    "title": "Mbodi AI (YC P25) Is Hiring Research and Robotic Engineers",
+    "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
     "score": 1,
-    "by": "chitianhao",
-    "url": "https://www.ycombinator.com/companies/mbodi-ai/jobs",
+    "by": "Old_Thrashbarg",
+    "url": "https://up.codes/careers?utm_source=HN",
     "comments": 0
   },
   {
-    "title": "Britain to make salary disclosure in job ads mandatory",
-    "score": 440,
-    "by": "1659447091",
-    "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
-    "comments": 350
+    "title": "Show HN: Waymark – A workflow engine that compiles jobs instead of replaying",
+    "score": 78,
+    "by": "icyfox",
+    "url": "https://github.com/piercefreeman/waymark",
+    "comments": 24
   },
   {
-    "title": "AI for scientific discovery: How researchers use Claude",
-    "score": 26,
-    "by": "ersinesen",
-    "url": "https://www.anthropic.com/research/how-researchers-use-claude",
-    "comments": 3
-  },
-  {
-    "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-    "score": 114,
-    "by": "NathanFlurry",
-    "url": "https://github.com/rivet-dev/rivet",
-    "comments": 58
-  },
-  {
-    "title": "Show HN: A decent text-to-image model trained for ~$20K (Apache 2.0 Weights)",
-    "score": 262,
-    "by": "schopra909",
-    "url": "https://www.linum.ai/field-notes/pjit-21k",
-    "comments": 26
-  },
-  {
-    "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
-    "score": 455,
+    "title": "Ozempic-style drugs now in trials for heart failure, addiction and even aging",
+    "score": 87,
     "by": "randycupertino",
-    "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
-    "comments": 210
+    "url": "https://maccus.fr/en/ozempic-drugs-trials-beyond-diabetes/",
+    "comments": 62
   },
   {
-    "title": "MCP Explained",
-    "score": 319,
-    "by": "rwilinski",
-    "url": "https://mcp-explained.com/",
-    "comments": 133
-  },
-  {
-    "title": "OpenAI Finds 948 Local Privilege Escalation Bugs in the Linux Kernel",
-    "score": 20,
-    "by": "Bender",
-    "url": "https://www.phoronix.com/news/OpenAI-948-Linux-LPE-Bugs",
-    "comments": 12
-  },
-  {
-    "title": "Baidu released ERNIE 5.5 Flash Base",
-    "score": 183,
-    "by": "pretext",
-    "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
-    "comments": 99
+    "title": "How octopuses squeeze through too small gaps",
+    "score": 70,
+    "by": "bookofjoe",
+    "url": "https://journals.biologists.com/jeb/article/229/21/jeb253615/373332/How-octopuses-squeeze-through-too-small-gaps",
+    "comments": 18
   }
 ]
