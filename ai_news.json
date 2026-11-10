@@ -1,58 +1,72 @@
 [
   {
-    "title": "Quadrillion-parameter transformers and how to train them",
-    "score": 21,
-    "by": "frozenseven",
-    "url": "https://qlabs.sh/research/parameters",
-    "comments": 6
+    "title": "Claude Fable 5.2 and Mythos 5.2",
+    "score": 783,
+    "by": "lairv",
+    "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+    "comments": 922
   },
   {
-    "title": "Goodbye Claude, Hello Pi",
-    "score": 456,
-    "by": "karagenit",
-    "url": "https://caleb.software/posts/claude-to-pi.html",
-    "comments": 302
+    "title": "Show HN: Ghanaian street games you can play in the browser",
+    "score": 65,
+    "by": "samuelaidoo45",
+    "url": "https://www.ghanastreetgames.com/",
+    "comments": 11
   },
   {
-    "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
-    "score": 465,
-    "by": "shmulc",
-    "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
-    "comments": 327
+    "title": "Fireworks AI security breach impacts Notion and their customers",
+    "score": 123,
+    "by": "werrett",
+    "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+    "comments": 43
   },
   {
-    "title": "Consumer brain wave headsets threaten privacy",
-    "score": 87,
-    "by": "maxall4",
-    "url": "https://www.science.org/content/article/wearable-device-makers-are-harvesting-brain-data-train-ai-without-telling-users?referrer=https%3A%2F%2Fwww.google.com%2F",
-    "comments": 52
+    "title": "Foldable Flight: The Best Paper Airplanes",
+    "score": 1133,
+    "by": "vismit2000",
+    "url": "https://www.foldableflight.com",
+    "comments": 159
   },
   {
-    "title": "Uranium cubes reveal why the German nuclear project failed",
-    "score": 163,
-    "by": "rbanffy",
-    "url": "https://arstechnica.com/science/2026/11/uranium-cubes-reveal-why-the-german-nuclear-project-failed/",
-    "comments": 111
+    "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+    "score": 563,
+    "by": "ocd",
+    "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+    "comments": 326
   },
   {
-    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-    "score": 258,
-    "by": "hedgerow-dev",
-    "url": "https://github.com/hedgerow-dev/coldframe",
-    "comments": 61
+    "title": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics",
+    "score": 341,
+    "by": "speckx",
+    "url": "https://www.anthropocenemagazine.org/2026/10/magenta-solar-panels-may-be-agrivoltaics-cleverest-trick-yet/",
+    "comments": 231
   },
   {
-    "title": "The end of Microsoft Research's AI Frontiers group",
-    "score": 477,
-    "by": "srean",
-    "url": "https://hunch.net/?p=13764006",
-    "comments": 290
+    "title": "Google Gemini routes personal Drive files and emails to human annotators",
+    "score": 686,
+    "by": "gf74918",
+    "url": "https://github.com/thisisme6598/gemini_files/",
+    "comments": 143
   },
   {
-    "title": "How Long Can Life Wait?",
-    "score": 141,
-    "by": "Ariarule",
-    "url": "https://mceglowski.substack.com/p/how-long-can-life-wait",
-    "comments": 87
+    "title": "Show HN: MeowDisplay Is iPhone Mirroring, but in Reverse",
+    "score": 113,
+    "by": "raiseCatError",
+    "url": "https://meowdisplay.app/",
+    "comments": 42
+  },
+  {
+    "title": "Show HN: Cosh – An open-source AI agent orchestrator",
+    "score": 3,
+    "by": "Zaluski",
+    "url": "https://github.com/DiegoZaluski/co-sh",
+    "comments": 1
+  },
+  {
+    "title": "Show HN: Someone Was Here – Find out who used your Mac while you were away",
+    "score": 105,
+    "by": "4onthefloor124",
+    "url": "https://someonewashere.app/",
+    "comments": 39
   }
 ]
