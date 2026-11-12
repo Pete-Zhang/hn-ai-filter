@@ -1,10 +1,59 @@
 [
   {
-    "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-    "score": 519,
+    "title": "NVIDIA Announces CEO Transition",
+    "score": 1209,
+    "by": "lldb",
+    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+    "comments": 1022
+  },
+  {
+    "title": "93% of paint splatters are valid Perl programs (2019)",
+    "score": 535,
+    "by": "zenincognito",
+    "url": "https://www.mcmillen.dev/sigbovik/",
+    "comments": 69
+  },
+  {
+    "title": "AWS emulator",
+    "score": 929,
+    "by": "super_linear",
+    "url": "https://github.com/aws/aws-emulator",
+    "comments": 254
+  },
+  {
+    "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
+    "score": 3,
+    "by": "c_guru",
+    "url": "https://getvale.org",
+    "comments": 0
+  },
+  {
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "score": 636,
+    "by": "herpderperator",
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "comments": 659
+  },
+  {
+    "title": "Show HN: AI Red Lines – write down what would make you act on AI",
+    "score": 8,
+    "by": "ap11071",
+    "url": "https://yourairedlines.com",
+    "comments": 2
+  },
+  {
+    "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
+    "score": 79,
+    "by": "peetle",
+    "url": "https://aircad.com",
+    "comments": 38
+  },
+  {
+    "title": "My AI agents found an unmapped Maya site?",
+    "score": 1022,
     "by": "eyvindn",
-    "url": "https://pietromiotti.com/latest/maya-site/?maya",
-    "comments": 200
+    "url": "https://pietromiotti.com/latest/maya-site",
+    "comments": 380
   },
   {
     "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
@@ -14,52 +63,10 @@
     "comments": 0
   },
   {
-    "title": "EventSourcingDB 1.3.0 Is Available",
-    "score": 13,
-    "by": "goloroden",
-    "url": "https://www.eventfoundation.io/resources/blog/eventsourcingdb-1-3-0-is-available",
-    "comments": 0
-  },
-  {
-    "title": "Apple has new Mac app coming to make running local AI models easy",
-    "score": 416,
-    "by": "linolevan",
-    "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
-    "comments": 430
-  },
-  {
-    "title": "Synaptics patent claims stop work on DisplayLink drivers",
-    "score": 452,
-    "by": "speckx",
-    "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
-    "comments": 256
-  },
-  {
-    "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
-    "score": 95,
-    "by": "adrbn",
-    "url": "https://github.com/adrbn/bo2-mac",
-    "comments": 42
-  },
-  {
-    "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
-    "score": 414,
-    "by": "paulirish",
-    "url": "https://github.com/GoogleChrome/modern-web-guidance",
-    "comments": 137
-  },
-  {
-    "title": "Claude Whiteboards, Claude Sheets, and Claude Data",
-    "score": 266,
-    "by": "Yorothegoat",
-    "url": "https://claude.com/resources/articles/sheets-whiteboards-data",
-    "comments": 201
-  },
-  {
-    "title": "$30M Raised to Redo the CPU",
-    "score": 127,
-    "by": "shioyama",
-    "url": "https://tendrils.co/blog/2026-11-10/30m-raised",
-    "comments": 132
+    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
+    "score": 271,
+    "by": "brownrout",
+    "url": "https://github.com/FrigadeHQ/yogurt",
+    "comments": 102
   }
 ]
