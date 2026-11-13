@@ -1,72 +1,86 @@
 [
   {
-    "title": "NVIDIA Announces CEO Transition",
-    "score": 1209,
+    "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
+    "score": 177,
+    "by": "scottjg",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "comments": 35
+  },
+  {
+    "title": "Jensen Huang resigns",
+    "score": 3823,
     "by": "lldb",
-    "url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
-    "comments": 1022
+    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+    "comments": 3297
   },
   {
-    "title": "93% of paint splatters are valid Perl programs (2019)",
-    "score": 535,
-    "by": "zenincognito",
-    "url": "https://www.mcmillen.dev/sigbovik/",
-    "comments": 69
+    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+    "score": 392,
+    "by": "__vivek",
+    "url": "https://status.claude.com/incidents/nn11wk485zfn",
+    "comments": 328
   },
   {
-    "title": "AWS emulator",
-    "score": 929,
-    "by": "super_linear",
-    "url": "https://github.com/aws/aws-emulator",
-    "comments": 254
+    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
+    "score": 379,
+    "by": "jbredeche",
+    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+    "comments": 410
   },
   {
-    "title": "Show HN: A self-hosted PHP platform combining CMS, e-commerce and more, built-in",
-    "score": 3,
-    "by": "c_guru",
-    "url": "https://getvale.org",
+    "title": "AI Is Destroying the Trust Between Writers and Readers",
+    "score": 117,
+    "by": "FinnLobsien",
+    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
+    "comments": 28
+  },
+  {
+    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+    "score": 306,
+    "by": "sroussey",
+    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+    "comments": 91
+  },
+  {
+    "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+    "score": 226,
+    "by": "Noaidi",
+    "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
+    "comments": 277
+  },
+  {
+    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+    "score": 125,
+    "by": "miguelrios",
+    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
+    "comments": 32
+  },
+  {
+    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
+    "score": 4,
+    "by": "kamaraju",
+    "url": "https://text.npr.org/nx-s1-6029408",
     "comments": 0
   },
   {
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "score": 636,
-    "by": "herpderperator",
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "comments": 659
+    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+    "score": 7,
+    "by": "helloplanets",
+    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "comments": 0
   },
   {
-    "title": "Show HN: AI Red Lines – write down what would make you act on AI",
-    "score": 8,
-    "by": "ap11071",
-    "url": "https://yourairedlines.com",
-    "comments": 2
+    "title": "Claude Is Down",
+    "score": 176,
+    "by": "cornfieldlabs",
+    "url": "https://status.claude.com/history",
+    "comments": 151
   },
   {
-    "title": "Show HN: Aircad – Professional drafting and 3D modeling in the browser",
-    "score": 79,
-    "by": "peetle",
-    "url": "https://aircad.com",
-    "comments": 38
-  },
-  {
-    "title": "My AI agents found an unmapped Maya site?",
-    "score": 1022,
-    "by": "eyvindn",
-    "url": "https://pietromiotti.com/latest/maya-site",
-    "comments": 380
-  },
-  {
-    "title": "Tinfoil (YC P25) is hiring an applied AI security engineer in San Francisco",
-    "score": 1,
-    "by": "FrasiertheLion",
+    "title": "Show HN: Kapso – Iterative learning from enterprise data",
+    "score": 54,
+    "by": "alirezamshi",
     "url": "",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Yogurt – Free, private, open-source alternative to Granola",
-    "score": 271,
-    "by": "brownrout",
-    "url": "https://github.com/FrigadeHQ/yogurt",
-    "comments": 102
+    "comments": 11
   }
 ]
