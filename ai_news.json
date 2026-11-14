@@ -1,86 +1,93 @@
 [
   {
-    "title": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud",
-    "score": 177,
-    "by": "scottjg",
-    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "comments": 35
+    "title": "The Claude Delusion",
+    "score": 58,
+    "by": "janvdberg",
+    "url": "https://www.netmeister.org/blog/claude-delusion.html",
+    "comments": 31
   },
   {
-    "title": "Jensen Huang resigns",
-    "score": 3823,
-    "by": "lldb",
-    "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
-    "comments": 3297
+    "title": "Generative AI uses more energy on non-English text",
+    "score": 36,
+    "by": "DeepLogin",
+    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
+    "comments": 17
   },
   {
-    "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-    "score": 392,
-    "by": "__vivek",
-    "url": "https://status.claude.com/incidents/nn11wk485zfn",
-    "comments": 328
-  },
-  {
-    "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-    "score": 379,
-    "by": "jbredeche",
-    "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
-    "comments": 410
-  },
-  {
-    "title": "AI Is Destroying the Trust Between Writers and Readers",
-    "score": 117,
-    "by": "FinnLobsien",
-    "url": "https://www.theatlantic.com/books/2026/11/ai-literary-scams-amazon/689391/",
-    "comments": 28
-  },
-  {
-    "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-    "score": 306,
-    "by": "sroussey",
-    "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-    "comments": 91
-  },
-  {
-    "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
-    "score": 226,
-    "by": "Noaidi",
-    "url": "https://garymarcus.substack.com/p/breaking-eli-lilly-ceo-becomes-latest",
-    "comments": 277
-  },
-  {
-    "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-    "score": 125,
-    "by": "miguelrios",
-    "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-    "comments": 32
-  },
-  {
-    "title": "Why is Google cutting off Search from AI-free schools? Here are some theories",
-    "score": 4,
-    "by": "kamaraju",
-    "url": "https://text.npr.org/nx-s1-6029408",
+    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+    "score": 5,
+    "by": "snipedbywifi",
+    "url": "https://gitlab.com/snipedbywifi/terminactory",
     "comments": 0
   },
   {
-    "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
-    "score": 7,
+    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+    "score": 91,
+    "by": "gslin",
+    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
+    "comments": 16
+  },
+  {
+    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+    "score": 813,
+    "by": "speckx",
+    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+    "comments": 482
+  },
+  {
+    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+    "score": 378,
     "by": "helloplanets",
     "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+    "comments": 533
+  },
+  {
+    "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
+    "score": 58,
+    "by": "0xdeadf1sh",
+    "url": "https://github.com/0xdeadf1sh/T1DMAI",
+    "comments": 31
+  },
+  {
+    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+    "score": 280,
+    "by": "mmaunder",
+    "url": "https://orcasairband.com/",
+    "comments": 66
+  },
+  {
+    "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+    "score": 1,
+    "by": "dkobran",
+    "url": "https://atg.science/careers",
     "comments": 0
   },
   {
-    "title": "Claude Is Down",
-    "score": 176,
-    "by": "cornfieldlabs",
-    "url": "https://status.claude.com/history",
-    "comments": 151
+    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
+    "score": 239,
+    "by": "juscha1",
+    "url": "https://isometricsf.com/",
+    "comments": 74
   },
   {
-    "title": "Show HN: Kapso – Iterative learning from enterprise data",
-    "score": 54,
-    "by": "alirezamshi",
-    "url": "",
-    "comments": 11
+    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+    "score": 140,
+    "by": "gmays",
+    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+    "comments": 26
+  },
+  {
+    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
+    "score": 771,
+    "by": "scottjg",
+    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+    "comments": 215
+  },
+  {
+    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+    "score": 404,
+    "by": "bookofjoe",
+    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
+    "comments": 102
   }
 ]
