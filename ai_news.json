@@ -1,93 +1,58 @@
 [
   {
-    "title": "The Claude Delusion",
-    "score": 58,
-    "by": "janvdberg",
-    "url": "https://www.netmeister.org/blog/claude-delusion.html",
-    "comments": 31
+    "title": "Lovable apps expose passport details and more than 200K private messages",
+    "score": 917,
+    "by": "armcat",
+    "url": "https://www.crissyfield.de/research/lovable-en/",
+    "comments": 349
+  },
+  {
+    "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
+    "score": 26,
+    "by": "r0r0",
+    "url": "https://www.niklasroy.com/carton-clock/",
+    "comments": 1
+  },
+  {
+    "title": "Kiri – The Modern Container Runtime",
+    "score": 74,
+    "by": "nikolay",
+    "url": "https://runkiri.com/",
+    "comments": 32
   },
   {
     "title": "Generative AI uses more energy on non-English text",
-    "score": 36,
+    "score": 224,
     "by": "DeepLogin",
     "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-    "comments": 17
+    "comments": 124
   },
   {
-    "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-    "score": 5,
-    "by": "snipedbywifi",
-    "url": "https://gitlab.com/snipedbywifi/terminactory",
+    "title": "DKIM2 – Every system that handles an email signs for what it did",
+    "score": 7,
+    "by": "u1hcw9nx",
+    "url": "https://dkim2.com/",
     "comments": 0
   },
   {
-    "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-    "score": 91,
-    "by": "gslin",
-    "url": "https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again",
-    "comments": 16
+    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
+    "score": 46,
+    "by": "bobbiechen",
+    "url": "https://bobbiec.github.io/jamaican-font.html",
+    "comments": 6
   },
   {
-    "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-    "score": 813,
-    "by": "speckx",
-    "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-    "comments": 482
+    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+    "score": 407,
+    "by": "firloop",
+    "url": "https://unemploymentlabs.com/checkpoint-forensics",
+    "comments": 178
   },
   {
-    "title": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
-    "score": 378,
-    "by": "helloplanets",
-    "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
-    "comments": 533
-  },
-  {
-    "title": "Show HN: I have trained 15 blood glucose forecasting models on my own data",
-    "score": 58,
-    "by": "0xdeadf1sh",
-    "url": "https://github.com/0xdeadf1sh/T1DMAI",
-    "comments": 31
-  },
-  {
-    "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
-    "score": 280,
-    "by": "mmaunder",
-    "url": "https://orcasairband.com/",
-    "comments": 66
-  },
-  {
-    "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
-    "score": 1,
-    "by": "dkobran",
-    "url": "https://atg.science/careers",
-    "comments": 0
-  },
-  {
-    "title": "Show HN: Isometric SF – A pixel-art map of the SF Bay Area",
-    "score": 239,
-    "by": "juscha1",
-    "url": "https://isometricsf.com/",
-    "comments": 74
-  },
-  {
-    "title": "Perplexity Decider v1.3: Training, eval, and use cases",
-    "score": 140,
-    "by": "gmays",
-    "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
-    "comments": 26
-  },
-  {
-    "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-    "score": 771,
-    "by": "scottjg",
-    "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
-    "comments": 215
-  },
-  {
-    "title": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
-    "score": 404,
-    "by": "bookofjoe",
-    "url": "https://www.theguardian.com/science/2026/nov/13/kurt-godel-notebooks-ai-helps-unlock-hidden-discoveries-man-who-transformed-maths",
-    "comments": 102
+    "title": "Seagate's new hybrid drive raises some old questions",
+    "score": 98,
+    "by": "PaulHoule",
+    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+    "comments": 54
   }
 ]
