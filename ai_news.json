@@ -1,58 +1,44 @@
 [
   {
-    "title": "Lovable apps expose passport details and more than 200K private messages",
-    "score": 917,
-    "by": "armcat",
-    "url": "https://www.crissyfield.de/research/lovable-en/",
-    "comments": 349
+    "title": "Generative AI Usage in the Games Industry",
+    "score": 25,
+    "by": "kingbob000",
+    "url": "https://www.gameworkers.co.uk/ai-manifesto/",
+    "comments": 40
   },
   {
-    "title": "Show HN: Carton Clock – A working pendulum clock made from empty drink cartons",
-    "score": 26,
-    "by": "r0r0",
-    "url": "https://www.niklasroy.com/carton-clock/",
-    "comments": 1
+    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
+    "score": 214,
+    "by": "matt_d",
+    "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
+    "comments": 84
   },
   {
-    "title": "Kiri – The Modern Container Runtime",
-    "score": 74,
-    "by": "nikolay",
-    "url": "https://runkiri.com/",
-    "comments": 32
+    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+    "score": 226,
+    "by": "aillia",
+    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+    "comments": 59
   },
   {
-    "title": "Generative AI uses more energy on non-English text",
-    "score": 224,
-    "by": "DeepLogin",
-    "url": "https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/",
-    "comments": 124
+    "title": "A short explainer on how El Niño works [video]",
+    "score": 293,
+    "by": "nharada",
+    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+    "comments": 174
   },
   {
-    "title": "DKIM2 – Every system that handles an email signs for what it did",
-    "score": 7,
-    "by": "u1hcw9nx",
-    "url": "https://dkim2.com/",
-    "comments": 0
+    "title": "WebGL Flight Simulator with seed generated terrain",
+    "score": 221,
+    "by": "ranger_danger",
+    "url": "https://baron.by.dai.studio/",
+    "comments": 55
   },
   {
-    "title": "Show HN: A custom font based on the Jamaican flag alphabet",
-    "score": 46,
-    "by": "bobbiechen",
-    "url": "https://bobbiec.github.io/jamaican-font.html",
-    "comments": 6
-  },
-  {
-    "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-    "score": 407,
-    "by": "firloop",
-    "url": "https://unemploymentlabs.com/checkpoint-forensics",
-    "comments": 178
-  },
-  {
-    "title": "Seagate's new hybrid drive raises some old questions",
-    "score": 98,
-    "by": "PaulHoule",
-    "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
-    "comments": 54
+    "title": "Parcel: A desktop mail client for Linux, built with Zig",
+    "score": 60,
+    "by": "nerdypepper",
+    "url": "https://tangled.org/rockorager.dev/parcel",
+    "comments": 15
   }
 ]
