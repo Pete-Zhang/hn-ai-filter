@@ -1,44 +1,44 @@
 [
   {
-    "title": "Generative AI Usage in the Games Industry",
-    "score": 25,
-    "by": "kingbob000",
-    "url": "https://www.gameworkers.co.uk/ai-manifesto/",
-    "comments": 40
+    "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
+    "score": 1,
+    "by": "ryankicks",
+    "url": "",
+    "comments": 0
   },
   {
-    "title": "Interpreting claims that a theorem is correct because it was checked in Lean",
-    "score": 214,
-    "by": "matt_d",
-    "url": "https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/",
-    "comments": 84
+    "title": "How the Claude Code team thinks about verification",
+    "score": 156,
+    "by": "craigmart",
+    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+    "comments": 142
   },
   {
-    "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-    "score": 226,
-    "by": "aillia",
-    "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
-    "comments": 59
+    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
+    "score": 423,
+    "by": "Bender",
+    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
+    "comments": 313
   },
   {
-    "title": "A short explainer on how El Niño works [video]",
-    "score": 293,
-    "by": "nharada",
-    "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
-    "comments": 174
+    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
+    "score": 151,
+    "by": "larrysalibra",
+    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
+    "comments": 184
   },
   {
-    "title": "WebGL Flight Simulator with seed generated terrain",
-    "score": 221,
-    "by": "ranger_danger",
-    "url": "https://baron.by.dai.studio/",
-    "comments": 55
+    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
+    "score": 51,
+    "by": "arshpatankar",
+    "url": "",
+    "comments": 26
   },
   {
-    "title": "Parcel: A desktop mail client for Linux, built with Zig",
-    "score": 60,
-    "by": "nerdypepper",
-    "url": "https://tangled.org/rockorager.dev/parcel",
-    "comments": 15
+    "title": "Spamhaus new email sender requirements in November",
+    "score": 134,
+    "by": "computer23",
+    "url": "https://www.spamhaus.org/sender-guidelines/",
+    "comments": 134
   }
 ]
