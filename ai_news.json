@@ -1,44 +1,107 @@
 [
   {
-    "title": "YC wrote software to run our internship expo – and an 8-bit SIM to show it off",
-    "score": 1,
-    "by": "ryankicks",
-    "url": "",
+    "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+    "score": 30,
+    "by": "gmays",
+    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+    "comments": 13
+  },
+  {
+    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
+    "score": 50,
+    "by": "birdboat00",
+    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
+    "comments": 16
+  },
+  {
+    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
+    "score": 8,
+    "by": "raj-shekhar",
+    "url": "https://rshekhar.com/voyager/",
     "comments": 0
   },
   {
-    "title": "How the Claude Code team thinks about verification",
-    "score": 156,
-    "by": "craigmart",
-    "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
-    "comments": 142
+    "title": "Google's AI answers reducing search traffic by 40%",
+    "score": 643,
+    "by": "slashdev",
+    "url": "https://revscope.co/blog/search-seo-geo-2026/",
+    "comments": 490
   },
   {
-    "title": "Microsoft blames monster email outage on software defect introduced in July fix",
-    "score": 423,
-    "by": "Bender",
-    "url": "https://www.theregister.com/saas/2026/11/16/microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix/5310026",
-    "comments": 313
+    "title": "When AI Knows More Than It Can Offer",
+    "score": 69,
+    "by": "Aldus551",
+    "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
+    "comments": 36
   },
   {
-    "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-    "score": 151,
-    "by": "larrysalibra",
-    "url": "https://www.scmp.com/tech/big-tech/article/3374774/baidu-xiaomi-ceos-warn-growing-gap-between-ai-hype-and-returns",
-    "comments": 184
+    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+    "score": 293,
+    "by": "judahmeek",
+    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
+    "comments": 377
   },
   {
-    "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-    "score": 51,
-    "by": "arshpatankar",
+    "title": "MAI Code 2 and Code 2 Flash",
+    "score": 407,
+    "by": "lemonish97",
+    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+    "comments": 163
+  },
+  {
+    "title": "Claude was trained on protein sequences at scale",
+    "score": 137,
+    "by": "gmays",
+    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "comments": 62
+  },
+  {
+    "title": "IPv6 delegation, an unusually subtle failure mode",
+    "score": 53,
+    "by": "genghizkhan",
+    "url": "https://savyasacheejha.com/posts/why-odhcpd/",
+    "comments": 34
+  },
+  {
+    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+    "score": 59,
+    "by": "torutofu",
+    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
+    "comments": 67
+  },
+  {
+    "title": "AI is killing All About Berlin",
+    "score": 677,
+    "by": "grey-area",
+    "url": "https://nicolasbouliane.com/blog/death-by-ai",
+    "comments": 619
+  },
+  {
+    "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
+    "score": 16,
+    "by": "teleforce",
+    "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
+    "comments": 2
+  },
+  {
+    "title": "Can Universities Survive? AI vs. Higher Education [audio]",
+    "score": 4,
+    "by": "frereubu",
+    "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
+    "comments": 2
+  },
+  {
+    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+    "score": 85,
+    "by": "yonasb",
     "url": "",
-    "comments": 26
+    "comments": 41
   },
   {
-    "title": "Spamhaus new email sender requirements in November",
-    "score": 134,
-    "by": "computer23",
-    "url": "https://www.spamhaus.org/sender-guidelines/",
-    "comments": 134
+    "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
+    "score": 22,
+    "by": "mrkn1",
+    "url": "https://huggingface.co/n4ze3m/tiny-voca",
+    "comments": 1
   }
 ]
