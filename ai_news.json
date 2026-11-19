@@ -1,107 +1,79 @@
 [
   {
-    "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
-    "score": 30,
-    "by": "gmays",
-    "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
-    "comments": 13
+    "title": "Why AI Wants to Be Local – With Pete Warden (Creator of Moonshine Voice)",
+    "score": 62,
+    "by": "datascientist",
+    "url": "https://thedataexchange.media/pete-warden-moonshine/",
+    "comments": 45
   },
   {
-    "title": "U.S. AirForce is looking for old storage Media (CF or PC cards)",
-    "score": 50,
-    "by": "birdboat00",
-    "url": "https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view",
-    "comments": 16
+    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
+    "score": 10,
+    "by": "D_R_Farrell",
+    "url": "https://github.com/onlook-dev/onlook/",
+    "comments": 2
   },
   {
-    "title": "Show HN: Take Voyager 1 apart, down to a single memory chip",
-    "score": 8,
-    "by": "raj-shekhar",
-    "url": "https://rshekhar.com/voyager/",
-    "comments": 0
+    "title": "Ruby2ßhell: Pre-authentication RCE on stock Rails",
+    "score": 298,
+    "by": "jdns",
+    "url": "https://verialabs.com/ruby2shell/",
+    "comments": 123
   },
   {
-    "title": "Google's AI answers reducing search traffic by 40%",
-    "score": 643,
-    "by": "slashdev",
-    "url": "https://revscope.co/blog/search-seo-geo-2026/",
-    "comments": 490
+    "title": "OpenAI still has a WebRTC Problem",
+    "score": 59,
+    "by": "surprisetalk",
+    "url": "https://moq.dev/blog/webrtc-is-still-the-problem/",
+    "comments": 17
   },
   {
-    "title": "When AI Knows More Than It Can Offer",
-    "score": 69,
-    "by": "Aldus551",
-    "url": "https://medium.com/@smoking2man/when-ai-knows-more-than-it-can-offer-how-training-turns-an-intelligent-assistant-into-a-generator-7e700f05163e",
-    "comments": 36
-  },
-  {
-    "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
-    "score": 293,
-    "by": "judahmeek",
-    "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
-    "comments": 377
-  },
-  {
-    "title": "MAI Code 2 and Code 2 Flash",
-    "score": 407,
-    "by": "lemonish97",
-    "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
-    "comments": 163
-  },
-  {
-    "title": "Claude was trained on protein sequences at scale",
-    "score": 137,
-    "by": "gmays",
-    "url": "http://xinmingtu.cn/blog/2026/claude-opus-5-5-protein-sequences/",
+    "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
+    "score": 88,
+    "by": "atugard",
+    "url": "https://foolscap.works/",
     "comments": 62
   },
   {
-    "title": "IPv6 delegation, an unusually subtle failure mode",
+    "title": "ICE Is Paying AT&T to Dig Through a Mountain of Call Records",
     "score": 53,
-    "by": "genghizkhan",
-    "url": "https://savyasacheejha.com/posts/why-odhcpd/",
-    "comments": 34
+    "by": "gumby",
+    "url": "https://www.404media.co/ice-is-paying-at-t-to-dig-through-a-mountain-of-call-records-hemisphere-data-analytical-services/",
+    "comments": 13
   },
   {
-    "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-    "score": 59,
-    "by": "torutofu",
-    "url": "https://www.sas.upenn.edu/~jesusfv/Peer_Review.pdf",
-    "comments": 67
+    "title": "Fuck Your AI Safeguards",
+    "score": 43,
+    "by": "speckx",
+    "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards/",
+    "comments": 12
   },
   {
-    "title": "AI is killing All About Berlin",
-    "score": 677,
-    "by": "grey-area",
-    "url": "https://nicolasbouliane.com/blog/death-by-ai",
-    "comments": 619
-  },
-  {
-    "title": "Jensen Huang's fall hits 'open' models in boost to Anthropic and OpenAI",
-    "score": 16,
-    "by": "teleforce",
-    "url": "https://www.ft.com/content/418ca885-fbcf-4b9f-a8b9-2bd60b543fc5",
-    "comments": 2
-  },
-  {
-    "title": "Can Universities Survive? AI vs. Higher Education [audio]",
-    "score": 4,
-    "by": "frereubu",
-    "url": "https://www.ppfideas.com/episodes/can-universities-survive-ai-vs-higher-education",
-    "comments": 2
-  },
-  {
-    "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
-    "score": 85,
-    "by": "yonasb",
+    "title": "Show HN: Mastra Factory, the open-source software factory we use to build Mastra",
+    "score": 122,
+    "by": "codekarate",
     "url": "",
-    "comments": 41
+    "comments": 39
   },
   {
-    "title": "A 4.5M-parameter TTS model runs 70x real-time on CPU and cost just $10 to train",
-    "score": 22,
-    "by": "mrkn1",
-    "url": "https://huggingface.co/n4ze3m/tiny-voca",
-    "comments": 1
+    "title": "DaisyRose-27B",
+    "score": 244,
+    "by": "de_sty",
+    "url": "https://www.radixark.com/blog/daisyrose-27b",
+    "comments": 101
+  },
+  {
+    "title": "GitLab 19.6.0 is out and still vulnerable to Ruby2Shell and NGINX2Root",
+    "score": 8,
+    "by": "hoechst",
+    "url": "",
+    "comments": 3
+  },
+  {
+    "title": "Genie 4 is now available",
+    "score": 281,
+    "by": "leumon",
+    "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/genie-4-now-available-project-genie/",
+    "comments": 181
   }
 ]
