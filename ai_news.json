@@ -1,128 +1,107 @@
 [
   {
-    "title": "I'll never buy Framework hardware again",
-    "score": 76,
-    "by": "unchar1",
-    "url": "https://poolp.org/posts/2026-11-20/ill-never-buy-framework-hardware-again/",
-    "comments": 13
+    "title": "Hurried Announcement: Alessandro Masullo GRH",
+    "score": 2269,
+    "by": "jasondavies",
+    "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+    "comments": 1074
   },
   {
-    "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-    "score": 1051,
+    "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
+    "score": 2776,
     "by": "iamronaldo",
     "url": "https://alpo.ge/remark.pdf",
-    "comments": 677
+    "comments": 1947
   },
   {
-    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-    "score": 379,
-    "by": "sammatilda",
-    "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
-    "comments": 204
+    "title": "Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?",
+    "score": 376,
+    "by": "LetThingsBeDiff",
+    "url": "",
+    "comments": 391
   },
   {
-    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
-    "score": 433,
-    "by": "shioyama",
-    "url": "https://architectlabs.com/blog/frostbite",
-    "comments": 261
+    "title": "ClawDOS – An AI coding agent for DOS",
+    "score": 124,
+    "by": "Ricapar",
+    "url": "http://ricapar.net/ClawDOS/",
+    "comments": 37
   },
   {
-    "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
-    "score": 113,
-    "by": "hidude562",
-    "url": "https://kobi.music/research/dettato",
-    "comments": 20
+    "title": "NINLIVE: The Nine Inch Nails live archive",
+    "score": 309,
+    "by": "CharlesW",
+    "url": "https://ninlive.com/",
+    "comments": 81
   },
   {
-    "title": "Show HN: Fast deterministic natural language search for OpenStreetMap data",
-    "score": 93,
-    "by": "vihren",
-    "url": "https://hippomaps.ch/?q=cafes+by+the+Limmat+100+m+from+the+lake+in+zurich#map=15.02/47.36708/8.54935",
-    "comments": 24
+    "title": "Surprisingly Adorable Insect Portraits",
+    "score": 100,
+    "by": "NordStreamYacht",
+    "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+    "comments": 23
   },
   {
-    "title": "What people are building, discovered through new domains",
-    "score": 114,
-    "by": "walterschnitzel",
-    "url": "https://startups.novumsignals.com/",
-    "comments": 50
-  },
-  {
-    "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off",
-    "score": 127,
+    "title": "Nasdaq erases all 2026 gains as AI sell-off dampens Anthropic’s second day",
+    "score": 414,
     "by": "cdrnsf",
     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
-    "comments": 107
+    "comments": 738
   },
   {
-    "title": "Claude solves two open problems in the physics of black holes",
-    "score": 524,
-    "by": "cybermango",
-    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-    "comments": 253
+    "title": "Show HN: An ASCII cell aquarium for your terminal",
+    "score": 6,
+    "by": "kborer",
+    "url": "https://github.com/kborer/cells/",
+    "comments": 7
+  },
+  {
+    "title": "Show HN: Tinnitus frequency finder and audio notch tool",
+    "score": 203,
+    "by": "brianrhea",
+    "url": "https://trynotched.com/find",
+    "comments": 126
   },
   {
     "title": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight",
-    "score": 70,
+    "score": 133,
     "by": "edward",
     "url": "https://simpleflying.com/airbus-a321xlr-often-stuck-climbing-1st-few-hours-flight/",
-    "comments": 50
+    "comments": 103
   },
   {
-    "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-    "score": 322,
-    "by": "dev1one1",
-    "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
-    "comments": 178
+    "title": "Show HN: I made an audio-to-MIDI model 60x more efficient",
+    "score": 288,
+    "by": "hidude562",
+    "url": "https://kobi.music/research/dettato",
+    "comments": 63
   },
   {
-    "title": "Launch HN: Onlook (YC W25) – An open-source developer tool for designers",
-    "score": 122,
-    "by": "D_R_Farrell",
-    "url": "https://github.com/onlook-dev/onlook/",
-    "comments": 84
+    "title": "If you can't explain something in simple terms, you don't understand it (2017)",
+    "score": 677,
+    "by": "sammatilda",
+    "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+    "comments": 313
   },
   {
-    "title": "Show HN: Radiotherapy Delivery Demo",
-    "score": 17,
-    "by": "coolwulf",
-    "url": "https://tps.neuralrad.com",
-    "comments": 6
+    "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+    "score": 657,
+    "by": "shioyama",
+    "url": "https://architectlabs.com/blog/frostbite",
+    "comments": 342
   },
   {
-    "title": "Weight-Space Programming builds neural networks like a 1990s researcher",
-    "score": 114,
-    "by": "lexandstuff",
-    "url": "https://notesbylex.com/weight-space-programming-1990s",
-    "comments": 10
+    "title": "Microsoft's SideWinder Strategic Commander was a failed attempt",
+    "score": 21,
+    "by": "Tomte",
+    "url": "https://www.rockpapershotgun.com/microsofts-sidewinder-strategic-commander-was-a-failed-attempt-to-reimagine-rts-controls-23-years-later-why-are-some-players-still-using-it",
+    "comments": 9
   },
   {
-    "title": "Show HN: Foolscap – a writing app that reads your book and never writes for you",
-    "score": 112,
-    "by": "atugard",
-    "url": "https://foolscap.works/",
-    "comments": 91
-  },
-  {
-    "title": "Tristan Buckmaster Claims Proof of Unforced Navier Stokes and Unforced Euler",
-    "score": 7,
-    "by": "iamronaldo",
-    "url": "https://mastodon.social/@tristanbuckmaster/117649035783718539",
-    "comments": 0
-  },
-  {
-    "title": "ChatGPT for SNES",
-    "score": 109,
-    "by": "evan_",
-    "url": "https://www.bxfoundry.com/chatgpt_snes/",
-    "comments": 32
-  },
-  {
-    "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
-    "score": 110,
-    "by": "sandslash",
-    "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
-    "comments": 231
+    "title": "Claude solves two open problems in the physics of black holes",
+    "score": 562,
+    "by": "cybermango",
+    "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+    "comments": 270
   }
 ]
