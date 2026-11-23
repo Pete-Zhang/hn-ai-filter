@@ -1,65 +1,37 @@
 [
   {
-    "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-    "score": 1198,
-    "by": "rafaelc",
-    "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-    "comments": 262
-  },
-  {
-    "title": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator",
-    "score": 35,
-    "by": "joshcsimmons",
-    "url": "https://simonwillison.net/2026/Nov/21/muru/",
-    "comments": 6
-  },
-  {
-    "title": "Celliad – a daily Excel game (French)",
-    "score": 10,
-    "by": "didir98",
-    "url": "https://celliad.com/",
-    "comments": 0
-  },
-  {
-    "title": "The Mythology of Conscious AI",
-    "score": 114,
-    "by": "Anon84",
-    "url": "https://www.noemamag.com/the-mythology-of-conscious-ai/",
-    "comments": 302
-  },
-  {
-    "title": "Pandex – Official European Law for AI Agents, over MCP",
-    "score": 122,
-    "by": "vasie",
-    "url": "https://www.pandex.io",
-    "comments": 29
-  },
-  {
-    "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-    "score": 2892,
-    "by": "iamronaldo",
-    "url": "https://alpo.ge/remark.pdf",
-    "comments": 2077
-  },
-  {
-    "title": "Show HN: Compile the same source for GPUs and CPUs",
-    "score": 23,
-    "by": "spacedcowboy",
-    "url": "https://github.com/ThrudTheBarbarian/xc",
-    "comments": 3
-  },
-  {
-    "title": "Tropical Rainforests Species may be surprisingly young",
-    "score": 52,
-    "by": "PaulHoule",
-    "url": "https://phys.org/news/2026-11-species-tropical-rainforests-young-emergence.html",
-    "comments": 33
-  },
-  {
-    "title": "Current Efforts Aren't Enough to Slow the AI Cyber Virus",
-    "score": 19,
-    "by": "DenisM",
-    "url": "https://www.bridgewater.com/research-and-insights/current-efforts-arent-enough-to-slow-the-ai-cyber-virus",
+    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+    "score": 40,
+    "by": "toebee",
+    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
     "comments": 5
+  },
+  {
+    "title": "Kagi Mail (public beta)",
+    "score": 171,
+    "by": "rdmuser",
+    "url": "https://blog.kagi.com/kagi-mail-public-beta",
+    "comments": 128
+  },
+  {
+    "title": "Show HN: Drive around my village in 3D",
+    "score": 78,
+    "by": "johnwards",
+    "url": "https://cherwellvalleymotorclub.app",
+    "comments": 56
+  },
+  {
+    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+    "score": 707,
+    "by": "Retell15",
+    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+    "comments": 282
+  },
+  {
+    "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
+    "score": 85,
+    "by": "DeepLogin",
+    "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+    "comments": 59
   }
 ]
