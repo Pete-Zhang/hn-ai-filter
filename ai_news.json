@@ -1,37 +1,86 @@
 [
   {
-    "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-    "score": 40,
-    "by": "toebee",
-    "url": "https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF",
-    "comments": 5
-  },
-  {
-    "title": "Kagi Mail (public beta)",
-    "score": 171,
-    "by": "rdmuser",
-    "url": "https://blog.kagi.com/kagi-mail-public-beta",
-    "comments": 128
-  },
-  {
-    "title": "Show HN: Drive around my village in 3D",
-    "score": 78,
-    "by": "johnwards",
-    "url": "https://cherwellvalleymotorclub.app",
-    "comments": 56
-  },
-  {
-    "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-    "score": 707,
-    "by": "Retell15",
-    "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
-    "comments": 282
-  },
-  {
-    "title": "Brake Check: Hijacking Trailer Brakes over Bluetooth",
-    "score": 85,
-    "by": "DeepLogin",
-    "url": "https://elementdigital.com.au/blog/brake-check-trailer-brakes-over-bluetooth/",
+    "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+    "score": 183,
+    "by": "louiereederson",
+    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
     "comments": 59
+  },
+  {
+    "title": "A training engine for your local model, using your idle compute",
+    "score": 97,
+    "by": "bluepeter",
+    "url": "https://github.com/sous-labs/songe",
+    "comments": 20
+  },
+  {
+    "title": "OpenAI reveals they solved VP ≠ VNP before Anthropic",
+    "score": 23,
+    "by": "iamronaldo",
+    "url": "https://github.com/openai/math/tree/main/preprints/VP-and-VNP-are-different-November-23-2026",
+    "comments": 12
+  },
+  {
+    "title": "Show HN: Mason – a lightweight Postgres read-replica, built on columnar storage",
+    "score": 37,
+    "by": "tagspace",
+    "url": "https://masondata.ai/",
+    "comments": 3
+  },
+  {
+    "title": "Weave (YC W25) is hiring ML, AI, product, & design engineers",
+    "score": 1,
+    "by": "adchurch",
+    "url": "https://jobs.ashbyhq.com/weave-os",
+    "comments": 0
+  },
+  {
+    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
+    "score": 10,
+    "by": "weli",
+    "url": "",
+    "comments": 3
+  },
+  {
+    "title": "Declare is a UI language for you and your AI",
+    "score": 97,
+    "by": "ilamont",
+    "url": "https://davidtemkin.github.io/declarelang/",
+    "comments": 83
+  },
+  {
+    "title": "Tidal bans AI-generated music",
+    "score": 285,
+    "by": "theanonymousone",
+    "url": "https://variety.com/2026/music/news/tidal-bans-ai-generated-music-1236956924/",
+    "comments": 250
+  },
+  {
+    "title": "Show HN: I built Maeto, an SRv6 SD-WAN from scratch on Linux that you can break",
+    "score": 3,
+    "by": "saphalpdyl",
+    "url": "https://maeto.saphal.me/",
+    "comments": 0
+  },
+  {
+    "title": "Anthropic Staff Openly Talk About ‘Taking Over the World’, Claims Max Tegmark",
+    "score": 162,
+    "by": "mikhael",
+    "url": "https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/",
+    "comments": 85
+  },
+  {
+    "title": "Anthropic and OpenAI employees fear unreleased AI models too unsafe to release",
+    "score": 11,
+    "by": "dhd415",
+    "url": "https://tech.yahoo.com/ai/claude/articles/scoop-anthropic-openai-employees-fear-104505580.html",
+    "comments": 12
+  },
+  {
+    "title": "Jensen Huang Disclosed More Affairs to Board Before Reinstatement, Report Says",
+    "score": 6,
+    "by": "realjensenhuang",
+    "url": "https://www.forbes.com/sites/siladityaray/2026/11/24/nvidia-ceo-jensen-huang-disclosed-more-affairs-to-board-before-reinstatement-report-says/",
+    "comments": 3
   }
 ]
