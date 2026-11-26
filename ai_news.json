@@ -1,79 +1,65 @@
 [
   {
-    "title": "Show HN: Old Nvidia and ATI tech demos, running again in the browser",
-    "score": 287,
-    "by": "arkits",
-    "url": "https://gpu-demo-gallery.pages.dev/",
-    "comments": 61
+    "title": "Tracking Diseases Cured by AI",
+    "score": 45,
+    "by": "spoofyroot",
+    "url": "https://diseasescuredbyai.com/",
+    "comments": 8
   },
   {
-    "title": "Show HN: Ribbon Architect – Endless ways to tie a gift ribbon",
-    "score": 7,
-    "by": "permute",
-    "url": "https://ribbonarchitect.com",
-    "comments": 1
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "score": 567,
+    "by": "rmason",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "comments": 470
   },
   {
-    "title": "Ternary Bonsai 2.5 27B",
-    "score": 515,
-    "by": "b0m",
-    "url": "https://prismml.com/news/bonsai-2-5-27b",
-    "comments": 169
+    "title": "Head of Software Engineering – NOX Metals",
+    "score": 1,
+    "by": "zane_heng",
+    "url": "",
+    "comments": 0
   },
   {
-    "title": "Getting old Java phones online again",
-    "score": 143,
-    "by": "waximabbax",
-    "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
-    "comments": 65
+    "title": "Tell HN: Lots of Ask HNs again",
+    "score": 368,
+    "by": "dang",
+    "url": "",
+    "comments": 146
   },
   {
-    "title": "Taking over US Treasury subdomains for $3 each",
-    "score": 203,
-    "by": "negura",
-    "url": "https://www.intruder.io/research/taking-over-us-treasury-subdomains-for-3-each",
+    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
+    "score": 445,
+    "by": "bjin",
+    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+    "comments": 127
+  },
+  {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "score": 148,
+    "by": "hecmmm",
+    "url": "https://arxiv.org/abs/2611.34924",
     "comments": 42
   },
   {
-    "title": "Launch HN: Versine (YC F26) – MCP to send and receive money",
-    "score": 101,
-    "by": "harshithl1777",
-    "url": "",
-    "comments": 98
+    "title": "Show HN: Synth Patch Hero",
+    "score": 120,
+    "by": "kaidon",
+    "url": "https://swarkentin.github.io/synth-patch-hero/",
+    "comments": 24
   },
   {
-    "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-    "score": 206,
-    "by": "Curiositry",
-    "url": "https://www.marginalia.nu/log/a_141_marginalia_update/",
-    "comments": 78
+    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+    "score": 426,
+    "by": "Herrera",
+    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+    "comments": 243
   },
   {
-    "title": "When in Doubt, Flail About",
-    "score": 116,
-    "by": "zdw",
-    "url": "https://www.seangoedecke.com/when-in-doubt-flail-about/",
-    "comments": 51
-  },
-  {
-    "title": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?",
-    "score": 423,
-    "by": "weli",
-    "url": "",
-    "comments": 320
-  },
-  {
-    "title": "Active intrusion campaign against Check Point security management servers",
-    "score": 297,
-    "by": "louiereederson",
-    "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
-    "comments": 148
-  },
-  {
-    "title": "New York bans AI toys, including those using internet to talk to children",
-    "score": 8,
-    "by": "nephihaha",
-    "url": "https://www.theguardian.com/us-news/2026/nov/25/new-york-bans-ai-toys",
+    "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
+    "score": 6,
+    "by": "dima7711",
+    "url": "https://github.com/batanus/lip-dictation",
     "comments": 1
   }
 ]
