@@ -1,17 +1,87 @@
 [
   {
-    "title": "Tracking Diseases Cured by AI",
-    "score": 45,
-    "by": "spoofyroot",
-    "url": "https://diseasescuredbyai.com/",
-    "comments": 8
+    "title": "Show HN: bouncemarket – a live prediction market game for a bouncing ball",
+    "score": 214,
+    "by": "mday404",
+    "url": "https://bouncemarket.minhanhday.com/",
+    "comments": 57
   },
   {
-    "title": "The New York Times warns photographers not to update Photoshop over AI features",
-    "score": 567,
-    "by": "rmason",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-    "comments": 470
+    "title": "Group chat where your AI talks behind your back",
+    "score": 569,
+    "by": "utiiiD",
+    "url": "https://construct22.com/",
+    "comments": 247
+  },
+  {
+    "title": "AI made self-hosting fun again",
+    "score": 981,
+    "by": "jlelse",
+    "url": "https://janlukas.blog/posts/ai-self-hosting",
+    "comments": 464
+  },
+  {
+    "title": "US Air Force's cloud computing platform hacked",
+    "score": 205,
+    "by": "freakynit",
+    "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+    "comments": 122
+  },
+  {
+    "title": "The need for a formally verifiable mainstream programming language",
+    "score": 239,
+    "by": "todsacerdoti",
+    "url": "https://blainehansen.me/post/mainstream-verifiable-language/",
+    "comments": 251
+  },
+  {
+    "title": "Claude sabotaging ML research tasks?",
+    "score": 320,
+    "by": "baobabKoodaa",
+    "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+    "comments": 173
+  },
+  {
+    "title": "\"What's Claude's fursona?\" and other questions",
+    "score": 112,
+    "by": "Mond_",
+    "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona/",
+    "comments": 84
+  },
+  {
+    "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+    "score": 403,
+    "by": "ritzaco",
+    "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp/",
+    "comments": 326
+  },
+  {
+    "title": "An introduction to uncertainty in machine learning",
+    "score": 131,
+    "by": "chrhenning",
+    "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty/",
+    "comments": 12
+  },
+  {
+    "title": "AI on brink of making online security useless, mathematicians fear",
+    "score": 99,
+    "by": "conradqh",
+    "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+    "comments": 119
+  },
+  {
+    "title": "Show HN: I wrote an entire Vim manual over 4 years",
+    "score": 274,
+    "by": "thanato0s",
+    "url": "http://themouseless.dev/vim/",
+    "comments": 93
+  },
+  {
+    "title": "An algebraic quantization of gravity from the null cone",
+    "score": 263,
+    "by": "hecmmm",
+    "url": "https://arxiv.org/abs/2611.34924",
+    "comments": 115
   },
   {
     "title": "Head of Software Engineering – NOX Metals",
@@ -21,45 +91,10 @@
     "comments": 0
   },
   {
-    "title": "Tell HN: Lots of Ask HNs again",
-    "score": 368,
-    "by": "dang",
-    "url": "",
-    "comments": 146
-  },
-  {
-    "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-    "score": 445,
-    "by": "bjin",
-    "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
-    "comments": 127
-  },
-  {
-    "title": "An algebraic quantization of gravity from the null cone",
-    "score": 148,
-    "by": "hecmmm",
-    "url": "https://arxiv.org/abs/2611.34924",
-    "comments": 42
-  },
-  {
-    "title": "Show HN: Synth Patch Hero",
-    "score": 120,
-    "by": "kaidon",
-    "url": "https://swarkentin.github.io/synth-patch-hero/",
-    "comments": 24
-  },
-  {
-    "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
-    "score": 426,
-    "by": "Herrera",
-    "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
-    "comments": 243
-  },
-  {
-    "title": "Show HN: Silent dictation for Claude Code via on-device lip reading",
-    "score": 6,
-    "by": "dima7711",
-    "url": "https://github.com/batanus/lip-dictation",
-    "comments": 1
+    "title": "The New York Times warns photographers not to update Photoshop over AI features",
+    "score": 677,
+    "by": "rmason",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+    "comments": 543
   }
 ]
